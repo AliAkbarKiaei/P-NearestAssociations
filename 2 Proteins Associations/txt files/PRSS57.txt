@@ -1,0 +1,2901 @@
+Selection	Association Name	Association Type	Significance
+PRSS57	Phylogenetic analysis	Procedure	9.48E-5
+PRSS57	Sequence analysis	Procedure	2.43E-4
+PRSS57	Amino acid substitution	Procedure	7.56E-4
+PRSS57	Total protein measurement	Procedure	7.84E-4
+PRSS57	Viral plaque assay	Procedure	9.01E-4
+PRSS57	Reverse transcriptase polymerase chain reaction	Procedure	9.7E-4
+PRSS57	Antigen capture ELISA	Procedure	0.00111
+PRSS57	Sequence alignment	Procedure	0.00132
+PRSS57	Serial passage	Procedure	0.00174
+PRSS57	Serotyping	Procedure	0.00198
+PRSS57	Analysis	Procedure	0.00269
+PRSS57	Vaccine development	Procedure	0.00285
+PRSS57	Reverse genetics	Procedure	0.00317
+PRSS57	Triplex polymerase chain reaction	Procedure	0.00335
+PRSS57	Northern hybridization	Procedure	0.00348
+PRSS57	Mutagenesis	Procedure	0.00364
+PRSS57	Genome sequencing	Procedure	0.00373
+PRSS57	Immunochromatography	Procedure	0.00406
+PRSS57	Polyacrylamide gel electrophoresis	Procedure	0.00431
+PRSS57	Genotyping techniques	Procedure	0.00433
+PRSS57	Cell culture techniques	Procedure	0.00448
+PRSS57	DNA mutational analysis	Procedure	0.0045
+PRSS57	Neutrophil elastase measurement	Procedure	0.00572
+PRSS57	Molecular analysis	Procedure	0.00587
+PRSS57	Enzyme-linked immunosorbent assay	Procedure	0.00611
+PRSS57	Polymerase chain reaction	Procedure	0.007
+PRSS57	Multiplex polymerase chain reaction	Procedure	0.0073
+PRSS57	Vaccination	Procedure	0.0078
+PRSS57	Detection	Procedure	0.00781
+PRSS57	Genetic complementation test	Procedure	0.00786
+PRSS57	Immunoprecipitation	Procedure	0.00791
+PRSS57	Vaccine design	Procedure	0.00878
+PRSS57	Neutralization actcode	Procedure	0.00946
+PRSS57	Baculovirus expression system	Procedure	0.00958
+PRSS57	Scientific study	Procedure	0.0101
+PRSS57	Study	Procedure	0.0101
+PRSS57	DICOM study	Procedure	0.0101
+PRSS57	Passage tissue culture technique	Procedure	0.0101
+PRSS57	Two-hybrid system techniques	Procedure	0.0101
+PRSS57	Immunological methods	Procedure	0.0103
+PRSS57	Clinical research	Procedure	0.0104
+PRSS57	Gene amplification technique	Procedure	0.011
+PRSS57	VPDA protocol	Procedure	0.0112
+PRSS57	Yeast one/two-hybrid system	Procedure	0.0114
+PRSS57	Clinical trials	Procedure	0.012
+PRSS57	Immunoglobulin A measurement	Procedure	0.0121
+PRSS57	Comparative analysis	Procedure	0.0122
+PRSS57	Indirect immunofluorescent antibody	Procedure	0.0127
+PRSS57	Multilocus sequence typing	Procedure	0.0133
+PRSS57	Neutralization tests	Procedure	0.0134
+PRSS57	Electron microscope tomography	Procedure	0.0134
+PRSS57	Protein interaction mapping	Procedure	0.014
+PRSS57	Immunofluorescence microscopy	Procedure	0.0142
+PRSS57	Serum immunoglobulin 	Procedure	0.0147
+PRSS57	Enzyme-linked immunospot assay	Procedure	0.0157
+PRSS57	Calcium measurement	Procedure	0.0162
+PRSS57	Assay	Procedure	0.017
+PRSS57	Transfection	Procedure	0.0173
+PRSS57	Immunization	Procedure	0.0174
+PRSS57	Macrophage-derived chemokine measurement	Procedure	0.0176
+PRSS57	Cyclophosphamide/doxorubicin/prednisone protocol	Procedure	0.0177
+PRSS57	Doxorubicin/etoposide/vincristine protocol	Procedure	0.018
+PRSS57	Therapeutic procedure	Procedure	0.0182
+PRSS57	Administration procedure	Procedure	0.0184
+PRSS57	Treatment study	Procedure	0.0184
+PRSS57	Biological assay	Procedure	0.0203
+PRSS57	Epitope mapping	Procedure	0.0203
+PRSS57	Cell culture system	Procedure	0.0208
+PRSS57	Genetic analysis	Procedure	0.0213
+PRSS57	Neutralising antibodies analysis	Procedure	0.0215
+PRSS57	Cisplatin/cyclophosphamide/doxorubicin protocol	Procedure	0.022
+PRSS57	Restriction mapping	Procedure	0.0225
+PRSS57	Serologic diagnosis	Procedure	0.0242
+PRSS57	Nucleic acid hybridization procedure	Procedure	0.0245
+PRSS57	Promyelocyte count procedure	Procedure	0.0247
+PRSS57	Clinical sensitivity	Procedure	0.025
+PRSS57	Surveillance program	Procedure	0.0257
+PRSS57	Chloride measurement	Procedure	0.0263
+PRSS57	Cancer diagnostics	Procedure	0.028
+PRSS57	Western blot	Procedure	0.0283
+PRSS57	High-throughput nucleotide sequencing	Procedure	0.0308
+PRSS57	Induction procedure	Procedure	0.0311
+PRSS57	Latex fixation tests	Procedure	0.0319
+PRSS57	Fluorescent antibody technique	Procedure	0.0327
+PRSS57	Isolation aspects	Procedure	0.0346
+PRSS57	Isolation procedure	Procedure	0.035
+PRSS57	Dynamic simulation	Procedure	0.035
+PRSS57	Deep sequencing	Procedure	0.0353
+PRSS57	Immunofluorescence assay	Procedure	0.0374
+PRSS57	Myeloblast count procedure	Procedure	0.0375
+PRSS57	Population surveillance	Procedure	0.0383
+PRSS57	Phage display	Procedure	0.0384
+PRSS57	Release	Procedure	0.0399
+PRSS57	Genetic screening method	Procedure	0.0402
+PRSS57	Inoculation	Procedure	0.0408
+PRSS57	Pyrosequencing	Procedure	0.041
+PRSS57	Viral load measurement	Procedure	0.0422
+PRSS57	Immunoblotting	Procedure	0.0429
+PRSS57	Precipitin tests	Procedure	0.0432
+PRSS57	Interferon beta measurement	Procedure	0.0448
+PRSS57	Radiation hybrid mapping	Procedure	0.0466
+PRSS57	Squamous transitional epithelial cell count	Procedure	0.0468
+PRSS57	Artificial gene fusion	Procedure	0.047
+PRSS57	Epithelial cell count	Procedure	0.0482
+PRSS57	Statistical cluster	Procedure	0.0506
+PRSS57	Diagnosis study	Procedure	0.056
+PRSS57	The science and art of healing	Procedure	0.0577
+PRSS57	Surgical and medical procedures	Procedure	0.0577
+PRSS57	Nested polymerase chain reaction	Procedure	0.0582
+PRSS57	Patch clamp	Procedure	0.0598
+PRSS57	Iontophoresis	Procedure	0.0613
+PRSS57	Genomic profile	Procedure	0.0616
+PRSS57	Cisplatin/ifosfamide/mesna/mitomycin protocol	Procedure	0.0619
+PRSS57	Observation method cytotoxicity	Procedure	0.0643
+PRSS57	Immunoglobulin G measurement	Procedure	0.0648
+PRSS57	Passive immunization procedure	Procedure	0.0653
+PRSS57	Research	Procedure	0.0656
+PRSS57	Laser scanning microscopy	Procedure	0.0679
+PRSS57	Rapid antigen test	Procedure	0.0688
+PRSS57	Derivation procedure	Procedure	0.0691
+PRSS57	Serum urea	Procedure	0.0697
+PRSS57	Research activities	Procedure	0.0699
+PRSS57	Flame ionization	Procedure	0.0723
+PRSS57	Negative staining	Procedure	0.0743
+PRSS57	Nucleic acid amplification techniques	Procedure	0.0768
+PRSS57	Retrospective studies	Procedure	0.0796
+PRSS57	Enzyme immunoassay	Procedure	0.0813
+PRSS57	FEC protocol	Procedure	0.0814
+PRSS57	Thematic apperception test	Procedure	0.0879
+PRSS57	Oncolytic virotherapy	Procedure	0.0881
+PRSS57	Prospective studies	Procedure	0.0915
+PRSS57	Virus cultivation	Procedure	0.0935
+PRSS57	Gene fusion	Procedure	0.0941
+PRSS57	Molecular diagnostics (lab procedure)	Procedure	0.0973
+PRSS57	Chlorambucil/dactinomycin/methotrexate protocol	Procedure	0.102
+PRSS57	Sds-page	Procedure	0.103
+PRSS57	Intranasal administration	Procedure	0.104
+PRSS57	Protein sequence determination	Procedure	0.104
+PRSS57	Southern hybridization	Procedure	0.104
+PRSS57	Yeast two-hybrid system techniques	Procedure	0.106
+PRSS57	Volume measurement	Procedure	0.107
+PRSS57	Protein digestion (research activity)	Procedure	0.108
+PRSS57	Immunoglobulin measurement	Procedure	0.11
+PRSS57	Interventional procedure	Procedure	0.116
+PRSS57	Homology modeling	Procedure	0.117
+PRSS57	Carboplatin/cisplatin/cyclophosphamide protocol	Procedure	0.118
+PRSS57	Negative selection	Procedure	0.118
+PRSS57	Cytology procedure	Procedure	0.119
+PRSS57	Fluorescence-activated cell sorting	Procedure	0.119
+PRSS57	Mass vaccination	Procedure	0.125
+PRSS57	Ion-exchange chromatography procedure	Procedure	0.125
+PRSS57	Serodiagnosis	Procedure	0.128
+PRSS57	X-ray computed tomography	Procedure	0.134
+PRSS57	Weighing patient	Procedure	0.136
+PRSS57	Indirect immunofluorescence	Procedure	0.14
+PRSS57	Glutathione S-transferase measurement	Procedure	0.142
+PRSS57	Observation method agglutination	Procedure	0.152
+PRSS57	Western blotting	Procedure	0.157
+PRSS57	Cross-sectional studies	Procedure	0.16
+PRSS57	Central minus	Procedure	0.162
+PRSS57	Length of trial	Procedure	0.166
+PRSS57	Albumin/globulin ratio	Procedure	0.167
+PRSS57	Direct method	Procedure	0.167
+PRSS57	Tryptic digestion	Procedure	0.175
+PRSS57	Bacterial count measurement	Procedure	0.175
+PRSS57	Glucose measurement	Procedure	0.176
+PRSS57	Laser-induced fluorescence endoscopy	Procedure	0.187
+PRSS57	Monitoring clinical trials	Procedure	0.191
+PRSS57	Pre-clinical trial	Procedure	0.201
+PRSS57	Safety study	Procedure	0.201
+PRSS57	Protein-restricted diet	Procedure	0.202
+PRSS57	Basic research	Procedure	0.205
+PRSS57	Injection of therapeutic agent	Procedure	0.211
+PRSS57	Confocal microscopy	Procedure	0.219
+PRSS57	Sodium measurement	Procedure	0.219
+PRSS57	Laboratory procedures	Procedure	0.222
+PRSS57	Primer extension	Procedure	0.225
+PRSS57	ACP protocol	Procedure	0.226
+PRSS57	Research study	Procedure	0.232
+PRSS57	Insulin measurement	Procedure	0.239
+PRSS57	Plasma glucose measurement	Procedure	0.254
+PRSS57	Combinatorial chemistry techniques	Procedure	0.254
+PRSS57	Electron microscopy	Procedure	0.262
+PRSS57	Dideoxy chain termination DNA sequencing	Procedure	0.268
+PRSS57	Surface plasmon resonance	Procedure	0.27
+PRSS57	Density gradient centrifugation	Procedure	0.27
+PRSS57	Cryoelectron microscopy	Procedure	0.274
+PRSS57	Carmustine/cyclophosphamide/dexamethasone	Procedure	0.279
+PRSS57	Immunoelectron microscopy	Procedure	0.287
+PRSS57	Microscopy	Procedure	0.289
+PRSS57	Real-time polymerase chain reaction	Procedure	0.301
+PRSS57	Case-control studies	Procedure	0.313
+PRSS57	Research and development	Procedure	0.314
+PRSS57	Molecular typing	Procedure	0.316
+PRSS57	Interleukin 6 measurement	Procedure	0.318
+PRSS57	Immunoenzyme techniques	Procedure	0.345
+PRSS57	Absolute neutrophil count	Procedure	0.346
+PRSS57	Crystallography	Procedure	0.354
+PRSS57	Circular dichroism	Procedure	0.363
+PRSS57	Verification of theories	Procedure	0.37
+PRSS57	Phosphate measurement	Procedure	0.378
+PRSS57	Fluorescence polarization	Procedure	0.381
+PRSS57	Staining and labeling	Procedure	0.395
+PRSS57	Discussion	Procedure	0.4
+PRSS57	Scanning transmission electron microscopy procedures	Procedure	0.409
+PRSS57	Structural clinical interview for DSM-III	Procedure	0.414
+PRSS57	Molecular diagnostic techniques	Procedure	0.422
+PRSS57	Affinity chromatography	Procedure	0.426
+PRSS57	Logistic regression	Procedure	0.437
+PRSS57	Immunocytochemistry	Procedure	0.441
+PRSS57	Diagnostic procedure	Procedure	0.458
+PRSS57	Prostate specific antigen measurement	Procedure	0.489
+PRSS57	Pellet formation	Procedure	0.493
+PRSS57	Study of tamoxifen and raloxifene (STAR)	Procedure	0.51
+PRSS57	Chromosome mapping	Procedure	0.512
+PRSS57	Asparaginase/prednisone/vincristine protocol	Procedure	0.515
+PRSS57	Oxidative stress analysis	Procedure	0.535
+PRSS57	Culture of specimen from other site	Procedure	0.537
+PRSS57	Culture of specimen from unspecified site	Procedure	0.537
+PRSS57	Laboratory culture	Procedure	0.537
+PRSS57	Yeast cell measurement	Procedure	0.545
+PRSS57	Imaging techniques	Procedure	0.56
+PRSS57	Animal experiments	Procedure	0.567
+PRSS57	Glutamate measurement	Procedure	0.589
+PRSS57	Crystal present or absent (lab procedure)	Procedure	0.591
+PRSS57	Peptide mapping	Procedure	0.621
+PRSS57	Survival analysis	Procedure	0.625
+PRSS57	Data collection	Procedure	0.639
+PRSS57	Disorder control	Procedure	0.663
+PRSS57	Renal dialysis	Procedure	0.665
+PRSS57	Excision	Procedure	0.677
+PRSS57	Gene delivery process	Procedure	0.686
+PRSS57	Sialic acid assay	Procedure	0.686
+PRSS57	Enzyme assays	Procedure	0.694
+PRSS57	Molecular modeling	Procedure	0.694
+PRSS57	Extraction	Procedure	0.72
+PRSS57	Chemical extraction	Procedure	0.723
+PRSS57	Electrophysiology studies	Procedure	0.728
+PRSS57	Nursing therapy	Procedure	0.757
+PRSS57	Rehabilitation therapy	Procedure	0.765
+PRSS57	Meta analysis (statistical procedure)	Procedure	0.781
+PRSS57	Gene expression profiling	Procedure	0.792
+PRSS57	Lipids measurement	Procedure	0.8
+PRSS57	Immunomodulation	Procedure	0.805
+PRSS57	Pathology procedure	Procedure	0.815
+PRSS57	Albumin measurement	Procedure	0.837
+PRSS57	Microbial sensitivity tests	Procedure	0.839
+PRSS57	Not elsewhere classified rehabilitation	Procedure	0.842
+PRSS57	Patch-clamp techniques	Procedure	0.9
+PRSS57	Thin layer chromatography	Procedure	0.963
+PRSS57	Serum total cholesterol measurement	Procedure	0.972
+PRSS57	Adsorption	Procedure	0.972
+PRSS57	Homologous recombination	Procedure	0.981
+PRSS57	Clinical trial period	Procedure	1.0
+PRSS57	Asparaginase/ifosfamide/methotrexate	Procedure	1.0
+PRSS57	Efficacy study	Procedure	1.0
+PRSS57	Disease screening	Procedure	1.0
+PRSS57	Screening for cancer	Procedure	1.0
+PRSS57	Mass screening	Procedure	1.0
+PRSS57	Prevention study	Procedure	1.0
+PRSS57	Staining method	Procedure	1.0
+PRSS57	Observation diagnostic procedure	Procedure	1.0
+PRSS57	Determination aspects	Procedure	1.0
+PRSS57	Research design	Procedure	1.0
+PRSS57	Observation in research	Procedure	1.0
+PRSS57	Profile (lab procedure)	Procedure	1.0
+PRSS57	Incubation laboratory procedure	Procedure	1.0
+PRSS57	Immunohistochemistry	Procedure	1.0
+PRSS57	Flow cytometry	Procedure	1.0
+PRSS57	Mass spectrometry	Procedure	1.0
+PRSS57	DNA probe method	Procedure	1.0
+PRSS57	Chemical procedure	Procedure	1.0
+PRSS57	Cell hybridization	Procedure	1.0
+PRSS57	Serotonin measurement	Procedure	1.0
+PRSS57	Data transformation	Procedure	1.0
+PRSS57	Epidemiologic studies	Procedure	1.0
+PRSS57	Paradigm	Procedure	1.0
+PRSS57	Modeling	Procedure	1.0
+PRSS57	Cisplatin/doxorubicin/mitomycin protocol	Procedure	1.0
+PRSS57	Gene therapy	Procedure	1.0
+PRSS57	AID artificial insemination by donor	Procedure	1.0
+PRSS57	Dacarbazine/doxorubicin/ifosfamide protocol	Procedure	1.0
+PRSS57	Oral administration	Procedure	1.0
+PRSS57	Dietary supplementation	Procedure	1.0
+PRSS57	Fluorescent in situ hybridization	Procedure	1.0
+PRSS57	Tumor necrosis factor measurement	Procedure	1.0
+PRSS57	Red blood cell count measurement	Procedure	1.0
+PRSS57	Electrophoresis	Procedure	1.0
+PRSS57	Magnesium measurement	Procedure	1.0
+PRSS57	Immunoglobulin M measurement	Procedure	1.0
+PRSS57	Chromatography	Procedure	1.0
+PRSS57	Simulation	Procedure	1.0
+PRSS57	Gel electrophoresis (lab technique)	Procedure	1.0
+PRSS57	Biosensing techniques	Procedure	1.0
+PRSS57	Evaluation studies as topic	Procedure	1.0
+PRSS57	Ultrafiltration	Procedure	1.0
+PRSS57	Pet imaging, any site, not otherwise specified	Procedure	1.0
+PRSS57	Tissue dissection	Procedure	1.0
+PRSS57	Cyclophosphamide/dacarbazine/vincristine protocol	Procedure	1.0
+PRSS57	Dilatation and curettage	Procedure	1.0
+PRSS57	Dialysis procedure	Procedure	1.0
+PRSS57	Procedures involving the use of pharmaceuticals	Procedure	1.0
+PRSS57	Cyclophosphamide/doxorubicin/methotrexate/procarbazine protocol	Procedure	1.0
+PRSS57	Infiltration	Procedure	1.0
+PRSS57	Cisplatin/methotrexate/vinblastine protocol	Procedure	1.0
+PRSS57	Transcranial magnetic stimulation	Procedure	1.0
+PRSS57	Cyclophosphamide/etoposide/methotrexate protocol	Procedure	1.0
+PRSS57	Immobilization	Procedure	1.0
+PRSS57	Cyclophosphamide/dacarbazine/doxorubicin protocol	Procedure	1.0
+PRSS57	Amsacrine/cyclophosphamide/etoposide	Procedure	1.0
+PRSS57	Patient-controlled analgesia	Procedure	1.0
+PRSS57	Cytarabine/thioguanine	Procedure	1.0
+PRSS57	Cytarabine/daunorubicin protocol	Procedure	1.0
+PRSS57	Positioning therapy	Procedure	1.0
+PRSS57	Genome-wide association study	Procedure	1.0
+PRSS57	DNA sequence determinations	Procedure	1.0
+PRSS57	DNA fingerprinting	Procedure	1.0
+PRSS57	Computer assisted diagnosis	Procedure	1.0
+PRSS57	Genetic engineering	Procedure	1.0
+PRSS57	Protein engineering	Procedure	1.0
+PRSS57	Toxicity tests	Procedure	1.0
+PRSS57	Positron-emission tomography	Procedure	1.0
+PRSS57	Fecal immunochemical test	Procedure	1.0
+PRSS57	Biotin	Procedure	1.0
+PRSS57	Ultracentrifugation	Procedure	1.0
+PRSS57	High sensitivity	Procedure	1.0
+PRSS57	Fluorescence microscopy	Procedure	1.0
+PRSS57	Passive cutaneous anaphylaxis	Procedure	1.0
+PRSS57	Normalize	Procedure	1.0
+PRSS57	Spectrometry, mass, matrix-assisted laser desorption-ionization	Procedure	1.0
+PRSS57	Drug evaluation	Procedure	1.0
+PRSS57	Organ culture techniques	Procedure	1.0
+PRSS57	Zinc measurement	Procedure	1.0
+PRSS57	Histocytochemistry	Procedure	1.0
+PRSS57	X-ray crystallography	Procedure	1.0
+PRSS57	Health surveys	Procedure	1.0
+PRSS57	Drug formulation process	Procedure	1.0
+PRSS57	Health education	Procedure	1.0
+PRSS57	Luminescent measurements	Procedure	1.0
+PRSS57	CD4 expressing T cell count	Procedure	1.0
+PRSS57	CD8 expressing T cell count	Procedure	1.0
+PRSS57	Lactate dehydrogenase measurement	Procedure	1.0
+PRSS57	Thyroid stimulating hormone measurement	Procedure	1.0
+PRSS57	Myeloperoxidase measurement	Procedure	1.0
+PRSS57	Cloning	Procedure	1.0
+PRSS57	Animal experimentation	Procedure	1.0
+PRSS57	Dopamine measurement	Procedure	1.0
+PRSS57	Alkaline phosphatase measurement	Procedure	1.0
+PRSS57	Nutritional study	Procedure	1.0
+PRSS57	Autoradiography	Procedure	1.0
+PRSS57	Protocol treatment arm	Procedure	1.0
+PRSS57	Serologic tests	Procedure	1.0
+PRSS57	Seroepidemiologic studies	Procedure	1.0
+PRSS57	Cell separation	Procedure	1.0
+PRSS57	Centrifugation	Procedure	1.0
+PRSS57	Cell fractionation	Procedure	1.0
+PRSS57	Fluorescence resonance energy transfer	Procedure	1.0
+PRSS57	Blood cell count	Procedure	1.0
+PRSS57	Transmission electron microscopy	Procedure	1.0
+PRSS57	Radioligand assay	Procedure	1.0
+PRSS57	Logistic regression analysis	Procedure	1.0
+PRSS57	Immunologic techniques	Procedure	1.0
+PRSS57	High resolution	Procedure	1.0
+PRSS57	White blood cell count procedure	Procedure	1.0
+PRSS57	Rotavirus Infections	Disease	2.31E-6
+PRSS57	Gastroenteritis	Disease	4.2E-5
+PRSS57	Porcine Reproductive and Respiratory Syndrome	Disease	1.1E-4
+PRSS57	Sprains and Strains	Disease	1.36E-4
+PRSS57	Alphavirus Infections	Disease	1.49E-4
+PRSS57	Venezuelan equine encephalomyelitis	Disease	2.16E-4
+PRSS57	Encephalomyelitis, Western Equine	Disease	4.09E-4
+PRSS57	Encephalomyelitis, Eastern Equine	Disease	4.44E-4
+PRSS57	Enteritis, Transmissible, of Turkeys	Disease	5.03E-4
+PRSS57	Arteritis	Disease	5.3E-4
+PRSS57	Swine Diseases	Disease	6.66E-4
+PRSS57	Infection	Disease	6.89E-4
+PRSS57	Arterivirus Infections	Disease	8.16E-4
+PRSS57	Poult Enteritis Mortality Syndrome	Disease	8.99E-4
+PRSS57	Coronavirus Infections	Disease	0.00177
+PRSS57	Severe Acute Respiratory Syndrome	Disease	0.00203
+PRSS57	Astroviridae Infections	Disease	0.00269
+PRSS57	Vaccinia	Disease	0.00306
+PRSS57	Zoonoses	Disease	0.00333
+PRSS57	Horse Diseases	Disease	0.0061
+PRSS57	Cattle Diseases	Disease	0.00632
+PRSS57	Virus Diseases	Disease	0.00645
+PRSS57	Enteritis	Disease	0.00702
+PRSS57	Encephalomyelitis, Equine	Disease	0.00904
+PRSS57	Papillon-Lefevre Disease	Disease	0.0102
+PRSS57	Hepatitis	Disease	0.0105
+PRSS57	Coinfection	Disease	0.0121
+PRSS57	Viremia	Disease	0.0125
+PRSS57	Goat Diseases	Disease	0.0134
+PRSS57	Reoviridae Infections	Disease	0.0134
+PRSS57	Togaviridae Infections	Disease	0.0139
+PRSS57	Asymptomatic Infections	Disease	0.0144
+PRSS57	Neoplasms	Disease	0.0206
+PRSS57	Encephalitis, St. Louis	Disease	0.0228
+PRSS57	Biliary Atresia	Disease	0.0283
+PRSS57	Monkey Diseases	Disease	0.0284
+PRSS57	Bird Diseases	Disease	0.029
+PRSS57	RNA Virus Infections	Disease	0.0293
+PRSS57	Japanese Encephalitis	Disease	0.032
+PRSS57	Dengue Fever	Disease	0.0321
+PRSS57	Dental Plaque	Disease	0.0339
+PRSS57	Poultry Diseases	Disease	0.0422
+PRSS57	Senile Plaques	Disease	0.044
+PRSS57	Malabsorption Syndrome	Disease	0.0476
+PRSS57	Fish Diseases	Disease	0.0546
+PRSS57	Bluetongue	Disease	0.0633
+PRSS57	Dysentery	Disease	0.0661
+PRSS57	Wounds and Injuries	Disease	0.0679
+PRSS57	Cholera	Disease	0.0842
+PRSS57	Central Nervous System Infection	Disease	0.0974
+PRSS57	Caliciviridae Infections	Disease	0.103
+PRSS57	Acute Disease	Disease	0.109
+PRSS57	Recurrence (disease attribute)	Disease	0.109
+PRSS57	Carcinoma	Disease	0.112
+PRSS57	Viral Encephalitis	Disease	0.116
+PRSS57	Cystic Fibrosis	Disease	0.119
+PRSS57	Coxsackievirus Infections	Disease	0.131
+PRSS57	Animal Disease Models	Disease	0.135
+PRSS57	Pancreatic Diseases	Disease	0.136
+PRSS57	Hepatitis E	Disease	0.143
+PRSS57	Arthritis	Disease	0.149
+PRSS57	Neoplasms, Hormone-Dependent	Disease	0.163
+PRSS57	Yellow Fever	Disease	0.179
+PRSS57	Sheep Diseases	Disease	0.188
+PRSS57	Communicable Diseases, Emerging	Disease	0.188
+PRSS57	Atrophic	Disease	0.198
+PRSS57	Newcastle Disease	Disease	0.199
+PRSS57	Vesicular Stomatitis	Disease	0.204
+PRSS57	Chronic disease	Disease	0.204
+PRSS57	Inflammation	Disease	0.212
+PRSS57	Malignant neoplasm of breast	Disease	0.226
+PRSS57	Chromosome Deletion	Disease	0.228
+PRSS57	Fever	Disease	0.236
+PRSS57	Chromosomal translocation	Disease	0.236
+PRSS57	Animal Diseases	Disease	0.278
+PRSS57	Polyarthralgia	Disease	0.307
+PRSS57	Meningoencephalitis	Disease	0.321
+PRSS57	Intestinal Diseases	Disease	0.348
+PRSS57	Adenocarcinoma	Disease	0.348
+PRSS57	Jaundice, Obstructive	Disease	0.361
+PRSS57	Dog Diseases	Disease	0.383
+PRSS57	Bronchitis	Disease	0.383
+PRSS57	Intussusception	Disease	0.387
+PRSS57	Orthomyxoviridae Infections	Disease	0.399
+PRSS57	Cell Transformation, Neoplastic	Disease	0.433
+PRSS57	Ileus	Disease	0.438
+PRSS57	Encephalitis	Disease	0.459
+PRSS57	Disorder of the optic nerve	Disease	0.469
+PRSS57	Emergencies [Disease/Finding]	Disease	0.499
+PRSS57	Fibrosis	Disease	0.508
+PRSS57	Rubella	Disease	0.53
+PRSS57	leukemia	Disease	0.591
+PRSS57	Rhabdomyosarcoma	Disease	0.619
+PRSS57	Prostatic Neoplasms	Disease	0.629
+PRSS57	Influenza in Birds	Disease	0.631
+PRSS57	Septicemia	Disease	0.783
+PRSS57	Hepatitis C	Disease	0.847
+PRSS57	Pneumonia	Disease	0.861
+PRSS57	Ulcer	Disease	0.867
+PRSS57	Carcinoid Tumor	Disease	0.871
+PRSS57	Lymphoma	Disease	0.905
+PRSS57	Rheumatoid Arthritis	Disease	0.908
+PRSS57	melanoma	Disease	0.982
+PRSS57	Disease	Disease	1.0
+PRSS57	Syndrome	Disease	1.0
+PRSS57	HIV Infections	Disease	1.0
+PRSS57	Communicable Diseases	Disease	1.0
+PRSS57	Cross Infection	Disease	1.0
+PRSS57	Exanthema	Disease	1.0
+PRSS57	Gastrointestinal Diseases	Disease	1.0
+PRSS57	Influenza	Disease	1.0
+PRSS57	Ischemia	Disease	1.0
+PRSS57	Dissociative disorder	Disease	1.0
+PRSS57	Autoimmune Diseases	Disease	1.0
+PRSS57	Brain Edema	Disease	1.0
+PRSS57	Immunologic Deficiency Syndromes	Disease	1.0
+PRSS57	Icterus	Disease	1.0
+PRSS57	Liver Cirrhosis	Disease	1.0
+PRSS57	Measles	Disease	1.0
+PRSS57	Nephritis	Disease	1.0
+PRSS57	Pathologic Processes	Disease	1.0
+PRSS57	Respiration Disorders	Disease	1.0
+PRSS57	Respiratory Tract Diseases	Disease	1.0
+PRSS57	Respiratory Tract Infections	Disease	1.0
+PRSS57	Gastric ulcer	Disease	1.0
+PRSS57	Synovial Cyst	Disease	1.0
+PRSS57	Tetanus	Disease	1.0
+PRSS57	B-Cell Lymphomas	Disease	1.0
+PRSS57	Cat Diseases	Disease	1.0
+PRSS57	Seizures, Clonic	Disease	1.0
+PRSS57	Confusion	Disease	1.0
+PRSS57	Weight Gain	Disease	1.0
+PRSS57	NS28 protein, rotavirus	Chemical	1.36E-7
+PRSS57	Viral Nonstructural Proteins	Chemical	1.88E-6
+PRSS57	NSP4 serine protease	Chemical	2.14E-6
+PRSS57	nsP4 protein, Sindbis virus	Chemical	2.67E-6
+PRSS57	VP7 protein, Rotavirus	Chemical	3.48E-6
+PRSS57	VP4 protein, Rotavirus	Chemical	3.61E-6
+PRSS57	VP6 protein, Rotavirus	Chemical	4.55E-6
+PRSS57	Toxins, Biological	Chemical	6.77E-6
+PRSS57	nsP2 proteinase	Chemical	8.55E-6
+PRSS57	NSP1 protein, Rotavirus	Chemical	1.26E-5
+PRSS57	Ns4 protein, mouse hepatitis virus	Chemical	1.6E-5
+PRSS57	NS35 protein, rotavirus	Chemical	1.9E-5
+PRSS57	Nsp3 protein, semliki forest virus	Chemical	2.37E-5
+PRSS57	Polyproteins	Chemical	2.53E-5
+PRSS57	Capsid Protein	Chemical	2.94E-5
+PRSS57	Enterotoxin	Chemical	4.12E-5
+PRSS57	NSP3 protein, Rotavirus	Chemical	4.53E-5
+PRSS57	Rotavirus Vaccines	Chemical	5.6E-5
+PRSS57	RNA, Viral	Chemical	6.26E-5
+PRSS57	Antigens, Viral	Chemical	7.29E-5
+PRSS57	Glycoprotein	Chemical	8.15E-5
+PRSS57	RNA-Directed RNA Polymerase	Chemical	8.63E-5
+PRSS57	Viral Proteins	Chemical	1.1E-4
+PRSS57	Pyridinolcarbamate	Chemical	1.12E-4
+PRSS57	nsP3 protein, virus	Chemical	1.21E-4
+PRSS57	NSP5 protein, rotavirus group A	Chemical	1.23E-4
+PRSS57	gene 9 protein, Rotavirus B	Chemical	1.28E-4
+PRSS57	DNA-Directed RNA Polymerases	Chemical	1.73E-4
+PRSS57	VP1 protein, Rotavirus	Chemical	1.76E-4
+PRSS57	VP3 protein, Rotavirus	Chemical	1.92E-4
+PRSS57	nsP1 protein, Sindbis virus	Chemical	2.56E-4
+PRSS57	Viral Structural Proteins	Chemical	2.63E-4
+PRSS57	NSP1 protein, S cerevisiae	Chemical	2.94E-4
+PRSS57	RNA Polymerase	Chemical	3.05E-4
+PRSS57	Amino Acid	Chemical	3.06E-4
+PRSS57	N(4)-hydroxycytidine	Chemical	3.21E-4
+PRSS57	Nucleotide	Chemical	3.29E-4
+PRSS57	Viral Protein	Chemical	3.47E-4
+PRSS57	Viral Core Proteins	Chemical	3.58E-4
+PRSS57	Ribonucleic Acid	Chemical	4.27E-4
+PRSS57	G3BP2 protein, human	Chemical	4.28E-4
+PRSS57	sigma NS protein, Reovirus	Chemical	4.92E-4
+PRSS57	Codon, Terminator	Chemical	4.96E-4
+PRSS57	gene 11 protein, Rotavirus B	Chemical	5.13E-4
+PRSS57	Protein	Chemical	5.6E-4
+PRSS57	RotaTeq	Chemical	5.61E-4
+PRSS57	rhesus rotavirus vaccine	Chemical	6.8E-4
+PRSS57	nonstructural protein, coronavirus	Chemical	7.06E-4
+PRSS57	DNA replicase	Chemical	7.07E-4
+PRSS57	Structural Protein	Chemical	8.05E-4
+PRSS57	Mitoxantrone Hydrochloride	Chemical	8.13E-4
+PRSS57	RNA triphosphatase	Chemical	8.73E-4
+PRSS57	virus protein 2A	Chemical	9.63E-4
+PRSS57	Cysteine Endopeptidases	Chemical	9.74E-4
+PRSS57	shiga toxin 2 B subunit	Chemical	9.84E-4
+PRSS57	Myeloblastin	Chemical	0.00108
+PRSS57	3C-like proteinase, Coronavirus	Chemical	0.0012
+PRSS57	Vaccines	Chemical	0.0013
+PRSS57	Double-Stranded RNA	Chemical	0.00138
+PRSS57	Serine Protease	Chemical	0.00148
+PRSS57	VP7 protein, orbivirus	Chemical	0.00156
+PRSS57	Cathepsin G	Chemical	0.00166
+PRSS57	Cathepsin C	Chemical	0.00166
+PRSS57	Antibodies, Viral	Chemical	0.00183
+PRSS57	glutamine-synthetase adenylyltransferase	Chemical	0.00195
+PRSS57	Calnexin	Chemical	0.00203
+PRSS57	trypsin-like serine protease	Chemical	0.00209
+PRSS57	FPL 64176	Chemical	0.00215
+PRSS57	RNA Binding Protein	Chemical	0.00224
+PRSS57	Rotavirus Antigen	Chemical	0.00235
+PRSS57	Serine Endopeptidases	Chemical	0.00236
+PRSS57	Fusion Protein	Chemical	0.00239
+PRSS57	Nucleoside-Triphosphatase	Chemical	0.00245
+PRSS57	4-nitrophenyl-alpha-glucosidase	Chemical	0.0026
+PRSS57	cDNA	Chemical	0.00262
+PRSS57	Codon	Chemical	0.00265
+PRSS57	Single-Stranded RNA	Chemical	0.00269
+PRSS57	glycolipid receptor	Chemical	0.00275
+PRSS57	3C proteases	Chemical	0.00291
+PRSS57	Helicase	Chemical	0.00294
+PRSS57	1,2-diphytanoylphosphatidylcholine	Chemical	0.00294
+PRSS57	hemagglutinin esterase	Chemical	0.00307
+PRSS57	Receptors, Virus	Chemical	0.00308
+PRSS57	DNA, Viral	Chemical	0.00318
+PRSS57	CapZ Actin Capping Protein	Chemical	0.00329
+PRSS57	Peptidase	Chemical	0.00337
+PRSS57	Human Glandular Kallikrein	Chemical	0.00357
+PRSS57	3C-like protease, SARS coronavirus	Chemical	0.00359
+PRSS57	1,2-dioleoylphosphatidylserine	Chemical	0.00377
+PRSS57	Polymerase	Chemical	0.00387
+PRSS57	Adenovirus Vaccines	Chemical	0.00416
+PRSS57	glucosidase I	Chemical	0.0042
+PRSS57	Untranslated Regions	Chemical	0.00439
+PRSS57	swine leukocyte antigen	Chemical	0.00463
+PRSS57	Cytidine Triphosphate	Chemical	0.00468
+PRSS57	Recombinant Proteins	Chemical	0.00483
+PRSS57	asialofetuin	Chemical	0.00485
+PRSS57	ethidium homodimer	Chemical	0.0049
+PRSS57	Viral Vaccines	Chemical	0.00499
+PRSS57	Caveolin 1	Chemical	0.00502
+PRSS57	Tunicamycin	Chemical	0.00503
+PRSS57	Protein Disulfide-Isomerases	Chemical	0.00522
+PRSS57	Integrin alpha2	Chemical	0.00531
+PRSS57	dipeptidyl carboxypeptidase	Chemical	0.00531
+PRSS57	Drug Binding Site	Chemical	0.00531
+PRSS57	Epitope	Chemical	0.00536
+PRSS57	Antiviral Agent	Chemical	0.00549
+PRSS57	Nucleocapsid Protein	Chemical	0.0057
+PRSS57	Azurocidin	Chemical	0.0057
+PRSS57	polyacrylamide	Chemical	0.00574
+PRSS57	RNA Caps	Chemical	0.00587
+PRSS57	Lactase-Phlorizin Hydrolase	Chemical	0.00599
+PRSS57	Nucleocapsid	Chemical	0.00624
+PRSS57	thioflavin T	Chemical	0.00633
+PRSS57	Mutant Proteins	Chemical	0.00659
+PRSS57	Recombinant Fusion Proteins	Chemical	0.00667
+PRSS57	1-(6-((3-methoxyestra-1,3,5(10)-trien-17-yl)amino)hexyl)-1H-pyrrole-2,5-dione	Chemical	0.00672
+PRSS57	prostaglandin A1	Chemical	0.0068
+PRSS57	Viral Envelope Proteins	Chemical	0.00707
+PRSS57	Chymases	Chemical	0.00721
+PRSS57	DNA Primers	Chemical	0.00727
+PRSS57	Integrin alpha1	Chemical	0.00754
+PRSS57	Vaccines, Attenuated	Chemical	0.00779
+PRSS57	RNA Helicase	Chemical	0.00787
+PRSS57	Uridine Triphosphate	Chemical	0.00837
+PRSS57	guanylyltransferase	Chemical	0.00838
+PRSS57	RNA, recombinant	Chemical	0.00871
+PRSS57	Neutrophil Elastase	Chemical	0.00974
+PRSS57	Endoplasmin	Chemical	0.00982
+PRSS57	Cations, Divalent	Chemical	0.00988
+PRSS57	Phosphothreonine	Chemical	0.0101
+PRSS57	Antibody	Chemical	0.0102
+PRSS57	Integrin alpha1beta1	Chemical	0.0106
+PRSS57	Mouse Protein	Chemical	0.0106
+PRSS57	Antibodies, Neutralizing	Chemical	0.0108
+PRSS57	asolectin	Chemical	0.0109
+PRSS57	IgA	Chemical	0.011
+PRSS57	castanospermine	Chemical	0.0112
+PRSS57	His-His-His-His-His-His	Chemical	0.0113
+PRSS57	Pepstatin	Chemical	0.0114
+PRSS57	Antigen	Chemical	0.0126
+PRSS57	Thapsigargin	Chemical	0.0129
+PRSS57	5' Untranslated Regions	Chemical	0.013
+PRSS57	RNA, Small Interfering	Chemical	0.0136
+PRSS57	Replicon	Chemical	0.0136
+PRSS57	Signal Transducer and Activator of Transcription 2	Chemical	0.0136
+PRSS57	Brefeldin A	Chemical	0.0141
+PRSS57	Bioflavonoid	Chemical	0.0142
+PRSS57	Amino Acids, Aromatic	Chemical	0.0145
+PRSS57	Coatomer Protein	Chemical	0.0145
+PRSS57	Fura-2	Chemical	0.0146
+PRSS57	glucose-regulated proteins	Chemical	0.0149
+PRSS57	Tight Junction Protein ZO-1	Chemical	0.015
+PRSS57	Nonmuscle Myosin Type IIA	Chemical	0.015
+PRSS57	Peptide Library	Chemical	0.0163
+PRSS57	Cysteine Proteinase	Chemical	0.0163
+PRSS57	Estrenes	Chemical	0.0168
+PRSS57	Nucleotidyltransferases	Chemical	0.0173
+PRSS57	M2 protein, Influenza A virus	Chemical	0.0176
+PRSS57	RNA, ribosomal, 26S	Chemical	0.0176
+PRSS57	Coat Protein Complex I	Chemical	0.0176
+PRSS57	Chaperone	Chemical	0.0177
+PRSS57	enhanced green fluorescent protein	Chemical	0.018
+PRSS57	Cyclic AMP-Dependent Transcription Factor ATF-6 Alpha	Chemical	0.018
+PRSS57	Nucleoporin	Chemical	0.0182
+PRSS57	Glutathione S-Transferase	Chemical	0.0186
+PRSS57	Phalloidine	Chemical	0.0194
+PRSS57	galactocerebroside	Chemical	0.0194
+PRSS57	IgG	Chemical	0.0198
+PRSS57	cyclopentenone	Chemical	0.0198
+PRSS57	Peptides	Chemical	0.0203
+PRSS57	tat Gene Products, Human Immunodeficiency Virus	Chemical	0.0203
+PRSS57	polyhistidine	Chemical	0.0206
+PRSS57	2-aminoethoxydiphenyl borate	Chemical	0.0206
+PRSS57	Nucleoside	Chemical	0.0208
+PRSS57	Ricin	Chemical	0.0213
+PRSS57	Antileukoproteinase	Chemical	0.0218
+PRSS57	PERK kinase	Chemical	0.022
+PRSS57	Pancreatic Elastase	Chemical	0.0223
+PRSS57	Immune Sera	Chemical	0.0224
+PRSS57	Cathepsin	Chemical	0.0224
+PRSS57	Viral Fusion Proteins	Chemical	0.0224
+PRSS57	Gene Products, pol	Chemical	0.0224
+PRSS57	Integrin alpha2beta1	Chemical	0.0228
+PRSS57	Particle	Chemical	0.0229
+PRSS57	Methyltransferase	Chemical	0.0231
+PRSS57	G protein, vesicular stomatitis virus	Chemical	0.0234
+PRSS57	Ribonucleosides	Chemical	0.0237
+PRSS57	Transmembrane Protein	Chemical	0.0238
+PRSS57	Sodium/Glucose Cotransporter 1	Chemical	0.0238
+PRSS57	Single-Domain Antibodies	Chemical	0.024
+PRSS57	TAT Protein	Chemical	0.0243
+PRSS57	Papain	Chemical	0.0257
+PRSS57	Epitopes, B-Lymphocyte	Chemical	0.0257
+PRSS57	glutamyl endopeptidase	Chemical	0.026
+PRSS57	Peptide Vaccine	Chemical	0.0269
+PRSS57	Interferon	Chemical	0.0271
+PRSS57	Cytochalasin D	Chemical	0.0276
+PRSS57	Oligonucleotide Probes	Chemical	0.0278
+PRSS57	Inositol 1,4,5-Trisphosphate	Chemical	0.0281
+PRSS57	Phosphoserine	Chemical	0.0282
+PRSS57	bacteriophage T7 RNA polymerase	Chemical	0.0284
+PRSS57	Proteinase Inhibitory Proteins, Secretory	Chemical	0.0289
+PRSS57	Recombinant Protein	Chemical	0.0292
+PRSS57	Mucin-2	Chemical	0.0301
+PRSS57	Endoribonuclease	Chemical	0.0307
+PRSS57	Agent	Chemical	0.0312
+PRSS57	Actin Depolymerizing Factors	Chemical	0.032
+PRSS57	fluorescein isothiocyanate dextran	Chemical	0.0325
+PRSS57	Virulence Factors	Chemical	0.0327
+PRSS57	Protein Precursors	Chemical	0.0328
+PRSS57	Shiga Toxin 2	Chemical	0.0331
+PRSS57	Immunoglobulin Isotypes	Chemical	0.0337
+PRSS57	Disaccharidases	Chemical	0.0341
+PRSS57	Epitopes, T-Lymphocyte	Chemical	0.0345
+PRSS57	Cannabinoid Receptor Agonists	Chemical	0.0353
+PRSS57	Inactivated Vaccine	Chemical	0.0354
+PRSS57	BH3 Interacting Domain Death Agonist Protein	Chemical	0.0364
+PRSS57	Cholera Toxin	Chemical	0.0383
+PRSS57	Interferon Beta	Chemical	0.0383
+PRSS57	L-Selenomethionine	Chemical	0.0387
+PRSS57	Isomerase	Chemical	0.0393
+PRSS57	NS3 protein, hepatitis C virus	Chemical	0.0393
+PRSS57	Mitochondrial ADP, ATP Translocases	Chemical	0.0398
+PRSS57	Green Fluorescent Proteins	Chemical	0.0402
+PRSS57	Chlorides	Chemical	0.0423
+PRSS57	Biological Warfare Agents	Chemical	0.0427
+PRSS57	Messenger RNA	Chemical	0.043
+PRSS57	Pyrrolidinones	Chemical	0.0431
+PRSS57	HIV Integrase	Chemical	0.0436
+PRSS57	Monoclonal Antibody	Chemical	0.0438
+PRSS57	DNA-directed DNA Polymerase	Chemical	0.0447
+PRSS57	Antiserum	Chemical	0.0457
+PRSS57	Acid Anhydride Hydrolases	Chemical	0.0458
+PRSS57	Trypsin	Chemical	0.0467
+PRSS57	Phospholipase	Chemical	0.0467
+PRSS57	Octoxynol 9	Chemical	0.0467
+PRSS57	GTPase-Activating Protein	Chemical	0.0469
+PRSS57	SAGA	Chemical	0.0469
+PRSS57	Cysteine	Chemical	0.0493
+PRSS57	Interferon Regulatory Factor 3	Chemical	0.0495
+PRSS57	Phenylmethylsulfonyl Fluoride	Chemical	0.0507
+PRSS57	Bacterial Toxins	Chemical	0.0508
+PRSS57	3' Untranslated Regions	Chemical	0.0517
+PRSS57	GTP	Chemical	0.0531
+PRSS57	Peptide Fragments	Chemical	0.0542
+PRSS57	Peptidomimetics	Chemical	0.0558
+PRSS57	Staphylococcal Enterotoxin B	Chemical	0.0559
+PRSS57	Interferon Type I	Chemical	0.0561
+PRSS57	Interferons	Chemical	0.0562
+PRSS57	Transcription Initiation Site	Chemical	0.0607
+PRSS57	Coenzymes	Chemical	0.0617
+PRSS57	Viral Regulatory and Accessory Proteins	Chemical	0.0631
+PRSS57	Chloramphenicol O-acetyltransferase	Chemical	0.0632
+PRSS57	Interferon Regulatory Factors	Chemical	0.0641
+PRSS57	Pyrimidine	Chemical	0.0646
+PRSS57	Lipofectamine	Chemical	0.065
+PRSS57	Maltose-Binding Proteins	Chemical	0.0652
+PRSS57	Phosphotyrosine	Chemical	0.0653
+PRSS57	Shiga Toxin	Chemical	0.0657
+PRSS57	Endopeptidase	Chemical	0.0671
+PRSS57	Mannose-Binding Lectins	Chemical	0.0675
+PRSS57	Recombinant DNA	Chemical	0.0682
+PRSS57	Kallikrein-2	Chemical	0.0693
+PRSS57	Cystic Fibrosis Transmembrane Conductance Regulator	Chemical	0.0694
+PRSS57	Calcium Radioisotopes	Chemical	0.0703
+PRSS57	78 kDa Glucose-Regulated Protein	Chemical	0.0706
+PRSS57	Receptors, Calcium-Sensing	Chemical	0.0707
+PRSS57	Cytoplasmic Protein	Chemical	0.0722
+PRSS57	Serpin	Chemical	0.0725
+PRSS57	Reverse Transcriptase	Chemical	0.0726
+PRSS57	Amber	Chemical	0.0729
+PRSS57	proteoliposomes	Chemical	0.0742
+PRSS57	benzamide	Chemical	0.0764
+PRSS57	Enzyme	Chemical	0.078
+PRSS57	DNA Helicases	Chemical	0.0799
+PRSS57	Chloride Channels	Chemical	0.0809
+PRSS57	Eukaryotic Translation Initiation Factor 2 Subunit 1	Chemical	0.0812
+PRSS57	Kallikrein	Chemical	0.0824
+PRSS57	Tryptophan Hydroxylase	Chemical	0.0826
+PRSS57	NF-kB	Chemical	0.0851
+PRSS57	Calcium-Binding Proteins	Chemical	0.0874
+PRSS57	Plasmid	Chemical	0.0876
+PRSS57	5-HT3 Receptor	Chemical	0.0907
+PRSS57	Interferon-Induced, Double-Stranded RNA-Activated Protein Kinase	Chemical	0.093
+PRSS57	4,4'-Diisothiocyanostilbene-2,2'-Disulfonic Acid	Chemical	0.0944
+PRSS57	Isopropyl Thiogalactoside	Chemical	0.0961
+PRSS57	Insulin-Like Growth Factor Receptor	Chemical	0.0988
+PRSS57	Sodium-Calcium Exchanger	Chemical	0.103
+PRSS57	Polyphosphates	Chemical	0.104
+PRSS57	Tumor Suppressor Protein	Chemical	0.105
+PRSS57	Prostaglandins A	Chemical	0.108
+PRSS57	Stain	Chemical	0.112
+PRSS57	Prebiotics	Chemical	0.112
+PRSS57	Toxin	Chemical	0.114
+PRSS57	Proteolipids	Chemical	0.116
+PRSS57	Interleukin-4	Chemical	0.118
+PRSS57	Casein Kinase 2	Chemical	0.12
+PRSS57	Ubiquitin	Chemical	0.121
+PRSS57	Methyltransferases	Chemical	0.124
+PRSS57	Occludin	Chemical	0.128
+PRSS57	DNA Vaccine	Chemical	0.129
+PRSS57	Single-Chain Variable Fragment	Chemical	0.135
+PRSS57	Membrane Protein	Chemical	0.139
+PRSS57	Receptors, Pattern Recognition	Chemical	0.139
+PRSS57	Antibiotic	Chemical	0.139
+PRSS57	Luciferase	Chemical	0.14
+PRSS57	Membrane Glycoproteins	Chemical	0.141
+PRSS57	Cations, Monovalent	Chemical	0.143
+PRSS57	Hemagglutinins, Viral	Chemical	0.146
+PRSS57	Transforming Protein RHOA	Chemical	0.146
+PRSS57	Ion	Chemical	0.147
+PRSS57	Signal Transducer and Activator of Transcription 1-alpha/beta	Chemical	0.148
+PRSS57	Vaccines, Subunit	Chemical	0.148
+PRSS57	Glucosidases	Chemical	0.151
+PRSS57	Porins	Chemical	0.151
+PRSS57	Liposomes	Chemical	0.152
+PRSS57	Latex	Chemical	0.157
+PRSS57	Serine/Threonine-Protein Kinase mTOR	Chemical	0.158
+PRSS57	Food	Chemical	0.159
+PRSS57	HIV Reverse Transcriptase	Chemical	0.165
+PRSS57	Phosphatidylinositol 3-Kinases	Chemical	0.167
+PRSS57	Granzyme	Chemical	0.168
+PRSS57	Immunoadjuvant	Chemical	0.169
+PRSS57	Vaccines, Inactivated	Chemical	0.169
+PRSS57	Actin	Chemical	0.171
+PRSS57	Ribonucleotides	Chemical	0.172
+PRSS57	Unilamellar Liposomes	Chemical	0.175
+PRSS57	Disulfides	Chemical	0.176
+PRSS57	Type C Phospholipases	Chemical	0.176
+PRSS57	Perforin-1	Chemical	0.177
+PRSS57	Bcl-2-Like Protein 1	Chemical	0.178
+PRSS57	Ubiquitins	Chemical	0.179
+PRSS57	Detergents	Chemical	0.181
+PRSS57	Hemocyanin	Chemical	0.187
+PRSS57	Peptide Elongation Factors	Chemical	0.19
+PRSS57	Receptor, Cannabinoid, CB1	Chemical	0.191
+PRSS57	Immunoglobulin A, Secretory	Chemical	0.192
+PRSS57	Hormone	Chemical	0.197
+PRSS57	Insulin	Chemical	0.197
+PRSS57	Membrane Lipids	Chemical	0.199
+PRSS57	Viral Matrix Proteins	Chemical	0.206
+PRSS57	Antithrombins	Chemical	0.207
+PRSS57	Interleukin-8	Chemical	0.208
+PRSS57	Protein Kinase B	Chemical	0.208
+PRSS57	alpha-Glucosidases	Chemical	0.208
+PRSS57	Glucose	Chemical	0.211
+PRSS57	Cations	Chemical	0.216
+PRSS57	Ionomycin	Chemical	0.223
+PRSS57	HSP90 Heat-Shock Proteins	Chemical	0.226
+PRSS57	Palmitic Acids	Chemical	0.23
+PRSS57	Toll-Like Receptor 2	Chemical	0.233
+PRSS57	Antineoplastic Agent	Chemical	0.236
+PRSS57	Water	Chemical	0.243
+PRSS57	Edetic Acid	Chemical	0.243
+PRSS57	Anions	Chemical	0.246
+PRSS57	Barium	Chemical	0.246
+PRSS57	Immunoglobulin	Chemical	0.248
+PRSS57	Chemokine CCL5	Chemical	0.253
+PRSS57	Sodium-Dependent Serotonin Transporter	Chemical	0.254
+PRSS57	Androstadienes	Chemical	0.255
+PRSS57	Integrins	Chemical	0.256
+PRSS57	Solutions	Chemical	0.264
+PRSS57	Serine Proteinase Inhibitors	Chemical	0.264
+PRSS57	diphenyl	Chemical	0.268
+PRSS57	Cytoskeletal Proteins	Chemical	0.272
+PRSS57	Symporters	Chemical	0.272
+PRSS57	Receptor	Chemical	0.276
+PRSS57	Tubulin	Chemical	0.286
+PRSS57	DNA Probes	Chemical	0.291
+PRSS57	Guanine Nucleotide Exchange Factor	Chemical	0.294
+PRSS57	Thioredoxin	Chemical	0.294
+PRSS57	Beta-Galactosidase	Chemical	0.314
+PRSS57	Mucin-1	Chemical	0.317
+PRSS57	Monosaccharide Transport Proteins	Chemical	0.317
+PRSS57	Haptoglobins	Chemical	0.321
+PRSS57	Phosphorus Radioisotopes	Chemical	0.324
+PRSS57	Ethylmaleimide	Chemical	0.327
+PRSS57	Homidium	Chemical	0.336
+PRSS57	Codon, Initiator	Chemical	0.338
+PRSS57	RNA, Plant	Chemical	0.339
+PRSS57	Strontium	Chemical	0.345
+PRSS57	Vaccines, DNA	Chemical	0.347
+PRSS57	Cytokines	Chemical	0.348
+PRSS57	Proteasome Endopeptidase Complex	Chemical	0.348
+PRSS57	Osteopontin	Chemical	0.355
+PRSS57	Immunoglobulin Variable Region	Chemical	0.357
+PRSS57	beta 2-Microglobulin	Chemical	0.36
+PRSS57	Protein Subunit	Chemical	0.368
+PRSS57	Adaptor Proteins, Signal Transducing	Chemical	0.368
+PRSS57	Protein Synthesis Inhibitors	Chemical	0.37
+PRSS57	Myelin Basic Protein	Chemical	0.379
+PRSS57	Thioredoxin	Chemical	0.381
+PRSS57	Phosphoprotein	Chemical	0.381
+PRSS57	Integrase	Chemical	0.382
+PRSS57	GTPase	Chemical	0.39
+PRSS57	Agonist	Chemical	0.391
+PRSS57	Binding Sites	Chemical	0.399
+PRSS57	Air	Chemical	0.4
+PRSS57	Base	Chemical	0.407
+PRSS57	Chemokine	Chemical	0.414
+PRSS57	Agglutinin	Chemical	0.42
+PRSS57	Caspase-8	Chemical	0.432
+PRSS57	Initiation Factor	Chemical	0.436
+PRSS57	Purine	Chemical	0.449
+PRSS57	Iodides	Chemical	0.455
+PRSS57	Gangliosides	Chemical	0.455
+PRSS57	Nitrogen	Chemical	0.462
+PRSS57	Calcium-Transporting ATPases	Chemical	0.466
+PRSS57	Lipid Bilayers	Chemical	0.469
+PRSS57	Fluorescein-5-isothiocyanate	Chemical	0.471
+PRSS57	Collagen	Chemical	0.495
+PRSS57	Caspase-9	Chemical	0.541
+PRSS57	Vaccines, Synthetic	Chemical	0.547
+PRSS57	Colforsin	Chemical	0.548
+PRSS57	Yeast	Chemical	0.554
+PRSS57	RNA Polymerase II	Chemical	0.566
+PRSS57	Nucleic Acids	Chemical	0.581
+PRSS57	Transcription Factor	Chemical	0.592
+PRSS57	Immunoglobulin Heavy Chain	Chemical	0.596
+PRSS57	Element	Chemical	0.637
+PRSS57	Protein FosB	Chemical	0.658
+PRSS57	Urea Nitrogen	Chemical	0.66
+PRSS57	Sialic Acid	Chemical	0.677
+PRSS57	Multiprotein Complexes	Chemical	0.706
+PRSS57	Estrogen	Chemical	0.716
+PRSS57	Serotonin Antagonists	Chemical	0.719
+PRSS57	Sodium	Chemical	0.733
+PRSS57	Acid	Chemical	0.734
+PRSS57	Pharmaceutical Preparations	Chemical	0.742
+PRSS57	Phosphatase	Chemical	0.746
+PRSS57	Glutaral	Chemical	0.767
+PRSS57	Metal	Chemical	0.776
+PRSS57	Growth Factor	Chemical	0.794
+PRSS57	Lipoprotein	Chemical	0.796
+PRSS57	Interleukin-6	Chemical	0.843
+PRSS57	Egtazic Acid	Chemical	0.857
+PRSS57	Phosphoproteins	Chemical	0.86
+PRSS57	Calcium Channel	Chemical	0.868
+PRSS57	Phosphatidylserines	Chemical	0.872
+PRSS57	Apoptosis Regulator BAX	Chemical	0.893
+PRSS57	Hemagglutinins	Chemical	0.898
+PRSS57	Polyamines	Chemical	0.911
+PRSS57	Biopolymer	Chemical	0.914
+PRSS57	Heat Shock Protein 70	Chemical	0.923
+PRSS57	Dipeptides	Chemical	0.926
+PRSS57	JNK Mitogen-Activated Protein Kinases	Chemical	0.939
+PRSS57	Sewage	Chemical	0.96
+PRSS57	Phosphates	Chemical	0.964
+PRSS57	Culture Media	Chemical	0.973
+PRSS57	Kinase	Chemical	0.979
+PRSS57	Protease Inhibitor	Chemical	0.982
+PRSS57	Lipid	Chemical	0.998
+PRSS57	Saccharomyces cerevisiae Proteins	Chemical	0.998
+PRSS57	DNA	Chemical	1.0
+PRSS57	Electron	Chemical	1.0
+PRSS57	Molecule	Chemical	1.0
+PRSS57	Ligand Binding Protein	Chemical	1.0
+PRSS57	Indicators and Reagents	Chemical	1.0
+PRSS57	Elements	Chemical	1.0
+PRSS57	Cytokine	Chemical	1.0
+PRSS57	Hydrogen	Chemical	1.0
+PRSS57	Serotonin	Chemical	1.0
+PRSS57	Tumor Necrosis Factor	Chemical	1.0
+PRSS57	Carbohydrate	Chemical	1.0
+PRSS57	Phospholipid	Chemical	1.0
+PRSS57	Fluorescent Dyes	Chemical	1.0
+PRSS57	Ligands	Chemical	1.0
+PRSS57	Protein Kinase	Chemical	1.0
+PRSS57	Antagonist	Chemical	1.0
+PRSS57	Ligand	Chemical	1.0
+PRSS57	Coloring Agents	Chemical	1.0
+PRSS57	Phosphatidylcholines	Chemical	1.0
+PRSS57	Enzyme Inhibitors	Chemical	1.0
+PRSS57	IgM	Chemical	1.0
+PRSS57	Polyethylene Glycol	Chemical	1.0
+PRSS57	Nuclear Protein	Chemical	1.0
+PRSS57	Fungal Proteins	Chemical	1.0
+PRSS57	Ion Channels	Chemical	1.0
+PRSS57	Interleukin-2	Chemical	1.0
+PRSS57	Caspase	Chemical	1.0
+PRSS57	MicroRNA	Chemical	1.0
+PRSS57	Analog	Chemical	1.0
+PRSS57	Transcript	Chemical	1.0
+PRSS57	Genomic DNA	Chemical	1.0
+PRSS57	Lead Metal	Chemical	1.0
+PRSS57	Sodium Chloride	Chemical	1.0
+PRSS57	Silver	Chemical	1.0
+PRSS57	Cytokeratin	Chemical	1.0
+PRSS57	Cycloheximide	Chemical	1.0
+PRSS57	Paraffin	Chemical	1.0
+PRSS57	Tritium	Chemical	1.0
+PRSS57	Trivalent Live-Attenuated Influenza Vaccine	Chemical	1.0
+PRSS57	Macromolecular Substances	Chemical	1.0
+PRSS57	Sepharose	Chemical	1.0
+PRSS57	Aceneuramic Acid	Chemical	1.0
+PRSS57	Interleukin-1 Beta	Chemical	1.0
+PRSS57	C-C Motif Chemokine 2	Chemical	1.0
+PRSS57	Insecticides	Chemical	1.0
+PRSS57	Fluoride Ion	Chemical	1.0
+PRSS57	Electrolytes	Chemical	1.0
+PRSS57	Complement	Chemical	1.0
+PRSS57	Pyrimidines	Chemical	1.0
+PRSS57	Mucin	Chemical	1.0
+PRSS57	Thiazoles	Chemical	1.0
+PRSS57	Prostaglandin	Chemical	1.0
+PRSS57	Cytochrome	Chemical	1.0
+PRSS57	Nucleosides	Chemical	1.0
+PRSS57	Chelating Agent	Chemical	1.0
+PRSS57	Purines	Chemical	1.0
+PRSS57	Acids	Chemical	1.0
+PRSS57	Polysaccharides	Chemical	1.0
+PRSS57	Dextran 70	Chemical	1.0
+PRSS57	Terpene Compound	Chemical	1.0
+PRSS57	Esters	Chemical	1.0
+PRSS57	Benzamides	Chemical	1.0
+PRSS57	Buffers	Chemical	1.0
+PRSS57	Pyridines	Chemical	1.0
+PRSS57	Glycosaminoglycans	Chemical	1.0
+PRSS57	ATPase	Chemical	1.0
+PRSS57	C-Reactive Protein	Chemical	1.0
+PRSS57	Benzimidazoles	Chemical	1.0
+PRSS57	Lactate Dehydrogenase	Chemical	1.0
+PRSS57	Hydrolase	Chemical	1.0
+PRSS57	Glycoside Hydrolases	Chemical	1.0
+PRSS57	Ligases	Chemical	1.0
+PRSS57	Neoplasm Proteins	Chemical	1.0
+PRSS57	Oligosaccharide	Chemical	1.0
+PRSS57	Ovalbumin	Chemical	1.0
+PRSS57	Suspensions	Chemical	1.0
+PRSS57	Glucocorticoids	Chemical	1.0
+PRSS57	Transfer RNA	Chemical	1.0
+PRSS57	Mutagens	Chemical	1.0
+PRSS57	Antineoplastic Agents, Phytogenic	Chemical	1.0
+PRSS57	Antigens, Bacterial	Chemical	1.0
+PRSS57	Ribosomal RNA	Chemical	1.0
+PRSS57	Neurotransmitter	Chemical	1.0
+PRSS57	Drug Carriers	Chemical	1.0
+PRSS57	Extracellular Matrix Proteins	Chemical	1.0
+PRSS57	Cell Surface Antigen	Chemical	1.0
+PRSS57	Culture Media, Conditioned	Chemical	1.0
+PRSS57	Oligopeptides	Chemical	1.0
+PRSS57	Cytochromes c	Chemical	1.0
+PRSS57	Protein Isoforms	Chemical	1.0
+PRSS57	Oligonucleotides	Chemical	1.0
+PRSS57	Restriction Endonuclease	Chemical	1.0
+PRSS57	T-Cell Receptor	Chemical	1.0
+PRSS57	Histocompatibility Antigens Class II	Chemical	1.0
+PRSS57	Receptors, Serotonin	Chemical	1.0
+PRSS57	Microtubule Associated Protein	Chemical	1.0
+PRSS57	Fibronectin	Chemical	1.0
+PRSS57	Histocompatibility Antigens Class I	Chemical	1.0
+PRSS57	Glial Fibrillary Acidic Protein	Chemical	1.0
+PRSS57	Platelet-Derived Growth Factor	Chemical	1.0
+PRSS57	Vimentin	Chemical	1.0
+PRSS57	Laminin	Chemical	1.0
+PRSS57	Heat Shock Protein	Chemical	1.0
+PRSS57	Intracellular Signaling Peptides and Proteins	Chemical	1.0
+PRSS57	Mitochondrial Proteins	Chemical	1.0
+PRSS57	Receptors, G-Protein-Coupled	Chemical	1.0
+PRSS57	Protein Sorting Signals	Chemical	1.0
+PRSS57	Prostate-Specific Antigen	Chemical	1.0
+PRSS57	Ubiquitin-Protein Ligases	Chemical	1.0
+PRSS57	Interleukin	Chemical	1.0
+PRSS57	Proto-Oncogene Proteins c-bcl-2	Chemical	1.0
+PRSS57	Nitric Oxide Synthetase	Chemical	1.0
+PRSS57	Interleukin-10	Chemical	1.0
+PRSS57	Interleukin-12	Chemical	1.0
+PRSS57	Nitric Oxide Synthase, Inducible	Chemical	1.0
+PRSS57	Caspase-3	Chemical	1.0
+PRSS57	Proteome	Chemical	1.0
+PRSS57	Exons	Chemical	1.0
+PRSS57	Esterase	Chemical	1.0
+PRSS57	Small Interfering RNA	Chemical	1.0
+PRSS57	Dye	Chemical	1.0
+PRSS57	Small Molecule	Chemical	1.0
+PRSS57	Retinoic Acid	Chemical	1.0
+PRSS57	Buffer	Chemical	1.0
+PRSS57	Casein	Chemical	1.0
+PRSS57	Salt	Chemical	1.0
+PRSS57	Mouse Biliary Tract	Anatomy	4.27E-5
+PRSS57	Capsid	Anatomy	1.06E-4
+PRSS57	viral replication complex	Anatomy	2.17E-4
+PRSS57	Feces	Anatomy	3.23E-4
+PRSS57	Endoplasmic Reticulum	Anatomy	7.15E-4
+PRSS57	protein location	Anatomy	7.88E-4
+PRSS57	Virion	Anatomy	7.96E-4
+PRSS57	viral genome location	Anatomy	8.81E-4
+PRSS57	Endoplasmic reticulum, membrane	Anatomy	9.77E-4
+PRSS57	Cell Line	Anatomy	0.00107
+PRSS57	Gallbladder (MMHCC)	Anatomy	0.00144
+PRSS57	Villus Tip	Anatomy	0.00148
+PRSS57	Enterocytes	Anatomy	0.00153
+PRSS57	cytoplasmic foci	Anatomy	0.00162
+PRSS57	Caco-2 Cells	Anatomy	0.0017
+PRSS57	Viral Components	Anatomy	0.00174
+PRSS57	ER-Golgi intermediate compartment	Anatomy	0.0019
+PRSS57	Wall of endosome	Anatomy	0.00217
+PRSS57	Host Cell	Anatomy	0.00234
+PRSS57	COPII vesicle	Anatomy	0.00236
+PRSS57	Vero Cells	Anatomy	0.00244
+PRSS57	Cavity of endoplasmic reticulum cistern	Anatomy	0.00251
+PRSS57	Viral Structures	Anatomy	0.00272
+PRSS57	Clone	Anatomy	0.00361
+PRSS57	Chicken Cells	Anatomy	0.00373
+PRSS57	Caveolae	Anatomy	0.00391
+PRSS57	Cytoplasmic Vesicles	Anatomy	0.00423
+PRSS57	Cells	Anatomy	0.00424
+PRSS57	brush border membrane	Anatomy	0.00442
+PRSS57	Cytoplasmic Domain	Anatomy	0.00455
+PRSS57	Intestine - Small Intestine - Ileum (MMHCC)	Anatomy	0.00474
+PRSS57	Drug Binding Site	Anatomy	0.00531
+PRSS57	Azurophil granule	Anatomy	0.00546
+PRSS57	IgG antibody	Anatomy	0.00553
+PRSS57	Mouse Intestine	Anatomy	0.00554
+PRSS57	Villus	Anatomy	0.00565
+PRSS57	Smooth Endoplasmic Reticulum	Anatomy	0.00588
+PRSS57	Clone Cells	Anatomy	0.00593
+PRSS57	Chick Embryo	Anatomy	0.00609
+PRSS57	Plasma membrane	Anatomy	0.00637
+PRSS57	Enteric Nervous System	Anatomy	0.00689
+PRSS57	Intestinal Contents	Anatomy	0.00693
+PRSS57	Tail	Anatomy	0.00719
+PRSS57	Cultured Cells	Anatomy	0.00726
+PRSS57	Tissue membrane	Anatomy	0.00728
+PRSS57	Region of cytoplasm	Anatomy	0.00731
+PRSS57	Membrane	Anatomy	0.00786
+PRSS57	Brush cell	Anatomy	0.00821
+PRSS57	envelope	Anatomy	0.00838
+PRSS57	Transverse tubule of muscle cell	Anatomy	0.00841
+PRSS57	HT29 Cells	Anatomy	0.00915
+PRSS57	Argentaffin Cell	Anatomy	0.00949
+PRSS57	IgG2a antibody	Anatomy	0.00987
+PRSS57	Cytoplasm	Anatomy	0.00988
+PRSS57	Intestinal Mucosa	Anatomy	0.0104
+PRSS57	IgA immunoglobulin complex, circulating	Anatomy	0.0107
+PRSS57	Structure of intestinal epithelium	Anatomy	0.0111
+PRSS57	Vertebral column	Anatomy	0.0113
+PRSS57	stress granule	Anatomy	0.0115
+PRSS57	Intracellular Membranes	Anatomy	0.0122
+PRSS57	Microvilli	Anatomy	0.0122
+PRSS57	Membrane Microdomains	Anatomy	0.0126
+PRSS57	Golgi Apparatus	Anatomy	0.0129
+PRSS57	integral to membrane	Anatomy	0.0129
+PRSS57	fully spanning the plasma membrane	Anatomy	0.0129
+PRSS57	HEK293 Cells	Anatomy	0.016
+PRSS57	Lumen of intestine	Anatomy	0.0179
+PRSS57	Cytoplasmic inclusion (cell structure)	Anatomy	0.018
+PRSS57	Crypt	Anatomy	0.018
+PRSS57	Cell Membrane Structures	Anatomy	0.0181
+PRSS57	host cell membrane	Anatomy	0.0183
+PRSS57	Splenocyte	Anatomy	0.0192
+PRSS57	Reticulocytes	Anatomy	0.0198
+PRSS57	membrane fraction	Anatomy	0.0209
+PRSS57	Gastrointestinal Contents	Anatomy	0.0213
+PRSS57	viral glycoprotein	Anatomy	0.0228
+PRSS57	Structure of calf of leg	Anatomy	0.0233
+PRSS57	Fragments	Anatomy	0.0246
+PRSS57	Bodily secretions	Anatomy	0.0247
+PRSS57	Cell-Free System	Anatomy	0.0247
+PRSS57	Pathology specimen	Anatomy	0.0249
+PRSS57	Structure of lumen of body system	Anatomy	0.0253
+PRSS57	Intestines	Anatomy	0.0257
+PRSS57	COS Cells	Anatomy	0.0258
+PRSS57	Microtubule cytoskeleton	Anatomy	0.0284
+PRSS57	Macrophages, Alveolar	Anatomy	0.0286
+PRSS57	Ileal mucous membrane	Anatomy	0.0286
+PRSS57	Promyelocytes	Anatomy	0.0289
+PRSS57	Chromosomes, Human, Pair 19	Anatomy	0.0308
+PRSS57	Intestines, Small	Anatomy	0.0314
+PRSS57	Lymphoid Tissue	Anatomy	0.0319
+PRSS57	T-helper cell type 1	Anatomy	0.0327
+PRSS57	Microtubule-Organizing Center	Anatomy	0.0337
+PRSS57	Anatomical compartments	Anatomy	0.0359
+PRSS57	COS-7 Cells	Anatomy	0.0369
+PRSS57	Apical plasma membrane	Anatomy	0.0383
+PRSS57	Jejunal mucous membrane	Anatomy	0.0387
+PRSS57	Radiation Hybrids	Anatomy	0.0398
+PRSS57	Blood	Anatomy	0.0406
+PRSS57	Epithelial Cells	Anatomy	0.0411
+PRSS57	Vomitus - SpecimenType	Anatomy	0.0423
+PRSS57	Mesenteric artery lymph node group	Anatomy	0.044
+PRSS57	viral nucleocapsid location	Anatomy	0.0445
+PRSS57	myeloblast	Anatomy	0.045
+PRSS57	filamentous actin location	Anatomy	0.0455
+PRSS57	Lymph node of mesentery	Anatomy	0.0455
+PRSS57	HeLa Cells	Anatomy	0.0459
+PRSS57	Antibody-Secreting Cells	Anatomy	0.0468
+PRSS57	Helix of ear	Anatomy	0.0489
+PRSS57	Molecular helix	Anatomy	0.0489
+PRSS57	Structure of area postrema	Anatomy	0.0515
+PRSS57	Intestinal cell	Anatomy	0.0526
+PRSS57	Cerebellar tuber	Anatomy	0.0543
+PRSS57	Tuber Subdivision of Bone	Anatomy	0.0543
+PRSS57	Reticulum	Anatomy	0.0582
+PRSS57	Solocyte	Anatomy	0.0583
+PRSS57	cell periphery	Anatomy	0.0607
+PRSS57	Heart	Anatomy	0.0629
+PRSS57	Supernatant	Anatomy	0.0673
+PRSS57	viral capsid	Anatomy	0.0703
+PRSS57	Microtubules	Anatomy	0.0713
+PRSS57	Cell Fraction	Anatomy	0.0773
+PRSS57	Liver	Anatomy	0.0786
+PRSS57	Mammalian Cell	Anatomy	0.079
+PRSS57	Placental tissue sample	Anatomy	0.085
+PRSS57	ileum	Anatomy	0.089
+PRSS57	Solitary tract	Anatomy	0.0948
+PRSS57	Fibroblasts	Anatomy	0.097
+PRSS57	Intestinal Secretions	Anatomy	0.0982
+PRSS57	Lung	Anatomy	0.0983
+PRSS57	Vacuole	Anatomy	0.0998
+PRSS57	Granulocyte Precursor Cells	Anatomy	0.102
+PRSS57	Filopodia	Anatomy	0.105
+PRSS57	Nuclear Matrix	Anatomy	0.106
+PRSS57	Cell surface	Anatomy	0.107
+PRSS57	Plasma	Anatomy	0.109
+PRSS57	Inclusion Bodies, Viral	Anatomy	0.111
+PRSS57	neutrophil	Anatomy	0.122
+PRSS57	Eukaryotic Cells	Anatomy	0.124
+PRSS57	Skin	Anatomy	0.125
+PRSS57	Muscle	Anatomy	0.127
+PRSS57	Serum	Anatomy	0.13
+PRSS57	Bile Ducts, Extrahepatic	Anatomy	0.132
+PRSS57	Stratum Basale	Anatomy	0.139
+PRSS57	Organelles	Anatomy	0.151
+PRSS57	Microfilaments	Anatomy	0.151
+PRSS57	Brain	Anatomy	0.152
+PRSS57	Autophagic vacuoles	Anatomy	0.161
+PRSS57	glial fibrillary acidic protein location	Anatomy	0.164
+PRSS57	Endosomes	Anatomy	0.168
+PRSS57	Adenocarcinoma Cell	Anatomy	0.17
+PRSS57	Brush Border	Anatomy	0.172
+PRSS57	Bud - CHV concept	Anatomy	0.178
+PRSS57	Transport Vesicles	Anatomy	0.178
+PRSS57	Oligodendroglia	Anatomy	0.183
+PRSS57	Cytoskeleton	Anatomy	0.185
+PRSS57	Stress Fibers	Anatomy	0.185
+PRSS57	Meconium	Anatomy	0.191
+PRSS57	Crystal - human material	Anatomy	0.196
+PRSS57	membrane raft	Anatomy	0.197
+PRSS57	Breast	Anatomy	0.2
+PRSS57	Jejunum	Anatomy	0.204
+PRSS57	Human Cell Line	Anatomy	0.205
+PRSS57	receptor complex	Anatomy	0.219
+PRSS57	Inclusion Bodies	Anatomy	0.223
+PRSS57	Epithelium	Anatomy	0.227
+PRSS57	Centrosome	Anatomy	0.227
+PRSS57	Hand	Anatomy	0.234
+PRSS57	apical membrane	Anatomy	0.236
+PRSS57	Structure of choroid plexus	Anatomy	0.243
+PRSS57	Cytoplasmic Granules	Anatomy	0.251
+PRSS57	Head	Anatomy	0.252
+PRSS57	Neurons	Anatomy	0.267
+PRSS57	Chromosomes	Anatomy	0.273
+PRSS57	Rough endoplasmic reticulum	Anatomy	0.276
+PRSS57	Sensory nerve	Anatomy	0.28
+PRSS57	Intracellular Space	Anatomy	0.29
+PRSS57	Flank (surface region)	Anatomy	0.295
+PRSS57	Eye	Anatomy	0.303
+PRSS57	Stratum corneum	Anatomy	0.309
+PRSS57	Urine	Anatomy	0.318
+PRSS57	Anatomical base	Anatomy	0.32
+PRSS57	Antibody-Producing Cells	Anatomy	0.325
+PRSS57	Cerebral cortex	Anatomy	0.329
+PRSS57	Cell Line, Tumor	Anatomy	0.338
+PRSS57	Pseudopodia	Anatomy	0.35
+PRSS57	Mucous Membrane	Anatomy	0.355
+PRSS57	Cellular Membrane	Anatomy	0.368
+PRSS57	vesicle	Anatomy	0.368
+PRSS57	anatomical layer	Anatomy	0.385
+PRSS57	Mouse Liver	Anatomy	0.388
+PRSS57	Respiratory tract structure	Anatomy	0.393
+PRSS57	Joints	Anatomy	0.409
+PRSS57	Subcellular Fractions	Anatomy	0.416
+PRSS57	Nerve	Anatomy	0.424
+PRSS57	Blood Platelets	Anatomy	0.428
+PRSS57	Protoplasts	Anatomy	0.439
+PRSS57	Organoids	Anatomy	0.456
+PRSS57	Optic Nerve	Anatomy	0.462
+PRSS57	Mitochondrial Membranes	Anatomy	0.462
+PRSS57	Lipid Bilayers	Anatomy	0.469
+PRSS57	Erythrocytes	Anatomy	0.472
+PRSS57	Neck	Anatomy	0.493
+PRSS57	Media layer	Anatomy	0.552
+PRSS57	Embryonic Structures	Anatomy	0.554
+PRSS57	Salivary Glands	Anatomy	0.569
+PRSS57	CD8-Positive T-Lymphocytes	Anatomy	0.571
+PRSS57	Cell Nucleus	Anatomy	0.574
+PRSS57	Intercellular Junctions	Anatomy	0.578
+PRSS57	collagen location	Anatomy	0.578
+PRSS57	Limb structure	Anatomy	0.602
+PRSS57	lymph nodes	Anatomy	0.635
+PRSS57	Stomach	Anatomy	0.639
+PRSS57	Face	Anatomy	0.644
+PRSS57	Aspirate substance	Anatomy	0.654
+PRSS57	nucleic acid location	Anatomy	0.673
+PRSS57	Uterus	Anatomy	0.675
+PRSS57	Embryo	Anatomy	0.689
+PRSS57	Upper arm	Anatomy	0.706
+PRSS57	Root body part	Anatomy	0.709
+PRSS57	Hematopoietic stem cells	Anatomy	0.727
+PRSS57	Myoblasts	Anatomy	0.729
+PRSS57	Upper Extremity	Anatomy	0.732
+PRSS57	Stem cells	Anatomy	0.748
+PRSS57	Paw	Anatomy	0.768
+PRSS57	Cerebrum	Anatomy	0.798
+PRSS57	Organ	Anatomy	0.848
+PRSS57	tubulin location	Anatomy	0.859
+PRSS57	Tight Junctions	Anatomy	0.881
+PRSS57	Spleen	Anatomy	0.896
+PRSS57	Tumor cells, uncertain whether benign or malignant	Anatomy	0.899
+PRSS57	CNS - Brain (MMHCC)	Anatomy	0.951
+PRSS57	Biliary tract structure	Anatomy	0.971
+PRSS57	Gut	Anatomy	0.995
+PRSS57	Body tissue	Anatomy	1.0
+PRSS57	Kidney	Anatomy	1.0
+PRSS57	macrophage	Anatomy	1.0
+PRSS57	T-Lymphocyte	Anatomy	1.0
+PRSS57	peripheral blood	Anatomy	1.0
+PRSS57	Specimen Type - Macrophages	Anatomy	1.0
+PRSS57	Leukocytes	Anatomy	1.0
+PRSS57	Mitochondria	Anatomy	1.0
+PRSS57	Tumor Cells, Cultured	Anatomy	1.0
+PRSS57	B-Lymphocytes	Anatomy	1.0
+PRSS57	Bone Marrow	Anatomy	1.0
+PRSS57	Fingers	Anatomy	1.0
+PRSS57	Lymphocyte	Anatomy	1.0
+PRSS57	Immune system	Anatomy	1.0
+PRSS57	Astrocytes	Anatomy	1.0
+PRSS57	Brain Stem	Anatomy	1.0
+PRSS57	Cerebrospinal Fluid	Anatomy	1.0
+PRSS57	Colon structure (body structure)	Anatomy	1.0
+PRSS57	Cytoplasmic matrix	Anatomy	1.0
+PRSS57	Dendritic Cells	Anatomy	1.0
+PRSS57	Extracellular Matrix	Anatomy	1.0
+PRSS57	Lysosomes	Anatomy	1.0
+PRSS57	Neuroglia	Anatomy	1.0
+PRSS57	Pancreas	Anatomy	1.0
+PRSS57	Prostate	Anatomy	1.0
+PRSS57	Shell - Animal skin appendage	Anatomy	1.0
+PRSS57	cellular entity storage	Anatomy	1.0
+PRSS57	Gastrointestinal tract structure	Anatomy	1.0
+PRSS57	Respiratory System	Anatomy	1.0
+PRSS57	Neuraxis	Anatomy	1.0
+PRSS57	Amniotic Fluid	Anatomy	1.0
+PRSS57	Axon	Anatomy	1.0
+PRSS57	Basement membrane	Anatomy	1.0
+PRSS57	Bile duct structure	Anatomy	1.0
+PRSS57	Body Fluids	Anatomy	1.0
+PRSS57	Bone Marrow Cells	Anatomy	1.0
+PRSS57	Cecum	Anatomy	1.0
+PRSS57	Cerebellum	Anatomy	1.0
+PRSS57	Corpus Callosum	Anatomy	1.0
+PRSS57	Corpus striatum structure	Anatomy	1.0
+PRSS57	Dendrites	Anatomy	1.0
+PRSS57	Duodenum	Anatomy	1.0
+PRSS57	Extracellular Space	Anatomy	1.0
+PRSS57	Gallbladder	Anatomy	1.0
+PRSS57	Ganglia, Spinal	Anatomy	1.0
+PRSS57	granulocyte	Anatomy	1.0
+PRSS57	Hybridomas	Anatomy	1.0
+PRSS57	Hypothalamic structure	Anatomy	1.0
+PRSS57	Kidney Glomerulus	Anatomy	1.0
+PRSS57	Microsomes	Anatomy	1.0
+PRSS57	Ovum	Anatomy	1.0
+PRSS57	Sarcoplasmic Reticulum	Anatomy	1.0
+PRSS57	Semen	Anatomy	1.0
+PRSS57	Thymus Gland	Anatomy	1.0
+PRSS57	Giant Cells	Anatomy	1.0
+PRSS57	T-Lymphocyte Subsets	Anatomy	1.0
+PRSS57	Neostriatum	Anatomy	1.0
+PRSS57	Macrophages, Peritoneal	Anatomy	1.0
+PRSS57	Myeloid Cells	Anatomy	1.0
+PRSS57	Mesenchymal Stem Cells	Anatomy	1.0
+PRSS57	Chromosomes, Human	Anatomy	1.0
+PRSS57	Milk (body substance)	Anatomy	1.0
+PRSS57	Cerebral hemisphere structure (body structure)	Anatomy	1.0
+PRSS57	Myelin	Anatomy	1.0
+PRSS57	Body cavities	Anatomy	1.0
+PRSS57	Blast Cell	Anatomy	1.0
+PRSS57	Brain tissue	Anatomy	1.0
+PRSS57	Duct (organ) structure	Anatomy	1.0
+PRSS57	Chamber	Anatomy	1.0
+PRSS57	Tract	Anatomy	1.0
+PRSS57	Stem of Organ	Anatomy	1.0
+PRSS57	vimentin location	Anatomy	1.0
+PRSS57	Malignant Epithelial Cell	Anatomy	1.0
+PRSS57	Rat Brain	Anatomy	1.0
+PRSS57	Plant Cells	Anatomy	1.0
+PRSS57	Estes MK	Biomedical expert	0.4966
+PRSS57	Kobayashi N	Biomedical expert	0.5488
+PRSS57	Martella V	Biomedical expert	0.5827
+PRSS57	Bányai K	Biomedical expert	0.5945
+PRSS57	Matthijnssens J	Biomedical expert	0.6065
+PRSS57	Ghosh S	Biomedical expert	0.6313
+PRSS57	Snijder EJ	Biomedical expert	0.657
+PRSS57	Strauss JH	Biomedical expert	0.6703
+PRSS57	Nakagomi O	Biomedical expert	0.6839
+PRSS57	Gentsch JR	Biomedical expert	0.6839
+PRSS57	Ball JM	Biomedical expert	0.6977
+PRSS57	Ciarlet M	Biomedical expert	0.7118
+PRSS57	Rice CM	Biomedical expert	0.7118
+PRSS57	Merits A	Biomedical expert	0.7118
+PRSS57	Van Ranst M	Biomedical expert	0.7118
+PRSS57	Nakagomi T	Biomedical expert	0.7408
+PRSS57	Kirkwood CD	Biomedical expert	0.7408
+PRSS57	Ushijima H	Biomedical expert	0.7558
+PRSS57	Heylen E	Biomedical expert	0.7558
+PRSS57	Zeller M	Biomedical expert	0.7558
+PRSS57	Zeng CQ	Biomedical expert	0.7711
+PRSS57	Strauss EG	Biomedical expert	0.7711
+PRSS57	Maneekarn N	Biomedical expert	0.7866
+PRSS57	Saif LJ	Biomedical expert	0.7866
+PRSS57	Sawicki SG	Biomedical expert	0.8025
+PRSS57	Glass RI	Biomedical expert	0.8025
+PRSS57	Kääriäinen L	Biomedical expert	0.8025
+PRSS57	Jiang B	Biomedical expert	0.8025
+PRSS57	Taniguchi K	Biomedical expert	0.8025
+PRSS57	Ahola T	Biomedical expert	0.8187
+PRSS57	Buonavoglia C	Biomedical expert	0.8187
+PRSS57	Hoshino Y	Biomedical expert	0.8187
+PRSS57	Gorbalenya AE	Biomedical expert	0.8187
+PRSS57	Iturriza-Gómara M	Biomedical expert	0.8187
+PRSS57	Khamrin P	Biomedical expert	0.8187
+PRSS57	Taylor JA	Biomedical expert	0.8187
+PRSS57	Sawicki DL	Biomedical expert	0.8353
+PRSS57	Chitambar SD	Biomedical expert	0.8353
+PRSS57	Svensson L	Biomedical expert	0.8353
+PRSS57	Stollar V	Biomedical expert	0.8353
+PRSS57	Okitsu S	Biomedical expert	0.8353
+PRSS57	Crawford SE	Biomedical expert	0.8353
+PRSS57	Tian P	Biomedical expert	0.8521
+PRSS57	Morris AP	Biomedical expert	0.8521
+PRSS57	Malik YS	Biomedical expert	0.8521
+PRSS57	De Grazia S	Biomedical expert	0.8521
+PRSS57	Kang G	Biomedical expert	0.8521
+PRSS57	Suguna K	Biomedical expert	0.8521
+PRSS57	Naik TN	Biomedical expert	0.8521
+PRSS57	Rao CD	Biomedical expert	0.8521
+PRSS57	Leite JP	Biomedical expert	0.8521
+PRSS57	Hyser JM	Biomedical expert	0.8521
+PRSS57	Esona MD	Biomedical expert	0.8694
+PRSS57	Wang Y	Biomedical expert	0.8694
+PRSS57	Santos N	Biomedical expert	0.8694
+PRSS57	Shirako Y	Biomedical expert	0.8694
+PRSS57	Peerakome S	Biomedical expert	0.8869
+PRSS57	Denison MR	Biomedical expert	0.8869
+PRSS57	Chawla-Sarkar M	Biomedical expert	0.8869
+PRSS57	Mascarenhas JD	Biomedical expert	0.8869
+PRSS57	Wassenaar AL	Biomedical expert	0.8869
+PRSS57	Urushibara N	Biomedical expert	0.8869
+PRSS57	Cunliffe NA	Biomedical expert	0.8869
+PRSS57	Baker SC	Biomedical expert	0.8869
+PRSS57	Steyer A	Biomedical expert	0.8869
+PRSS57	Kapikian AZ	Biomedical expert	0.8869
+PRSS57	Schroeder F	Biomedical expert	0.8869
+PRSS57	Ruiz MC	Biomedical expert	0.8869
+PRSS57	Paul SK	Biomedical expert	0.8869
+PRSS57	Bellamy AR	Biomedical expert	0.8869
+PRSS57	Kim W	Biomedical expert	0.8869
+PRSS57	Langridge WH	Biomedical expert	0.8869
+PRSS57	Michelangeli F	Biomedical expert	0.8869
+PRSS57	López S	Biomedical expert	0.8869
+PRSS57	Liprandi F	Biomedical expert	0.8869
+PRSS57	Greenberg HB	Biomedical expert	0.8869
+PRSS57	Bhan MK	Biomedical expert	0.8869
+PRSS57	Arista S	Biomedical expert	0.8869
+PRSS57	Li ML	Biomedical expert	0.8869
+PRSS57	Zhang Q	Biomedical expert	0.8869
+PRSS57	Parr RD	Biomedical expert	0.8869
+PRSS57	Krishnan T	Biomedical expert	0.8869
+PRSS57	Ruggeri FM	Biomedical expert	0.8869
+PRSS57	Rodríguez-Díaz J	Biomedical expert	0.9048
+PRSS57	Doan YH	Biomedical expert	0.9048
+PRSS57	Giammanco GM	Biomedical expert	0.9048
+PRSS57	Parreño V	Biomedical expert	0.9048
+PRSS57	Feng N	Biomedical expert	0.9048
+PRSS57	Peränen J	Biomedical expert	0.9048
+PRSS57	Zhou Y	Biomedical expert	0.9048
+PRSS57	Buesa J	Biomedical expert	0.9048
+PRSS57	Arias CF	Biomedical expert	0.9048
+PRSS57	Spaan WJ	Biomedical expert	0.9048
+PRSS57	Zhou L	Biomedical expert	0.9048
+PRSS57	Hardy WR	Biomedical expert	0.9048
+PRSS57	Wang YH	Biomedical expert	0.9048
+PRSS57	Komoto S	Biomedical expert	0.9048
+PRSS57	Honma S	Biomedical expert	0.9048
+PRSS57	Ito N	Biomedical expert	0.9048
+PRSS57	Sugiyama M	Biomedical expert	0.9048
+PRSS57	Protein	Food	7.96E-4
+PRSS57	Serine	Food	0.00267
+PRSS57	Farmed salmon	Food	0.00548
+PRSS57	Calcium	Food	0.0106
+PRSS57	Arginine	Food	0.0119
+PRSS57	Threonine	Food	0.0124
+PRSS57	Turkey	Food	0.0136
+PRSS57	Histidine	Food	0.0184
+PRSS57	Chicken	Food	0.0195
+PRSS57	Alanine	Food	0.02
+PRSS57	Proline	Food	0.031
+PRSS57	Isoleucine	Food	0.0389
+PRSS57	Salmon	Food	0.0473
+PRSS57	Buffalo	Food	0.0503
+PRSS57	Lamb	Food	0.0608
+PRSS57	Leucine	Food	0.074
+PRSS57	Aspartic acid	Food	0.0937
+PRSS57	Red wine	Food	0.0937
+PRSS57	Glucose	Food	0.211
+PRSS57	Glycine	Food	0.212
+PRSS57	Water	Food	0.229
+PRSS57	Lysine	Food	0.229
+PRSS57	Potatoes	Food	0.233
+PRSS57	Valine	Food	0.237
+PRSS57	Pork	Food	0.288
+PRSS57	Wheatgerm	Food	0.295
+PRSS57	Quail	Food	0.337
+PRSS57	Poultry	Food	0.441
+PRSS57	Sodium	Food	0.478
+PRSS57	Glutamic acid	Food	0.561
+PRSS57	Sugar	Food	0.658
+PRSS57	Cholesterol	Food	0.927
+PRSS57	Cod	Food	0.943
+PRSS57	Milk	Food	0.964
+PRSS57	Magnesium	Food	1.0
+PRSS57	Tyrosine	Food	1.0
+PRSS57	Fish	Food	1.0
+PRSS57	Lactose	Food	1.0
+PRSS57	Methionine	Food	1.0
+PRSS57	Phenylalanine	Food	1.0
+PRSS57	Fluoride	Food	1.0
+PRSS57	Wine	Food	1.0
+PRSS57	Seeds	Food	1.0
+PRSS57	Tryptophan	Food	1.0
+PRSS57	Zinc	Food	1.0
+PRSS57	viral outer capsid	Cellular component	2.74E-5
+PRSS57	viral inner capsid	Cellular component	3.67E-5
+PRSS57	viral intermediate capsid	Cellular component	2.14E-4
+PRSS57	viral replication complex	Cellular component	3.69E-4
+PRSS57	endoplasmic reticulum	Cellular component	7.2E-4
+PRSS57	virion	Cellular component	7.96E-4
+PRSS57	endoplasmic reticulum membrane	Cellular component	9.7E-4
+PRSS57	viral genome	Cellular component	0.0011
+PRSS57	endoplasmic reticulum-Golgi intermediate compartment	Cellular component	0.00195
+PRSS57	host cell	Cellular component	0.00225
+PRSS57	endoplasmic reticulum lumen	Cellular component	0.00253
+PRSS57	viral nucleocapsid	Cellular component	0.00292
+PRSS57	caveola	Cellular component	0.00342
+PRSS57	cytoskeletal part	Cellular component	0.00396
+PRSS57	brush border membrane	Cellular component	0.00442
+PRSS57	azurophil granule	Cellular component	0.00546
+PRSS57	membrane	Cellular component	0.00806
+PRSS57	plasma membrane	Cellular component	0.00954
+PRSS57	cytoplasm	Cellular component	0.00982
+PRSS57	cytoplasmic stress granule	Cellular component	0.01
+PRSS57	IgA immunoglobulin complex, circulating	Cellular component	0.0107
+PRSS57	Golgi apparatus	Cellular component	0.0158
+PRSS57	host cell membrane	Cellular component	0.018
+PRSS57	microtubule organizing center	Cellular component	0.0184
+PRSS57	endosome membrane	Cellular component	0.0188
+PRSS57	viral envelope	Cellular component	0.0193
+PRSS57	viral membrane	Cellular component	0.0229
+PRSS57	microtubule cytoskeleton	Cellular component	0.0282
+PRSS57	cell	Cellular component	0.0329
+PRSS57	apical plasma membrane	Cellular component	0.0383
+PRSS57	filamentous actin	Cellular component	0.0455
+PRSS57	microtubule	Cellular component	0.0551
+PRSS57	autophagic vacuole	Cellular component	0.0585
+PRSS57	cell periphery	Cellular component	0.0606
+PRSS57	viral capsid	Cellular component	0.0683
+PRSS57	catalytic complex	Cellular component	0.0916
+PRSS57	cell surface	Cellular component	0.104
+PRSS57	nuclear matrix	Cellular component	0.106
+PRSS57	brush border	Cellular component	0.151
+PRSS57	actin cytoskeleton	Cellular component	0.172
+PRSS57	cytoskeleton	Cellular component	0.18
+PRSS57	receptor complex	Cellular component	0.207
+PRSS57	actin filament	Cellular component	0.215
+PRSS57	mitochondrial membrane	Cellular component	0.223
+PRSS57	rough endoplasmic reticulum	Cellular component	0.226
+PRSS57	centrosome	Cellular component	0.227
+PRSS57	cytosol	Cellular component	0.286
+PRSS57	vesicle	Cellular component	0.406
+PRSS57	collagen trimer	Cellular component	0.495
+PRSS57	organelle	Cellular component	0.764
+PRSS57	chromosome	Cellular component	0.795
+PRSS57	nucleus	Cellular component	1.0
+PRSS57	mitochondrion	Cellular component	1.0
+PRSS57	extracellular matrix	Cellular component	1.0
+PRSS57	extracellular space	Cellular component	1.0
+PRSS57	sarcoplasmic reticulum	Cellular component	1.0
+PRSS57	basement membrane	Cellular component	1.0
+PRSS57	Rotavirus vaccine	Drug	6.54E-5
+PRSS57	CDKI R547	Drug	2.14E-4
+PRSS57	Pyrazofurin	Drug	2.21E-4
+PRSS57	Cyclopentenyl Cytosine	Drug	0.0018
+PRSS57	FAVIPIRAVIR	Drug	0.00522
+PRSS57	L-Serine	Drug	0.00599
+PRSS57	Cytidine	Drug	0.00701
+PRSS57	INALIMAREV	Drug	0.00867
+PRSS57	CALCIUM	Drug	0.0105
+PRSS57	Elafin	Drug	0.0106
+PRSS57	nocodazole	Drug	0.0108
+PRSS57	Arginine	Drug	0.0119
+PRSS57	L-Threonine	Drug	0.0124
+PRSS57	Palonosetron	Drug	0.0134
+PRSS57	Lactase	Drug	0.0174
+PRSS57	Recombinant Interferon Beta	Drug	0.018
+PRSS57	Histidine	Drug	0.0184
+PRSS57	Hesperetin	Drug	0.019
+PRSS57	CHYMOTRYPSIN	Drug	0.0196
+PRSS57	Lactobacillus rhamnosus GG	Drug	0.0199
+PRSS57	L-Alanine	Drug	0.02
+PRSS57	L-Asparagine	Drug	0.0216
+PRSS57	Benzamidine	Drug	0.0225
+PRSS57	RIBAVIRIN	Drug	0.0271
+PRSS57	L-Proline	Drug	0.031
+PRSS57	CARBACHOL	Drug	0.034
+PRSS57	AMLODIPINE	Drug	0.0343
+PRSS57	L-Isoleucine	Drug	0.0389
+PRSS57	Phosphonoacetic Acid	Drug	0.039
+PRSS57	Geldanamycin	Drug	0.0399
+PRSS57	Citrulline	Drug	0.0446
+PRSS57	L-Leucine	Drug	0.074
+PRSS57	Keyhole Limpet Hemocyanin	Drug	0.0799
+PRSS57	Recombinant Interferon	Drug	0.0819
+PRSS57	L-Aspartic Acid	Drug	0.0947
+PRSS57	Recombinant Interferon Gamma	Drug	0.0967
+PRSS57	Suramin	Drug	0.117
+PRSS57	ONDANSETRON	Drug	0.126
+PRSS57	Therapeutic Immune Globulin	Drug	0.129
+PRSS57	Monensin	Drug	0.131
+PRSS57	Guanosine	Drug	0.138
+PRSS57	Inositol	Drug	0.143
+PRSS57	Mitoxantrone	Drug	0.172
+PRSS57	Forskolin	Drug	0.174
+PRSS57	Adenovirus Vector	Drug	0.175
+PRSS57	Uridine	Drug	0.202
+PRSS57	Binetrakin	Drug	0.206
+PRSS57	GLYCINE	Drug	0.213
+PRSS57	Lysine	Drug	0.23
+PRSS57	L-Valine	Drug	0.237
+PRSS57	Therapeutic Insulin	Drug	0.238
+PRSS57	EDETATE CALCIUM DISODIUM	Drug	0.247
+PRSS57	DEOXYCHOLIC ACID	Drug	0.286
+PRSS57	Spermidine	Drug	0.326
+PRSS57	CARISOPRODOL	Drug	0.369
+PRSS57	INULIN	Drug	0.388
+PRSS57	Tetanus vaccine	Drug	0.434
+PRSS57	Alpha-1-proteinase inhibitor	Drug	0.442
+PRSS57	Palmitic Acid	Drug	0.466
+PRSS57	ADENOSINE	Drug	0.517
+PRSS57	Glutathione	Drug	0.537
+PRSS57	Glutamic Acid	Drug	0.561
+PRSS57	GLUTAMINE	Drug	0.578
+PRSS57	Midazolam	Drug	0.624
+PRSS57	Glucosamine	Drug	0.726
+PRSS57	Adenosine Triphosphate	Drug	0.744
+PRSS57	Formaldehyde	Drug	0.834
+PRSS57	Dopamine	Drug	0.918
+PRSS57	Cholesterol	Drug	0.951
+PRSS57	Magnesium	Drug	1.0
+PRSS57	TYROSINE	Drug	1.0
+PRSS57	NITRIC OXIDE	Drug	1.0
+PRSS57	Thymidine	Drug	1.0
+PRSS57	Adenine	Drug	1.0
+PRSS57	Heparin	Drug	1.0
+PRSS57	Recombinant Interleukin-6	Drug	1.0
+PRSS57	CHLORAMPHENICOL	Drug	1.0
+PRSS57	Alkaline Phosphatase	Drug	1.0
+PRSS57	substance P	Drug	1.0
+PRSS57	L-Tryptophan	Drug	1.0
+PRSS57	L-Methionine	Drug	1.0
+PRSS57	BIOTIN	Drug	1.0
+PRSS57	L-Phenylalanine	Drug	1.0
+PRSS57	MYELOPEROXIDASE	Drug	1.0
+PRSS57	CISPLATIN	Drug	1.0
+PRSS57	Fluorescein	Drug	1.0
+PRSS57	GLYCERIN	Drug	1.0
+PRSS57	TRETINOIN	Drug	1.0
+PRSS57	Recombinant Tumor Necrosis Factor Family Protein	Drug	1.0
+PRSS57	DACTINOMYCIN	Drug	1.0
+PRSS57	Recombinant Interleukin-12	Drug	1.0
+PRSS57	NIFEDIPINE	Drug	1.0
+PRSS57	PACLITAXEL	Drug	1.0
+PRSS57	Zinc	Drug	1.0
+PRSS57	Lactose	Drug	1.0
+PRSS57	Guanine	Drug	1.0
+PRSS57	UREA	Drug	1.0
+PRSS57	adenylyltransferase activity	Molecular function	1.71E-4
+PRSS57	RNA-directed RNA polymerase activity	Molecular function	9.22E-4
+PRSS57	peptidase activity	Molecular function	0.00216
+PRSS57	RNA helicase activity	Molecular function	0.00327
+PRSS57	RNA polymerase activity	Molecular function	0.00506
+PRSS57	nucleoside-triphosphatase activity	Molecular function	0.0059
+PRSS57	serine-type peptidase activity	Molecular function	0.0135
+PRSS57	lactase activity	Molecular function	0.0154
+PRSS57	protein binding	Molecular function	0.0211
+PRSS57	ion channel activity	Molecular function	0.022
+PRSS57	helicase activity	Molecular function	0.0292
+PRSS57	ion binding	Molecular function	0.0336
+PRSS57	beta-galactosidase activity	Molecular function	0.0621
+PRSS57	drug binding	Molecular function	0.0662
+PRSS57	peptide binding	Molecular function	0.107
+PRSS57	luciferin monooxygenase activity	Molecular function	0.18
+PRSS57	channel activity	Molecular function	0.232
+PRSS57	base pairing	Molecular function	0.554
+PRSS57	catalytic activity	Molecular function	1.0
+PRSS57	kinase activity	Molecular function	1.0
+PRSS57	Diarrhea	Symptom	9.13E-5
+PRSS57	Severe diarrhea	Symptom	2.86E-4
+PRSS57	Watery diarrhea	Symptom	0.00266
+PRSS57	Infantile diarrhea	Symptom	0.00482
+PRSS57	Vomit diarrhea	Symptom	0.00483
+PRSS57	Arthralgia	Symptom	0.0358
+PRSS57	Nausea and vomiting	Symptom	0.0926
+PRSS57	Myalgia	Symptom	0.0977
+PRSS57	Pain	Symptom	0.117
+PRSS57	Vomiting	Symptom	0.254
+PRSS57	Symptoms gastrointestinal	Symptom	0.43
+PRSS57	Seizures	Symptom	0.68
+PRSS57	Fluctuation	Symptom	1.0
+PRSS57	Nausea	Symptom	1.0
+PRSS57	Jaundice (not of newborn)	Symptom	1.0
+PRSS57	SH2D3C	Gene/Protein	4.8E-7
+PRSS57	SH2D3A	Gene/Protein	6.31E-7
+PRSS57	SPECC1	Gene/Protein	7.39E-7
+PRSS57	RTN2	Gene/Protein	7.67E-7
+PRSS57	BCAR3	Gene/Protein	8.01E-7
+PRSS57	KIR2DL4	Gene/Protein	1.5E-5
+PRSS57	ICT1	Gene/Protein	3.44E-5
+PRSS57	GTF2H3	Gene/Protein	3.85E-5
+PRSS57	SEMG2	Gene/Protein	6.33E-5
+PRSS57	PPP1CA	Gene/Protein	9.91E-5
+PRSS57	ST3	Gene/Protein	1.4E-4
+PRSS57	UBR7	Gene/Protein	2.35E-4
+PRSS57	G3BP2	Gene/Protein	2.41E-4
+PRSS57	MMP11	Gene/Protein	2.6E-4
+PRSS57	RPS4Y1	Gene/Protein	2.9E-4
+PRSS57	ASNS	Gene/Protein	3.32E-4
+PRSS57	LMAN1	Gene/Protein	3.94E-4
+PRSS57	KLK10	Gene/Protein	4.14E-4
+PRSS57	KLK9	Gene/Protein	6.2E-4
+PRSS57	OPN5	Gene/Protein	6.48E-4
+PRSS57	RPS4X	Gene/Protein	7.03E-4
+PRSS57	KLK12	Gene/Protein	8.77E-4
+PRSS57	ST5	Gene/Protein	9.84E-4
+PRSS57	PLP2	Gene/Protein	0.0011
+PRSS57	CTRL	Gene/Protein	0.00115
+PRSS57	KLK8	Gene/Protein	0.00116
+PRSS57	GPNMB	Gene/Protein	0.00117
+PRSS57	UBR4	Gene/Protein	0.00122
+PRSS57	UBR2	Gene/Protein	0.00124
+PRSS57	HSPB3	Gene/Protein	0.00136
+PRSS57	G3BP1	Gene/Protein	0.00138
+PRSS57	KLK13	Gene/Protein	0.00146
+PRSS57	PSMC1	Gene/Protein	0.00161
+PRSS57	CTSG	Gene/Protein	0.00164
+PRSS57	KLK6	Gene/Protein	0.00181
+PRSS57	CANX	Gene/Protein	0.00182
+PRSS57	SNORD3@	Gene/Protein	0.00182
+PRSS57	DCP1A	Gene/Protein	0.00191
+PRSS57	CD53	Gene/Protein	0.00199
+PRSS57	TFF3	Gene/Protein	0.002
+PRSS57	KLK11	Gene/Protein	0.0021
+PRSS57	CTSC	Gene/Protein	0.00213
+PRSS57	IRF3	Gene/Protein	0.00217
+PRSS57	PRM3	Gene/Protein	0.00221
+PRSS57	RBM10	Gene/Protein	0.00236
+PRSS57	KLK14	Gene/Protein	0.00249
+PRSS57	HFM1	Gene/Protein	0.00255
+PRSS57	F2	Gene/Protein	0.00267
+PRSS57	GOLT1A	Gene/Protein	0.00273
+PRSS57	GOLT1B	Gene/Protein	0.00292
+PRSS57	NXT1	Gene/Protein	0.00304
+PRSS57	UBR1	Gene/Protein	0.00305
+PRSS57	PRTN3	Gene/Protein	0.00309
+PRSS57	SLC5A1	Gene/Protein	0.00312
+PRSS57	SH3KBP1	Gene/Protein	0.00344
+PRSS57	PELP1	Gene/Protein	0.00346
+PRSS57	GBF1	Gene/Protein	0.00368
+PRSS57	DCTN1	Gene/Protein	0.0037
+PRSS57	CAPZA2	Gene/Protein	0.00383
+PRSS57	RAB2A	Gene/Protein	0.00387
+PRSS57	CAPZB	Gene/Protein	0.00394
+PRSS57	CAPZA1	Gene/Protein	0.00405
+PRSS57	GOT1	Gene/Protein	0.00409
+PRSS57	MOGS	Gene/Protein	0.00422
+PRSS57	MYBBP1A	Gene/Protein	0.00477
+PRSS57	KLK5	Gene/Protein	0.00535
+PRSS57	MAP1LC3A	Gene/Protein	0.00601
+PRSS57	CAV1	Gene/Protein	0.00621
+PRSS57	CLCA4	Gene/Protein	0.00643
+PRSS57	PTGES2	Gene/Protein	0.00706
+PRSS57	CDKN2B	Gene/Protein	0.00719
+PRSS57	COPB1	Gene/Protein	0.00728
+PRSS57	ELANE	Gene/Protein	0.00766
+PRSS57	PROC	Gene/Protein	0.00814
+PRSS57	APOM	Gene/Protein	0.00816
+PRSS57	TMED3	Gene/Protein	0.00896
+PRSS57	HSP90B1	Gene/Protein	0.00918
+PRSS57	P4HB	Gene/Protein	0.00933
+PRSS57	DDX19A	Gene/Protein	0.0098
+PRSS57	CLCA1	Gene/Protein	0.00987
+PRSS57	SRSF11	Gene/Protein	0.00995
+PRSS57	DDX46	Gene/Protein	0.01
+PRSS57	CD2AP	Gene/Protein	0.0101
+PRSS57	DHX16	Gene/Protein	0.0106
+PRSS57	MAVS	Gene/Protein	0.0106
+PRSS57	AZU1	Gene/Protein	0.011
+PRSS57	GBA3	Gene/Protein	0.0112
+PRSS57	WDR48	Gene/Protein	0.0119
+PRSS57	KLK2	Gene/Protein	0.012
+PRSS57	HTR3A	Gene/Protein	0.0121
+PRSS57	KLK7	Gene/Protein	0.0124
+PRSS57	NTPCR	Gene/Protein	0.0129
+PRSS57	TRPV5	Gene/Protein	0.0137
+PRSS57	KIF2A	Gene/Protein	0.0138
+PRSS57	IRF5	Gene/Protein	0.0143
+PRSS57	HSPA5	Gene/Protein	0.0145
+PRSS57	PI3	Gene/Protein	0.0145
+PRSS57	RASA1	Gene/Protein	0.0147
+PRSS57	COIL	Gene/Protein	0.0155
+PRSS57	UBR5	Gene/Protein	0.0162
+PRSS57	ERVW-1	Gene/Protein	0.0169
+PRSS57	ARF1P1	Gene/Protein	0.017
+PRSS57	LCT	Gene/Protein	0.0172
+PRSS57	CALR	Gene/Protein	0.0174
+PRSS57	UBE2I	Gene/Protein	0.0179
+PRSS57	POLE4	Gene/Protein	0.0179
+PRSS57	POLD4	Gene/Protein	0.018
+PRSS57	ARF1	Gene/Protein	0.019
+PRSS57	FABP1	Gene/Protein	0.0193
+PRSS57	ANO1	Gene/Protein	0.0213
+PRSS57	ITPA	Gene/Protein	0.0217
+PRSS57	STAT2	Gene/Protein	0.0221
+PRSS57	MMRN1	Gene/Protein	0.0226
+PRSS57	SAR1A	Gene/Protein	0.0228
+PRSS57	ALPI	Gene/Protein	0.0245
+PRSS57	TBK1	Gene/Protein	0.0247
+PRSS57	PDIA3	Gene/Protein	0.0252
+PRSS57	KLK1	Gene/Protein	0.0253
+PRSS57	VTRNA1-1	Gene/Protein	0.0258
+PRSS57	IL1R1	Gene/Protein	0.0259
+PRSS57	FKBP5	Gene/Protein	0.0273
+PRSS57	GLYAT	Gene/Protein	0.0275
+PRSS57	TICAM1	Gene/Protein	0.0276
+PRSS57	IRF7	Gene/Protein	0.0283
+PRSS57	PLP1	Gene/Protein	0.0283
+PRSS57	CTSB	Gene/Protein	0.0287
+PRSS57	TXNDC15	Gene/Protein	0.0291
+PRSS57	GLB1	Gene/Protein	0.0302
+PRSS57	ORAI1	Gene/Protein	0.0304
+PRSS57	IQGAP1	Gene/Protein	0.0305
+PRSS57	TFAM	Gene/Protein	0.034
+PRSS57	SUMO1	Gene/Protein	0.0341
+PRSS57	IFNB1	Gene/Protein	0.0347
+PRSS57	STIM1	Gene/Protein	0.0356
+PRSS57	ERN2	Gene/Protein	0.0357
+PRSS57	GBA	Gene/Protein	0.0365
+PRSS57	CRAT	Gene/Protein	0.0386
+PRSS57	KLKB1	Gene/Protein	0.0403
+PRSS57	STAT1	Gene/Protein	0.0437
+PRSS57	SF3B6	Gene/Protein	0.0442
+PRSS57	MRPL28	Gene/Protein	0.0443
+PRSS57	TUFM	Gene/Protein	0.0447
+PRSS57	KLK4	Gene/Protein	0.0448
+PRSS57	CTNNBL1	Gene/Protein	0.0452
+PRSS57	BLZF1	Gene/Protein	0.0454
+PRSS57	B2M	Gene/Protein	0.0461
+PRSS57	IKBKG	Gene/Protein	0.0475
+PRSS57	RPP14	Gene/Protein	0.0476
+PRSS57	DDX58	Gene/Protein	0.0478
+PRSS57	ORF1	Gene/Protein	0.048
+PRSS57	SUB1	Gene/Protein	0.0485
+PRSS57	NCKIPSD	Gene/Protein	0.0502
+PRSS57	ETS1	Gene/Protein	0.0516
+PRSS57	AHI1	Gene/Protein	0.0517
+PRSS57	NELFCD	Gene/Protein	0.0554
+PRSS57	SOS2	Gene/Protein	0.0585
+PRSS57	MUC2	Gene/Protein	0.0589
+PRSS57	CFTR	Gene/Protein	0.0616
+PRSS57	NDOR1	Gene/Protein	0.0624
+PRSS57	SART3	Gene/Protein	0.0641
+PRSS57	ERN1	Gene/Protein	0.0651
+PRSS57	PMEL	Gene/Protein	0.0662
+PRSS57	PDIK1L	Gene/Protein	0.0831
+PRSS57	SOS1	Gene/Protein	0.0872
+PRSS57	RASGRF1	Gene/Protein	0.0923
+PRSS57	IGF1R	Gene/Protein	0.0947
+PRSS57	GRIN1	Gene/Protein	0.0977
+PRSS57	TCHP	Gene/Protein	0.101
+PRSS57	TJP1	Gene/Protein	0.102
+PRSS57	ASCC1	Gene/Protein	0.104
+PRSS57	OCLN	Gene/Protein	0.119
+PRSS57	SCFV	Gene/Protein	0.121
+PRSS57	BMP4	Gene/Protein	0.122
+PRSS57	MANEA	Gene/Protein	0.122
+PRSS57	FHIT	Gene/Protein	0.124
+PRSS57	KRAS	Gene/Protein	0.134
+PRSS57	DRD2	Gene/Protein	0.141
+PRSS57	PRF1	Gene/Protein	0.162
+PRSS57	GFAP	Gene/Protein	0.167
+PRSS57	MUC1	Gene/Protein	0.169
+PRSS57	MYD88	Gene/Protein	0.17
+PRSS57	CXCL8	Gene/Protein	0.182
+PRSS57	SLC3A2	Gene/Protein	0.182
+PRSS57	IL4	Gene/Protein	0.211
+PRSS57	CNR1	Gene/Protein	0.217
+PRSS57	MBP	Gene/Protein	0.235
+PRSS57	TLR2	Gene/Protein	0.265
+PRSS57	RHOA	Gene/Protein	0.267
+PRSS57	CCL5	Gene/Protein	0.294
+PRSS57	HLA-DRB4	Gene/Protein	0.31
+PRSS57	SPP1	Gene/Protein	0.319
+PRSS57	TXN	Gene/Protein	0.354
+PRSS57	CASP8	Gene/Protein	0.38
+PRSS57	NFKB1	Gene/Protein	0.44
+PRSS57	BCL2L1	Gene/Protein	0.491
+PRSS57	HP	Gene/Protein	0.498
+PRSS57	CD40	Gene/Protein	0.667
+PRSS57	TLR4	Gene/Protein	0.801
+PRSS57	CALM3	Gene/Protein	0.859
+PRSS57	CALM2	Gene/Protein	0.862
+PRSS57	CALM1	Gene/Protein	0.87
+PRSS57	LOC100508689	Gene/Protein	0.914
+PRSS57	IL2	Gene/Protein	1.0
+PRSS57	KLK3	Gene/Protein	1.0
+PRSS57	BCL2	Gene/Protein	1.0
+PRSS57	CASP3	Gene/Protein	1.0
+PRSS57	CAT	Gene/Protein	1.0
+PRSS57	CD4	Gene/Protein	1.0
+PRSS57	CRP	Gene/Protein	1.0
+PRSS57	DNAH8	Gene/Protein	1.0
+PRSS57	FN1	Gene/Protein	1.0
+PRSS57	MTOR	Gene/Protein	1.0
+PRSS57	IFNG	Gene/Protein	1.0
+PRSS57	IL6	Gene/Protein	1.0
+PRSS57	IL10	Gene/Protein	1.0
+PRSS57	MPO	Gene/Protein	1.0
+PRSS57	NOS2	Gene/Protein	1.0
+PRSS57	CCL2	Gene/Protein	1.0
+PRSS57	VIM	Gene/Protein	1.0
+PRSS57	CYCS	Gene/Protein	1.0
+PRSS57	pattern recognition receptor signaling pathway	Biological process	8.55E-5
+PRSS57	RNA biosynthetic process	Biological process	9.91E-5
+PRSS57	RNA replication	Biological process	1.34E-4
+PRSS57	translational readthrough	Biological process	3.14E-4
+PRSS57	anatomical structure morphogenesis	Biological process	7.77E-4
+PRSS57	virion assembly	Biological process	8.84E-4
+PRSS57	glycosylation	Biological process	0.00218
+PRSS57	virus maturation	Biological process	0.00218
+PRSS57	viral genome replication	Biological process	0.0023
+PRSS57	antigenic variation	Biological process	0.00252
+PRSS57	viral release from host cell	Biological process	0.00266
+PRSS57	viral translation	Biological process	0.0029
+PRSS57	intracellular protein transport	Biological process	0.00346
+PRSS57	mRNA transcription	Biological process	0.00367
+PRSS57	viral transcription	Biological process	0.00373
+PRSS57	reverse transcription	Biological process	0.00429
+PRSS57	pathogenesis	Biological process	0.0045
+PRSS57	pyrimidine nucleotide biosynthetic process	Biological process	0.00461
+PRSS57	protein processing	Biological process	0.00478
+PRSS57	ion transport	Biological process	0.00526
+PRSS57	neutrophil differentiation	Biological process	0.00544
+PRSS57	mucosal immune response	Biological process	0.00589
+PRSS57	7-methylguanosine mRNA capping	Biological process	0.0061
+PRSS57	intercellular transport	Biological process	0.00695
+PRSS57	translation	Biological process	0.00708
+PRSS57	entry into host	Biological process	0.00768
+PRSS57	translational termination	Biological process	0.00774
+PRSS57	evasion or tolerance of immune response of other organism involved in symbiotic interaction	Biological process	0.0082
+PRSS57	proteolysis	Biological process	0.0094
+PRSS57	actin cytoskeleton organization	Biological process	0.0104
+PRSS57	store-operated calcium entry	Biological process	0.0105
+PRSS57	humoral immune response	Biological process	0.0108
+PRSS57	viral life cycle	Biological process	0.0122
+PRSS57	ubiquitin-dependent protein catabolic process	Biological process	0.0123
+PRSS57	secretion	Biological process	0.0132
+PRSS57	defense response to virus	Biological process	0.0157
+PRSS57	activation of phospholipase C activity	Biological process	0.0161
+PRSS57	viral gene expression	Biological process	0.0164
+PRSS57	type I interferon production	Biological process	0.0168
+PRSS57	innate immune response	Biological process	0.0175
+PRSS57	calcium-mediated signaling	Biological process	0.0182
+PRSS57	T-helper 1 type immune response	Biological process	0.0195
+PRSS57	immune response	Biological process	0.0208
+PRSS57	gene silencing	Biological process	0.0212
+PRSS57	vesicle-mediated transport	Biological process	0.0225
+PRSS57	DNA amplification	Biological process	0.0236
+PRSS57	post-translational protein modification	Biological process	0.0243
+PRSS57	cytoskeleton organization	Biological process	0.0246
+PRSS57	protein transport	Biological process	0.0266
+PRSS57	intracellular transport	Biological process	0.0275
+PRSS57	tropism	Biological process	0.0282
+PRSS57	RNA interference	Biological process	0.0283
+PRSS57	chloride transport	Biological process	0.0308
+PRSS57	adaptive immune response	Biological process	0.0321
+PRSS57	neutrophil activation	Biological process	0.0378
+PRSS57	ion homeostasis	Biological process	0.0403
+PRSS57	protein glycosylation	Biological process	0.0581
+PRSS57	protein folding	Biological process	0.066
+PRSS57	exocytosis	Biological process	0.067
+PRSS57	membrane fusion	Biological process	0.0917
+PRSS57	gene expression	Biological process	0.0922
+PRSS57	protein sumoylation	Biological process	0.0929
+PRSS57	water transport	Biological process	0.103
+PRSS57	digestion	Biological process	0.147
+PRSS57	behavior	Biological process	0.147
+PRSS57	actin filament polymerization	Biological process	0.177
+PRSS57	cell proliferation	Biological process	0.18
+PRSS57	anatomical structure arrangement	Biological process	0.189
+PRSS57	transmembrane transport	Biological process	0.192
+PRSS57	growth	Biological process	0.193
+PRSS57	activation of cysteine-type endopeptidase activity involved in apoptotic process	Biological process	0.194
+PRSS57	death	Biological process	0.199
+PRSS57	autophagy	Biological process	0.209
+PRSS57	cell killing	Biological process	0.267
+PRSS57	cellular localization	Biological process	0.279
+PRSS57	cell death	Biological process	0.327
+PRSS57	cell division	Biological process	0.393
+PRSS57	aging	Biological process	0.461
+PRSS57	signal transduction	Biological process	0.502
+PRSS57	transduction	Biological process	0.52
+PRSS57	immunoglobulin production	Biological process	0.606
+PRSS57	antigen processing and presentation	Biological process	0.663
+PRSS57	T cell proliferation	Biological process	0.686
+PRSS57	cell communication	Biological process	0.75
+PRSS57	import into cell	Biological process	0.867
+PRSS57	intestinal absorption	Biological process	0.988
+PRSS57	apoptotic process	Biological process	1.0
+PRSS57	phosphorylation	Biological process	1.0
+PRSS57	parturition	Biological process	1.0
+PRSS57	cell differentiation	Biological process	1.0
+PRSS57	memory	Biological process	1.0
+PRSS57	biosynthetic process	Biological process	1.0
+PRSS57	cell adhesion	Biological process	1.0
+PRSS57	signaling	Biological process	1.0
+PRSS57	reproduction	Biological process	1.0
+PRSS57	angiogenesis	Biological process	1.0
+PRSS57	DNA replication	Biological process	1.0
+PRSS57	endocytosis	Biological process	1.0
+PRSS57	phagocytosis	Biological process	1.0
+PRSS57	fertilization	Biological process	1.0
+PRSS57	methylation	Biological process	1.0
+PRSS57	lymphocyte activation	Biological process	1.0
+PRSS57	reflex	Biological process	1.0
+PRSS57	Rotavirus	MeSH	1.75E-6
+PRSS57	Alphavirus	MeSH	1.23E-5
+PRSS57	Sindbis Virus	MeSH	1.27E-5
+PRSS57	Equartevirus	MeSH	3.07E-5
+PRSS57	Reassortant Viruses	MeSH	3.18E-5
+PRSS57	Arterivirus	MeSH	3.21E-5
+PRSS57	Semliki forest virus	MeSH	4.52E-5
+PRSS57	Genome, Viral	MeSH	5.65E-5
+PRSS57	Arteriviridae	MeSH	6.18E-5
+PRSS57	Chikungunya virus	MeSH	7.68E-5
+PRSS57	Porcine respiratory and reproductive syndrome virus	MeSH	9.9E-5
+PRSS57	Phylogeny	MeSH	1.03E-4
+PRSS57	Nidovirales	MeSH	1.14E-4
+PRSS57	Genes, Viral	MeSH	1.2E-4
+PRSS57	Genotype	MeSH	1.27E-4
+PRSS57	Viruses	MeSH	1.32E-4
+PRSS57	Virus Replication	MeSH	1.83E-4
+PRSS57	RNA Viruses	MeSH	2.02E-4
+PRSS57	O'nyong-nyong Virus	MeSH	2.16E-4
+PRSS57	Genome	MeSH	2.53E-4
+PRSS57	Coronavirus	MeSH	2.62E-4
+PRSS57	Encephalitis Virus, Venezuelan Equine	MeSH	2.85E-4
+PRSS57	Molecular Sequence Data	MeSH	3.01E-4
+PRSS57	Murine hepatitis virus	MeSH	3.29E-4
+PRSS57	Togaviridae	MeSH	3.33E-4
+PRSS57	Amino Acid Sequence	MeSH	3.54E-4
+PRSS57	Coronavirus, Turkey	MeSH	3.64E-4
+PRSS57	Encephalitis Virus, Eastern Equine	MeSH	3.92E-4
+PRSS57	Avastrovirus	MeSH	4.31E-4
+PRSS57	Genes	MeSH	4.4E-4
+PRSS57	Sequence Analysis, DNA	MeSH	4.9E-4
+PRSS57	Encephalitis Virus, Western Equine	MeSH	5.43E-4
+PRSS57	Chikungunya Fever	MeSH	5.79E-4
+PRSS57	Molecular Epidemiology	MeSH	5.89E-4
+PRSS57	Base Sequence	MeSH	5.93E-4
+PRSS57	Sequence Homology, Amino Acid	MeSH	6.56E-4
+PRSS57	Orthoreovirus, Avian	MeSH	7.3E-4
+PRSS57	Gene Expression Regulation, Viral	MeSH	8.23E-4
+PRSS57	Sequence Homology	MeSH	8.6E-4
+PRSS57	Swine	MeSH	8.67E-4
+PRSS57	Genetic Variation	MeSH	9.21E-4
+PRSS57	Camelids, New World	MeSH	9.33E-4
+PRSS57	Serogroup	MeSH	0.00109
+PRSS57	Sequence Analysis, RNA	MeSH	0.0012
+PRSS57	Virulence	MeSH	0.00125
+PRSS57	Virus Shedding	MeSH	0.00126
+PRSS57	RNA Recognition Motif Proteins	MeSH	0.00126
+PRSS57	Morphogenesis	MeSH	0.00132
+PRSS57	Ross River virus	MeSH	0.00136
+PRSS57	Host-Pathogen Interactions	MeSH	0.00137
+PRSS57	Baculoviridae	MeSH	0.00137
+PRSS57	Culicidae	MeSH	0.00141
+PRSS57	Animals	MeSH	0.00149
+PRSS57	Cercopithecus aethiops	MeSH	0.00155
+PRSS57	Betacoronavirus	MeSH	0.00155
+PRSS57	Virus Assembly	MeSH	0.0016
+PRSS57	Thailand	MeSH	0.00165
+PRSS57	Mutation	MeSH	0.00169
+PRSS57	Open Reading Frames	MeSH	0.00169
+PRSS57	Child, Hospitalized	MeSH	0.00179
+PRSS57	Sequence Homology, Nucleic Acid	MeSH	0.0018
+PRSS57	Evolution, Molecular	MeSH	0.00193
+PRSS57	Protein Processing, Post-Translational	MeSH	0.00197
+PRSS57	Virology	MeSH	0.00199
+PRSS57	Cluster Analysis	MeSH	0.00224
+PRSS57	Bangladesh	MeSH	0.00229
+PRSS57	Whole Genome Sequencing	MeSH	0.00234
+PRSS57	Frameshifting, Ribosomal	MeSH	0.0025
+PRSS57	Disease Outbreaks	MeSH	0.0027
+PRSS57	Databases, Nucleic Acid	MeSH	0.0027
+PRSS57	Spodoptera	MeSH	0.00296
+PRSS57	Reoviridae	MeSH	0.00304
+PRSS57	Cricetinae	MeSH	0.00333
+PRSS57	Arboviruses	MeSH	0.00336
+PRSS57	Recombination, Genetic	MeSH	0.00346
+PRSS57	Animals, Suckling	MeSH	0.00356
+PRSS57	Nucleocapsid	MeSH	0.00358
+PRSS57	Slovenia	MeSH	0.00371
+PRSS57	Child	MeSH	0.00384
+PRSS57	Cattle	MeSH	0.00385
+PRSS57	Middle East Respiratory Syndrome Coronavirus	MeSH	0.00404
+PRSS57	Infant	MeSH	0.00427
+PRSS57	Adenovirus Vaccines	MeSH	0.00437
+PRSS57	Brazil	MeSH	0.0044
+PRSS57	Diarrhea, Infantile	MeSH	0.00441
+PRSS57	Child, Preschool	MeSH	0.00443
+PRSS57	Coronavirus NL63, Human	MeSH	0.00463
+PRSS57	Porcine epidemic diarrhea virus	MeSH	0.00466
+PRSS57	Horses	MeSH	0.00468
+PRSS57	Bromovirus	MeSH	0.00469
+PRSS57	Astroviridae	MeSH	0.0047
+PRSS57	Enterochromaffin Cells	MeSH	0.00477
+PRSS57	Norwalk virus	MeSH	0.00478
+PRSS57	Membranes	MeSH	0.00479
+PRSS57	Mutagenesis, Site-Directed	MeSH	0.00489
+PRSS57	India	MeSH	0.00495
+PRSS57	Replicon	MeSH	0.005
+PRSS57	Mononegavirales	MeSH	0.00505
+PRSS57	Gammacoronavirus	MeSH	0.00509
+PRSS57	Myanmar	MeSH	0.0051
+PRSS57	Turkeys	MeSH	0.00531
+PRSS57	Chiroptera	MeSH	0.00537
+PRSS57	Cell Membrane	MeSH	0.00551
+PRSS57	Transcription, Genetic	MeSH	0.0059
+PRSS57	Suppression, Genetic	MeSH	0.00625
+PRSS57	Host Specificity	MeSH	0.00637
+PRSS57	Lactase-Phlorizin Hydrolase	MeSH	0.00647
+PRSS57	Malawi	MeSH	0.00663
+PRSS57	Mice, Inbred CFTR	MeSH	0.00669
+PRSS57	Plasmids	MeSH	0.00686
+PRSS57	Immunity, Mucosal	MeSH	0.00696
+PRSS57	Female	MeSH	0.00708
+PRSS57	Male	MeSH	0.00709
+PRSS57	Electrophoresis, Polyacrylamide Gel	MeSH	0.00725
+PRSS57	Secretory Pathway	MeSH	0.00731
+PRSS57	Protein Structure, Tertiary	MeSH	0.00734
+PRSS57	Mutation, Missense	MeSH	0.00754
+PRSS57	Conserved Sequence	MeSH	0.00758
+PRSS57	Argentina	MeSH	0.00804
+PRSS57	Macaca mulatta	MeSH	0.00814
+PRSS57	Genetic Background	MeSH	0.00816
+PRSS57	Cloning, Molecular	MeSH	0.00817
+PRSS57	Protein Biosynthesis	MeSH	0.00831
+PRSS57	Bifidobacterium adolescentis	MeSH	0.00836
+PRSS57	Sequence Deletion	MeSH	0.00875
+PRSS57	Vaccinia virus	MeSH	0.00884
+PRSS57	Sf9 Cells	MeSH	0.00887
+PRSS57	Defective Viruses	MeSH	0.00888
+PRSS57	Germ-Free Life	MeSH	0.00925
+PRSS57	Trees	MeSH	0.00971
+PRSS57	Haplorhini	MeSH	0.00971
+PRSS57	Ruminants	MeSH	0.00982
+PRSS57	Aedes	MeSH	0.00986
+PRSS57	Antelopes	MeSH	0.0102
+PRSS57	Point Mutation	MeSH	0.0104
+PRSS57	Cell Membrane Permeability	MeSH	0.0105
+PRSS57	Species Specificity	MeSH	0.0107
+PRSS57	Identification (Psychology)	MeSH	0.0108
+PRSS57	Patients	MeSH	0.0108
+PRSS57	Consensus Sequence	MeSH	0.0109
+PRSS57	Coronaviridae	MeSH	0.0109
+PRSS57	Farms	MeSH	0.0111
+PRSS57	Hungary	MeSH	0.0111
+PRSS57	Immune Evasion	MeSH	0.0113
+PRSS57	Raccoon Dogs	MeSH	0.0115
+PRSS57	Alfalfa mosaic virus	MeSH	0.0116
+PRSS57	Mice	MeSH	0.0117
+PRSS57	Infectious bronchitis virus	MeSH	0.0117
+PRSS57	Phylogeography	MeSH	0.0119
+PRSS57	Terminator Regions, Genetic	MeSH	0.0119
+PRSS57	Anoctamin-1	MeSH	0.0126
+PRSS57	China	MeSH	0.013
+PRSS57	Italy	MeSH	0.013
+PRSS57	Cells, Cultured	MeSH	0.0131
+PRSS57	Antibody Formation	MeSH	0.0131
+PRSS57	Helper Viruses	MeSH	0.0131
+PRSS57	Belgium	MeSH	0.0133
+PRSS57	Animals, Exotic	MeSH	0.0133
+PRSS57	Comoros	MeSH	0.0134
+PRSS57	Japan	MeSH	0.0136
+PRSS57	Amino Acid Motifs	MeSH	0.0138
+PRSS57	Methods	MeSH	0.0139
+PRSS57	Epidemiology	MeSH	0.014
+PRSS57	Middle Aged	MeSH	0.0141
+PRSS57	Lipoylation	MeSH	0.0142
+PRSS57	Giraffes	MeSH	0.0142
+PRSS57	Insecta	MeSH	0.0143
+PRSS57	Encephalitis Virus, California	MeSH	0.0143
+PRSS57	Encephalitis Virus, St. Louis	MeSH	0.0143
+PRSS57	Palonosetron	MeSH	0.0143
+PRSS57	Quasispecies	MeSH	0.0145
+PRSS57	Sapovirus	MeSH	0.0145
+PRSS57	Immunization Programs	MeSH	0.0148
+PRSS57	Coronavirus, Feline	MeSH	0.0148
+PRSS57	Classification	MeSH	0.0149
+PRSS57	Trinidad and Tobago	MeSH	0.0149
+PRSS57	Therapeutics	MeSH	0.015
+PRSS57	Genetic Vectors	MeSH	0.0152
+PRSS57	Role	MeSH	0.0153
+PRSS57	Indian Ocean	MeSH	0.0153
+PRSS57	Catalytic Domain	MeSH	0.0156
+PRSS57	Seychelles	MeSH	0.0157
+PRSS57	Macaca nemestrina	MeSH	0.0158
+PRSS57	Forests	MeSH	0.0161
+PRSS57	Zonula Occludens-1 Protein	MeSH	0.0162
+PRSS57	Templates, Genetic	MeSH	0.0163
+PRSS57	Meconium Ileus	MeSH	0.0164
+PRSS57	Adult	MeSH	0.0166
+PRSS57	Binding Sites	MeSH	0.0166
+PRSS57	Research Report	MeSH	0.0169
+PRSS57	Immunity, Humoral	MeSH	0.0169
+PRSS57	Chickens	MeSH	0.0171
+PRSS57	Republic of Korea	MeSH	0.0171
+PRSS57	Mice, Inbred BALB C	MeSH	0.0177
+PRSS57	Dengue Virus	MeSH	0.0177
+PRSS57	Sensitivity and Specificity	MeSH	0.018
+PRSS57	Models, Molecular	MeSH	0.018
+PRSS57	Sus scrofa	MeSH	0.018
+PRSS57	Ferrets	MeSH	0.0185
+PRSS57	Bacteriophage T7	MeSH	0.0187
+PRSS57	Permeability	MeSH	0.0189
+PRSS57	Encephalitis Viruses	MeSH	0.0191
+PRSS57	Aged	MeSH	0.0192
+PRSS57	Encephalitis Virus, Japanese	MeSH	0.0196
+PRSS57	Americas	MeSH	0.0198
+PRSS57	Virus Internalization	MeSH	0.02
+PRSS57	Viral Load	MeSH	0.0202
+PRSS57	Phenotype	MeSH	0.0203
+PRSS57	Genomics	MeSH	0.0203
+PRSS57	Receptors, Artificial	MeSH	0.0203
+PRSS57	Crystallography, X-Ray	MeSH	0.0205
+PRSS57	Artiodactyla	MeSH	0.0205
+PRSS57	Autophagosomes	MeSH	0.0208
+PRSS57	Africa	MeSH	0.0212
+PRSS57	Seasons	MeSH	0.0216
+PRSS57	Protein Multimerization	MeSH	0.0216
+PRSS57	Genetic Profile	MeSH	0.0216
+PRSS57	Sendai virus	MeSH	0.0222
+PRSS57	Life Cycle Stages	MeSH	0.0228
+PRSS57	Mauritius	MeSH	0.023
+PRSS57	Goats	MeSH	0.0232
+PRSS57	Indian Ocean Islands	MeSH	0.0234
+PRSS57	DEAD Box Protein 58	MeSH	0.0234
+PRSS57	Caliciviridae	MeSH	0.0235
+PRSS57	Cell Surface Display Techniques	MeSH	0.0242
+PRSS57	Kenya	MeSH	0.0244
+PRSS57	Genetic Linkage	MeSH	0.0248
+PRSS57	Plant Viruses	MeSH	0.0248
+PRSS57	Sodium-Glucose Transporter 1	MeSH	0.0248
+PRSS57	Equidae	MeSH	0.025
+PRSS57	Clinical Coding	MeSH	0.0252
+PRSS57	Rabbits	MeSH	0.0255
+PRSS57	Animals, Newborn	MeSH	0.0261
+PRSS57	Cytopathogenic Effect, Viral	MeSH	0.0262
+PRSS57	Blotting, Western	MeSH	0.0271
+PRSS57	Structural Homology, Protein	MeSH	0.0271
+PRSS57	Stromal Interaction Molecule 1	MeSH	0.0274
+PRSS57	Salmo salar	MeSH	0.0281
+PRSS57	Topography, Medical	MeSH	0.0286
+PRSS57	Risk	MeSH	0.0288
+PRSS57	Birds	MeSH	0.0292
+PRSS57	Substrate Specificity	MeSH	0.0294
+PRSS57	Intestine, Small	MeSH	0.0296
+PRSS57	Mosquito Vectors	MeSH	0.03
+PRSS57	Tobacco Mosaic Virus	MeSH	0.0302
+PRSS57	Suriname	MeSH	0.0306
+PRSS57	Ireland	MeSH	0.0322
+PRSS57	Air Travel	MeSH	0.0325
+PRSS57	Zika Virus	MeSH	0.0327
+PRSS57	Ecuador	MeSH	0.0328
+PRSS57	Computational Biology	MeSH	0.0336
+PRSS57	Protein Interaction Domains and Motifs	MeSH	0.0342
+PRSS57	Flavivirus	MeSH	0.0345
+PRSS57	Agrobacterium	MeSH	0.0345
+PRSS57	Th1 Cells	MeSH	0.0346
+PRSS57	Single-Domain Antibodies	MeSH	0.0347
+PRSS57	Ricinus	MeSH	0.0349
+PRSS57	Consensus	MeSH	0.035
+PRSS57	Infant, Newborn	MeSH	0.0352
+PRSS57	Epidemics	MeSH	0.0357
+PRSS57	Genetic Drift	MeSH	0.0358
+PRSS57	Mosaic Viruses	MeSH	0.0361
+PRSS57	Norovirus	MeSH	0.0361
+PRSS57	Ursidae	MeSH	0.0363
+PRSS57	Organelle Biogenesis	MeSH	0.0366
+PRSS57	Nucleic Acid Hybridization	MeSH	0.037
+PRSS57	Poliovirus	MeSH	0.0376
+PRSS57	Antibody Specificity	MeSH	0.0377
+PRSS57	Group Homes	MeSH	0.0379
+PRSS57	Nurseries, Hospital	MeSH	0.0386
+PRSS57	Rats	MeSH	0.0393
+PRSS57	Industry	MeSH	0.0398
+PRSS57	Poly-ADP-Ribose Binding Proteins	MeSH	0.0401
+PRSS57	Genetic Heterogeneity	MeSH	0.0405
+PRSS57	Immunogenicity, Vaccine	MeSH	0.0407
+PRSS57	Women	MeSH	0.0423
+PRSS57	Promoter Regions, Genetic	MeSH	0.0424
+PRSS57	Immunity, Herd	MeSH	0.0425
+PRSS57	Parvoviridae	MeSH	0.0428
+PRSS57	Salmonidae	MeSH	0.0437
+PRSS57	Yellow fever virus	MeSH	0.0437
+PRSS57	Cannabinoid Receptor Agonists	MeSH	0.0438
+PRSS57	Cats	MeSH	0.044
+PRSS57	Honduras	MeSH	0.0443
+PRSS57	Biological Evolution	MeSH	0.0444
+PRSS57	Disease Reservoirs	MeSH	0.0452
+PRSS57	South Africa	MeSH	0.0458
+PRSS57	Risk Factors	MeSH	0.0461
+PRSS57	Bcl-2-Like Protein 11	MeSH	0.0464
+PRSS57	Review	MeSH	0.0466
+PRSS57	Animal Population Groups	MeSH	0.0467
+PRSS57	Diagnosis	MeSH	0.0471
+PRSS57	Perissodactyla	MeSH	0.0472
+PRSS57	Cameroon	MeSH	0.0473
+PRSS57	Sentinel Surveillance	MeSH	0.0483
+PRSS57	Immunity	MeSH	0.0489
+PRSS57	Nicaragua	MeSH	0.0494
+PRSS57	Macaca	MeSH	0.0497
+PRSS57	Epidemiological Monitoring	MeSH	0.0503
+PRSS57	Viral Tropism	MeSH	0.051
+PRSS57	Columbidae	MeSH	0.0511
+PRSS57	Nature	MeSH	0.0513
+PRSS57	Ghana	MeSH	0.0515
+PRSS57	Bifidobacterium	MeSH	0.0516
+PRSS57	Metapneumovirus	MeSH	0.052
+PRSS57	Humans	MeSH	0.0527
+PRSS57	Sri Lanka	MeSH	0.0528
+PRSS57	Cell Polarity	MeSH	0.0529
+PRSS57	Australia	MeSH	0.0533
+PRSS57	Vietnam	MeSH	0.0534
+PRSS57	Geographic Locations	MeSH	0.0534
+PRSS57	Temperature	MeSH	0.0545
+PRSS57	Area Postrema	MeSH	0.0545
+PRSS57	Northern Territory	MeSH	0.0549
+PRSS57	Immunity, Innate	MeSH	0.0556
+PRSS57	Protein Structure, Secondary	MeSH	0.0569
+PRSS57	Pregnancy	MeSH	0.0578
+PRSS57	Raccoons	MeSH	0.0583
+PRSS57	Knowledge	MeSH	0.0584
+PRSS57	src Homology Domains	MeSH	0.059
+PRSS57	Extracellular Traps	MeSH	0.0592
+PRSS57	Selenomethionine	MeSH	0.0593
+PRSS57	Russia	MeSH	0.0605
+PRSS57	Genes, Reporter	MeSH	0.0616
+PRSS57	Adenoviridae	MeSH	0.0632
+PRSS57	Bluetongue virus	MeSH	0.0632
+PRSS57	Escherichia coli	MeSH	0.0636
+PRSS57	Silent Mutation	MeSH	0.0638
+PRSS57	Protein Conformation	MeSH	0.0642
+PRSS57	Solanum	MeSH	0.0642
+PRSS57	Organizations	MeSH	0.065
+PRSS57	Tunisia	MeSH	0.0661
+PRSS57	Endemic Diseases	MeSH	0.0662
+PRSS57	Herpesvirus 1, Cercopithecine	MeSH	0.0662
+PRSS57	Lactobacillus rhamnosus	MeSH	0.0662
+PRSS57	Cell Compartmentation	MeSH	0.0663
+PRSS57	Encephalomyocarditis virus	MeSH	0.0672
+PRSS57	Sequence Analysis, Protein	MeSH	0.0676
+PRSS57	South America	MeSH	0.0678
+PRSS57	Fluorescent Antibody Technique, Indirect	MeSH	0.0679
+PRSS57	Weights and Measures	MeSH	0.0683
+PRSS57	Treatment Outcome	MeSH	0.0691
+PRSS57	Buffaloes	MeSH	0.0701
+PRSS57	Probiotics	MeSH	0.0704
+PRSS57	Rodentia	MeSH	0.0712
+PRSS57	Gene Deletion	MeSH	0.0716
+PRSS57	Aptitude	MeSH	0.0722
+PRSS57	Literature	MeSH	0.0724
+PRSS57	Chromatography, Affinity	MeSH	0.0725
+PRSS57	Virus Attachment	MeSH	0.0727
+PRSS57	Philippines	MeSH	0.0748
+PRSS57	Oncolytic Viruses	MeSH	0.0753
+PRSS57	Prevalence	MeSH	0.0771
+PRSS57	Sheep	MeSH	0.0785
+PRSS57	Protein Conformation, alpha-Helical	MeSH	0.0786
+PRSS57	Insect Vectors	MeSH	0.0808
+PRSS57	Animals, Domestic	MeSH	0.0851
+PRSS57	Endogenous Retroviruses	MeSH	0.0864
+PRSS57	Vertebrates	MeSH	0.0889
+PRSS57	Drug Resistance, Viral	MeSH	0.0889
+PRSS57	Regression (Psychology)	MeSH	0.0895
+PRSS57	Homeostasis	MeSH	0.0899
+PRSS57	Tigers	MeSH	0.0903
+PRSS57	Microscopy, Fluorescence	MeSH	0.0914
+PRSS57	Gene Flow	MeSH	0.0914
+PRSS57	Neutrophils	MeSH	0.0948
+PRSS57	Cities	MeSH	0.095
+PRSS57	Genetics	MeSH	0.0974
+PRSS57	Form	MeSH	0.0976
+PRSS57	Nucleopolyhedrovirus	MeSH	0.0993
+PRSS57	Lentivirus	MeSH	0.0998
+PRSS57	Muscles	MeSH	0.1
+PRSS57	Calcium Signaling	MeSH	0.101
+PRSS57	Protein Structure, Quaternary	MeSH	0.101
+PRSS57	Structure-Activity Relationship	MeSH	0.103
+PRSS57	Radiation Chimera	MeSH	0.103
+PRSS57	Equipment and Supplies	MeSH	0.103
+PRSS57	Democratic Republic of the Congo	MeSH	0.104
+PRSS57	Sumoylation	MeSH	0.105
+PRSS57	Sanitation	MeSH	0.108
+PRSS57	Immunity, Active	MeSH	0.108
+PRSS57	Rubella virus	MeSH	0.108
+PRSS57	Comprehension	MeSH	0.109
+PRSS57	North America	MeSH	0.109
+PRSS57	Developing Countries	MeSH	0.11
+PRSS57	Guatemala	MeSH	0.11
+PRSS57	Hepatitis E virus	MeSH	0.111
+PRSS57	Panama	MeSH	0.111
+PRSS57	Aged, 80 and over	MeSH	0.112
+PRSS57	Mammals	MeSH	0.114
+PRSS57	Asia, Southeastern	MeSH	0.114
+PRSS57	Half-Life	MeSH	0.115
+PRSS57	Seroconversion	MeSH	0.115
+PRSS57	Mink	MeSH	0.116
+PRSS57	Adolescent	MeSH	0.117
+PRSS57	Zika Virus Infection	MeSH	0.117
+PRSS57	Attention	MeSH	0.118
+PRSS57	Blotting, Northern	MeSH	0.119
+PRSS57	Iraq	MeSH	0.12
+PRSS57	Time Factors	MeSH	0.123
+PRSS57	Administration, Intranasal	MeSH	0.123
+PRSS57	Indonesia	MeSH	0.124
+PRSS57	Taiwan	MeSH	0.125
+PRSS57	Nebraska	MeSH	0.125
+PRSS57	Multigene Family	MeSH	0.127
+PRSS57	Agglutination	MeSH	0.127
+PRSS57	Arthropods	MeSH	0.128
+PRSS57	Occludin	MeSH	0.129
+PRSS57	Survival	MeSH	0.13
+PRSS57	Hydrogen Bonding	MeSH	0.132
+PRSS57	Vacuoles	MeSH	0.133
+PRSS57	Mutation Rate	MeSH	0.133
+PRSS57	Kinetics	MeSH	0.134
+PRSS57	Lactobacillus	MeSH	0.134
+PRSS57	Health	MeSH	0.135
+PRSS57	History	MeSH	0.136
+PRSS57	Hemagglutination	MeSH	0.136
+PRSS57	Crossing Over, Genetic	MeSH	0.137
+PRSS57	Madagascar	MeSH	0.137
+PRSS57	Moths	MeSH	0.139
+PRSS57	Costs and Cost Analysis	MeSH	0.143
+PRSS57	Marsupialia	MeSH	0.145
+PRSS57	Africa, Southern	MeSH	0.149
+PRSS57	Trout	MeSH	0.15
+PRSS57	Libraries	MeSH	0.151
+PRSS57	Bacteria	MeSH	0.151
+PRSS57	Reading Frames	MeSH	0.152
+PRSS57	Molecular Biology	MeSH	0.153
+PRSS57	Physicians	MeSH	0.153
+PRSS57	Organization and Administration	MeSH	0.154
+PRSS57	Camelus	MeSH	0.156
+PRSS57	Defense Mechanisms	MeSH	0.158
+PRSS57	Neptune	MeSH	0.159
+PRSS57	Loss of Function Mutation	MeSH	0.161
+PRSS57	Escherichia	MeSH	0.162
+PRSS57	Set (Psychology)	MeSH	0.163
+PRSS57	Rhinovirus	MeSH	0.164
+PRSS57	Paper	MeSH	0.166
+PRSS57	Terminology	MeSH	0.166
+PRSS57	Leukocytes, Mononuclear	MeSH	0.168
+PRSS57	Zambia	MeSH	0.168
+PRSS57	Dogs	MeSH	0.171
+PRSS57	Medicine	MeSH	0.173
+PRSS57	Polymerization	MeSH	0.175
+PRSS57	Light	MeSH	0.175
+PRSS57	Regression Analysis	MeSH	0.175
+PRSS57	Control Groups	MeSH	0.176
+PRSS57	Ecology	MeSH	0.177
+PRSS57	Lactobacillus casei	MeSH	0.179
+PRSS57	Public Health	MeSH	0.181
+PRSS57	Food	MeSH	0.182
+PRSS57	Universities	MeSH	0.182
+PRSS57	Immunoassay	MeSH	0.183
+PRSS57	Product Packaging	MeSH	0.183
+PRSS57	Surveys and Questionnaires	MeSH	0.185
+PRSS57	Hospitals, Rural	MeSH	0.186
+PRSS57	Gene Amplification	MeSH	0.187
+PRSS57	Immunization, Passive	MeSH	0.187
+PRSS57	Central America	MeSH	0.187
+PRSS57	Injections	MeSH	0.189
+PRSS57	Weaning	MeSH	0.19
+PRSS57	Protein Domains	MeSH	0.191
+PRSS57	Hospitals, Private	MeSH	0.192
+PRSS57	Selection, Genetic	MeSH	0.193
+PRSS57	Sex	MeSH	0.194
+PRSS57	Biosynthetic Pathways	MeSH	0.195
+PRSS57	Reproducibility of Results	MeSH	0.195
+PRSS57	Animal Husbandry	MeSH	0.196
+PRSS57	Adaptive Immunity	MeSH	0.198
+PRSS57	West Nile virus	MeSH	0.198
+PRSS57	Diet	MeSH	0.201
+PRSS57	Venezuela	MeSH	0.203
+PRSS57	Transfer (Psychology)	MeSH	0.205
+PRSS57	Newcastle disease virus	MeSH	0.211
+PRSS57	Family	MeSH	0.215
+PRSS57	THP-1 Cells	MeSH	0.215
+PRSS57	Pakistan	MeSH	0.216
+PRSS57	Safety	MeSH	0.217
+PRSS57	Hydrophobic and Hydrophilic Interactions	MeSH	0.218
+PRSS57	Carrier State	MeSH	0.218
+PRSS57	Algorithms	MeSH	0.219
+PRSS57	Optical Imaging	MeSH	0.221
+PRSS57	Africa, Eastern	MeSH	0.221
+PRSS57	Zimbabwe	MeSH	0.222
+PRSS57	Young Adult	MeSH	0.224
+PRSS57	Simian Immunodeficiency Virus	MeSH	0.227
+PRSS57	Unfolded Protein Response	MeSH	0.229
+PRSS57	Madin Darby Canine Kidney Cells	MeSH	0.229
+PRSS57	Crystallization	MeSH	0.23
+PRSS57	Collection	MeSH	0.233
+PRSS57	Environmental Microbiology	MeSH	0.236
+PRSS57	Secretagogues	MeSH	0.236
+PRSS57	Solanum tuberosum	MeSH	0.237
+PRSS57	Shellfish	MeSH	0.239
+PRSS57	Africa South of the Sahara	MeSH	0.24
+PRSS57	Geography	MeSH	0.244
+PRSS57	Regulatory Sequences, Nucleic Acid	MeSH	0.244
+PRSS57	United States	MeSH	0.245
+PRSS57	Measles virus	MeSH	0.245
+PRSS57	Technology	MeSH	0.246
+PRSS57	Wortmannin	MeSH	0.25
+PRSS57	Immunity, Cellular	MeSH	0.251
+PRSS57	Alabama	MeSH	0.252
+PRSS57	Pliability	MeSH	0.257
+PRSS57	Scandinavian and Nordic Countries	MeSH	0.258
+PRSS57	Plants, Edible	MeSH	0.26
+PRSS57	Endoplasmic Reticulum, Rough	MeSH	0.261
+PRSS57	Rats, Wistar	MeSH	0.265
+PRSS57	Peru	MeSH	0.267
+PRSS57	Inhibition (Psychology)	MeSH	0.268
+PRSS57	Maintenance	MeSH	0.271
+PRSS57	Logistic Models	MeSH	0.274
+PRSS57	Copyright	MeSH	0.276
+PRSS57	Dose-Response Relationship, Drug	MeSH	0.278
+PRSS57	Pathology, Molecular	MeSH	0.285
+PRSS57	Choroid Plexus	MeSH	0.289
+PRSS57	Metagenomics	MeSH	0.3
+PRSS57	Schools	MeSH	0.301
+PRSS57	RAW 264.7 Cells	MeSH	0.303
+PRSS57	Chromatography, High Pressure Liquid	MeSH	0.307
+PRSS57	Oxidation-Reduction	MeSH	0.309
+PRSS57	Siberia	MeSH	0.31
+PRSS57	Reference Values	MeSH	0.317
+PRSS57	Science	MeSH	0.32
+PRSS57	Lac Operon	MeSH	0.325
+PRSS57	Europe	MeSH	0.329
+PRSS57	Models, Genetic	MeSH	0.33
+PRSS57	Mortality	MeSH	0.334
+PRSS57	Florida	MeSH	0.335
+PRSS57	Health Services Needs and Demand	MeSH	0.336
+PRSS57	Microscopy, Confocal	MeSH	0.34
+PRSS57	Divorce	MeSH	0.341
+PRSS57	Adaptation, Biological	MeSH	0.343
+PRSS57	Reference Standards	MeSH	0.343
+PRSS57	Weapons	MeSH	0.351
+PRSS57	Chemistry, Clinical	MeSH	0.366
+PRSS57	Genes, Essential	MeSH	0.368
+PRSS57	Retroviridae	MeSH	0.37
+PRSS57	Energy Transfer	MeSH	0.371
+PRSS57	Incidence	MeSH	0.375
+PRSS57	Myelin Basic Protein	MeSH	0.376
+PRSS57	Health Resources	MeSH	0.378
+PRSS57	Alleles	MeSH	0.381
+PRSS57	Oxidative Stress	MeSH	0.382
+PRSS57	Pets	MeSH	0.389
+PRSS57	Invertebrates	MeSH	0.395
+PRSS57	Czech Republic	MeSH	0.395
+PRSS57	Penetrance	MeSH	0.432
+PRSS57	Residence Characteristics	MeSH	0.44
+PRSS57	Myalgia	MeSH	0.44
+PRSS57	Central Nervous System	MeSH	0.452
+PRSS57	Sugars	MeSH	0.472
+PRSS57	Computers	MeSH	0.472
+PRSS57	Enterovirus	MeSH	0.477
+PRSS57	Bayes Theorem	MeSH	0.478
+PRSS57	Extremities	MeSH	0.488
+PRSS57	Air	MeSH	0.489
+PRSS57	Africa, Western	MeSH	0.49
+PRSS57	Nigeria	MeSH	0.494
+PRSS57	Fluorescence	MeSH	0.495
+PRSS57	Clay	MeSH	0.503
+PRSS57	Chimera	MeSH	0.504
+PRSS57	Research Personnel	MeSH	0.515
+PRSS57	Constitution and Bylaws	MeSH	0.524
+PRSS57	Fees and Charges	MeSH	0.527
+PRSS57	Biocatalysis	MeSH	0.529
+PRSS57	Caribbean Region	MeSH	0.529
+PRSS57	Morbidity	MeSH	0.535
+PRSS57	Bias	MeSH	0.536
+PRSS57	Arm	MeSH	0.542
+PRSS57	Plants, Genetically Modified	MeSH	0.547
+PRSS57	Family Characteristics	MeSH	0.554
+PRSS57	Aquaculture	MeSH	0.559
+PRSS57	Cytotoxicity Tests, Immunologic	MeSH	0.567
+PRSS57	Guinea	MeSH	0.571
+PRSS57	Proteomics	MeSH	0.573
+PRSS57	Centrifugation, Density Gradient	MeSH	0.579
+PRSS57	Movement	MeSH	0.58
+PRSS57	Selection Bias	MeSH	0.582
+PRSS57	Pulse	MeSH	0.583
+PRSS57	Ducks	MeSH	0.586
+PRSS57	Microbial Viability	MeSH	0.591
+PRSS57	Far East	MeSH	0.591
+PRSS57	Simian virus 40	MeSH	0.594
+PRSS57	Transcription Initiation Site	MeSH	0.602
+PRSS57	Gene Duplication	MeSH	0.607
+PRSS57	Germany	MeSH	0.611
+PRSS57	Rehabilitation	MeSH	0.627
+PRSS57	Cell Transformation, Viral	MeSH	0.629
+PRSS57	Colombia	MeSH	0.63
+PRSS57	Yeasts	MeSH	0.636
+PRSS57	Anisotropy	MeSH	0.637
+PRSS57	Tissue Donors	MeSH	0.642
+PRSS57	Demography	MeSH	0.65
+PRSS57	Hippocampus	MeSH	0.656
+PRSS57	Tandem Repeat Sequences	MeSH	0.657
+PRSS57	Molecular Weight	MeSH	0.683
+PRSS57	Up-Regulation	MeSH	0.694
+PRSS57	Rats, Inbred Strains	MeSH	0.7
+PRSS57	Awareness	MeSH	0.708
+PRSS57	Programs	MeSH	0.71
+PRSS57	Coliphages	MeSH	0.711
+PRSS57	Ohio	MeSH	0.712
+PRSS57	Water Pollution	MeSH	0.713
+PRSS57	Necrosis	MeSH	0.736
+PRSS57	Canada	MeSH	0.745
+PRSS57	Microscopy, Electron	MeSH	0.756
+PRSS57	Feedback	MeSH	0.759
+PRSS57	Nursing	MeSH	0.768
+PRSS57	Outpatients	MeSH	0.769
+PRSS57	Policy	MeSH	0.773
+PRSS57	Forecasting	MeSH	0.775
+PRSS57	Travel	MeSH	0.776
+PRSS57	Protein Conformation, beta-Strand	MeSH	0.783
+PRSS57	Meta-Analysis	MeSH	0.798
+PRSS57	Anopheles	MeSH	0.805
+PRSS57	Biophysical Phenomena	MeSH	0.808
+PRSS57	Cohort Studies	MeSH	0.827
+PRSS57	Cytomegalovirus	MeSH	0.827
+PRSS57	Epidermal Cells	MeSH	0.827
+PRSS57	Laboratories	MeSH	0.828
+PRSS57	Hospitals, Pediatric	MeSH	0.839
+PRSS57	Clinical Trial	MeSH	0.862
+PRSS57	Models, Biological	MeSH	0.864
+PRSS57	Korea	MeSH	0.873
+PRSS57	Zinc Fingers	MeSH	0.904
+PRSS57	Gene Library	MeSH	0.92
+PRSS57	Goals	MeSH	0.921
+PRSS57	Random Allocation	MeSH	0.923
+PRSS57	Minors	MeSH	0.93
+PRSS57	Image Processing, Computer-Assisted	MeSH	0.938
+PRSS57	Beijing	MeSH	0.946
+PRSS57	Tissues	MeSH	0.948
+PRSS57	Lymphocyte Subsets	MeSH	0.951
+PRSS57	Immunologic Memory	MeSH	0.958
+PRSS57	Microscopy, Immunoelectron	MeSH	0.966
+PRSS57	United Kingdom	MeSH	0.989
+PRSS57	Negative Results	MeSH	0.998
+PRSS57	Time	MeSH	1.0
+PRSS57	Population	MeSH	1.0
+PRSS57	Economics	MeSH	1.0
+PRSS57	Association	MeSH	1.0
+PRSS57	Hospitals	MeSH	1.0
+PRSS57	Culture	MeSH	1.0
+PRSS57	Social Control, Formal	MeSH	1.0
+PRSS57	Work	MeSH	1.0
+PRSS57	Environment	MeSH	1.0
+PRSS57	Efficiency	MeSH	1.0
+PRSS57	Pressure	MeSH	1.0
+PRSS57	Gene Expression Regulation	MeSH	1.0
+PRSS57	Age Factors	MeSH	1.0
+PRSS57	Plants	MeSH	1.0
+PRSS57	Observation	MeSH	1.0
+PRSS57	In Vitro Techniques	MeSH	1.0
+PRSS57	Electrons	MeSH	1.0
+PRSS57	Hospitalization	MeSH	1.0
+PRSS57	Macrophages	MeSH	1.0
+PRSS57	T-Lymphocytes	MeSH	1.0
+PRSS57	Hydrogen-Ion Concentration	MeSH	1.0
+PRSS57	Absorption	MeSH	1.0
+PRSS57	Administration, Oral	MeSH	1.0
+PRSS57	Biology	MeSH	1.0
+PRSS57	Mice, Inbred C57BL	MeSH	1.0
+PRSS57	Pathology	MeSH	1.0
+PRSS57	Down-Regulation	MeSH	1.0
+PRSS57	Models, Animal	MeSH	1.0
+PRSS57	Lymphocytes	MeSH	1.0
+PRSS57	Respect	MeSH	1.0
+PRSS57	Hydrolysis	MeSH	1.0
+PRSS57	Database	MeSH	1.0
+PRSS57	Asian Continental Ancestry Group	MeSH	1.0
+PRSS57	Cell Survival	MeSH	1.0
+PRSS57	Hot Temperature	MeSH	1.0
+PRSS57	Parents	MeSH	1.0
+PRSS57	Software	MeSH	1.0
+PRSS57	Solubility	MeSH	1.0
+PRSS57	Mice, Knockout	MeSH	1.0
+PRSS57	Colon	MeSH	1.0
+PRSS57	Biological Transport	MeSH	1.0
+PRSS57	Enzyme Activation	MeSH	1.0
+PRSS57	Polymorphism, Genetic	MeSH	1.0
+PRSS57	Inhibitory Concentration 50	MeSH	1.0
+PRSS57	Microscopy, Electron, Transmission	MeSH	1.0
+PRSS57	France	MeSH	1.0
+PRSS57	Orientation	MeSH	1.0
+PRSS57	Inpatients	MeSH	1.0
+PRSS57	Bacteriophages	MeSH	1.0
+PRSS57	Catalysis	MeSH	1.0
+PRSS57	Cell Movement	MeSH	1.0
+PRSS57	Comparative Study	MeSH	1.0
+PRSS57	Age Groups	MeSH	1.0
+PRSS57	Nucleic Acid Conformation	MeSH	1.0
+PRSS57	Primates	MeSH	1.0
+PRSS57	Retention (Psychology)	MeSH	1.0
+PRSS57	HIV-1	MeSH	1.0
+PRSS57	Hepacivirus	MeSH	1.0
+PRSS57	Maps	MeSH	1.0
+PRSS57	Denmark	MeSH	1.0
+PRSS57	Emergency Service, Hospital	MeSH	1.0
+PRSS57	Fruit	MeSH	1.0
+PRSS57	Health Status	MeSH	1.0
+PRSS57	Injections, Intraperitoneal	MeSH	1.0
+PRSS57	Length of Stay	MeSH	1.0
+PRSS57	Norway	MeSH	1.0
+PRSS57	Rest	MeSH	1.0
+PRSS57	Spain	MeSH	1.0
+PRSS57	Specialization	MeSH	1.0
+PRSS57	Sweden	MeSH	1.0
+PRSS57	Tissue Distribution	MeSH	1.0
+PRSS57	Volunteers	MeSH	1.0
+PRSS57	Drug Design	MeSH	1.0
+PRSS57	Ecosystem	MeSH	1.0
+PRSS57	Statistics, Nonparametric	MeSH	1.0
+PRSS57	Molecular Dynamics Simulation	MeSH	1.0
+PRSS57	Limit of Detection	MeSH	1.0
+PRSS57	Gastrointestinal Tract	MeSH	1.0
+PRSS57	General Practitioners	MeSH	1.0
+PRSS57	Dataset	MeSH	1.0
+PRSS57	Nutrients	MeSH	1.0
+PRSS57	Affect	MeSH	1.0
+PRSS57	Antigen-Antibody Reactions	MeSH	1.0
+PRSS57	Biochemistry	MeSH	1.0
+PRSS57	Biological Phenomena	MeSH	1.0
+PRSS57	Breeding	MeSH	1.0
+PRSS57	Drug Resistance	MeSH	1.0
+PRSS57	Drug Resistance, Microbial	MeSH	1.0
+PRSS57	Enzyme Induction	MeSH	1.0
+PRSS57	Enzyme Stability	MeSH	1.0
+PRSS57	Exons	MeSH	1.0
+PRSS57	Introns	MeSH	1.0
+PRSS57	Isoelectric Point	MeSH	1.0
+PRSS57	Longevity	MeSH	1.0
+PRSS57	Orthomyxoviridae	MeSH	1.0
+PRSS57	Influenza A virus	MeSH	1.0
+PRSS57	Projection	MeSH	1.0
+PRSS57	Polymorphism, Restriction Fragment Length	MeSH	1.0
+PRSS57	Surface Properties	MeSH	1.0
+PRSS57	Transformation, Genetic	MeSH	1.0
+PRSS57	Gene Rearrangement	MeSH	1.0
+PRSS57	Transcriptional Activation	MeSH	1.0
+PRSS57	Genome, Human	MeSH	1.0
+PRSS57	Genes, Tumor Suppressor	MeSH	1.0
+PRSS57	Mice, SCID	MeSH	1.0
+PRSS57	Immunocompromised Host	MeSH	1.0
+PRSS57	Antigen Presentation	MeSH	1.0
+PRSS57	Transgenes	MeSH	1.0
+PRSS57	Dimerization	MeSH	1.0
+PRSS57	Cloning, Organism	MeSH	1.0
+PRSS57	Statistics	MeSH	1.0
+PRSS57	MAP Kinase Signaling System	MeSH	1.0
+PRSS57	Nanotubes	MeSH	1.0
+PRSS57	Population Groups	MeSH	1.0
+PRSS57	Biodiversity	MeSH	1.0
+PRSS57	History, 21st Century	MeSH	1.0
+PRSS57	Carbohydrate Metabolism	MeSH	1.0
+PRSS57	Membrane Potential, Mitochondrial	MeSH	1.0
+PRSS57	Kaplan-Meier Estimate	MeSH	1.0
+PRSS57	Adaptation, Physiological	MeSH	1.0
+PRSS57	Agriculture	MeSH	1.0
+PRSS57	Animals, Wild	MeSH	1.0
+PRSS57	Appointments and Schedules	MeSH	1.0
+PRSS57	Asia	MeSH	1.0
+PRSS57	Base Composition	MeSH	1.0
+PRSS57	Baths	MeSH	1.0
+PRSS57	Biotechnology	MeSH	1.0
+PRSS57	California	MeSH	1.0
+PRSS57	Centers for Disease Control and Prevention (U.S.)	MeSH	1.0
+PRSS57	Chromatography, Gel	MeSH	1.0
+PRSS57	Chromatography, Ion Exchange	MeSH	1.0
+PRSS57	Chromatography, Thin Layer	MeSH	1.0
+PRSS57	Cold Temperature	MeSH	1.0
+PRSS57	Cross Reactions	MeSH	1.0
+PRSS57	Diagnosis-Related Groups	MeSH	1.0
+PRSS57	Dialysis	MeSH	1.0
+PRSS57	Discrimination (Psychology)	MeSH	1.0
+PRSS57	Dissection	MeSH	1.0
+PRSS57	Drug Evaluation, Preclinical	MeSH	1.0
+PRSS57	Electrophoresis, Agar Gel	MeSH	1.0
+PRSS57	Electrophysiology	MeSH	1.0
+PRSS57	England	MeSH	1.0
+PRSS57	Environmental Monitoring	MeSH	1.0
+PRSS57	Fathers	MeSH	1.0
+PRSS57	Finland	MeSH	1.0
+PRSS57	Food Microbiology	MeSH	1.0
+PRSS57	Fourier Analysis	MeSH	1.0
+PRSS57	Genes, Regulator	MeSH	1.0
+PRSS57	Health Maintenance Organizations	MeSH	1.0
+PRSS57	Health Services	MeSH	1.0
+PRSS57	Homicide	MeSH	1.0
+PRSS57	Hong Kong	MeSH	1.0
+PRSS57	Injections, Intramuscular	MeSH	1.0
+PRSS57	Malaysia	MeSH	1.0
+PRSS57	Membrane Potentials	MeSH	1.0
+PRSS57	Mexico	MeSH	1.0
+PRSS57	Mice, Inbred ICR	MeSH	1.0
+PRSS57	Mice, Transgenic	MeSH	1.0
+PRSS57	Mining	MeSH	1.0
+PRSS57	Models, Chemical	MeSH	1.0
+PRSS57	Motion Pictures	MeSH	1.0
+PRSS57	Terminology as Topic	MeSH	1.0
+PRSS57	Organ Specificity	MeSH	1.0
+PRSS57	Population Density	MeSH	1.0
+PRSS57	Quality Control	MeSH	1.0
+PRSS57	Quebec	MeSH	1.0
+PRSS57	Repetitive Sequences, Nucleic Acid	MeSH	1.0
+PRSS57	Scotland	MeSH	1.0
+PRSS57	Singapore	MeSH	1.0
+PRSS57	Subject Headings	MeSH	1.0
+PRSS57	Thermodynamics	MeSH	1.0
+PRSS57	Track and Field	MeSH	1.0
+PRSS57	Transducers	MeSH	1.0
+PRSS57	Triplets	MeSH	1.0
+PRSS57	Washington	MeSH	1.0
+PRSS57	Waste Disposal, Fluid	MeSH	1.0
+PRSS57	Water Microbiology	MeSH	1.0
+PRSS57	World Health Organization	MeSH	1.0
+PRSS57	Likelihood Functions	MeSH	1.0
+PRSS57	Databases, Factual	MeSH	1.0
+PRSS57	Electric Impedance	MeSH	1.0
+PRSS57	Catheter Ablation	MeSH	1.0
+PRSS57	In Situ Hybridization, Fluorescence	MeSH	1.0
+PRSS57	Water Purification	MeSH	1.0
+PRSS57	Natural History	MeSH	1.0
+PRSS57	Dietary Supplements	MeSH	1.0
+PRSS57	Databases, Genetic	MeSH	1.0
+PRSS57	Pregnant Women	MeSH	1.0
+PRSS57	Eukaryota	MeSH	1.0
+PRSS57	Climate Change	MeSH	1.0
+PRSS57	Hordeum	MeSH	1.0
+PRSS57	Zea mays	MeSH	1.0
+PRSS57	Saccharomyces cerevisiae	MeSH	1.0
+PRSS57	Triticum	MeSH	1.0
+PRSS57	Plant Leaves	MeSH	1.0
+PRSS57	Livestock	MeSH	1.0
+PRSS57	Axons	MeSH	1.0
+PRSS57	Bile Ducts	MeSH	1.0
+PRSS57	Biliary Tract	MeSH	1.0
+PRSS57	Granulocytes	MeSH	1.0
+PRSS57	Disabled Persons	MeSH	1.0
+PRSS57	Hypothalamus	MeSH	1.0
+PRSS57	Neurons, Afferent	MeSH	1.0
+PRSS57	Stress, Physiological	MeSH	1.0
+PRSS57	T-Lymphocytes, Cytotoxic	MeSH	1.0
+PRSS57	Vagus Nerve	MeSH	1.0
+PRSS57	CD4-Positive T-Lymphocytes	MeSH	1.0
+PRSS57	Mutagenesis, Insertional	MeSH	1.0
+PRSS57	Fatal Outcome	MeSH	1.0
+PRSS57	Waste Water	MeSH	1.0
+PRSS57	Islands	MeSH	1.0
+PRSS57	Meals	MeSH	1.0
+PRSS57	Tertiary Healthcare	MeSH	1.0
+PRSS57	Microbiota	MeSH	1.0
+PRSS57	Protective Factors	MeSH	1.0
+PRSS57	Cell Body	MeSH	1.0
+PRSS57	Gastrointestinal Microbiome	MeSH	1.0
+PRSS57	Red Meat	MeSH	1.0
+PRSS57	Drug Development	MeSH	1.0
+PRSS57	bi ma zi	Traditional chinese medicine	0.0147

@@ -1,0 +1,189 @@
+Selection	Association Name	Association Type	Significance
+nsp9 protein, SARS virus	Analytical ultracentrifugation	Procedure	7.83E-4
+nsp9 protein, SARS virus	Reverse genetics	Procedure	9.56E-4
+nsp9 protein, SARS virus	Electrophoretic mobility shift assay	Procedure	0.00178
+nsp9 protein, SARS virus	Fluorescence polarization	Procedure	0.00284
+nsp9 protein, SARS virus	Amino acid substitution	Procedure	0.00377
+nsp9 protein, SARS virus	Crystal present or absent (lab procedure)	Procedure	0.00454
+nsp9 protein, SARS virus	Surface plasmon resonance	Procedure	0.00704
+nsp9 protein, SARS virus	Ultracentrifugation	Procedure	0.00745
+nsp9 protein, SARS virus	Photon correlation spectroscopy	Procedure	0.0079
+nsp9 protein, SARS virus	Total protein measurement	Procedure	0.0132
+nsp9 protein, SARS virus	Circular dichroism	Procedure	0.0152
+nsp9 protein, SARS virus	Gel electrophoresis (lab technique)	Procedure	0.0158
+nsp9 protein, SARS virus	The science and art of healing	Procedure	0.0213
+nsp9 protein, SARS virus	Cloning	Procedure	0.0227
+nsp9 protein, SARS virus	Sequence alignment	Procedure	0.0288
+nsp9 protein, SARS virus	Electrophoresis	Procedure	0.0386
+nsp9 protein, SARS virus	Oxidative stress analysis	Procedure	0.0484
+nsp9 protein, SARS virus	Magnetic resonance spectroscopy	Procedure	0.0859
+nsp9 protein, SARS virus	Length of trial	Procedure	0.179
+nsp9 protein, SARS virus	Asparaginase/ifosfamide/methotrexate	Procedure	0.622
+nsp9 protein, SARS virus	Clinical research	Procedure	1.0
+nsp9 protein, SARS virus	Clinical trials	Procedure	1.0
+nsp9 protein, SARS virus	Scientific study	Procedure	1.0
+nsp9 protein, SARS virus	Study	Procedure	1.0
+nsp9 protein, SARS virus	DICOM study	Procedure	1.0
+nsp9 protein, SARS virus	Analysis	Procedure	1.0
+nsp9 protein, SARS virus	single-stranded RNA binding	Molecular function	1.62E-5
+nsp9 protein, SARS virus	nucleic acid binding	Molecular function	3.7E-4
+nsp9 protein, SARS virus	RNA binding	Molecular function	0.00203
+nsp9 protein, SARS virus	protein binding	Molecular function	0.0094
+nsp9 protein, SARS virus	Severe Acute Respiratory Syndrome	Disease	4.01E-5
+nsp9 protein, SARS virus	Virus Diseases	Disease	0.0447
+nsp9 protein, SARS virus	nonstructural protein, coronavirus	Chemical	2.19E-6
+nsp9 protein, SARS virus	sars7a protein, SARS virus	Chemical	7.15E-6
+nsp9 protein, SARS virus	RNA Binding Protein	Chemical	1.45E-4
+nsp9 protein, SARS virus	Viral Proteins	Chemical	2.94E-4
+nsp9 protein, SARS virus	Viral Nonstructural Proteins	Chemical	3.33E-4
+nsp9 protein, SARS virus	Polyproteins	Chemical	3.84E-4
+nsp9 protein, SARS virus	Single-Stranded RNA	Chemical	8.13E-4
+nsp9 protein, SARS virus	Mutant Proteins	Chemical	0.00149
+nsp9 protein, SARS virus	RNA-Directed RNA Polymerase	Chemical	0.00162
+nsp9 protein, SARS virus	Viral Structural Proteins	Chemical	0.00171
+nsp9 protein, SARS virus	Viral Matrix Proteins	Chemical	0.00186
+nsp9 protein, SARS virus	RNA, Viral	Chemical	0.00248
+nsp9 protein, SARS virus	Ribonucleic Acid	Chemical	0.00255
+nsp9 protein, SARS virus	Glutaral	Chemical	0.00421
+nsp9 protein, SARS virus	Single-stranded DNA	Chemical	0.00619
+nsp9 protein, SARS virus	Serine Protease	Chemical	0.00638
+nsp9 protein, SARS virus	Cross-Linking Reagents	Chemical	0.00671
+nsp9 protein, SARS virus	Transfer RNA	Chemical	0.00957
+nsp9 protein, SARS virus	Nucleic Acids	Chemical	0.0103
+nsp9 protein, SARS virus	Protein	Chemical	0.0109
+nsp9 protein, SARS virus	Oligonucleotides	Chemical	0.0126
+nsp9 protein, SARS virus	Codon	Chemical	0.0161
+nsp9 protein, SARS virus	Cysteine	Chemical	0.0241
+nsp9 protein, SARS virus	Peptides	Chemical	0.0243
+nsp9 protein, SARS virus	Agent	Chemical	0.0273
+nsp9 protein, SARS virus	Membrane Protein	Chemical	0.0606
+nsp9 protein, SARS virus	Polymer	Chemical	0.0622
+nsp9 protein, SARS virus	Solutions	Chemical	0.079
+nsp9 protein, SARS virus	Acid	Chemical	0.258
+nsp9 protein, SARS virus	DNA	Chemical	0.376
+nsp9 protein, SARS virus	viral replication complex	Anatomy	4.29E-5
+nsp9 protein, SARS virus	Crystal - human material	Anatomy	0.00218
+nsp9 protein, SARS virus	Host Cell	Anatomy	0.00617
+nsp9 protein, SARS virus	Helix of ear	Anatomy	0.0107
+nsp9 protein, SARS virus	Molecular helix	Anatomy	0.0107
+nsp9 protein, SARS virus	nucleic acid location	Anatomy	0.011
+nsp9 protein, SARS virus	protein location	Anatomy	0.0133
+nsp9 protein, SARS virus	Tissue membrane	Anatomy	0.0695
+nsp9 protein, SARS virus	viral nucleocapsid location	Anatomy	0.0734
+nsp9 protein, SARS virus	Cells	Anatomy	1.0
+nsp9 protein, SARS virus	Rao Z	Biomedical expert	0.9608
+nsp9 protein, SARS virus	Ferron F	Biomedical expert	0.9608
+nsp9 protein, SARS virus	Longhi S	Biomedical expert	0.9608
+nsp9 protein, SARS virus	Hilgenfeld R	Biomedical expert	0.9608
+nsp9 protein, SARS virus	Campanacci V	Biomedical expert	0.9608
+nsp9 protein, SARS virus	Rancurel C	Biomedical expert	0.9608
+nsp9 protein, SARS virus	Cambillau C	Biomedical expert	0.9608
+nsp9 protein, SARS virus	Moll R	Biomedical expert	0.9608
+nsp9 protein, SARS virus	Ponnusamy R	Biomedical expert	0.9608
+nsp9 protein, SARS virus	Snijder EJ	Biomedical expert	0.9608
+nsp9 protein, SARS virus	Egloff MP	Biomedical expert	0.9608
+nsp9 protein, SARS virus	Canard B	Biomedical expert	0.9608
+nsp9 protein, SARS virus	Mesters JR	Biomedical expert	0.9608
+nsp9 protein, SARS virus	Berrow N	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Weimar T	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Alderton D	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Ziebuhr J	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Salomoni A	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Dobbe JC	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Bartlam M	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Poon LL	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Diprose J	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Sainsbury S	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Durousseau C	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Tocque F	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Bremond N	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Nettleship J	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Donaldson EF	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Miknis ZJ	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Rimmer RA	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Davidson A	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Gilbert R	Biomedical expert	0.9802
+nsp9 protein, SARS virus	SCHULTZ LW	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Walsh M	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Chen C	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Carter L	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Walter T	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Owens R	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Wei L	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Sutton G	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Yang H	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Wang W	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Yang A	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Fry E	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Stuart DI	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Gorbalenya AE	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Baric RS	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Siddell S	Biomedical expert	0.9802
+nsp9 protein, SARS virus	He T	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Grimes JM	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Yuen KY	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Dutartre H	Biomedical expert	0.9802
+nsp9 protein, SARS virus	Umland TC	Biomedical expert	0.9802
+nsp9 protein, SARS virus	RBMS3	Gene/Protein	9.94E-4
+nsp9 protein, SARS virus	PTBP1	Gene/Protein	0.00108
+nsp9 protein, SARS virus	F2	Gene/Protein	0.01
+nsp9 protein, SARS virus	RNA biosynthetic process	Biological process	0.00344
+nsp9 protein, SARS virus	reproduction	Biological process	0.0314
+nsp9 protein, SARS virus	gene expression	Biological process	0.182
+nsp9 protein, SARS virus	growth	Biological process	0.764
+nsp9 protein, SARS virus	Protein	Food	0.0134
+nsp9 protein, SARS virus	Serine	Food	0.0221
+nsp9 protein, SARS virus	Coronavirus 229E, Human	MeSH	2.51E-5
+nsp9 protein, SARS virus	Betacoronavirus	MeSH	7.63E-5
+nsp9 protein, SARS virus	Coronaviridae	MeSH	1.29E-4
+nsp9 protein, SARS virus	Coronavirus	MeSH	1.46E-4
+nsp9 protein, SARS virus	Crystallography, X-Ray	MeSH	7.06E-4
+nsp9 protein, SARS virus	Dimerization	MeSH	0.00131
+nsp9 protein, SARS virus	RNA Viruses	MeSH	0.00143
+nsp9 protein, SARS virus	Protein Conformation, alpha-Helical	MeSH	0.00303
+nsp9 protein, SARS virus	Dynamic Light Scattering	MeSH	0.00343
+nsp9 protein, SARS virus	Protein Structure, Quaternary	MeSH	0.00367
+nsp9 protein, SARS virus	Microbial Viability	MeSH	0.00368
+nsp9 protein, SARS virus	Models, Molecular	MeSH	0.00409
+nsp9 protein, SARS virus	Crystallization	MeSH	0.00464
+nsp9 protein, SARS virus	Sequence Analysis, Protein	MeSH	0.00555
+nsp9 protein, SARS virus	Genome	MeSH	0.00558
+nsp9 protein, SARS virus	Amino Acid Motifs	MeSH	0.00719
+nsp9 protein, SARS virus	Protein Structure, Tertiary	MeSH	0.00733
+nsp9 protein, SARS virus	Anisotropy	MeSH	0.0107
+nsp9 protein, SARS virus	Protein Conformation	MeSH	0.0115
+nsp9 protein, SARS virus	Epidemics	MeSH	0.0117
+nsp9 protein, SARS virus	Cloning, Molecular	MeSH	0.012
+nsp9 protein, SARS virus	Hydrogen Bonding	MeSH	0.0141
+nsp9 protein, SARS virus	Amino Acid Sequence	MeSH	0.0155
+nsp9 protein, SARS virus	Protein Structure, Secondary	MeSH	0.0163
+nsp9 protein, SARS virus	Drug Design	MeSH	0.0165
+nsp9 protein, SARS virus	Open Reading Frames	MeSH	0.0177
+nsp9 protein, SARS virus	Genomics	MeSH	0.019
+nsp9 protein, SARS virus	Mutagenesis, Site-Directed	MeSH	0.0193
+nsp9 protein, SARS virus	Virus Replication	MeSH	0.0201
+nsp9 protein, SARS virus	Spectrometry, Fluorescence	MeSH	0.0209
+nsp9 protein, SARS virus	Cloning, Organism	MeSH	0.0242
+nsp9 protein, SARS virus	Viruses	MeSH	0.026
+nsp9 protein, SARS virus	Genetics	MeSH	0.0291
+nsp9 protein, SARS virus	Sequence Homology, Amino Acid	MeSH	0.0297
+nsp9 protein, SARS virus	Molecular Sequence Data	MeSH	0.0503
+nsp9 protein, SARS virus	Oxidative Stress	MeSH	0.0602
+nsp9 protein, SARS virus	Mutation	MeSH	0.0619
+nsp9 protein, SARS virus	Oxidation-Reduction	MeSH	0.0701
+nsp9 protein, SARS virus	Family	MeSH	0.0763
+nsp9 protein, SARS virus	Escherichia coli	MeSH	0.08
+nsp9 protein, SARS virus	Fluorescence	MeSH	0.0802
+nsp9 protein, SARS virus	Organizations	MeSH	0.0809
+nsp9 protein, SARS virus	Binding Sites	MeSH	0.1
+nsp9 protein, SARS virus	Humans	MeSH	0.13
+nsp9 protein, SARS virus	Light	MeSH	0.144
+nsp9 protein, SARS virus	Comprehension	MeSH	0.211
+nsp9 protein, SARS virus	Membranes	MeSH	0.22
+nsp9 protein, SARS virus	Form	MeSH	0.423
+nsp9 protein, SARS virus	Therapeutics	MeSH	1.0
+nsp9 protein, SARS virus	Role	MeSH	1.0
+nsp9 protein, SARS virus	Genes	MeSH	1.0
+nsp9 protein, SARS virus	Attention	MeSH	1.0
+nsp9 protein, SARS virus	viral replication complex	Cellular component	4.11E-5
+nsp9 protein, SARS virus	host cell	Cellular component	0.00596

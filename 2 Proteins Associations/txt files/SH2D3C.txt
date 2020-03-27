@@ -1,0 +1,2868 @@
+Selection	Association Name	Association Type	Significance
+SH2D3C	Reverse genetics	Procedure	3.5E-4
+SH2D3C	Yeast two hybrid interaction screening	Procedure	5.38E-4
+SH2D3C	Total protein measurement	Procedure	6.5E-4
+SH2D3C	Phylogenetic analysis	Procedure	6.94E-4
+SH2D3C	Amino acid substitution	Procedure	0.00101
+SH2D3C	Serial passage	Procedure	0.00101
+SH2D3C	Sequence analysis	Procedure	0.0011
+SH2D3C	Sequence alignment	Procedure	0.00183
+SH2D3C	Viral plaque assay	Procedure	0.00183
+SH2D3C	Protein interaction mapping	Procedure	0.00203
+SH2D3C	Sequence insertion	Procedure	0.00216
+SH2D3C	Genotyping techniques	Procedure	0.00238
+SH2D3C	Genome sequencing	Procedure	0.0028
+SH2D3C	Reverse transcriptase polymerase chain reaction	Procedure	0.0032
+SH2D3C	Immunoprecipitation	Procedure	0.00346
+SH2D3C	Electron microscope tomography	Procedure	0.00443
+SH2D3C	Genotype determination	Procedure	0.0046
+SH2D3C	Mutagenesis	Procedure	0.00541
+SH2D3C	Two-hybrid system techniques	Procedure	0.00542
+SH2D3C	Co-immunoprecipitation	Procedure	0.00646
+SH2D3C	DNA mutational analysis	Procedure	0.00663
+SH2D3C	Analysis	Procedure	0.00706
+SH2D3C	Cisplatin/cyclophosphamide/doxorubicin protocol	Procedure	0.00729
+SH2D3C	Passage tissue culture technique	Procedure	0.00735
+SH2D3C	Cyclophosphamide/doxorubicin/prednisone protocol	Procedure	0.00747
+SH2D3C	Genetic complementation test	Procedure	0.00772
+SH2D3C	Yeast two-hybrid system techniques	Procedure	0.00782
+SH2D3C	Artificial gene fusion	Procedure	0.00848
+SH2D3C	VPDA protocol	Procedure	0.0085
+SH2D3C	Yeast one/two-hybrid system	Procedure	0.00865
+SH2D3C	Immunofluorescence assay	Procedure	0.00914
+SH2D3C	Cell culture techniques	Procedure	0.00936
+SH2D3C	Vaccine development	Procedure	0.0114
+SH2D3C	High-throughput nucleotide sequencing	Procedure	0.0116
+SH2D3C	Restriction mapping	Procedure	0.012
+SH2D3C	Cellular imaging	Procedure	0.0122
+SH2D3C	Real-time polymerase chain reaction	Procedure	0.0135
+SH2D3C	Doxorubicin/etoposide/vincristine protocol	Procedure	0.0136
+SH2D3C	FEC protocol	Procedure	0.0142
+SH2D3C	Genetic screening method	Procedure	0.0146
+SH2D3C	Genetic analysis	Procedure	0.0154
+SH2D3C	Cell culture system	Procedure	0.0156
+SH2D3C	Assay	Procedure	0.0165
+SH2D3C	Dideoxy chain termination DNA sequencing	Procedure	0.0168
+SH2D3C	Immunoelectron microscopy	Procedure	0.0177
+SH2D3C	Fluorescent antibody technique	Procedure	0.018
+SH2D3C	Scientific study	Procedure	0.0184
+SH2D3C	Study	Procedure	0.0184
+SH2D3C	DICOM study	Procedure	0.0184
+SH2D3C	Clinical research	Procedure	0.019
+SH2D3C	Immunofluorescence microscopy	Procedure	0.0192
+SH2D3C	Biological assay	Procedure	0.0195
+SH2D3C	Gene amplification technique	Procedure	0.0198
+SH2D3C	Acetylcholine measurement	Procedure	0.0204
+SH2D3C	Transfection	Procedure	0.0208
+SH2D3C	The science and art of healing	Procedure	0.021
+SH2D3C	Comparative analysis	Procedure	0.0215
+SH2D3C	Quantitative reverse transcriptase PCR	Procedure	0.0222
+SH2D3C	Clinical trials	Procedure	0.0224
+SH2D3C	CFP protocol	Procedure	0.0249
+SH2D3C	Polymerase chain reaction	Procedure	0.0257
+SH2D3C	Electroporation	Procedure	0.0267
+SH2D3C	Virus cultivation	Procedure	0.0272
+SH2D3C	Western blot	Procedure	0.0285
+SH2D3C	Multiplex polymerase chain reaction	Procedure	0.0328
+SH2D3C	Electrophoretic mobility shift assay	Procedure	0.0342
+SH2D3C	Gene knockdown techniques	Procedure	0.0349
+SH2D3C	Radioimmunoprecipitation assay	Procedure	0.0364
+SH2D3C	Indirect immunofluorescence	Procedure	0.0384
+SH2D3C	Homologous recombination	Procedure	0.0393
+SH2D3C	Multilocus sequence typing	Procedure	0.0429
+SH2D3C	Insertional mutagenesis	Procedure	0.0447
+SH2D3C	Affinity chromatography	Procedure	0.0452
+SH2D3C	Virus inactivation	Procedure	0.0452
+SH2D3C	Cisplatin/ifosfamide/mesna/mitomycin protocol	Procedure	0.0459
+SH2D3C	Quantitative real-time polymerase chain reaction	Procedure	0.0467
+SH2D3C	Administration procedure	Procedure	0.0475
+SH2D3C	Treatment study	Procedure	0.0475
+SH2D3C	Positive selection	Procedure	0.0478
+SH2D3C	Vaccination	Procedure	0.0494
+SH2D3C	Therapeutic procedure	Procedure	0.0495
+SH2D3C	Genetic association studies	Procedure	0.0517
+SH2D3C	Proteomic profiling	Procedure	0.0533
+SH2D3C	Rapid test	Procedure	0.0533
+SH2D3C	Calorimetry	Procedure	0.0575
+SH2D3C	Immunoblotting	Procedure	0.0587
+SH2D3C	Precipitin tests	Procedure	0.0588
+SH2D3C	Protein sequence analysis	Procedure	0.0598
+SH2D3C	Subsequent trial activity	Procedure	0.0613
+SH2D3C	Pellet formation	Procedure	0.0627
+SH2D3C	Inoculation	Procedure	0.0629
+SH2D3C	Vaccine design	Procedure	0.0645
+SH2D3C	Oncolytic virotherapy	Procedure	0.0647
+SH2D3C	Yeast cell measurement	Procedure	0.0655
+SH2D3C	Length of trial	Procedure	0.0725
+SH2D3C	Peptide mapping	Procedure	0.0736
+SH2D3C	Isolation aspects	Procedure	0.0737
+SH2D3C	Isolation procedure	Procedure	0.0745
+SH2D3C	Mass spectrometry	Procedure	0.0755
+SH2D3C	Protein sequence determination	Procedure	0.0759
+SH2D3C	Molecular modeling	Procedure	0.0793
+SH2D3C	Surveillance program	Procedure	0.0825
+SH2D3C	Rapid antigen test	Procedure	0.0829
+SH2D3C	Homology modeling	Procedure	0.0849
+SH2D3C	Detection	Procedure	0.0871
+SH2D3C	Serodiagnosis	Procedure	0.0923
+SH2D3C	Clinical trial period	Procedure	0.0934
+SH2D3C	Western blotting	Procedure	0.0952
+SH2D3C	Polyacrylamide gel electrophoresis	Procedure	0.0983
+SH2D3C	Surgical and medical procedures	Procedure	0.0995
+SH2D3C	Immunoglobulin M measurement	Procedure	0.101
+SH2D3C	Gel electrophoresis (lab technique)	Procedure	0.101
+SH2D3C	Genetic testing for cancer risk	Procedure	0.102
+SH2D3C	Tracheotomy procedure	Procedure	0.105
+SH2D3C	Protein digestion (research activity)	Procedure	0.11
+SH2D3C	Disease screening	Procedure	0.115
+SH2D3C	Screening for cancer	Procedure	0.115
+SH2D3C	Deep sequencing	Procedure	0.115
+SH2D3C	Weighing patient	Procedure	0.119
+SH2D3C	X-ray crystallography	Procedure	0.12
+SH2D3C	Gel mobility shift assay	Procedure	0.121
+SH2D3C	Enzyme-linked immunospot assay	Procedure	0.122
+SH2D3C	Chromosome mapping	Procedure	0.128
+SH2D3C	Mass screening	Procedure	0.129
+SH2D3C	Genetic manipulation	Procedure	0.131
+SH2D3C	Enzyme-linked immunosorbent assay	Procedure	0.133
+SH2D3C	Diagnosis study	Procedure	0.136
+SH2D3C	Microscopy	Procedure	0.138
+SH2D3C	Sds-page	Procedure	0.141
+SH2D3C	Induction procedure	Procedure	0.143
+SH2D3C	Statistical cluster	Procedure	0.144
+SH2D3C	Disinfection	Procedure	0.153
+SH2D3C	Therapeutic intervention	Procedure	0.153
+SH2D3C	DNA sequence determinations	Procedure	0.162
+SH2D3C	Epitope mapping	Procedure	0.163
+SH2D3C	Knowledge acquisition	Procedure	0.165
+SH2D3C	Neutralization tests	Procedure	0.171
+SH2D3C	Cisplatin/doxorubicin/mitomycin protocol	Procedure	0.173
+SH2D3C	Neutralising antibodies analysis	Procedure	0.173
+SH2D3C	Density gradient centrifugation	Procedure	0.186
+SH2D3C	Random amplified polymorphic DNA technique	Procedure	0.189
+SH2D3C	Volume measurement	Procedure	0.199
+SH2D3C	Nested polymerase chain reaction	Procedure	0.199
+SH2D3C	Electrophoresis, gel, two-dimensional	Procedure	0.207
+SH2D3C	Molecular typing	Procedure	0.214
+SH2D3C	Crystallography	Procedure	0.218
+SH2D3C	Interventional procedure	Procedure	0.222
+SH2D3C	Electron microscopy	Procedure	0.223
+SH2D3C	Tumor necrosis factor measurement	Procedure	0.223
+SH2D3C	Neutralization actcode	Procedure	0.224
+SH2D3C	Comparative genomic analysis	Procedure	0.225
+SH2D3C	Asparaginase/ifosfamide/methotrexate	Procedure	0.226
+SH2D3C	Somatomedin-C measurement	Procedure	0.235
+SH2D3C	Genetic engineering	Procedure	0.237
+SH2D3C	Mini-mental status exam	Procedure	0.238
+SH2D3C	Albumin/globulin ratio	Procedure	0.24
+SH2D3C	Interferon gamma measurement	Procedure	0.242
+SH2D3C	Training programs	Procedure	0.245
+SH2D3C	Training	Procedure	0.245
+SH2D3C	Excision	Procedure	0.247
+SH2D3C	Protein array analysis	Procedure	0.248
+SH2D3C	Antiviral therapy	Procedure	0.26
+SH2D3C	Cyclophosphamide/doxorubicin/mitomycin protocol	Procedure	0.266
+SH2D3C	Methotrexate-actinomycin-chlorambucil regimen	Procedure	0.266
+SH2D3C	Cyclophosphamide/dactinomycin/methotrexate protocol	Procedure	0.267
+SH2D3C	Spectrometry, mass, matrix-assisted laser desorption-ionization	Procedure	0.268
+SH2D3C	Research design	Procedure	0.269
+SH2D3C	X-ray computed tomography	Procedure	0.273
+SH2D3C	Altretamine/cisplatin/cyclophosphamide/misonidazole protocol	Procedure	0.275
+SH2D3C	Electrophoresis	Procedure	0.285
+SH2D3C	Vitamin A measurement	Procedure	0.286
+SH2D3C	Immunohistochemistry	Procedure	0.288
+SH2D3C	Immunization schedule	Procedure	0.289
+SH2D3C	Gene therapy	Procedure	0.294
+SH2D3C	Calcium measurement	Procedure	0.298
+SH2D3C	Alcohol measurement	Procedure	0.301
+SH2D3C	Crystal present or absent (lab procedure)	Procedure	0.303
+SH2D3C	Liquid chromatography mass spectrometry	Procedure	0.305
+SH2D3C	Case-control studies	Procedure	0.309
+SH2D3C	Squamous transitional epithelial cell count	Procedure	0.311
+SH2D3C	Epithelial cell count	Procedure	0.326
+SH2D3C	Monocyte count procedure	Procedure	0.337
+SH2D3C	Safety study	Procedure	0.351
+SH2D3C	High resolution	Procedure	0.353
+SH2D3C	Cross-sectional studies	Procedure	0.354
+SH2D3C	Gene knockout techniques	Procedure	0.356
+SH2D3C	Insulin measurement	Procedure	0.356
+SH2D3C	Prevention study	Procedure	0.376
+SH2D3C	Transplantation	Procedure	0.377
+SH2D3C	Chlorambucil/dactinomycin/methotrexate protocol	Procedure	0.379
+SH2D3C	Spectrum analysis	Procedure	0.38
+SH2D3C	Research study	Procedure	0.383
+SH2D3C	Nuclear magnetic resonance spectroscopy	Procedure	0.391
+SH2D3C	Centrifugation	Procedure	0.396
+SH2D3C	Laboratory procedures	Procedure	0.401
+SH2D3C	Positioning therapy	Procedure	0.404
+SH2D3C	Nucleic acid hybridization procedure	Procedure	0.422
+SH2D3C	Observation in research	Procedure	0.426
+SH2D3C	CD8 expressing T cell count	Procedure	0.427
+SH2D3C	Observation diagnostic procedure	Procedure	0.448
+SH2D3C	Immunologic techniques	Procedure	0.45
+SH2D3C	Organ transplantation	Procedure	0.451
+SH2D3C	Microarray analysis	Procedure	0.455
+SH2D3C	Efficacy study	Procedure	0.46
+SH2D3C	Pre-clinical trial	Procedure	0.467
+SH2D3C	Immunoglobulin A measurement	Procedure	0.48
+SH2D3C	Intraperitoneal injections	Procedure	0.484
+SH2D3C	High sensitivity	Procedure	0.507
+SH2D3C	Intubation	Procedure	0.521
+SH2D3C	Dacarbazine/doxorubicin/ifosfamide protocol	Procedure	0.524
+SH2D3C	AID artificial insemination by donor	Procedure	0.525
+SH2D3C	Cisplatin/doxorubicin/vincristine protocol	Procedure	0.53
+SH2D3C	Epidemiologic studies	Procedure	0.538
+SH2D3C	Glutathione S-transferase measurement	Procedure	0.561
+SH2D3C	Profile (lab procedure)	Procedure	0.562
+SH2D3C	Flow cytometry	Procedure	0.575
+SH2D3C	Fluorescence resonance energy transfer	Procedure	0.592
+SH2D3C	Capillary electrophoresis	Procedure	0.602
+SH2D3C	Research	Procedure	0.658
+SH2D3C	Cell fractionation	Procedure	0.678
+SH2D3C	Incubation laboratory procedure	Procedure	0.703
+SH2D3C	Biotin	Procedure	0.729
+SH2D3C	Determination aspects	Procedure	0.73
+SH2D3C	International normalized ratio	Procedure	0.745
+SH2D3C	Discussion	Procedure	0.751
+SH2D3C	Magnetic resonance spectroscopy	Procedure	0.765
+SH2D3C	Glucose measurement	Procedure	0.766
+SH2D3C	Placebo control	Procedure	0.772
+SH2D3C	Release	Procedure	0.792
+SH2D3C	Derivation procedure	Procedure	0.794
+SH2D3C	Plasma glucose measurement	Procedure	0.818
+SH2D3C	Validation	Procedure	0.819
+SH2D3C	Longitudinal studies	Procedure	0.85
+SH2D3C	Observation method algorithm	Procedure	0.854
+SH2D3C	Basic research	Procedure	0.895
+SH2D3C	Oxidative stress analysis	Procedure	0.906
+SH2D3C	Modeling	Procedure	0.908
+SH2D3C	DNA probe method	Procedure	0.925
+SH2D3C	Prophylactic cranial irradiation	Procedure	0.986
+SH2D3C	Research activities	Procedure	1.0
+SH2D3C	Laser-induced fluorescence endoscopy	Procedure	1.0
+SH2D3C	Magnetic resonance imaging	Procedure	1.0
+SH2D3C	Imaging techniques	Procedure	1.0
+SH2D3C	Pathology procedure	Procedure	1.0
+SH2D3C	Bacterial count measurement	Procedure	1.0
+SH2D3C	Staining and labeling	Procedure	1.0
+SH2D3C	Culture of specimen from other site	Procedure	1.0
+SH2D3C	Culture of specimen from unspecified site	Procedure	1.0
+SH2D3C	Laboratory culture	Procedure	1.0
+SH2D3C	Scanning transmission electron microscopy procedures	Procedure	1.0
+SH2D3C	Simulation	Procedure	1.0
+SH2D3C	Staining method	Procedure	1.0
+SH2D3C	Immunization	Procedure	1.0
+SH2D3C	Iontophoresis	Procedure	1.0
+SH2D3C	Phosphate measurement	Procedure	1.0
+SH2D3C	Survival analysis	Procedure	1.0
+SH2D3C	Protocol treatment arm	Procedure	1.0
+SH2D3C	Monitoring clinical trials	Procedure	1.0
+SH2D3C	Infiltration	Procedure	1.0
+SH2D3C	Cytarabine/thioguanine	Procedure	1.0
+SH2D3C	Extraction	Procedure	1.0
+SH2D3C	MRI	Procedure	1.0
+SH2D3C	Gene expression profiling	Procedure	1.0
+SH2D3C	Tandem mass spectrometry	Procedure	1.0
+SH2D3C	Fluorescent in situ hybridization	Procedure	1.0
+SH2D3C	Chemical extraction	Procedure	1.0
+SH2D3C	Zinc measurement	Procedure	1.0
+SH2D3C	Glutamate measurement	Procedure	1.0
+SH2D3C	Immunoglobulin measurement	Procedure	1.0
+SH2D3C	Lymphocyte count measurement	Procedure	1.0
+SH2D3C	Cloning	Procedure	1.0
+SH2D3C	Central minus	Procedure	1.0
+SH2D3C	Albumin measurement	Procedure	1.0
+SH2D3C	Alkaline phosphatase measurement	Procedure	1.0
+SH2D3C	Epidermal growth factor measurement	Procedure	1.0
+SH2D3C	Transmission electron microscopy	Procedure	1.0
+SH2D3C	Xenograft procedure	Procedure	1.0
+SH2D3C	Tissue dissection	Procedure	1.0
+SH2D3C	Dose fractionation	Procedure	1.0
+SH2D3C	Cyclophosphamide/doxorubicin/methotrexate/procarbazine protocol	Procedure	1.0
+SH2D3C	Hyperthermia treatment	Procedure	1.0
+SH2D3C	Cisplatin/methotrexate/vinblastine protocol	Procedure	1.0
+SH2D3C	Allogeneic hematopoietic stem cell transplantation	Procedure	1.0
+SH2D3C	Cyclophosphamide/etoposide/methotrexate protocol	Procedure	1.0
+SH2D3C	Amsacrine/cyclophosphamide/etoposide	Procedure	1.0
+SH2D3C	Reperfusion therapy	Procedure	1.0
+SH2D3C	Immunotherapy	Procedure	1.0
+SH2D3C	Therapeutic immunosuppression	Procedure	1.0
+SH2D3C	Doxorubicin/prednisone/vincristine protocol	Procedure	1.0
+SH2D3C	Assisted reproductive technologies	Procedure	1.0
+SH2D3C	Ablation	Procedure	1.0
+SH2D3C	Disorder control	Procedure	1.0
+SH2D3C	Molecular targeted therapy	Procedure	1.0
+SH2D3C	Genome-wide association study	Procedure	1.0
+SH2D3C	In situ nick-end labeling	Procedure	1.0
+SH2D3C	Oligonucleotide array sequence analysis	Procedure	1.0
+SH2D3C	Diagnostic radiology modality	Procedure	1.0
+SH2D3C	Antiretroviral therapy	Procedure	1.0
+SH2D3C	Neuroimaging	Procedure	1.0
+SH2D3C	Northern blotting	Procedure	1.0
+SH2D3C	In situ hybridization	Procedure	1.0
+SH2D3C	Scanning	Procedure	1.0
+SH2D3C	Fluorescence microscopy	Procedure	1.0
+SH2D3C	Microbial sensitivity tests	Procedure	1.0
+SH2D3C	Double-blind method	Procedure	1.0
+SH2D3C	X-ray diffraction	Procedure	1.0
+SH2D3C	Apolipoprotein B assay	Procedure	1.0
+SH2D3C	General (procedure) toxicology screen	Procedure	1.0
+SH2D3C	Thyroid stimulating hormone measurement	Procedure	1.0
+SH2D3C	Chemical fractionation	Procedure	1.0
+SH2D3C	Cure study	Procedure	1.0
+SH2D3C	Circular dichroism	Procedure	1.0
+SH2D3C	Chromatography	Procedure	1.0
+SH2D3C	Chloride measurement	Procedure	1.0
+SH2D3C	Gold measurement	Procedure	1.0
+SH2D3C	Chemical procedure	Procedure	1.0
+SH2D3C	Immunoassay method	Procedure	1.0
+SH2D3C	Serologic tests	Procedure	1.0
+SH2D3C	Seroepidemiologic studies	Procedure	1.0
+SH2D3C	Sample fixation	Procedure	1.0
+SH2D3C	Observation method cytotoxicity	Procedure	1.0
+SH2D3C	Cell separation	Procedure	1.0
+SH2D3C	Cell count	Procedure	1.0
+SH2D3C	Correlation study	Procedure	1.0
+SH2D3C	Paradigm	Procedure	1.0
+SH2D3C	Confocal microscopy	Procedure	1.0
+SH2D3C	Research clinical testing	Procedure	1.0
+SH2D3C	Population surveillance	Procedure	1.0
+SH2D3C	Radiotherapy fractionation	Procedure	1.0
+SH2D3C	Pilot projects	Procedure	1.0
+SH2D3C	White blood cell count procedure	Procedure	1.0
+SH2D3C	Patch-clamp techniques	Procedure	1.0
+SH2D3C	Rotavirus Infections	Disease	1.7E-5
+SH2D3C	Alphavirus Infections	Disease	1.95E-5
+SH2D3C	Venezuelan equine encephalomyelitis	Disease	3.49E-5
+SH2D3C	Severe Acute Respiratory Syndrome	Disease	6.89E-5
+SH2D3C	Myasthenic Syndromes, Congenital	Disease	1.47E-4
+SH2D3C	Encephalomyelitis, Eastern Equine	Disease	1.5E-4
+SH2D3C	Gastroenteritis	Disease	2.0E-4
+SH2D3C	Coronavirus Infections	Disease	2.62E-4
+SH2D3C	Sprains and Strains	Disease	4.14E-4
+SH2D3C	Porcine Reproductive and Respiratory Syndrome	Disease	4.34E-4
+SH2D3C	Arterivirus Infections	Disease	6.21E-4
+SH2D3C	Encephalomyelitis, Western Equine	Disease	7.02E-4
+SH2D3C	Infection	Disease	9.04E-4
+SH2D3C	Neuromuscular Junction Diseases	Disease	0.00152
+SH2D3C	Virus Diseases	Disease	0.0018
+SH2D3C	Arteritis	Disease	0.00232
+SH2D3C	Polyarthralgia	Disease	0.00244
+SH2D3C	Hepatitis	Disease	0.00249
+SH2D3C	Swine Diseases	Disease	0.0026
+SH2D3C	Gastroenteritis, Transmissible, of Swine	Disease	0.00293
+SH2D3C	Viral Encephalitis	Disease	0.00297
+SH2D3C	Vaccinia	Disease	0.00364
+SH2D3C	Coronaviridae Infections	Disease	0.00371
+SH2D3C	Viremia	Disease	0.00397
+SH2D3C	Encephalitis	Disease	0.00428
+SH2D3C	Fish Diseases	Disease	0.00482
+SH2D3C	Apnea	Disease	0.00494
+SH2D3C	Anaplasmataceae Infections	Disease	0.0052
+SH2D3C	Horse Diseases	Disease	0.00564
+SH2D3C	Bronchitis	Disease	0.00917
+SH2D3C	Arthritis	Disease	0.00931
+SH2D3C	Togaviridae Infections	Disease	0.0106
+SH2D3C	Central Nervous System Viral Diseases	Disease	0.0114
+SH2D3C	Feline infectious peritonitis	Disease	0.0118
+SH2D3C	Muscular Dystrophy, Emery-Dreifuss	Disease	0.0118
+SH2D3C	Ptosis	Disease	0.0143
+SH2D3C	Encephalomyelitis	Disease	0.0158
+SH2D3C	Central Nervous System Infection	Disease	0.0167
+SH2D3C	Fever	Disease	0.0176
+SH2D3C	Kallmann Syndrome	Disease	0.0189
+SH2D3C	Exanthema	Disease	0.0195
+SH2D3C	Autoimmune Diseases of the Nervous System	Disease	0.0195
+SH2D3C	RNA Virus Infections	Disease	0.0221
+SH2D3C	Senile Plaques	Disease	0.0228
+SH2D3C	African swine fever	Disease	0.0271
+SH2D3C	Leigh Disease	Disease	0.0278
+SH2D3C	Encephalomyelitis, Equine	Disease	0.0281
+SH2D3C	Poultry Diseases	Disease	0.03
+SH2D3C	Mitochondrial Encephalomyopathies	Disease	0.031
+SH2D3C	Chromosomal translocation	Disease	0.0317
+SH2D3C	Coinfection	Disease	0.0322
+SH2D3C	Rift Valley Fever	Disease	0.0322
+SH2D3C	Optic Atrophy, Hereditary, Leber	Disease	0.033
+SH2D3C	Neonatal Hypotonia	Disease	0.0342
+SH2D3C	Neoplasms	Disease	0.0361
+SH2D3C	Pancreatic Diseases	Disease	0.0375
+SH2D3C	Arbovirus encephalitis	Disease	0.0418
+SH2D3C	Dental Plaque	Disease	0.0423
+SH2D3C	Cattle Diseases	Disease	0.046
+SH2D3C	Muscle Weakness	Disease	0.0474
+SH2D3C	Lyme Neuroborreliosis	Disease	0.0481
+SH2D3C	Alzheimer's Disease	Disease	0.0525
+SH2D3C	Respiratory Tract Infections	Disease	0.0612
+SH2D3C	Demyelinating Diseases	Disease	0.0651
+SH2D3C	Hepatitis D Infection	Disease	0.0681
+SH2D3C	Wounds and Injuries	Disease	0.0819
+SH2D3C	Olfaction Disorders	Disease	0.0978
+SH2D3C	Goat Diseases	Disease	0.102
+SH2D3C	Respiratory Insufficiency	Disease	0.104
+SH2D3C	Dengue Fever	Disease	0.111
+SH2D3C	Superinfection	Disease	0.122
+SH2D3C	Yellow Fever	Disease	0.127
+SH2D3C	Fragile X Syndrome	Disease	0.13
+SH2D3C	Communicable Diseases, Emerging	Disease	0.133
+SH2D3C	Chromosome Deletion	Disease	0.149
+SH2D3C	Recurrence (disease attribute)	Disease	0.152
+SH2D3C	Acidosis, Lactic	Disease	0.153
+SH2D3C	Zoonoses	Disease	0.154
+SH2D3C	Chromosomal Instability	Disease	0.154
+SH2D3C	Anaplasia	Disease	0.155
+SH2D3C	Carcinoma	Disease	0.156
+SH2D3C	Hepatitis C	Disease	0.161
+SH2D3C	Disease	Disease	0.175
+SH2D3C	Mitochondrial Diseases	Disease	0.184
+SH2D3C	Developmental Disabilities	Disease	0.186
+SH2D3C	Brain Hypoxia	Disease	0.202
+SH2D3C	Lymphopenia	Disease	0.213
+SH2D3C	Myeloproliferative disease	Disease	0.223
+SH2D3C	Bird Diseases	Disease	0.248
+SH2D3C	Communicable Diseases	Disease	0.27
+SH2D3C	Deglutition Disorders	Disease	0.281
+SH2D3C	Myositis	Disease	0.339
+SH2D3C	Rubella	Disease	0.339
+SH2D3C	Arthritis, Infectious	Disease	0.341
+SH2D3C	Animal Disease Models	Disease	0.372
+SH2D3C	Neuroblastoma	Disease	0.376
+SH2D3C	Rhabdomyosarcoma	Disease	0.388
+SH2D3C	Myocardial Reperfusion Injury	Disease	0.41
+SH2D3C	Cerebrovascular accident	Disease	0.439
+SH2D3C	Myocardial Infarction	Disease	0.456
+SH2D3C	Mental disorders	Disease	0.481
+SH2D3C	Rotary Nystagmus	Disease	0.489
+SH2D3C	Chronic disease	Disease	0.524
+SH2D3C	HIV Infections	Disease	0.561
+SH2D3C	Acute Disease	Disease	0.565
+SH2D3C	Musculoskeletal Diseases	Disease	0.578
+SH2D3C	Splenomegaly	Disease	0.583
+SH2D3C	Mammary Neoplasms, Experimental	Disease	0.594
+SH2D3C	Inflammation	Disease	0.624
+SH2D3C	Cell Transformation, Neoplastic	Disease	0.705
+SH2D3C	Ischemia	Disease	0.822
+SH2D3C	Bulla	Disease	0.917
+SH2D3C	Syndrome	Disease	1.0
+SH2D3C	Malignant neoplasm of breast	Disease	1.0
+SH2D3C	Dissociative disorder	Disease	1.0
+SH2D3C	Shock	Disease	1.0
+SH2D3C	Epilepsy	Disease	1.0
+SH2D3C	Cardiac Arrest	Disease	1.0
+SH2D3C	Mental Retardation	Disease	1.0
+SH2D3C	nervous system disorder	Disease	1.0
+SH2D3C	Mild cognitive disorder	Disease	1.0
+SH2D3C	Seizures, Clonic	Disease	1.0
+SH2D3C	Major Depressive Disorder	Disease	1.0
+SH2D3C	Depressive disorder	Disease	1.0
+SH2D3C	Multiple congenital anomalies	Disease	1.0
+SH2D3C	Atrophic	Disease	1.0
+SH2D3C	Bites and Stings	Disease	1.0
+SH2D3C	Brain Diseases	Disease	1.0
+SH2D3C	Coronary Artery Disease	Disease	1.0
+SH2D3C	Dementia	Disease	1.0
+SH2D3C	Liver carcinoma	Disease	1.0
+SH2D3C	Herpes Simplex Infections	Disease	1.0
+SH2D3C	leukemia	Disease	1.0
+SH2D3C	melanoma	Disease	1.0
+SH2D3C	Meningitis	Disease	1.0
+SH2D3C	Multiple Myeloma	Disease	1.0
+SH2D3C	Multiple Sclerosis	Disease	1.0
+SH2D3C	Myopathy	Disease	1.0
+SH2D3C	Poliomyelitis	Disease	1.0
+SH2D3C	Respiratory Tract Diseases	Disease	1.0
+SH2D3C	Osteosarcoma	Disease	1.0
+SH2D3C	Stomach Neoplasms	Disease	1.0
+SH2D3C	Leukemia, Myelocytic, Acute	Disease	1.0
+SH2D3C	Myocardial Ischemia	Disease	1.0
+SH2D3C	Neurotoxicity Syndromes	Disease	1.0
+SH2D3C	Rare Diseases	Disease	1.0
+SH2D3C	Anemia	Disease	1.0
+SH2D3C	Dog Diseases	Disease	1.0
+SH2D3C	Hematological Disease	Disease	1.0
+SH2D3C	Reperfusion Injury	Disease	1.0
+SH2D3C	Chromosome Aberrations	Disease	1.0
+SH2D3C	Body Weight decreased	Disease	1.0
+SH2D3C	NSP3 protein, Rotavirus	Chemical	5.14E-7
+SH2D3C	nsP3 protein, virus	Chemical	5.46E-7
+SH2D3C	nonstructural protein 3, SARS coronovirus	Chemical	1.23E-6
+SH2D3C	Nsp3 protein, semliki forest virus	Chemical	1.63E-6
+SH2D3C	Viral Nonstructural Proteins	Chemical	3.2E-6
+SH2D3C	nsP2 proteinase	Chemical	7.48E-6
+SH2D3C	ADP-ribose 1''-phosphate	Chemical	9.17E-6
+SH2D3C	Polyproteins	Chemical	1.55E-5
+SH2D3C	G3BP2 protein, human	Chemical	2.04E-5
+SH2D3C	papain-like proteinase 1	Chemical	2.34E-5
+SH2D3C	NS35 protein, rotavirus	Chemical	2.45E-5
+SH2D3C	NSP1 protein, Rotavirus	Chemical	2.83E-5
+SH2D3C	nonstructural protein, coronavirus	Chemical	3.36E-5
+SH2D3C	nsP1 protein, Sindbis virus	Chemical	4.89E-5
+SH2D3C	Ns4 protein, mouse hepatitis virus	Chemical	4.89E-5
+SH2D3C	gene 7 protein, Rotavirus B	Chemical	4.89E-5
+SH2D3C	papain-like proteinase 2	Chemical	5.3E-5
+SH2D3C	RNA-Directed RNA Polymerase	Chemical	5.66E-5
+SH2D3C	RNA, Viral	Chemical	6.65E-5
+SH2D3C	Pyridinolcarbamate	Chemical	1.04E-4
+SH2D3C	Eukaryotic Initiation Factor-4G	Chemical	1.2E-4
+SH2D3C	Breast Cancer Anti-Estrogen Resistance 1 Protein	Chemical	1.21E-4
+SH2D3C	VP6 protein, Rotavirus	Chemical	1.25E-4
+SH2D3C	nsP4 protein, Sindbis virus	Chemical	1.3E-4
+SH2D3C	RV3 rotavirus vaccine	Chemical	1.3E-4
+SH2D3C	Viral Proteins	Chemical	1.31E-4
+SH2D3C	VP7 protein, Rotavirus	Chemical	1.34E-4
+SH2D3C	NS28 protein, rotavirus	Chemical	1.34E-4
+SH2D3C	VP3 protein, Rotavirus	Chemical	1.47E-4
+SH2D3C	protein 6, SARS virus	Chemical	1.47E-4
+SH2D3C	Viral Protein	Chemical	1.72E-4
+SH2D3C	oligo(G)	Chemical	1.79E-4
+SH2D3C	Rx1 protein, Xenopus	Chemical	1.79E-4
+SH2D3C	CAT development factor	Chemical	2.28E-4
+SH2D3C	Nsp1 protein, SARS coronavirus	Chemical	2.45E-4
+SH2D3C	Ribonucleic Acid	Chemical	2.56E-4
+SH2D3C	Poly(A)-Binding Proteins	Chemical	2.58E-4
+SH2D3C	Viral Core Proteins	Chemical	2.72E-4
+SH2D3C	RNA triphosphatase	Chemical	2.96E-4
+SH2D3C	VP2 protein, Rotavirus	Chemical	3.3E-4
+SH2D3C	Codon, Terminator	Chemical	3.45E-4
+SH2D3C	RNA Binding Protein	Chemical	3.66E-4
+SH2D3C	Capsid Protein	Chemical	3.71E-4
+SH2D3C	NSP5 protein, rotavirus group A	Chemical	3.75E-4
+SH2D3C	gene 11 protein, Rotavirus B	Chemical	3.91E-4
+SH2D3C	glycoprotein E2, Sindbis virus	Chemical	3.96E-4
+SH2D3C	VP4 protein, Rotavirus	Chemical	4.25E-4
+SH2D3C	RotaTeq	Chemical	4.27E-4
+SH2D3C	thienopyrrole	Chemical	4.4E-4
+SH2D3C	sars7a protein, SARS virus	Chemical	4.4E-4
+SH2D3C	NEDD9 protein, mouse	Chemical	4.73E-4
+SH2D3C	Protein	Chemical	4.8E-4
+SH2D3C	3'-amino-3'-deoxyadenosine	Chemical	4.89E-4
+SH2D3C	Double-Stranded RNA	Chemical	5.05E-4
+SH2D3C	Choline O-Acetyltransferase	Chemical	5.24E-4
+SH2D3C	VP1 protein, Rotavirus	Chemical	5.38E-4
+SH2D3C	RNA Helicase	Chemical	5.42E-4
+SH2D3C	Host-Derived Cellular Factors	Chemical	5.55E-4
+SH2D3C	Nucleotide	Chemical	5.63E-4
+SH2D3C	hemagglutinin esterase	Chemical	5.84E-4
+SH2D3C	Viral Structural Proteins	Chemical	6.31E-4
+SH2D3C	glycoprotein E2, equine encephalitis virus	Chemical	6.53E-4
+SH2D3C	Nucleocapsid Protein	Chemical	6.74E-4
+SH2D3C	Rotavirus Vaccines	Chemical	6.88E-4
+SH2D3C	E protein, SARS coronavirus	Chemical	7.18E-4
+SH2D3C	RNA Polymerase	Chemical	7.47E-4
+SH2D3C	Amino Acid	Chemical	7.58E-4
+SH2D3C	Scaffolding Protein	Chemical	8.49E-4
+SH2D3C	Adenosine Diphosphate Ribose	Chemical	8.64E-4
+SH2D3C	Replicon	Chemical	8.81E-4
+SH2D3C	Untranslated Regions	Chemical	8.97E-4
+SH2D3C	Nucleocapsid	Chemical	9.11E-4
+SH2D3C	3C-like proteinase, Coronavirus	Chemical	9.14E-4
+SH2D3C	eIF-4	Chemical	9.79E-4
+SH2D3C	Initiation Factor	Chemical	0.00115
+SH2D3C	Structural Protein	Chemical	0.00116
+SH2D3C	DNA-Directed RNA Polymerases	Chemical	0.00118
+SH2D3C	leader proteinase, foot-and-mouth disease virus	Chemical	0.00119
+SH2D3C	Spike Glycoprotein, Coronavirus	Chemical	0.0013
+SH2D3C	Papain	Chemical	0.00131
+SH2D3C	1-(4-(4-propionylpiperazin-1-yl)-3-(trifluoromethyl)phenyl)-9-(quinolin-3-yl)benzo(h)(1,6)naphthyridin-2(1H)-one	Chemical	0.00132
+SH2D3C	Cysteine Endopeptidases	Chemical	0.00137
+SH2D3C	3-hexen-1-ol	Chemical	0.00137
+SH2D3C	nicotinic receptor alpha4beta2	Chemical	0.00149
+SH2D3C	quercetagetin	Chemical	0.00154
+SH2D3C	Adaptor Proteins, Signal Transducing	Chemical	0.00164
+SH2D3C	Viral Envelope Proteins	Chemical	0.00166
+SH2D3C	guanidine isothiocyanate	Chemical	0.0017
+SH2D3C	Ephrin Type-B Receptor 2	Chemical	0.00173
+SH2D3C	Helicase	Chemical	0.00175
+SH2D3C	ras GTPase-Activating Proteins	Chemical	0.00182
+SH2D3C	RAS-Related Protein RAP1A	Chemical	0.00182
+SH2D3C	Antigens, Viral	Chemical	0.00184
+SH2D3C	S protein, severe acute respiratory syndrome coronavirus	Chemical	0.00185
+SH2D3C	Nucleoside-Triphosphatase	Chemical	0.00186
+SH2D3C	DNA replicase	Chemical	0.00216
+SH2D3C	Eukaryotic Initiation Factor-4F	Chemical	0.00234
+SH2D3C	Codon	Chemical	0.00238
+SH2D3C	CapZ Actin Capping Protein	Chemical	0.00251
+SH2D3C	ICP8 protein, Simplexvirus	Chemical	0.0026
+SH2D3C	Peptidase	Chemical	0.00293
+SH2D3C	glycoprotein 5, PRRSV	Chemical	0.00318
+SH2D3C	Single-Stranded RNA	Chemical	0.0032
+SH2D3C	Interferon	Chemical	0.00325
+SH2D3C	Vaccines	Chemical	0.00332
+SH2D3C	Retinoblastoma-Like Protein 2	Chemical	0.0034
+SH2D3C	cDNA	Chemical	0.00344
+SH2D3C	Nucleosome Assembly Protein 1	Chemical	0.00345
+SH2D3C	Thioglucosides	Chemical	0.00349
+SH2D3C	Interferon Type I	Chemical	0.00387
+SH2D3C	Interferon Regulatory Factor 3	Chemical	0.00392
+SH2D3C	DNA Helicases	Chemical	0.00404
+SH2D3C	nucleocapsid protein, Coronavirus	Chemical	0.00411
+SH2D3C	Deubiquitinating Enzyme	Chemical	0.00412
+SH2D3C	5' Untranslated Regions	Chemical	0.00419
+SH2D3C	Corpus Luteum Hormones	Chemical	0.0044
+SH2D3C	Poly(A)-Binding Protein I	Chemical	0.0044
+SH2D3C	gamma-H2AX protein, mouse	Chemical	0.0046
+SH2D3C	Phosphoprotein	Chemical	0.00511
+SH2D3C	isopeptidase	Chemical	0.00548
+SH2D3C	Endoribonuclease	Chemical	0.00565
+SH2D3C	Vaccines, Attenuated	Chemical	0.00581
+SH2D3C	Messenger RNA	Chemical	0.00626
+SH2D3C	Polymerase	Chemical	0.00672
+SH2D3C	Ephrin-B1	Chemical	0.00684
+SH2D3C	Antiestrogen	Chemical	0.00701
+SH2D3C	Poly Adenosine Diphosphate Ribose	Chemical	0.00717
+SH2D3C	Toxins, Biological	Chemical	0.00723
+SH2D3C	3-(4-methylphenylsulfonyl)-2-propenenitrile	Chemical	0.00759
+SH2D3C	Interferons	Chemical	0.00761
+SH2D3C	Phosphothreonine	Chemical	0.00764
+SH2D3C	Glycoprotein	Chemical	0.00779
+SH2D3C	Oligoribonucleotides	Chemical	0.00783
+SH2D3C	Proto-Oncogene Proteins c-crk	Chemical	0.00788
+SH2D3C	Acid Anhydride Hydrolases	Chemical	0.00828
+SH2D3C	3' Untranslated Regions	Chemical	0.00839
+SH2D3C	Virulence Factors	Chemical	0.00843
+SH2D3C	Oligonucleotide Probes	Chemical	0.00854
+SH2D3C	Pepstatin	Chemical	0.00858
+SH2D3C	ras Guanine Nucleotide Exchange Factors	Chemical	0.00862
+SH2D3C	Signaling Protein	Chemical	0.00867
+SH2D3C	alpha-glycerophosphoric acid	Chemical	0.00931
+SH2D3C	Ligand Binding Protein	Chemical	0.00957
+SH2D3C	Polyubiquitin	Chemical	0.00962
+SH2D3C	Pyridostigmine Bromide	Chemical	0.00963
+SH2D3C	Transmembrane Protein	Chemical	0.00964
+SH2D3C	RNA Cap-Binding Proteins	Chemical	0.00985
+SH2D3C	Ras Protein Specific Guanine Nucleotide Releasing Factor 1	Chemical	0.01
+SH2D3C	RNA Caps	Chemical	0.0101
+SH2D3C	Eukaryotic Translation Initiation Factor 4E	Chemical	0.0101
+SH2D3C	Oligonucleotide Primer	Chemical	0.0102
+SH2D3C	Antiviral Agent	Chemical	0.0103
+SH2D3C	Signal Transducer and Activator of Transcription 2	Chemical	0.0103
+SH2D3C	Stachyose	Chemical	0.0104
+SH2D3C	Promega	Chemical	0.0106
+SH2D3C	Bioflavonoid	Chemical	0.0107
+SH2D3C	DNA, Viral	Chemical	0.0115
+SH2D3C	Mutant Proteins	Chemical	0.0115
+SH2D3C	Dihydro-beta-Erythroidine	Chemical	0.0118
+SH2D3C	TNF Receptor-Associated Factor 3	Chemical	0.012
+SH2D3C	Phosphoric Monoester Hydrolases	Chemical	0.0121
+SH2D3C	Guide RNA	Chemical	0.0121
+SH2D3C	Hexanols	Chemical	0.0122
+SH2D3C	GTPase	Chemical	0.0123
+SH2D3C	Polypyrimidine Tract-Binding Protein	Chemical	0.0127
+SH2D3C	Recombinant Proteins	Chemical	0.0134
+SH2D3C	enhanced green fluorescent protein	Chemical	0.0134
+SH2D3C	Cyclic AMP-Dependent Transcription Factor ATF-6 Alpha	Chemical	0.0136
+SH2D3C	Polynucleotide 5'-Hydroxyl-Kinase	Chemical	0.0137
+SH2D3C	red fluorescent protein	Chemical	0.0141
+SH2D3C	Regulatory Sequences, Ribonucleic Acid	Chemical	0.0142
+SH2D3C	Cell Division Control Protein 42 Homolog	Chemical	0.0144
+SH2D3C	GTPase-Activating Protein	Chemical	0.0146
+SH2D3C	ras Proteins	Chemical	0.015
+SH2D3C	Recombinant Fusion Proteins	Chemical	0.0164
+SH2D3C	Antigens, T-Independent	Chemical	0.0166
+SH2D3C	Mitogen-Activated Protein Kinase Kinase Kinase 1	Chemical	0.0169
+SH2D3C	Immunostimulant	Chemical	0.0174
+SH2D3C	Cyclopamine	Chemical	0.0175
+SH2D3C	Guanine Nucleotide Exchange Factor	Chemical	0.018
+SH2D3C	Vesicular Acetylcholine Transport Proteins	Chemical	0.0184
+SH2D3C	Integration Host Factors	Chemical	0.0186
+SH2D3C	Protein Fragment	Chemical	0.0188
+SH2D3C	hammerhead ribozyme	Chemical	0.0196
+SH2D3C	Green Fluorescent Proteins	Chemical	0.0197
+SH2D3C	Antibodies, Viral	Chemical	0.0199
+SH2D3C	Phosphoserine	Chemical	0.021
+SH2D3C	14-3-3 Proteins	Chemical	0.0211
+SH2D3C	Nucleoside	Chemical	0.0224
+SH2D3C	Veratrum Alkaloids	Chemical	0.0229
+SH2D3C	Receptors, Eph Family	Chemical	0.023
+SH2D3C	Signal Transducer and Activator of Transcription 1-alpha/beta	Chemical	0.0241
+SH2D3C	Nuclear Export Signals	Chemical	0.0243
+SH2D3C	Enzyme	Chemical	0.0247
+SH2D3C	Ubiquitin	Chemical	0.025
+SH2D3C	HSC70 Heat-Shock Proteins	Chemical	0.0259
+SH2D3C	Immune Sera	Chemical	0.0262
+SH2D3C	bisindolylmaleimide	Chemical	0.0283
+SH2D3C	baicalin	Chemical	0.0289
+SH2D3C	L-Selenomethionine	Chemical	0.029
+SH2D3C	Kaempferols	Chemical	0.0294
+SH2D3C	Peptide Elongation Factors	Chemical	0.0299
+SH2D3C	Ribonuclease T1	Chemical	0.0306
+SH2D3C	Interferon Regulatory Factor 1	Chemical	0.0312
+SH2D3C	Viral Matrix Proteins	Chemical	0.032
+SH2D3C	Viral Vaccines	Chemical	0.0324
+SH2D3C	Multiprotein Complexes	Chemical	0.0325
+SH2D3C	Luciferase	Chemical	0.0331
+SH2D3C	Ribonuclease	Chemical	0.0344
+SH2D3C	Nicotinic Agonist	Chemical	0.0367
+SH2D3C	Protein Kinase B	Chemical	0.0374
+SH2D3C	Phenylmethylsulfonyl Fluoride	Chemical	0.0378
+SH2D3C	Yeast	Chemical	0.0382
+SH2D3C	Protein Precursors	Chemical	0.0386
+SH2D3C	Nitrogen Isotopes	Chemical	0.0392
+SH2D3C	Receptors, Cholinergic	Chemical	0.0404
+SH2D3C	Kinase	Chemical	0.0412
+SH2D3C	Poly A	Chemical	0.0417
+SH2D3C	Serine/Threonine-Protein Kinase PAK 1	Chemical	0.0419
+SH2D3C	M Protein	Chemical	0.0435
+SH2D3C	Glucosinolate	Chemical	0.0438
+SH2D3C	DNA Primers	Chemical	0.0445
+SH2D3C	LIM Domain Proteins	Chemical	0.0446
+SH2D3C	Chloramphenicol O-acetyltransferase	Chemical	0.0457
+SH2D3C	Receptors, Nicotinic	Chemical	0.0464
+SH2D3C	Phosphotyrosine	Chemical	0.0471
+SH2D3C	Receptors, Lysosphingolipid	Chemical	0.0481
+SH2D3C	Cytoskeletal Protein	Chemical	0.0491
+SH2D3C	Antibodies, Neutralizing	Chemical	0.0501
+SH2D3C	Deoxyribonuclease	Chemical	0.052
+SH2D3C	78 kDa Glucose-Regulated Protein	Chemical	0.0522
+SH2D3C	Element	Chemical	0.0525
+SH2D3C	Cysteine Proteinase	Chemical	0.0532
+SH2D3C	RNA, Small Untranslated	Chemical	0.0533
+SH2D3C	Cytoplasmic Protein	Chemical	0.0533
+SH2D3C	Protein Synthesis Inhibitor	Chemical	0.0533
+SH2D3C	Antiserum	Chemical	0.0535
+SH2D3C	Amber	Chemical	0.0538
+SH2D3C	Heat Shock 27 kD Protein 1	Chemical	0.054
+SH2D3C	Monosaccharides	Chemical	0.0541
+SH2D3C	rac GTP-Binding Proteins	Chemical	0.0544
+SH2D3C	Nucleic Acids	Chemical	0.0545
+SH2D3C	proteoliposomes	Chemical	0.0548
+SH2D3C	Plasmid	Chemical	0.055
+SH2D3C	Naphthyridines	Chemical	0.0554
+SH2D3C	CREB-Binding Protein	Chemical	0.0561
+SH2D3C	Bacterial Artificial Chromosome	Chemical	0.0574
+SH2D3C	Nucleoporin	Chemical	0.0576
+SH2D3C	Nicotinic Antagonists	Chemical	0.0598
+SH2D3C	Eukaryotic Translation Initiation Factor 2 Subunit 1	Chemical	0.0598
+SH2D3C	Deoxyadenosines	Chemical	0.0606
+SH2D3C	Phosphatase	Chemical	0.0626
+SH2D3C	Heterogeneous-Nuclear Ribonucleoproteins	Chemical	0.0629
+SH2D3C	Exons	Chemical	0.063
+SH2D3C	Benzaldehyde	Chemical	0.065
+SH2D3C	Ribonuclease 3	Chemical	0.0659
+SH2D3C	Cysteine	Chemical	0.0675
+SH2D3C	Interferon-Induced, Double-Stranded RNA-Activated Protein Kinase	Chemical	0.0681
+SH2D3C	Avian Proteins	Chemical	0.0683
+SH2D3C	Protein Disulfide-Isomerases	Chemical	0.0694
+SH2D3C	Receptor Tyrosine Kinase	Chemical	0.0708
+SH2D3C	Epitope	Chemical	0.0727
+SH2D3C	Dynamins	Chemical	0.0727
+SH2D3C	CpG Islands	Chemical	0.0735
+SH2D3C	Cyclin B1	Chemical	0.074
+SH2D3C	N-Glycosyl Hydrolases	Chemical	0.0747
+SH2D3C	Membrane Protein	Chemical	0.0753
+SH2D3C	Ribonucleosides	Chemical	0.0758
+SH2D3C	Methyltransferase	Chemical	0.0772
+SH2D3C	Proteasome Endopeptidase Complex	Chemical	0.0777
+SH2D3C	sphingosine 1-phosphate	Chemical	0.079
+SH2D3C	Restriction Endonuclease	Chemical	0.0803
+SH2D3C	Kaempferol	Chemical	0.0821
+SH2D3C	Epitopes, B-Lymphocyte	Chemical	0.0827
+SH2D3C	Nucleic Acid Synthesis Inhibitor	Chemical	0.0832
+SH2D3C	Casein Kinase 2	Chemical	0.087
+SH2D3C	Glycerophosphates	Chemical	0.09
+SH2D3C	Fusion Protein	Chemical	0.0903
+SH2D3C	Muscle Protein	Chemical	0.0907
+SH2D3C	Ras-Related C3 Botulinum Toxin Substrate 1	Chemical	0.0918
+SH2D3C	Hemagglutinins	Chemical	0.0935
+SH2D3C	Fatty Acid Synthase	Chemical	0.0943
+SH2D3C	Isothiocyanates	Chemical	0.0957
+SH2D3C	JNK Mitogen-Activated Protein Kinases	Chemical	0.096
+SH2D3C	cyanogen	Chemical	0.0968
+SH2D3C	DEAD-box RNA Helicases	Chemical	0.0968
+SH2D3C	Recombinant Protein	Chemical	0.0999
+SH2D3C	Esterase	Chemical	0.1
+SH2D3C	Lithium Chloride	Chemical	0.1
+SH2D3C	Cytidine Triphosphate	Chemical	0.102
+SH2D3C	Phosphopeptides	Chemical	0.105
+SH2D3C	Hemagglutinins, Viral	Chemical	0.105
+SH2D3C	Flavanones	Chemical	0.105
+SH2D3C	Protein-Serine-Threonine Kinases	Chemical	0.106
+SH2D3C	Endopeptidase K	Chemical	0.106
+SH2D3C	Serine/Threonine-Protein Kinase mTOR	Chemical	0.107
+SH2D3C	Porins	Chemical	0.108
+SH2D3C	Binding Sites	Chemical	0.109
+SH2D3C	Cytokine	Chemical	0.11
+SH2D3C	Luminescent Proteins	Chemical	0.116
+SH2D3C	Flavones	Chemical	0.116
+SH2D3C	polyacrylamide	Chemical	0.117
+SH2D3C	Uridine Triphosphate	Chemical	0.117
+SH2D3C	Tumor Necrosis Factor Ligand Superfamily Member 10	Chemical	0.117
+SH2D3C	HIV Reverse Transcriptase	Chemical	0.118
+SH2D3C	Dyneins	Chemical	0.12
+SH2D3C	Fibronectin	Chemical	0.121
+SH2D3C	Conserved Helix-Loop-Helix Ubiquitous Kinase	Chemical	0.121
+SH2D3C	Endoribonucleases	Chemical	0.127
+SH2D3C	Peptides	Chemical	0.129
+SH2D3C	Monoclonal Antibody	Chemical	0.133
+SH2D3C	Antigen	Chemical	0.136
+SH2D3C	Cyanogen Bromide	Chemical	0.136
+SH2D3C	Elements	Chemical	0.138
+SH2D3C	Phosphoproteins	Chemical	0.14
+SH2D3C	Wortmannin	Chemical	0.146
+SH2D3C	Tyrosine-Protein Kinase JAK2	Chemical	0.148
+SH2D3C	Focal Adhesion Protein-Tyrosine Kinases	Chemical	0.149
+SH2D3C	Proteasome	Chemical	0.15
+SH2D3C	Monomeric GTP-Binding Proteins	Chemical	0.152
+SH2D3C	Oxygen	Chemical	0.153
+SH2D3C	Arabinose	Chemical	0.154
+SH2D3C	Nitriles	Chemical	0.155
+SH2D3C	Kinesin	Chemical	0.155
+SH2D3C	RNA, Small Interfering	Chemical	0.156
+SH2D3C	Ribozyme	Chemical	0.156
+SH2D3C	Proteome	Chemical	0.157
+SH2D3C	Cytosine	Chemical	0.158
+SH2D3C	HSP90 Heat-Shock Proteins	Chemical	0.158
+SH2D3C	Cross-Linking Reagents	Chemical	0.161
+SH2D3C	NF-kB	Chemical	0.163
+SH2D3C	Aryl Hydrocarbon Receptor	Chemical	0.163
+SH2D3C	Xenopus Proteins	Chemical	0.164
+SH2D3C	Integrins	Chemical	0.165
+SH2D3C	Cytochromes b	Chemical	0.165
+SH2D3C	Heat Shock Protein	Chemical	0.167
+SH2D3C	Chromones	Chemical	0.167
+SH2D3C	Bicyclo Compounds, Heterocyclic	Chemical	0.167
+SH2D3C	Cyclin-Dependent Kinase Inhibitor 2A, Isoforms 1/2/3	Chemical	0.169
+SH2D3C	Guanine Nucleotides	Chemical	0.17
+SH2D3C	Lysophospholipids	Chemical	0.174
+SH2D3C	Agent	Chemical	0.176
+SH2D3C	Androstadienes	Chemical	0.176
+SH2D3C	Vimentin	Chemical	0.177
+SH2D3C	Proteasome Inhibitor	Chemical	0.178
+SH2D3C	Peptide Fragments	Chemical	0.179
+SH2D3C	Acyltransferase	Chemical	0.181
+SH2D3C	IgM	Chemical	0.183
+SH2D3C	Cholinergic Antagonists	Chemical	0.197
+SH2D3C	Hedgehog Proteins	Chemical	0.197
+SH2D3C	GTP	Chemical	0.198
+SH2D3C	Antibody	Chemical	0.2
+SH2D3C	Thioredoxin	Chemical	0.201
+SH2D3C	Stain	Chemical	0.208
+SH2D3C	Biological Markers	Chemical	0.209
+SH2D3C	Desmin	Chemical	0.217
+SH2D3C	Phosphorus Radioisotopes	Chemical	0.219
+SH2D3C	Ethylmaleimide	Chemical	0.221
+SH2D3C	Receptors, Antigen, B-Cell	Chemical	0.223
+SH2D3C	Protein Subunit	Chemical	0.225
+SH2D3C	Poly [ADP-Ribose] Polymerase 1	Chemical	0.226
+SH2D3C	Lipoxygenase	Chemical	0.232
+SH2D3C	Nuclear DNA	Chemical	0.241
+SH2D3C	Chaperone	Chemical	0.249
+SH2D3C	Thioredoxin	Chemical	0.254
+SH2D3C	Acetyl Coenzyme A	Chemical	0.258
+SH2D3C	Endopeptidase	Chemical	0.262
+SH2D3C	Chromatin Structure	Chemical	0.263
+SH2D3C	Acyltransferases	Chemical	0.266
+SH2D3C	Regulatory Protein	Chemical	0.268
+SH2D3C	src-Family Kinases	Chemical	0.271
+SH2D3C	Lipid Bilayers	Chemical	0.275
+SH2D3C	Sodium	Chemical	0.275
+SH2D3C	Transfer RNA	Chemical	0.286
+SH2D3C	Reverse Transcriptase	Chemical	0.288
+SH2D3C	Chloride Channels	Chemical	0.288
+SH2D3C	Insulin	Chemical	0.289
+SH2D3C	Purine	Chemical	0.294
+SH2D3C	Transposon	Chemical	0.303
+SH2D3C	Hydrolase	Chemical	0.305
+SH2D3C	Protein Kinase	Chemical	0.311
+SH2D3C	Calcium-Calmodulin-Dependent Protein Kinases	Chemical	0.311
+SH2D3C	Phosphatidylinositol 3-Kinases	Chemical	0.319
+SH2D3C	Lipid	Chemical	0.338
+SH2D3C	Detergents	Chemical	0.348
+SH2D3C	Vaccines, Synthetic	Chemical	0.349
+SH2D3C	Antineoplastic Agent	Chemical	0.352
+SH2D3C	RNA Polymerase II	Chemical	0.36
+SH2D3C	imidazole	Chemical	0.363
+SH2D3C	Isomerase	Chemical	0.363
+SH2D3C	Basic Helix-Loop-Helix Transcription Factors	Chemical	0.368
+SH2D3C	Glucose	Chemical	0.372
+SH2D3C	Phosphatidylinositol 3 Kinase	Chemical	0.379
+SH2D3C	Cyclin	Chemical	0.391
+SH2D3C	Membrane Glycoproteins	Chemical	0.394
+SH2D3C	Solutions	Chemical	0.399
+SH2D3C	Apolipoprotein A-I	Chemical	0.399
+SH2D3C	Signal Transducer and Activator of Transcription 3	Chemical	0.41
+SH2D3C	Epidermal Growth Factor	Chemical	0.412
+SH2D3C	DNA-directed DNA Polymerase	Chemical	0.429
+SH2D3C	IgG	Chemical	0.441
+SH2D3C	Transcription Factor	Chemical	0.445
+SH2D3C	Molecule	Chemical	0.454
+SH2D3C	Octoxynol 9	Chemical	0.454
+SH2D3C	Cell Extracts	Chemical	0.468
+SH2D3C	Eye Proteins	Chemical	0.47
+SH2D3C	Insect Proteins	Chemical	0.477
+SH2D3C	Transcript	Chemical	0.481
+SH2D3C	Antineoplastic Agents, Hormonal	Chemical	0.481
+SH2D3C	Antigen KI-67	Chemical	0.492
+SH2D3C	Sulfone Anti-Infective Agent	Chemical	0.502
+SH2D3C	Enterotoxin	Chemical	0.507
+SH2D3C	Transcription Factor AP-1	Chemical	0.535
+SH2D3C	Polymer	Chemical	0.575
+SH2D3C	Ribosomal Protein	Chemical	0.606
+SH2D3C	Growth Factor	Chemical	0.619
+SH2D3C	Antigens, Differentiation	Chemical	0.62
+SH2D3C	Actin-Binding Protein	Chemical	0.641
+SH2D3C	Flavonoids	Chemical	0.654
+SH2D3C	Protons	Chemical	0.656
+SH2D3C	Cyclin D1	Chemical	0.668
+SH2D3C	Medication	Chemical	0.672
+SH2D3C	Ion	Chemical	0.683
+SH2D3C	Deuterium	Chemical	0.69
+SH2D3C	Casein	Chemical	0.692
+SH2D3C	Pyrimidine	Chemical	0.718
+SH2D3C	Fatty Acid	Chemical	0.722
+SH2D3C	Bacterial Outer Membrane Proteins	Chemical	0.724
+SH2D3C	Disulfides	Chemical	0.733
+SH2D3C	Recombinant DNA	Chemical	0.779
+SH2D3C	Metal	Chemical	0.783
+SH2D3C	Carbon Isotopes	Chemical	0.807
+SH2D3C	Collagen	Chemical	0.825
+SH2D3C	Phosphates	Chemical	0.833
+SH2D3C	Macromolecular Substances	Chemical	0.854
+SH2D3C	Complement	Chemical	0.878
+SH2D3C	Chemokine	Chemical	0.885
+SH2D3C	IgA	Chemical	0.908
+SH2D3C	DNA	Chemical	0.917
+SH2D3C	Cholinesterase Inhibitors	Chemical	0.921
+SH2D3C	Protein Isoforms	Chemical	0.952
+SH2D3C	Apolipoprotein E	Chemical	0.976
+SH2D3C	DNA Binding Protein	Chemical	0.979
+SH2D3C	Nucleosides	Chemical	0.979
+SH2D3C	Growth Substances	Chemical	0.994
+SH2D3C	Pharmaceutical Preparations	Chemical	1.0
+SH2D3C	Receptor	Chemical	1.0
+SH2D3C	Electron	Chemical	1.0
+SH2D3C	Acid	Chemical	1.0
+SH2D3C	Base	Chemical	1.0
+SH2D3C	Cytokines	Chemical	1.0
+SH2D3C	Ligands	Chemical	1.0
+SH2D3C	Tumor Necrosis Factor	Chemical	1.0
+SH2D3C	Ligand	Chemical	1.0
+SH2D3C	Indicators and Reagents	Chemical	1.0
+SH2D3C	Enzyme Inhibitors	Chemical	1.0
+SH2D3C	Immunoglobulin	Chemical	1.0
+SH2D3C	Antagonist	Chemical	1.0
+SH2D3C	Lead Metal	Chemical	1.0
+SH2D3C	Hydrogen	Chemical	1.0
+SH2D3C	Histone	Chemical	1.0
+SH2D3C	Actin	Chemical	1.0
+SH2D3C	Nerve Tissue Proteins	Chemical	1.0
+SH2D3C	Neurotransmitter	Chemical	1.0
+SH2D3C	Nuclear Protein	Chemical	1.0
+SH2D3C	Interleukin-6	Chemical	1.0
+SH2D3C	Protein Tyrosine Kinase	Chemical	1.0
+SH2D3C	Analog	Chemical	1.0
+SH2D3C	Particle	Chemical	1.0
+SH2D3C	Sewage	Chemical	1.0
+SH2D3C	Progesterone	Chemical	1.0
+SH2D3C	Cobalt	Chemical	1.0
+SH2D3C	Coloring Agents	Chemical	1.0
+SH2D3C	Gold	Chemical	1.0
+SH2D3C	Cycloheximide	Chemical	1.0
+SH2D3C	Edetic Acid	Chemical	1.0
+SH2D3C	Adenosine Cyclic 3',5'-Phosphate	Chemical	1.0
+SH2D3C	Adenosine Diphosphate	Chemical	1.0
+SH2D3C	Fluoride Ion	Chemical	1.0
+SH2D3C	Estrogen	Chemical	1.0
+SH2D3C	Acetates	Chemical	1.0
+SH2D3C	Alcohol [Chemical Class]	Chemical	1.0
+SH2D3C	Trypsin	Chemical	1.0
+SH2D3C	Solvents	Chemical	1.0
+SH2D3C	Acids	Chemical	1.0
+SH2D3C	Polysaccharides	Chemical	1.0
+SH2D3C	Pyrroles	Chemical	1.0
+SH2D3C	Amyloid	Chemical	1.0
+SH2D3C	Serum Albumin	Chemical	1.0
+SH2D3C	Pyridines	Chemical	1.0
+SH2D3C	Serotransferrin	Chemical	1.0
+SH2D3C	Chromatin	Chemical	1.0
+SH2D3C	Neoplasm Proteins	Chemical	1.0
+SH2D3C	Oligosaccharide	Chemical	1.0
+SH2D3C	Nerve Growth Factors	Chemical	1.0
+SH2D3C	Carbon Radioisotopes	Chemical	1.0
+SH2D3C	Beta-Galactosidase	Chemical	1.0
+SH2D3C	Antigens, Bacterial	Chemical	1.0
+SH2D3C	Polyethylene Glycol	Chemical	1.0
+SH2D3C	Adenylate Cyclase	Chemical	1.0
+SH2D3C	Tumor Marker	Chemical	1.0
+SH2D3C	Mitochondrial DNA	Chemical	1.0
+SH2D3C	Receptors, Cell Surface	Chemical	1.0
+SH2D3C	Cell Surface Antigen	Chemical	1.0
+SH2D3C	Immunomodulating Agent	Chemical	1.0
+SH2D3C	Repressor Proteins	Chemical	1.0
+SH2D3C	Insulin-Like Growth Factor	Chemical	1.0
+SH2D3C	Oligonucleotides	Chemical	1.0
+SH2D3C	Liposomes	Chemical	1.0
+SH2D3C	Apolipoproteins	Chemical	1.0
+SH2D3C	Antigens, CD	Chemical	1.0
+SH2D3C	Genetic Markers	Chemical	1.0
+SH2D3C	Oxygen Radical	Chemical	1.0
+SH2D3C	Interleukin-2	Chemical	1.0
+SH2D3C	DNA Insertion Elements	Chemical	1.0
+SH2D3C	Cytoskeletal Proteins	Chemical	1.0
+SH2D3C	Microtubule Associated Protein	Chemical	1.0
+SH2D3C	Inflammation Mediators	Chemical	1.0
+SH2D3C	Interferon Alpha-2	Chemical	1.0
+SH2D3C	Intracellular Signaling Peptides and Proteins	Chemical	1.0
+SH2D3C	Arabidopsis Proteins	Chemical	1.0
+SH2D3C	E-Cadherin	Chemical	1.0
+SH2D3C	DNA Probes	Chemical	1.0
+SH2D3C	Tumor Suppressor Proteins	Chemical	1.0
+SH2D3C	Interleukin	Chemical	1.0
+SH2D3C	Transforming Growth Factor-Beta Superfamily	Chemical	1.0
+SH2D3C	Interleukin-10	Chemical	1.0
+SH2D3C	Mitogen-Activated Protein Kinases	Chemical	1.0
+SH2D3C	Interleukin-12	Chemical	1.0
+SH2D3C	Mitogen-Activated Protein Kinase	Chemical	1.0
+SH2D3C	Caspase-3	Chemical	1.0
+SH2D3C	MicroRNA	Chemical	1.0
+SH2D3C	Amyloid Beta A4 Protein Precursor	Chemical	1.0
+SH2D3C	Xenograft	Chemical	1.0
+SH2D3C	Estrogen Receptor	Chemical	1.0
+SH2D3C	Small Molecule	Chemical	1.0
+SH2D3C	Reagent	Chemical	1.0
+SH2D3C	Salt	Chemical	1.0
+SH2D3C	Acetate	Chemical	1.0
+SH2D3C	Genomic DNA	Chemical	1.0
+SH2D3C	stress granule	Anatomy	8.58E-5
+SH2D3C	viral replication complex	Anatomy	1.06E-4
+SH2D3C	Capsid	Anatomy	2.67E-4
+SH2D3C	Vero Cells	Anatomy	4.47E-4
+SH2D3C	cytoplasmic foci	Anatomy	5.49E-4
+SH2D3C	RNA viral genome	Anatomy	6.2E-4
+SH2D3C	protein location	Anatomy	6.6E-4
+SH2D3C	Host Cell	Anatomy	6.72E-4
+SH2D3C	Virion	Anatomy	8.21E-4
+SH2D3C	Pericentriolar Region	Anatomy	8.49E-4
+SH2D3C	Cell Line	Anatomy	8.51E-4
+SH2D3C	viral genome location	Anatomy	0.0012
+SH2D3C	Feces	Anatomy	0.0018
+SH2D3C	Cytoplasmic Vesicles	Anatomy	0.00204
+SH2D3C	Viral Structures	Anatomy	0.00206
+SH2D3C	RNA-protein complex	Anatomy	0.00207
+SH2D3C	Clone	Anatomy	0.00221
+SH2D3C	Left parahippocampal gyrus	Anatomy	0.00269
+SH2D3C	envelope	Anatomy	0.00279
+SH2D3C	Cells	Anatomy	0.00308
+SH2D3C	Clone Cells	Anatomy	0.00338
+SH2D3C	Cell Membrane Structures	Anatomy	0.00338
+SH2D3C	enhanceosome	Anatomy	0.00381
+SH2D3C	Endoplasmic Reticulum	Anatomy	0.00492
+SH2D3C	Viral Components	Anatomy	0.00534
+SH2D3C	HEK293 Cells	Anatomy	0.00549
+SH2D3C	ER-Golgi intermediate compartment	Anatomy	0.00582
+SH2D3C	Cytoplasmic Granules	Anatomy	0.00605
+SH2D3C	Cytoplasm	Anatomy	0.00625
+SH2D3C	Chromosomes, Human, Pair 10	Anatomy	0.00648
+SH2D3C	Chick Embryo	Anatomy	0.00697
+SH2D3C	Membrane	Anatomy	0.0074
+SH2D3C	Cytoplasmic	Anatomy	0.00791
+SH2D3C	viral nucleocapsid location	Anatomy	0.00894
+SH2D3C	Intracellular Membranes	Anatomy	0.00895
+SH2D3C	IkappaB kinase complex	Anatomy	0.00988
+SH2D3C	Smooth Endoplasmic Reticulum	Anatomy	0.0102
+SH2D3C	Tissue membrane	Anatomy	0.0114
+SH2D3C	Endoplasmic reticulum, membrane	Anatomy	0.0123
+SH2D3C	BALB 3T3 Cells	Anatomy	0.0127
+SH2D3C	Mammalian Cell	Anatomy	0.0128
+SH2D3C	NIH 3T3 Cells	Anatomy	0.0131
+SH2D3C	Tail	Anatomy	0.0136
+SH2D3C	host cell membrane	Anatomy	0.0138
+SH2D3C	Fragments	Anatomy	0.0141
+SH2D3C	Vertebral column	Anatomy	0.0142
+SH2D3C	Ribosome Subunits, Small, Eukaryotic	Anatomy	0.0155
+SH2D3C	Mouse Intestine	Anatomy	0.0171
+SH2D3C	Organelles	Anatomy	0.018
+SH2D3C	COS Cells	Anatomy	0.0184
+SH2D3C	HeLa Cells	Anatomy	0.0187
+SH2D3C	Nuclear Pore	Anatomy	0.0199
+SH2D3C	Cytoplasmic Structures	Anatomy	0.0202
+SH2D3C	Bronchial Epithelial Cell	Anatomy	0.0231
+SH2D3C	Reticulocytes	Anatomy	0.0235
+SH2D3C	Cultured Cells	Anatomy	0.0238
+SH2D3C	Microtubule-Organizing Center	Anatomy	0.0253
+SH2D3C	Respiratory tract structure	Anatomy	0.0259
+SH2D3C	Autophagic vacuoles	Anatomy	0.026
+SH2D3C	Popliteal lymph node group	Anatomy	0.0265
+SH2D3C	Marginal Zone	Anatomy	0.027
+SH2D3C	juxtamembrane	Anatomy	0.0277
+SH2D3C	Crystal - human material	Anatomy	0.0286
+SH2D3C	Fibroblasts	Anatomy	0.0293
+SH2D3C	Neuromuscular Junction	Anatomy	0.0314
+SH2D3C	Human Cell Line	Anatomy	0.0319
+SH2D3C	Mesenteric artery lymph node group	Anatomy	0.0323
+SH2D3C	Focal Adhesions	Anatomy	0.0333
+SH2D3C	Lymph node of mesentery	Anatomy	0.0334
+SH2D3C	Cholinergic Nerves	Anatomy	0.0346
+SH2D3C	Antibody-Secreting Cells	Anatomy	0.035
+SH2D3C	Vacuole	Anatomy	0.0352
+SH2D3C	Structure of calf of leg	Anatomy	0.0355
+SH2D3C	Solocyte	Anatomy	0.0433
+SH2D3C	Connective Tissue - Fibroblasts (MMHCC)	Anatomy	0.0442
+SH2D3C	cell periphery	Anatomy	0.0451
+SH2D3C	Breast Cancer Cell	Anatomy	0.0475
+SH2D3C	Oligodendroglia	Anatomy	0.0477
+SH2D3C	Hematopoietic cell	Anatomy	0.05
+SH2D3C	COS-1 Cells	Anatomy	0.052
+SH2D3C	Cell-Free System	Anatomy	0.0556
+SH2D3C	anatomical bulb	Anatomy	0.0557
+SH2D3C	Pars postrema of ventral lateral nucleus	Anatomy	0.0567
+SH2D3C	nucleic acid location	Anatomy	0.0592
+SH2D3C	Plasmacytoid Dendritic Cells	Anatomy	0.0594
+SH2D3C	Luteal Cells	Anatomy	0.0598
+SH2D3C	Cytoskeleton	Anatomy	0.0634
+SH2D3C	Cytoplasmic Domain	Anatomy	0.0645
+SH2D3C	Olfactory Epithelium	Anatomy	0.0645
+SH2D3C	Parahippocampal Gyrus	Anatomy	0.0667
+SH2D3C	Exocrine pancreas	Anatomy	0.0672
+SH2D3C	Neuraxis	Anatomy	0.0692
+SH2D3C	Respiratory System	Anatomy	0.0699
+SH2D3C	Blood	Anatomy	0.0739
+SH2D3C	Cell Nucleus	Anatomy	0.0747
+SH2D3C	Set of polysomal ribosomes	Anatomy	0.0747
+SH2D3C	Aspirate substance	Anatomy	0.0762
+SH2D3C	LIM tumor staging site	Anatomy	0.0765
+SH2D3C	Filopodia	Anatomy	0.0767
+SH2D3C	Nuclear Matrix	Anatomy	0.0773
+SH2D3C	Nuclear Envelope	Anatomy	0.0801
+SH2D3C	Inclusion Bodies, Viral	Anatomy	0.0808
+SH2D3C	ribozyme location	Anatomy	0.082
+SH2D3C	Plasma membrane	Anatomy	0.086
+SH2D3C	Distal part of ileum	Anatomy	0.0862
+SH2D3C	integral to membrane	Anatomy	0.0863
+SH2D3C	fully spanning the plasma membrane	Anatomy	0.0863
+SH2D3C	cell process structure	Anatomy	0.106
+SH2D3C	neuroblastoma cell	Anatomy	0.111
+SH2D3C	Epithelial Cells	Anatomy	0.112
+SH2D3C	Olfactory Mucosa	Anatomy	0.114
+SH2D3C	Olfactory Pathways	Anatomy	0.114
+SH2D3C	Plasma	Anatomy	0.115
+SH2D3C	Immune system	Anatomy	0.116
+SH2D3C	Hybridomas	Anatomy	0.116
+SH2D3C	Lung	Anatomy	0.121
+SH2D3C	COS-7 Cells	Anatomy	0.121
+SH2D3C	Chromosomes, Human, Pair 21	Anatomy	0.129
+SH2D3C	nicotinic acetylcholine receptor location	Anatomy	0.138
+SH2D3C	Growth Cones	Anatomy	0.139
+SH2D3C	Embryonic Structures	Anatomy	0.141
+SH2D3C	Structure of ulnar nerve	Anatomy	0.143
+SH2D3C	Liver	Anatomy	0.148
+SH2D3C	outer membrane	Anatomy	0.148
+SH2D3C	Stem of Organ	Anatomy	0.149
+SH2D3C	Lysosomes	Anatomy	0.157
+SH2D3C	Centrosome	Anatomy	0.159
+SH2D3C	Embryo	Anatomy	0.16
+SH2D3C	Bone and Bones	Anatomy	0.164
+SH2D3C	membrane fraction	Anatomy	0.168
+SH2D3C	Structure of choroid plexus	Anatomy	0.169
+SH2D3C	Cell Line, Tumor	Anatomy	0.176
+SH2D3C	Phagosomes	Anatomy	0.18
+SH2D3C	desmin location	Anatomy	0.186
+SH2D3C	IgG antibody	Anatomy	0.194
+SH2D3C	Intracellular Space	Anatomy	0.198
+SH2D3C	Reticulum	Anatomy	0.199
+SH2D3C	Lymphoid Tissue	Anatomy	0.2
+SH2D3C	Embryo, Nonmammalian	Anatomy	0.203
+SH2D3C	U937 Cells	Anatomy	0.206
+SH2D3C	Antibody-Producing Cells	Anatomy	0.22
+SH2D3C	Kidney	Anatomy	0.224
+SH2D3C	Polyribosomes	Anatomy	0.226
+SH2D3C	Organ	Anatomy	0.229
+SH2D3C	MCF7	Anatomy	0.229
+SH2D3C	Pseudopodia	Anatomy	0.236
+SH2D3C	Subcellular Fractions	Anatomy	0.249
+SH2D3C	Skin	Anatomy	0.257
+SH2D3C	Chromatin Structure	Anatomy	0.258
+SH2D3C	Lipid Bilayers	Anatomy	0.275
+SH2D3C	Microfilaments	Anatomy	0.286
+SH2D3C	Enterocytes	Anatomy	0.288
+SH2D3C	anatomical layer	Anatomy	0.292
+SH2D3C	Palmar surface	Anatomy	0.293
+SH2D3C	Palm of hand	Anatomy	0.302
+SH2D3C	Structure of olfactory bulb	Anatomy	0.304
+SH2D3C	Back	Anatomy	0.309
+SH2D3C	Structure of corpus luteum of ovary	Anatomy	0.317
+SH2D3C	Blood Vessels	Anatomy	0.332
+SH2D3C	Blood - brain barrier anatomy	Anatomy	0.333
+SH2D3C	Golgi Apparatus	Anatomy	0.361
+SH2D3C	K562 Cells	Anatomy	0.363
+SH2D3C	Intestines	Anatomy	0.366
+SH2D3C	Intercellular Junctions	Anatomy	0.366
+SH2D3C	protein complex location	Anatomy	0.375
+SH2D3C	Hybrid Cells	Anatomy	0.408
+SH2D3C	Neurons	Anatomy	0.412
+SH2D3C	Intestines, Small	Anatomy	0.436
+SH2D3C	K-562	Anatomy	0.437
+SH2D3C	Myoblasts	Anatomy	0.446
+SH2D3C	Cell Extracts	Anatomy	0.468
+SH2D3C	body system	Anatomy	0.483
+SH2D3C	Chromosomes	Anatomy	0.508
+SH2D3C	Fingers	Anatomy	0.519
+SH2D3C	Eye	Anatomy	0.528
+SH2D3C	Pore	Anatomy	0.528
+SH2D3C	Caco-2 Cells	Anatomy	0.534
+SH2D3C	Neocortex	Anatomy	0.541
+SH2D3C	Tract	Anatomy	0.551
+SH2D3C	CNS - Brain (MMHCC)	Anatomy	0.557
+SH2D3C	Ribosomes	Anatomy	0.56
+SH2D3C	Pancreas	Anatomy	0.568
+SH2D3C	Palatine Tonsil	Anatomy	0.579
+SH2D3C	Afferent neuron	Anatomy	0.58
+SH2D3C	Emission - Male genitalia finding	Anatomy	0.588
+SH2D3C	Bone Marrow	Anatomy	0.604
+SH2D3C	Prosencephalon	Anatomy	0.626
+SH2D3C	Iris (Eye)	Anatomy	0.654
+SH2D3C	Cerebrospinal Fluid	Anatomy	0.663
+SH2D3C	Corpus Callosum	Anatomy	0.673
+SH2D3C	Tumor cells, uncertain whether benign or malignant	Anatomy	0.674
+SH2D3C	Endosomes	Anatomy	0.691
+SH2D3C	Lymphoid Cells	Anatomy	0.704
+SH2D3C	Head	Anatomy	0.759
+SH2D3C	Epithelium	Anatomy	0.766
+SH2D3C	Plant Cells	Anatomy	0.786
+SH2D3C	Anatomical base	Anatomy	0.825
+SH2D3C	Chromosomes, Human	Anatomy	0.827
+SH2D3C	Upper arm	Anatomy	0.864
+SH2D3C	Animal Coat	Anatomy	0.905
+SH2D3C	Spinal Cord	Anatomy	0.948
+SH2D3C	Specimen Type - Lymphocytes	Anatomy	0.966
+SH2D3C	collagen location	Anatomy	0.996
+SH2D3C	Body tissue	Anatomy	1.0
+SH2D3C	Serum	Anatomy	1.0
+SH2D3C	Brain	Anatomy	1.0
+SH2D3C	T-Lymphocyte	Anatomy	1.0
+SH2D3C	Muscle	Anatomy	1.0
+SH2D3C	Hand	Anatomy	1.0
+SH2D3C	Breast	Anatomy	1.0
+SH2D3C	B-Lymphocytes	Anatomy	1.0
+SH2D3C	macrophage	Anatomy	1.0
+SH2D3C	Nerve	Anatomy	1.0
+SH2D3C	Joints	Anatomy	1.0
+SH2D3C	Leukocytes	Anatomy	1.0
+SH2D3C	lymph nodes	Anatomy	1.0
+SH2D3C	Upper Extremity	Anatomy	1.0
+SH2D3C	Endothelial Cells	Anatomy	1.0
+SH2D3C	Limb structure	Anatomy	1.0
+SH2D3C	Spleen	Anatomy	1.0
+SH2D3C	Anatomical compartments	Anatomy	1.0
+SH2D3C	Root body part	Anatomy	1.0
+SH2D3C	Specimen Type - Macrophages	Anatomy	1.0
+SH2D3C	Axon	Anatomy	1.0
+SH2D3C	Dendritic Cells	Anatomy	1.0
+SH2D3C	Foot	Anatomy	1.0
+SH2D3C	Lymphocyte	Anatomy	1.0
+SH2D3C	Mitochondria	Anatomy	1.0
+SH2D3C	Muscle Cells	Anatomy	1.0
+SH2D3C	Tumor Cells, Cultured	Anatomy	1.0
+SH2D3C	Gut	Anatomy	1.0
+SH2D3C	Anatomic Node	Anatomy	1.0
+SH2D3C	Gastrointestinal tract structure	Anatomy	1.0
+SH2D3C	Ankle	Anatomy	1.0
+SH2D3C	Astrocytes	Anatomy	1.0
+SH2D3C	Basement membrane	Anatomy	1.0
+SH2D3C	Bone Marrow Cells	Anatomy	1.0
+SH2D3C	Bronchi	Anatomy	1.0
+SH2D3C	Cerebellum	Anatomy	1.0
+SH2D3C	Cytoplasmic matrix	Anatomy	1.0
+SH2D3C	Eukaryotic Cells	Anatomy	1.0
+SH2D3C	Extracellular Matrix	Anatomy	1.0
+SH2D3C	Fetus	Anatomy	1.0
+SH2D3C	Hematopoietic stem cells	Anatomy	1.0
+SH2D3C	Hippocampus (Brain)	Anatomy	1.0
+SH2D3C	ileum	Anatomy	1.0
+SH2D3C	Natural Killer Cells	Anatomy	1.0
+SH2D3C	Mesoderm	Anatomy	1.0
+SH2D3C	Microtubules	Anatomy	1.0
+SH2D3C	Monocytes	Anatomy	1.0
+SH2D3C	Nerve Fibers	Anatomy	1.0
+SH2D3C	Nasal sinus	Anatomy	1.0
+SH2D3C	Parietal Lobe	Anatomy	1.0
+SH2D3C	Sensory Receptor Cells	Anatomy	1.0
+SH2D3C	Retina	Anatomy	1.0
+SH2D3C	saliva	Anatomy	1.0
+SH2D3C	Salivary Glands	Anatomy	1.0
+SH2D3C	Semen	Anatomy	1.0
+SH2D3C	Bone structure of cranium	Anatomy	1.0
+SH2D3C	Stomach	Anatomy	1.0
+SH2D3C	Thymus Gland	Anatomy	1.0
+SH2D3C	Giant Cells	Anatomy	1.0
+SH2D3C	T-Lymphocyte Subsets	Anatomy	1.0
+SH2D3C	Stromal Cells	Anatomy	1.0
+SH2D3C	peroxisome	Anatomy	1.0
+SH2D3C	Hepatocyte	Anatomy	1.0
+SH2D3C	X Chromosome	Anatomy	1.0
+SH2D3C	Blood supply aspects	Anatomy	1.0
+SH2D3C	Blood specimen	Anatomy	1.0
+SH2D3C	Leptocyte	Anatomy	1.0
+SH2D3C	Shell - Animal skin appendage	Anatomy	1.0
+SH2D3C	Helix of ear	Anatomy	1.0
+SH2D3C	Venous blood substance	Anatomy	1.0
+SH2D3C	Sole of Foot	Anatomy	1.0
+SH2D3C	Blast Cell	Anatomy	1.0
+SH2D3C	Structure of lumen of body system	Anatomy	1.0
+SH2D3C	Cell surface	Anatomy	1.0
+SH2D3C	Groove	Anatomy	1.0
+SH2D3C	Sinus - general anatomical term	Anatomy	1.0
+SH2D3C	vimentin location	Anatomy	1.0
+SH2D3C	Specimen Type - Blood venous	Anatomy	1.0
+SH2D3C	vesicle	Anatomy	1.0
+SH2D3C	Molecular helix	Anatomy	1.0
+SH2D3C	mitochondrial DNA location	Anatomy	1.0
+SH2D3C	Set of muscles	Anatomy	1.0
+SH2D3C	Portion of venous blood	Anatomy	1.0
+SH2D3C	Simple lobule of cerebellum	Anatomy	1.0
+SH2D3C	Nervous system structure	Anatomy	1.0
+SH2D3C	Cellular Membrane	Anatomy	1.0
+SH2D3C	Merits A	Biomedical expert	0.6065
+SH2D3C	Kobayashi N	Biomedical expert	0.7261
+SH2D3C	Snijder EJ	Biomedical expert	0.7261
+SH2D3C	Poncet D	Biomedical expert	0.7261
+SH2D3C	Matthijnssens J	Biomedical expert	0.7408
+SH2D3C	Frolov I	Biomedical expert	0.7558
+SH2D3C	Rice CM	Biomedical expert	0.7866
+SH2D3C	Strauss JH	Biomedical expert	0.7866
+SH2D3C	Kääriäinen L	Biomedical expert	0.8025
+SH2D3C	Ahola T	Biomedical expert	0.8025
+SH2D3C	Ghosh S	Biomedical expert	0.8025
+SH2D3C	McInerney GM	Biomedical expert	0.8353
+SH2D3C	Vende P	Biomedical expert	0.8353
+SH2D3C	Baker SC	Biomedical expert	0.8353
+SH2D3C	Frolova EI	Biomedical expert	0.8353
+SH2D3C	Pasquale EB	Biomedical expert	0.8353
+SH2D3C	Van Ranst M	Biomedical expert	0.8353
+SH2D3C	Bowen MD	Biomedical expert	0.8521
+SH2D3C	Sawicki SG	Biomedical expert	0.8521
+SH2D3C	Gorbalenya AE	Biomedical expert	0.8521
+SH2D3C	Heylen E	Biomedical expert	0.8521
+SH2D3C	Li Y	Biomedical expert	0.8521
+SH2D3C	Zeller M	Biomedical expert	0.8521
+SH2D3C	Neuman BW	Biomedical expert	0.8694
+SH2D3C	Coutard B	Biomedical expert	0.8694
+SH2D3C	Esona MD	Biomedical expert	0.8694
+SH2D3C	Bányai K	Biomedical expert	0.8694
+SH2D3C	Lulla A	Biomedical expert	0.8694
+SH2D3C	Sawicki DL	Biomedical expert	0.8694
+SH2D3C	Peränen J	Biomedical expert	0.8869
+SH2D3C	Zhou X	Biomedical expert	0.8869
+SH2D3C	Zhang Y	Biomedical expert	0.8869
+SH2D3C	Xu X	Biomedical expert	0.8869
+SH2D3C	Strauss EG	Biomedical expert	0.8869
+SH2D3C	Patton JT	Biomedical expert	0.8869
+SH2D3C	Martella V	Biomedical expert	0.8869
+SH2D3C	Wang YH	Biomedical expert	0.8869
+SH2D3C	Cohen J	Biomedical expert	0.8869
+SH2D3C	Taniguchi K	Biomedical expert	0.8869
+SH2D3C	Johnson MA	Biomedical expert	0.8869
+SH2D3C	Liu L	Biomedical expert	0.8869
+SH2D3C	Lulla V	Biomedical expert	0.8869
+SH2D3C	Wang Y	Biomedical expert	0.8869
+SH2D3C	Thaa B	Biomedical expert	0.8869
+SH2D3C	Hilgenfeld R	Biomedical expert	0.9048
+SH2D3C	Panas MD	Biomedical expert	0.9048
+SH2D3C	Naik TN	Biomedical expert	0.9048
+SH2D3C	Arias CF	Biomedical expert	0.9048
+SH2D3C	Krishnan T	Biomedical expert	0.9048
+SH2D3C	Mutso M	Biomedical expert	0.9048
+SH2D3C	Alam MM	Biomedical expert	0.9048
+SH2D3C	Zhou DJ	Biomedical expert	0.9048
+SH2D3C	Wallez Y	Biomedical expert	0.9048
+SH2D3C	Canard B	Biomedical expert	0.9048
+SH2D3C	Urushibara N	Biomedical expert	0.9048
+SH2D3C	Kikkert M	Biomedical expert	0.9048
+SH2D3C	Wüthrich K	Biomedical expert	0.9048
+SH2D3C	Hardy WR	Biomedical expert	0.9048
+SH2D3C	Yang H	Biomedical expert	0.9048
+SH2D3C	López S	Biomedical expert	0.9048
+SH2D3C	Huang Y	Biomedical expert	0.9048
+SH2D3C	Wang L	Biomedical expert	0.9048
+SH2D3C	Buchmeier MJ	Biomedical expert	0.9048
+SH2D3C	Chen C	Biomedical expert	0.9048
+SH2D3C	Chatterjee A	Biomedical expert	0.9048
+SH2D3C	Götte B	Biomedical expert	0.9048
+SH2D3C	Charpilienne A	Biomedical expert	0.9048
+SH2D3C	Takkinen K	Biomedical expert	0.9048
+SH2D3C	Liu X	Biomedical expert	0.9048
+SH2D3C	Serrano P	Biomedical expert	0.9048
+SH2D3C	Nakagomi O	Biomedical expert	0.9048
+SH2D3C	Pijlman GP	Biomedical expert	0.9231
+SH2D3C	Roy S	Biomedical expert	0.9231
+SH2D3C	Paul SK	Biomedical expert	0.9231
+SH2D3C	Gorchakov R	Biomedical expert	0.9231
+SH2D3C	Akhrymuk I	Biomedical expert	0.9231
+SH2D3C	Kam YW	Biomedical expert	0.9231
+SH2D3C	Li C	Biomedical expert	0.9231
+SH2D3C	Li J	Biomedical expert	0.9231
+SH2D3C	Utt A	Biomedical expert	0.9231
+SH2D3C	Rungsrisuriyachai K	Biomedical expert	0.9231
+SH2D3C	Varjak M	Biomedical expert	0.9231
+SH2D3C	Zhou L	Biomedical expert	0.9231
+SH2D3C	Fazakerley JK	Biomedical expert	0.9231
+SH2D3C	Ishino M	Biomedical expert	0.9231
+SH2D3C	Gautam R	Biomedical expert	0.9231
+SH2D3C	Ma Y	Biomedical expert	0.9231
+SH2D3C	Gentsch JR	Biomedical expert	0.9231
+SH2D3C	Aponte C	Biomedical expert	0.9231
+SH2D3C	Shirako Y	Biomedical expert	0.9231
+SH2D3C	Hinkkanen A	Biomedical expert	0.9231
+SH2D3C	Joseph JS	Biomedical expert	0.9231
+SH2D3C	Than VT	Biomedical expert	0.9231
+SH2D3C	Griffin DE	Biomedical expert	0.9231
+SH2D3C	Ciarlet M	Biomedical expert	0.9231
+SH2D3C	Kim W	Biomedical expert	0.9231
+SH2D3C	Xu Y	Biomedical expert	0.9231
+SH2D3C	Wang X	Biomedical expert	0.9231
+SH2D3C	Tuittila M	Biomedical expert	0.9231
+SH2D3C	Neuvonen M	Biomedical expert	0.9231
+SH2D3C	Protein	Food	6.6E-4
+SH2D3C	Choline	Food	0.00211
+SH2D3C	Farmed salmon	Food	0.00417
+SH2D3C	Salmon	Food	0.0114
+SH2D3C	Arginine	Food	0.012
+SH2D3C	Threonine	Food	0.0188
+SH2D3C	Char	Food	0.0278
+SH2D3C	Chicken	Food	0.0313
+SH2D3C	Tyrosine	Food	0.0537
+SH2D3C	Serine	Food	0.0592
+SH2D3C	Isoleucine	Food	0.0688
+SH2D3C	Glycine	Food	0.127
+SH2D3C	Aspartic acid	Food	0.128
+SH2D3C	Valine	Food	0.154
+SH2D3C	Calcium	Food	0.176
+SH2D3C	Alanine	Food	0.183
+SH2D3C	Leucine	Food	0.184
+SH2D3C	Sodium	Food	0.228
+SH2D3C	Poultry	Food	0.262
+SH2D3C	Phenylalanine	Food	0.36
+SH2D3C	Alcohol	Food	0.361
+SH2D3C	Glucose	Food	0.372
+SH2D3C	Peas	Food	0.373
+SH2D3C	Fatty acids	Food	0.952
+SH2D3C	Lysine	Food	1.0
+SH2D3C	Zinc	Food	1.0
+SH2D3C	Glutamic acid	Food	1.0
+SH2D3C	Sugar	Food	1.0
+SH2D3C	Fish	Food	1.0
+SH2D3C	Histidine	Food	1.0
+SH2D3C	Methionine	Food	1.0
+SH2D3C	Fluoride	Food	1.0
+SH2D3C	Proline	Food	1.0
+SH2D3C	Turkey	Food	1.0
+SH2D3C	Selenium	Food	1.0
+SH2D3C	Shortening	Food	1.0
+SH2D3C	Seeds	Food	1.0
+SH2D3C	Tryptophan	Food	1.0
+SH2D3C	Fungi	Food	1.0
+SH2D3C	Egg	Food	1.0
+SH2D3C	viral outer capsid	Cellular component	2.04E-4
+SH2D3C	cytoplasmic stress granule	Cellular component	2.08E-4
+SH2D3C	viral replication complex	Cellular component	2.81E-4
+SH2D3C	viral nucleocapsid	Cellular component	3.67E-4
+SH2D3C	RNA viral genome	Cellular component	6.2E-4
+SH2D3C	host cell	Cellular component	6.48E-4
+SH2D3C	virion	Cellular component	8.21E-4
+SH2D3C	viral genome	Cellular component	0.00136
+SH2D3C	enhanceosome	Cellular component	0.00381
+SH2D3C	endoplasmic reticulum	Cellular component	0.00496
+SH2D3C	endoplasmic reticulum-Golgi intermediate compartment	Cellular component	0.00597
+SH2D3C	cytoplasm	Cellular component	0.00622
+SH2D3C	membrane	Cellular component	0.0091
+SH2D3C	IkappaB kinase complex	Cellular component	0.00988
+SH2D3C	autophagic vacuole	Cellular component	0.0104
+SH2D3C	endoplasmic reticulum membrane	Cellular component	0.0122
+SH2D3C	host cell membrane	Cellular component	0.0136
+SH2D3C	microtubule organizing center	Cellular component	0.0139
+SH2D3C	cell	Cellular component	0.0169
+SH2D3C	viral membrane	Cellular component	0.0173
+SH2D3C	nuclear pore	Cellular component	0.0207
+SH2D3C	focal adhesion	Cellular component	0.0229
+SH2D3C	neuromuscular junction	Cellular component	0.0314
+SH2D3C	ribonucleoprotein complex	Cellular component	0.0383
+SH2D3C	ribosomal subunit	Cellular component	0.0446
+SH2D3C	cell periphery	Cellular component	0.045
+SH2D3C	cytoskeleton	Cellular component	0.062
+SH2D3C	catalytic complex	Cellular component	0.0672
+SH2D3C	nuclear matrix	Cellular component	0.0773
+SH2D3C	nuclear envelope	Cellular component	0.0799
+SH2D3C	organelle	Cellular component	0.0844
+SH2D3C	nuclear membrane	Cellular component	0.0878
+SH2D3C	ribosome	Cellular component	0.0924
+SH2D3C	plasma membrane	Cellular component	0.128
+SH2D3C	lysosome	Cellular component	0.138
+SH2D3C	outer membrane	Cellular component	0.147
+SH2D3C	proteasome complex	Cellular component	0.149
+SH2D3C	centrosome	Cellular component	0.159
+SH2D3C	nucleus	Cellular component	0.175
+SH2D3C	Golgi apparatus	Cellular component	0.214
+SH2D3C	peroxisome	Cellular component	0.248
+SH2D3C	actin cytoskeleton	Cellular component	0.33
+SH2D3C	protein complex	Cellular component	0.373
+SH2D3C	chromosome	Cellular component	0.449
+SH2D3C	microtubule	Cellular component	0.572
+SH2D3C	collagen trimer	Cellular component	0.825
+SH2D3C	mitochondrion	Cellular component	1.0
+SH2D3C	basement membrane	Cellular component	1.0
+SH2D3C	chromatin	Cellular component	1.0
+SH2D3C	cytosol	Cellular component	1.0
+SH2D3C	vesicle	Cellular component	1.0
+SH2D3C	extracellular matrix	Cellular component	1.0
+SH2D3C	cell surface	Cellular component	1.0
+SH2D3C	Rotavirus vaccine	Drug	5.72E-4
+SH2D3C	Adenosine-5-Diphosphoribose	Drug	0.0017
+SH2D3C	Pyrazofurin	Drug	0.0027
+SH2D3C	INALIMAREV	Drug	0.00446
+SH2D3C	Pyridostigmine	Drug	0.00696
+SH2D3C	L-Asparagine	Drug	0.00993
+SH2D3C	Decamethonium	Drug	0.0101
+SH2D3C	Arginine	Drug	0.012
+SH2D3C	Recombinant Interferon Beta	Drug	0.0133
+SH2D3C	Cytisine	Drug	0.0135
+SH2D3C	Mecamylamine	Drug	0.0139
+SH2D3C	Hesperetin	Drug	0.0144
+SH2D3C	EPIBATIDINE	Drug	0.0146
+SH2D3C	L-Threonine	Drug	0.0188
+SH2D3C	Ribose	Drug	0.0203
+SH2D3C	Recombinant Interferon	Drug	0.0242
+SH2D3C	Edrophonium	Drug	0.0249
+SH2D3C	Acetylcholine	Drug	0.0257
+SH2D3C	Phosphonoacetic Acid	Drug	0.0292
+SH2D3C	Geldanamycin	Drug	0.0299
+SH2D3C	Cytidine	Drug	0.0356
+SH2D3C	Naringenin	Drug	0.0438
+SH2D3C	Adenine	Drug	0.0458
+SH2D3C	L-Serine	Drug	0.0461
+SH2D3C	3-Methyladenine	Drug	0.0516
+SH2D3C	TYROSINE	Drug	0.0523
+SH2D3C	Pancuronium	Drug	0.0612
+SH2D3C	Silymarin	Drug	0.0621
+SH2D3C	L-Isoleucine	Drug	0.0688
+SH2D3C	Diphosphate	Drug	0.0934
+SH2D3C	Guanine	Drug	0.109
+SH2D3C	Tubocurarine	Drug	0.118
+SH2D3C	Neostigmine	Drug	0.123
+SH2D3C	GLYCINE	Drug	0.127
+SH2D3C	L-Aspartic Acid	Drug	0.13
+SH2D3C	Uridine	Drug	0.134
+SH2D3C	Hexamethonium	Drug	0.137
+SH2D3C	L-Valine	Drug	0.154
+SH2D3C	Physostigmine	Drug	0.165
+SH2D3C	CALCIUM	Drug	0.177
+SH2D3C	L-Alanine	Drug	0.183
+SH2D3C	L-Leucine	Drug	0.184
+SH2D3C	DEOXYCHOLIC ACID	Drug	0.196
+SH2D3C	Spermidine	Drug	0.22
+SH2D3C	Coumarin	Drug	0.225
+SH2D3C	Choline	Drug	0.25
+SH2D3C	Sphingosine	Drug	0.263
+SH2D3C	ALCOHOL	Drug	0.274
+SH2D3C	CHLORAMPHENICOL	Drug	0.288
+SH2D3C	Alpha-1-proteinase inhibitor	Drug	0.29
+SH2D3C	Palmitic Acid	Drug	0.304
+SH2D3C	GLUTAMINE	Drug	0.326
+SH2D3C	SIROLIMUS	Drug	0.338
+SH2D3C	Therapeutic Insulin	Drug	0.354
+SH2D3C	L-Phenylalanine	Drug	0.36
+SH2D3C	Recombinant Tumor Necrosis Factor Family Protein	Drug	0.378
+SH2D3C	Curcumin	Drug	0.384
+SH2D3C	Guanidine	Drug	0.396
+SH2D3C	Protein C	Drug	0.406
+SH2D3C	Guanosine	Drug	0.544
+SH2D3C	Quercetin	Drug	0.549
+SH2D3C	ADENOSINE	Drug	0.726
+SH2D3C	Forskolin	Drug	0.726
+SH2D3C	BIOTIN	Drug	0.731
+SH2D3C	Recombinant Interleukin-12	Drug	0.94
+SH2D3C	Therapeutic Immune Globulin	Drug	1.0
+SH2D3C	Recombinant Interleukin-6	Drug	1.0
+SH2D3C	Alkaline Phosphatase	Drug	1.0
+SH2D3C	Recombinant Interferon Gamma	Drug	1.0
+SH2D3C	Lysine	Drug	1.0
+SH2D3C	Glutamic Acid	Drug	1.0
+SH2D3C	Zinc	Drug	1.0
+SH2D3C	Adenosine Triphosphate	Drug	1.0
+SH2D3C	Mecasermin	Drug	1.0
+SH2D3C	Perflutren Protein-Type A Microspheres	Drug	1.0
+SH2D3C	Recombinant Tumor Necrosis Factor-Alpha	Drug	1.0
+SH2D3C	Heparin	Drug	1.0
+SH2D3C	Histidine	Drug	1.0
+SH2D3C	Nonsteroidal Antiinflammatory Drug	Drug	1.0
+SH2D3C	EDETATE CALCIUM DISODIUM	Drug	1.0
+SH2D3C	Selenium	Drug	1.0
+SH2D3C	DACTINOMYCIN	Drug	1.0
+SH2D3C	ATROPINE	Drug	1.0
+SH2D3C	Therapeutic Progesterone	Drug	1.0
+SH2D3C	Nicotine	Drug	1.0
+SH2D3C	L-Proline	Drug	1.0
+SH2D3C	Formaldehyde	Drug	1.0
+SH2D3C	L-Tryptophan	Drug	1.0
+SH2D3C	Adenosine monophosphate	Drug	1.0
+SH2D3C	Lipopolysaccharide	Drug	1.0
+SH2D3C	L-Methionine	Drug	1.0
+SH2D3C	Glutathione	Drug	1.0
+SH2D3C	Ras GTPase binding	Molecular function	4.89E-5
+SH2D3C	eukaryotic initiation factor 4G binding	Molecular function	2.34E-4
+SH2D3C	RNA helicase activity	Molecular function	6.21E-4
+SH2D3C	peptidase activity	Molecular function	0.00163
+SH2D3C	ubiquitin-specific protease activity	Molecular function	0.00227
+SH2D3C	protein binding	Molecular function	0.00266
+SH2D3C	RNA-directed RNA polymerase activity	Molecular function	0.00282
+SH2D3C	AMP binding	Molecular function	0.00287
+SH2D3C	RNA polymerase activity	Molecular function	0.00384
+SH2D3C	hydrolase activity	Molecular function	0.00687
+SH2D3C	RNA binding	Molecular function	0.00829
+SH2D3C	double-stranded RNA binding	Molecular function	0.00904
+SH2D3C	kinase activity	Molecular function	0.0187
+SH2D3C	choline O-acetyltransferase activity	Molecular function	0.0204
+SH2D3C	helicase activity	Molecular function	0.0219
+SH2D3C	ion binding	Molecular function	0.0252
+SH2D3C	GTPase activity	Molecular function	0.0598
+SH2D3C	porin activity	Molecular function	0.0611
+SH2D3C	metal ion binding	Molecular function	0.0992
+SH2D3C	phosphatase activity	Molecular function	0.119
+SH2D3C	catalytic activity	Molecular function	1.0
+SH2D3C	DNA binding	Molecular function	1.0
+SH2D3C	Diarrhea	Symptom	7.73E-4
+SH2D3C	Arthralgia	Symptom	0.0016
+SH2D3C	Severe diarrhea	Symptom	0.00198
+SH2D3C	Infantile diarrhea	Symptom	0.00366
+SH2D3C	Vomit diarrhea	Symptom	0.00368
+SH2D3C	Watery diarrhea	Symptom	0.0082
+SH2D3C	Fatigability	Symptom	0.00932
+SH2D3C	Anosmia	Symptom	0.0356
+SH2D3C	Limb weakness	Symptom	0.0357
+SH2D3C	Cyanosis	Symptom	0.0413
+SH2D3C	Swollen joint	Symptom	0.0459
+SH2D3C	Muscle hypotonia	Symptom	0.0461
+SH2D3C	Chronic constipation	Symptom	0.0497
+SH2D3C	Myalgia	Symptom	0.0689
+SH2D3C	Weakness	Symptom	0.123
+SH2D3C	Convulsions	Symptom	0.158
+SH2D3C	Lassitude	Symptom	0.213
+SH2D3C	Paresis	Symptom	0.3
+SH2D3C	Asthenia	Symptom	0.328
+SH2D3C	Spots on skin	Symptom	0.372
+SH2D3C	Convulsions	Symptom	0.389
+SH2D3C	Exhaustion	Symptom	0.604
+SH2D3C	Pain	Symptom	1.0
+SH2D3C	Signs and symptoms	Symptom	1.0
+SH2D3C	Seizures	Symptom	1.0
+SH2D3C	Constipation	Symptom	1.0
+SH2D3C	Fluctuation	Symptom	1.0
+SH2D3C	Depressive symptoms	Symptom	1.0
+SH2D3C	Ataxia	Symptom	1.0
+SH2D3C	Vomiting	Symptom	1.0
+SH2D3C	Respiratory distress	Symptom	1.0
+SH2D3C	Dyspnea	Symptom	1.0
+SH2D3C	Starvation	Symptom	1.0
+SH2D3C	BCAR3	Gene/Protein	4.05E-7
+SH2D3C	RTN2	Gene/Protein	4.11E-7
+SH2D3C	SH2D3A	Gene/Protein	4.19E-7
+SH2D3C	PRSS57	Gene/Protein	4.8E-7
+SH2D3C	SPECC1	Gene/Protein	7.34E-7
+SH2D3C	G3BP1	Gene/Protein	1.29E-5
+SH2D3C	SHEP8	Gene/Protein	1.63E-5
+SH2D3C	HERC2	Gene/Protein	1.78E-5
+SH2D3C	HSPB3	Gene/Protein	1.82E-5
+SH2D3C	ZNF716	Gene/Protein	3.26E-5
+SH2D3C	ZC3H7B	Gene/Protein	4.48E-5
+SH2D3C	G3BP2	Gene/Protein	4.58E-5
+SH2D3C	GTF2H3	Gene/Protein	4.59E-5
+SH2D3C	SUMO1P1	Gene/Protein	5.3E-5
+SH2D3C	PLP2	Gene/Protein	9.33E-5
+SH2D3C	EIF4G1	Gene/Protein	1.23E-4
+SH2D3C	KIR2DL4	Gene/Protein	1.3E-4
+SH2D3C	EML3	Gene/Protein	1.3E-4
+SH2D3C	PPP1CA	Gene/Protein	1.48E-4
+SH2D3C	PABPC1	Gene/Protein	1.49E-4
+SH2D3C	OCA2	Gene/Protein	1.75E-4
+SH2D3C	CHAT	Gene/Protein	2.36E-4
+SH2D3C	BCAR1	Gene/Protein	2.51E-4
+SH2D3C	ZNF208	Gene/Protein	2.77E-4
+SH2D3C	SH3KBP1	Gene/Protein	2.9E-4
+SH2D3C	ZNF398	Gene/Protein	2.9E-4
+SH2D3C	RRAS	Gene/Protein	3.06E-4
+SH2D3C	USP10	Gene/Protein	4.69E-4
+SH2D3C	USP32	Gene/Protein	4.77E-4
+SH2D3C	KCNMB2	Gene/Protein	5.87E-4
+SH2D3C	ARHGEF10	Gene/Protein	7.51E-4
+SH2D3C	CD2AP	Gene/Protein	8.46E-4
+SH2D3C	TMEM43	Gene/Protein	8.65E-4
+SH2D3C	SRPK2	Gene/Protein	9.3E-4
+SH2D3C	ICT1	Gene/Protein	9.49E-4
+SH2D3C	ASNS	Gene/Protein	0.00102
+SH2D3C	NTPCR	Gene/Protein	0.00108
+SH2D3C	PLIN2	Gene/Protein	0.00111
+SH2D3C	NPIPA1	Gene/Protein	0.00113
+SH2D3C	ASZ1	Gene/Protein	0.00119
+SH2D3C	TOR2A	Gene/Protein	0.00126
+SH2D3C	PLP1	Gene/Protein	0.00129
+SH2D3C	HFM1	Gene/Protein	0.00133
+SH2D3C	ADPRH	Gene/Protein	0.00137
+SH2D3C	PABPC1P1	Gene/Protein	0.00147
+SH2D3C	PPAPDC2	Gene/Protein	0.00149
+SH2D3C	NDUFV1	Gene/Protein	0.0015
+SH2D3C	RTCB	Gene/Protein	0.0015
+SH2D3C	CASD1	Gene/Protein	0.00162
+SH2D3C	TRIM71	Gene/Protein	0.00163
+SH2D3C	LAMA5	Gene/Protein	0.00167
+SH2D3C	BIN1	Gene/Protein	0.0017
+SH2D3C	NAP1L1	Gene/Protein	0.00175
+SH2D3C	ITPA	Gene/Protein	0.00178
+SH2D3C	AMPH	Gene/Protein	0.00179
+SH2D3C	DDX19A	Gene/Protein	0.00182
+SH2D3C	CHRNE	Gene/Protein	0.00183
+SH2D3C	DDX46	Gene/Protein	0.00186
+SH2D3C	DHX16	Gene/Protein	0.00198
+SH2D3C	DDX1	Gene/Protein	0.00204
+SH2D3C	CLIC4	Gene/Protein	0.00208
+SH2D3C	LINC01152	Gene/Protein	0.00208
+SH2D3C	HOXA3	Gene/Protein	0.00209
+SH2D3C	TPPP3	Gene/Protein	0.0022
+SH2D3C	NXT1	Gene/Protein	0.00231
+SH2D3C	SURF1	Gene/Protein	0.00237
+SH2D3C	FAM168B	Gene/Protein	0.00248
+SH2D3C	GTF2H4	Gene/Protein	0.00254
+SH2D3C	IRF3	Gene/Protein	0.00259
+SH2D3C	PDHA1	Gene/Protein	0.00262
+SH2D3C	DCTN1	Gene/Protein	0.00282
+SH2D3C	SLC10A3	Gene/Protein	0.00283
+SH2D3C	CAPZA2	Gene/Protein	0.00292
+SH2D3C	CLIC1	Gene/Protein	0.00292
+SH2D3C	PDP1	Gene/Protein	0.00298
+SH2D3C	CAPZB	Gene/Protein	0.003
+SH2D3C	EPHB2	Gene/Protein	0.00306
+SH2D3C	CAPZA1	Gene/Protein	0.00308
+SH2D3C	NAP1L4	Gene/Protein	0.00325
+SH2D3C	ABCA2	Gene/Protein	0.00354
+SH2D3C	NS2	Gene/Protein	0.00364
+SH2D3C	ORF1	Gene/Protein	0.0038
+SH2D3C	HPLH1	Gene/Protein	0.00386
+SH2D3C	ERVW-1	Gene/Protein	0.00391
+SH2D3C	NCKIPSD	Gene/Protein	0.00396
+SH2D3C	EIF4A2	Gene/Protein	0.00402
+SH2D3C	AHI1	Gene/Protein	0.00408
+SH2D3C	RAPSN	Gene/Protein	0.00416
+SH2D3C	RAP1A	Gene/Protein	0.00426
+SH2D3C	CRK	Gene/Protein	0.00447
+SH2D3C	NR1H4	Gene/Protein	0.00458
+SH2D3C	RASA1	Gene/Protein	0.00485
+SH2D3C	DHX9	Gene/Protein	0.00487
+SH2D3C	HOXA5	Gene/Protein	0.00489
+SH2D3C	IFITM1	Gene/Protein	0.0049
+SH2D3C	SUCLA2	Gene/Protein	0.0053
+SH2D3C	CDKN2B	Gene/Protein	0.00543
+SH2D3C	UBE2B	Gene/Protein	0.0055
+SH2D3C	EIF4E	Gene/Protein	0.00568
+SH2D3C	EFNB1	Gene/Protein	0.0058
+SH2D3C	FHL1	Gene/Protein	0.00588
+SH2D3C	SUMO1	Gene/Protein	0.00625
+SH2D3C	NUP98	Gene/Protein	0.00639
+SH2D3C	ERN2	Gene/Protein	0.00652
+SH2D3C	DDX3X	Gene/Protein	0.00665
+SH2D3C	PRM3	Gene/Protein	0.00677
+SH2D3C	GFI1	Gene/Protein	0.00719
+SH2D3C	PEA15	Gene/Protein	0.00768
+SH2D3C	MAP1LC3A	Gene/Protein	0.00816
+SH2D3C	CTTNBP2	Gene/Protein	0.00823
+SH2D3C	PSMD1	Gene/Protein	0.00943
+SH2D3C	CSE1L	Gene/Protein	0.00944
+SH2D3C	CTNND1	Gene/Protein	0.0097
+SH2D3C	SSFA2	Gene/Protein	0.0101
+SH2D3C	TRPV5	Gene/Protein	0.0104
+SH2D3C	HTR6	Gene/Protein	0.0109
+SH2D3C	REST	Gene/Protein	0.0111
+SH2D3C	BST2	Gene/Protein	0.0112
+SH2D3C	PXN	Gene/Protein	0.0114
+SH2D3C	ERN1	Gene/Protein	0.0115
+SH2D3C	KIF11	Gene/Protein	0.012
+SH2D3C	EIF4A1	Gene/Protein	0.0122
+SH2D3C	MS2	Gene/Protein	0.0126
+SH2D3C	ADAM8	Gene/Protein	0.0136
+SH2D3C	EMD	Gene/Protein	0.0149
+SH2D3C	AGFG2	Gene/Protein	0.0155
+SH2D3C	RASGRF1	Gene/Protein	0.0159
+SH2D3C	MT-ND4	Gene/Protein	0.0161
+SH2D3C	PHB	Gene/Protein	0.0164
+SH2D3C	RGPD2	Gene/Protein	0.0164
+SH2D3C	SLC12A1	Gene/Protein	0.0166
+SH2D3C	STAT2	Gene/Protein	0.0167
+SH2D3C	ISG15	Gene/Protein	0.017
+SH2D3C	SAR1A	Gene/Protein	0.0172
+SH2D3C	SLC18A3	Gene/Protein	0.0177
+SH2D3C	TAGLN	Gene/Protein	0.0177
+SH2D3C	NEDD9	Gene/Protein	0.0179
+SH2D3C	FOXA1	Gene/Protein	0.018
+SH2D3C	ALPI	Gene/Protein	0.0185
+SH2D3C	TBK1	Gene/Protein	0.0187
+SH2D3C	MAP3K1	Gene/Protein	0.0188
+SH2D3C	MC1R	Gene/Protein	0.0189
+SH2D3C	XBP1P1	Gene/Protein	0.0204
+SH2D3C	GLYAT	Gene/Protein	0.0207
+SH2D3C	TXNDC15	Gene/Protein	0.0219
+SH2D3C	PKN1	Gene/Protein	0.0227
+SH2D3C	ATF6	Gene/Protein	0.0227
+SH2D3C	IQGAP1	Gene/Protein	0.0229
+SH2D3C	IRF4	Gene/Protein	0.0234
+SH2D3C	PAK1	Gene/Protein	0.0237
+SH2D3C	CDC42	Gene/Protein	0.0246
+SH2D3C	TFAM	Gene/Protein	0.0256
+SH2D3C	IKBKB	Gene/Protein	0.0258
+SH2D3C	PROC	Gene/Protein	0.0261
+SH2D3C	IGBP1	Gene/Protein	0.0269
+SH2D3C	CRAT	Gene/Protein	0.0289
+SH2D3C	DROSHA	Gene/Protein	0.0298
+SH2D3C	WNK1	Gene/Protein	0.031
+SH2D3C	XBP1	Gene/Protein	0.0316
+SH2D3C	SYT1	Gene/Protein	0.0318
+SH2D3C	STAT1	Gene/Protein	0.0321
+SH2D3C	RBL2	Gene/Protein	0.0338
+SH2D3C	BLZF1	Gene/Protein	0.0339
+SH2D3C	MAPK8	Gene/Protein	0.035
+SH2D3C	TERF2IP	Gene/Protein	0.0357
+SH2D3C	RELA	Gene/Protein	0.0358
+SH2D3C	RABGEF1	Gene/Protein	0.0361
+SH2D3C	TOLLIP	Gene/Protein	0.0362
+SH2D3C	GLI1	Gene/Protein	0.0368
+SH2D3C	RAG1	Gene/Protein	0.0368
+SH2D3C	SLAMF7	Gene/Protein	0.037
+SH2D3C	IRF1	Gene/Protein	0.0376
+SH2D3C	MBTPS1	Gene/Protein	0.0378
+SH2D3C	SUCLG1	Gene/Protein	0.0379
+SH2D3C	HES1	Gene/Protein	0.0383
+SH2D3C	FXN	Gene/Protein	0.0387
+SH2D3C	SOS2	Gene/Protein	0.0435
+SH2D3C	RNASE1	Gene/Protein	0.0437
+SH2D3C	GATA1	Gene/Protein	0.0462
+SH2D3C	CREBBP	Gene/Protein	0.0477
+SH2D3C	CDC25C	Gene/Protein	0.0529
+SH2D3C	CFH	Gene/Protein	0.0566
+SH2D3C	RET	Gene/Protein	0.0579
+SH2D3C	DNM2	Gene/Protein	0.0579
+SH2D3C	TIPARP	Gene/Protein	0.0582
+SH2D3C	PDIK1L	Gene/Protein	0.0611
+SH2D3C	SHH	Gene/Protein	0.0623
+SH2D3C	COL11A2	Gene/Protein	0.0635
+SH2D3C	SOS1	Gene/Protein	0.064
+SH2D3C	CCNB1	Gene/Protein	0.0671
+SH2D3C	RBMS3	Gene/Protein	0.0692
+SH2D3C	VDAC1	Gene/Protein	0.0723
+SH2D3C	PTBP1	Gene/Protein	0.0758
+SH2D3C	ASCC1	Gene/Protein	0.0759
+SH2D3C	HSPB1	Gene/Protein	0.0837
+SH2D3C	PARP1	Gene/Protein	0.0861
+SH2D3C	NRAS	Gene/Protein	0.0924
+SH2D3C	AHR	Gene/Protein	0.0972
+SH2D3C	FN1	Gene/Protein	0.0976
+SH2D3C	COMT	Gene/Protein	0.104
+SH2D3C	CHRNA4	Gene/Protein	0.111
+SH2D3C	HRAS	Gene/Protein	0.113
+SH2D3C	FASN	Gene/Protein	0.114
+SH2D3C	MAPK1	Gene/Protein	0.123
+SH2D3C	RAC1	Gene/Protein	0.158
+SH2D3C	JUN	Gene/Protein	0.175
+SH2D3C	CREB1	Gene/Protein	0.176
+SH2D3C	APP	Gene/Protein	0.193
+SH2D3C	CD86	Gene/Protein	0.199
+SH2D3C	EGF	Gene/Protein	0.201
+SH2D3C	DES	Gene/Protein	0.22
+SH2D3C	TXN	Gene/Protein	0.238
+SH2D3C	PRH2	Gene/Protein	0.243
+SH2D3C	CTSB	Gene/Protein	0.244
+SH2D3C	NFKB1	Gene/Protein	0.261
+SH2D3C	CD40	Gene/Protein	0.414
+SH2D3C	TLR4	Gene/Protein	0.483
+SH2D3C	KRAS	Gene/Protein	0.521
+SH2D3C	CDKN2A	Gene/Protein	0.542
+SH2D3C	CCND1	Gene/Protein	0.581
+SH2D3C	STAT3	Gene/Protein	0.598
+SH2D3C	GLB1	Gene/Protein	0.613
+SH2D3C	IGF1	Gene/Protein	0.699
+SH2D3C	SLC3A2	Gene/Protein	0.766
+SH2D3C	H3F3AP6	Gene/Protein	0.793
+SH2D3C	TCEAL1	Gene/Protein	0.795
+SH2D3C	ESR1	Gene/Protein	0.851
+SH2D3C	IL6	Gene/Protein	1.0
+SH2D3C	ALB	Gene/Protein	1.0
+SH2D3C	CASP3	Gene/Protein	1.0
+SH2D3C	CAT	Gene/Protein	1.0
+SH2D3C	CDKN1A	Gene/Protein	1.0
+SH2D3C	MTOR	Gene/Protein	1.0
+SH2D3C	IFNG	Gene/Protein	1.0
+SH2D3C	IL2	Gene/Protein	1.0
+SH2D3C	IL10	Gene/Protein	1.0
+SH2D3C	MYC	Gene/Protein	1.0
+SH2D3C	TF	Gene/Protein	1.0
+SH2D3C	TNF	Gene/Protein	1.0
+SH2D3C	VIM	Gene/Protein	1.0
+SH2D3C	NELFCD	Gene/Protein	1.0
+SH2D3C	RNA replication	Biological process	6.29E-5
+SH2D3C	stress granule assembly	Biological process	7.88E-5
+SH2D3C	RNA biosynthetic process	Biological process	1.0E-4
+SH2D3C	viral protein processing	Biological process	1.34E-4
+SH2D3C	type III interferon production	Biological process	1.96E-4
+SH2D3C	translational readthrough	Biological process	5.39E-4
+SH2D3C	virion assembly	Biological process	0.00152
+SH2D3C	translation	Biological process	0.00172
+SH2D3C	glucosinolate catabolic process	Biological process	0.00178
+SH2D3C	viral translation	Biological process	0.0022
+SH2D3C	viral life cycle	Biological process	0.00226
+SH2D3C	type I interferon signaling pathway	Biological process	0.00246
+SH2D3C	proteasome complex disassembly	Biological process	0.00266
+SH2D3C	mRNA transcription	Biological process	0.00278
+SH2D3C	viral transcription	Biological process	0.00283
+SH2D3C	type I interferon production	Biological process	0.00313
+SH2D3C	translational initiation	Biological process	0.00329
+SH2D3C	tropism	Biological process	0.00357
+SH2D3C	protein deubiquitination	Biological process	0.00425
+SH2D3C	innate immune response	Biological process	0.00484
+SH2D3C	defense response to virus	Biological process	0.00516
+SH2D3C	translational termination	Biological process	0.00586
+SH2D3C	establishment of protein localization	Biological process	0.00602
+SH2D3C	proteolysis	Biological process	0.00681
+SH2D3C	viral genome replication	Biological process	0.00705
+SH2D3C	actin cytoskeleton organization	Biological process	0.00793
+SH2D3C	protein processing	Biological process	0.00824
+SH2D3C	phosphorylation	Biological process	0.00919
+SH2D3C	membrane biogenesis	Biological process	0.011
+SH2D3C	reverse transcription	Biological process	0.0118
+SH2D3C	ruffle assembly	Biological process	0.0138
+SH2D3C	lipoxygenase pathway	Biological process	0.0153
+SH2D3C	smoothened signaling pathway	Biological process	0.0161
+SH2D3C	RNA interference	Biological process	0.0196
+SH2D3C	pathogenesis	Biological process	0.02
+SH2D3C	nucleocytoplasmic transport	Biological process	0.0213
+SH2D3C	response to endoplasmic reticulum stress	Biological process	0.022
+SH2D3C	protein ubiquitination	Biological process	0.0221
+SH2D3C	dosage compensation by inactivation of X chromosome	Biological process	0.0227
+SH2D3C	adaptive immune response	Biological process	0.0238
+SH2D3C	antigenic variation	Biological process	0.025
+SH2D3C	evasion or tolerance of immune response of other organism involved in symbiotic interaction	Biological process	0.0259
+SH2D3C	RNA transport	Biological process	0.0295
+SH2D3C	glycosylation	Biological process	0.0297
+SH2D3C	transmission of virus	Biological process	0.0299
+SH2D3C	signal transduction	Biological process	0.0338
+SH2D3C	protein transport	Biological process	0.0363
+SH2D3C	cellular localization	Biological process	0.0409
+SH2D3C	nuclear transport	Biological process	0.0441
+SH2D3C	RNA metabolic process	Biological process	0.0483
+SH2D3C	cAMP-mediated signaling	Biological process	0.0527
+SH2D3C	protein localization	Biological process	0.0572
+SH2D3C	cell migration	Biological process	0.0626
+SH2D3C	cell communication	Biological process	0.0628
+SH2D3C	membrane fusion	Biological process	0.065
+SH2D3C	axon guidance	Biological process	0.0703
+SH2D3C	gene expression	Biological process	0.0753
+SH2D3C	protein folding	Biological process	0.0768
+SH2D3C	growth	Biological process	0.0805
+SH2D3C	post-translational protein modification	Biological process	0.0818
+SH2D3C	immune response	Biological process	0.0827
+SH2D3C	nuclear export	Biological process	0.0959
+SH2D3C	cell maturation	Biological process	0.0973
+SH2D3C	gene silencing	Biological process	0.109
+SH2D3C	dedifferentiation	Biological process	0.118
+SH2D3C	cellular process	Biological process	0.132
+SH2D3C	T cell activation	Biological process	0.138
+SH2D3C	digestion	Biological process	0.147
+SH2D3C	humoral immune response	Biological process	0.158
+SH2D3C	cell cycle arrest	Biological process	0.161
+SH2D3C	short-term memory	Biological process	0.181
+SH2D3C	cellular metabolic process	Biological process	0.19
+SH2D3C	myelination	Biological process	0.2
+SH2D3C	cytokine production	Biological process	0.21
+SH2D3C	anatomical structure morphogenesis	Biological process	0.23
+SH2D3C	behavior	Biological process	0.271
+SH2D3C	cell development	Biological process	0.28
+SH2D3C	import into cell	Biological process	0.294
+SH2D3C	metabolic process	Biological process	0.305
+SH2D3C	cell motility	Biological process	0.328
+SH2D3C	immunoglobulin production	Biological process	0.382
+SH2D3C	endocytosis	Biological process	0.405
+SH2D3C	autophagy	Biological process	0.409
+SH2D3C	cell proliferation	Biological process	0.427
+SH2D3C	memory	Biological process	0.453
+SH2D3C	dephosphorylation	Biological process	0.464
+SH2D3C	protein catabolic process	Biological process	0.488
+SH2D3C	aging	Biological process	0.501
+SH2D3C	RNA splicing	Biological process	0.612
+SH2D3C	interphase	Biological process	0.694
+SH2D3C	cognition	Biological process	0.896
+SH2D3C	cell differentiation	Biological process	0.999
+SH2D3C	apoptotic process	Biological process	1.0
+SH2D3C	death	Biological process	1.0
+SH2D3C	parturition	Biological process	1.0
+SH2D3C	cell death	Biological process	1.0
+SH2D3C	cell adhesion	Biological process	1.0
+SH2D3C	cell cycle	Biological process	1.0
+SH2D3C	cell growth	Biological process	1.0
+SH2D3C	methylation	Biological process	1.0
+SH2D3C	cell division	Biological process	1.0
+SH2D3C	signaling	Biological process	1.0
+SH2D3C	glucose metabolic process	Biological process	1.0
+SH2D3C	glycolytic process	Biological process	1.0
+SH2D3C	DNA methylation	Biological process	1.0
+SH2D3C	inflammatory response	Biological process	1.0
+SH2D3C	mitotic nuclear division	Biological process	1.0
+SH2D3C	synaptic transmission	Biological process	1.0
+SH2D3C	transduction	Biological process	1.0
+SH2D3C	fertilization	Biological process	1.0
+SH2D3C	embryo development	Biological process	1.0
+SH2D3C	S phase	Biological process	1.0
+SH2D3C	innervation	Biological process	1.0
+SH2D3C	female pregnancy	Biological process	1.0
+SH2D3C	biosynthetic process	Biological process	1.0
+SH2D3C	Alphavirus	MeSH	3.39E-6
+SH2D3C	Rotavirus	MeSH	1.09E-5
+SH2D3C	Sindbis Virus	MeSH	1.25E-5
+SH2D3C	Chikungunya virus	MeSH	1.28E-5
+SH2D3C	Semliki forest virus	MeSH	1.77E-5
+SH2D3C	Coronavirus	MeSH	3.03E-5
+SH2D3C	O'nyong-nyong Virus	MeSH	3.03E-5
+SH2D3C	Encephalitis Virus, Venezuelan Equine	MeSH	4.09E-5
+SH2D3C	RNA Recognition Motif Proteins	MeSH	4.73E-5
+SH2D3C	Togaviridae	MeSH	4.84E-5
+SH2D3C	Chikungunya Fever	MeSH	5.68E-5
+SH2D3C	Genome, Viral	MeSH	5.69E-5
+SH2D3C	Reassortant Viruses	MeSH	6.34E-5
+SH2D3C	Murine hepatitis virus	MeSH	6.75E-5
+SH2D3C	Betacoronavirus	MeSH	7.34E-5
+SH2D3C	Arterivirus	MeSH	7.73E-5
+SH2D3C	Virus Replication	MeSH	9.18E-5
+SH2D3C	Viruses	MeSH	1.08E-4
+SH2D3C	Nidovirales	MeSH	1.18E-4
+SH2D3C	RNA Viruses	MeSH	1.21E-4
+SH2D3C	Equartevirus	MeSH	1.32E-4
+SH2D3C	Encephalitis Virus, Eastern Equine	MeSH	1.33E-4
+SH2D3C	Genome	MeSH	1.72E-4
+SH2D3C	Ross River virus	MeSH	1.89E-4
+SH2D3C	Phylogeny	MeSH	3.05E-4
+SH2D3C	Genes, Viral	MeSH	3.43E-4
+SH2D3C	Encephalitis Virus, Western Equine	MeSH	4.14E-4
+SH2D3C	Betacoronavirus 1	MeSH	4.16E-4
+SH2D3C	Porcine respiratory and reproductive syndrome virus	MeSH	4.24E-4
+SH2D3C	Arteriviridae	MeSH	4.24E-4
+SH2D3C	Nucleocapsid	MeSH	4.48E-4
+SH2D3C	Genotype	MeSH	4.79E-4
+SH2D3C	Coronaviridae	MeSH	5.01E-4
+SH2D3C	Infectious bronchitis virus	MeSH	5.36E-4
+SH2D3C	Middle East Respiratory Syndrome Coronavirus	MeSH	5.57E-4
+SH2D3C	Porcine epidemic diarrhea virus	MeSH	5.61E-4
+SH2D3C	Poly-ADP-Ribose Binding Proteins	MeSH	5.84E-4
+SH2D3C	Alphacoronavirus	MeSH	6.08E-4
+SH2D3C	Culicidae	MeSH	6.49E-4
+SH2D3C	Molecular Sequence Data	MeSH	6.68E-4
+SH2D3C	Neorickettsia	MeSH	6.74E-4
+SH2D3C	Coronavirus 229E, Human	MeSH	6.89E-4
+SH2D3C	Gene Expression Regulation, Viral	MeSH	6.91E-4
+SH2D3C	Host-Pathogen Interactions	MeSH	6.92E-4
+SH2D3C	Neorickettsia sennetsu	MeSH	7.02E-4
+SH2D3C	Genes	MeSH	7.71E-4
+SH2D3C	Amino Acid Sequence	MeSH	8.18E-4
+SH2D3C	Nanoviridae	MeSH	8.32E-4
+SH2D3C	src Homology Domains	MeSH	8.9E-4
+SH2D3C	Replicon	MeSH	9.19E-4
+SH2D3C	Gammacoronavirus	MeSH	9.65E-4
+SH2D3C	Coronavirus, Bovine	MeSH	9.81E-4
+SH2D3C	Cercopithecus aethiops	MeSH	9.87E-4
+SH2D3C	RNA-Binding Motifs	MeSH	9.87E-4
+SH2D3C	Open Reading Frames	MeSH	0.00103
+SH2D3C	Indian Ocean Islands	MeSH	0.00107
+SH2D3C	Comoros	MeSH	0.00111
+SH2D3C	Protein Domains	MeSH	0.00112
+SH2D3C	Mutation	MeSH	0.00113
+SH2D3C	Chiroptera	MeSH	0.00114
+SH2D3C	Virulence	MeSH	0.00117
+SH2D3C	Base Sequence	MeSH	0.00121
+SH2D3C	Coronavirus, Feline	MeSH	0.00123
+SH2D3C	Sequence Analysis, DNA	MeSH	0.00126
+SH2D3C	Cricetinae	MeSH	0.00128
+SH2D3C	Spike Glycoprotein, Coronavirus	MeSH	0.00132
+SH2D3C	Evolution, Molecular	MeSH	0.00144
+SH2D3C	Protein Biosynthesis	MeSH	0.00147
+SH2D3C	Virus Assembly	MeSH	0.0015
+SH2D3C	Salmo salar	MeSH	0.00161
+SH2D3C	Protein Interaction Domains and Motifs	MeSH	0.00168
+SH2D3C	Recombination, Genetic	MeSH	0.00175
+SH2D3C	Whole Genome Sequencing	MeSH	0.00177
+SH2D3C	Nanovirus	MeSH	0.00182
+SH2D3C	Molecular Epidemiology	MeSH	0.00183
+SH2D3C	Virology	MeSH	0.00183
+SH2D3C	Camelids, New World	MeSH	0.00183
+SH2D3C	Arboviruses	MeSH	0.00193
+SH2D3C	Transmissible gastroenteritis virus	MeSH	0.00197
+SH2D3C	Genetic Variation	MeSH	0.00199
+SH2D3C	Disease Outbreaks	MeSH	0.00199
+SH2D3C	Animals	MeSH	0.002
+SH2D3C	Protein Processing, Post-Translational	MeSH	0.00203
+SH2D3C	Consensus Sequence	MeSH	0.00221
+SH2D3C	Sequence Homology, Amino Acid	MeSH	0.0025
+SH2D3C	Protein Structure, Tertiary	MeSH	0.00254
+SH2D3C	Neorickettsia risticii	MeSH	0.00264
+SH2D3C	Sequence Deletion	MeSH	0.00274
+SH2D3C	Amino Acid Motifs	MeSH	0.00276
+SH2D3C	Seychelles	MeSH	0.00293
+SH2D3C	Torovirus	MeSH	0.00308
+SH2D3C	Sequence Analysis, RNA	MeSH	0.00313
+SH2D3C	Conserved Sequence	MeSH	0.00336
+SH2D3C	Swine	MeSH	0.00345
+SH2D3C	Coronavirus NL63, Human	MeSH	0.00353
+SH2D3C	Sequence Homology, Nucleic Acid	MeSH	0.00358
+SH2D3C	Astroviridae	MeSH	0.00358
+SH2D3C	Double-Stranded RNA Binding Motif	MeSH	0.00371
+SH2D3C	Sf9 Cells	MeSH	0.00372
+SH2D3C	Mononegavirales	MeSH	0.00384
+SH2D3C	Indian Ocean	MeSH	0.00401
+SH2D3C	Mutagenesis, Site-Directed	MeSH	0.00402
+SH2D3C	Aedes	MeSH	0.00404
+SH2D3C	Sequence Homology	MeSH	0.00412
+SH2D3C	Mauritius	MeSH	0.00426
+SH2D3C	Viral Load	MeSH	0.00431
+SH2D3C	Mutation, Missense	MeSH	0.00467
+SH2D3C	Genetic Background	MeSH	0.00473
+SH2D3C	Horses	MeSH	0.00477
+SH2D3C	Salmonidae	MeSH	0.00479
+SH2D3C	Coronavirus OC43, Human	MeSH	0.00484
+SH2D3C	Transcription, Genetic	MeSH	0.00496
+SH2D3C	Spodoptera	MeSH	0.00512
+SH2D3C	Reoviridae	MeSH	0.00525
+SH2D3C	Point Mutation	MeSH	0.00552
+SH2D3C	Clinical Coding	MeSH	0.00556
+SH2D3C	Cloning, Molecular	MeSH	0.00575
+SH2D3C	Role	MeSH	0.00608
+SH2D3C	Life Cycle Stages	MeSH	0.00612
+SH2D3C	Phenotype	MeSH	0.00618
+SH2D3C	Permissiveness	MeSH	0.0062
+SH2D3C	Encephalitis Viruses	MeSH	0.00626
+SH2D3C	Forests	MeSH	0.0065
+SH2D3C	Gene Rearrangement	MeSH	0.00654
+SH2D3C	Host Specificity	MeSH	0.00655
+SH2D3C	Vaccinia virus	MeSH	0.00659
+SH2D3C	Defective Viruses	MeSH	0.00669
+SH2D3C	Vertebrates	MeSH	0.00675
+SH2D3C	Bone Marrow Stromal Antigen 2	MeSH	0.00684
+SH2D3C	Bangladesh	MeSH	0.00718
+SH2D3C	Catalytic Domain	MeSH	0.0072
+SH2D3C	Segmental Duplications, Genomic	MeSH	0.00731
+SH2D3C	Cluster Analysis	MeSH	0.00742
+SH2D3C	Membranes	MeSH	0.00772
+SH2D3C	Plasmids	MeSH	0.00773
+SH2D3C	Sterile Alpha Motif	MeSH	0.0082
+SH2D3C	ADP-Ribosylation	MeSH	0.00833
+SH2D3C	Mutagenesis, Insertional	MeSH	0.00834
+SH2D3C	Immune Evasion	MeSH	0.00844
+SH2D3C	Raccoon Dogs	MeSH	0.00874
+SH2D3C	Immunity, Innate	MeSH	0.00888
+SH2D3C	Virus Shedding	MeSH	0.00893
+SH2D3C	Terminator Regions, Genetic	MeSH	0.00899
+SH2D3C	Binding Sites	MeSH	0.00911
+SH2D3C	Trout	MeSH	0.00912
+SH2D3C	Viral Tropism	MeSH	0.00917
+SH2D3C	Virus Release	MeSH	0.00934
+SH2D3C	Aquaculture	MeSH	0.00952
+SH2D3C	Archaeoglobus	MeSH	0.00953
+SH2D3C	Mosquito Vectors	MeSH	0.00963
+SH2D3C	Mice	MeSH	0.00979
+SH2D3C	Helper Viruses	MeSH	0.00988
+SH2D3C	Crystallography, X-Ray	MeSH	0.01
+SH2D3C	Male	MeSH	0.0102
+SH2D3C	Archaeoglobus fulgidus	MeSH	0.0103
+SH2D3C	Viverridae	MeSH	0.0103
+SH2D3C	Dimerization	MeSH	0.0105
+SH2D3C	Lipoylation	MeSH	0.0107
+SH2D3C	Quasispecies	MeSH	0.0109
+SH2D3C	Family	MeSH	0.0112
+SH2D3C	Trinidad and Tobago	MeSH	0.0112
+SH2D3C	Medical Countermeasures	MeSH	0.0112
+SH2D3C	Silent Mutation	MeSH	0.0113
+SH2D3C	Databases, Nucleic Acid	MeSH	0.0119
+SH2D3C	Encephalomyocarditis virus	MeSH	0.0119
+SH2D3C	Tandem Affinity Purification	MeSH	0.0122
+SH2D3C	Female	MeSH	0.0124
+SH2D3C	Perilipin-2	MeSH	0.0125
+SH2D3C	Genes, Reporter	MeSH	0.0127
+SH2D3C	Adult	MeSH	0.0127
+SH2D3C	Oncorhynchus mykiss	MeSH	0.0131
+SH2D3C	Protein Conformation	MeSH	0.0133
+SH2D3C	Genetics	MeSH	0.0133
+SH2D3C	Models, Molecular	MeSH	0.0134
+SH2D3C	Cells, Cultured	MeSH	0.0136
+SH2D3C	Belgium	MeSH	0.0136
+SH2D3C	Baculoviridae	MeSH	0.0137
+SH2D3C	S Phase Cell Cycle Checkpoints	MeSH	0.0137
+SH2D3C	Middle Aged	MeSH	0.0141
+SH2D3C	Genomics	MeSH	0.0143
+SH2D3C	China	MeSH	0.0152
+SH2D3C	Artiodactyla	MeSH	0.0153
+SH2D3C	Autophagosomes	MeSH	0.0154
+SH2D3C	Product Packaging	MeSH	0.0156
+SH2D3C	Cattle	MeSH	0.0157
+SH2D3C	Protein Multimerization	MeSH	0.0157
+SH2D3C	Consensus	MeSH	0.0161
+SH2D3C	Host Microbial Interactions	MeSH	0.0168
+SH2D3C	Peptide Chain Initiation, Translational	MeSH	0.017
+SH2D3C	Ubiquitination	MeSH	0.0174
+SH2D3C	Patched-1 Receptor	MeSH	0.0176
+SH2D3C	Epidemics	MeSH	0.0177
+SH2D3C	Plant Viruses	MeSH	0.0183
+SH2D3C	Renilla	MeSH	0.0183
+SH2D3C	Equidae	MeSH	0.0184
+SH2D3C	Oncorhynchus	MeSH	0.0191
+SH2D3C	Antagomirs	MeSH	0.0191
+SH2D3C	Macaca mulatta	MeSH	0.0193
+SH2D3C	Thailand	MeSH	0.0193
+SH2D3C	Cytopathogenic Effect, Viral	MeSH	0.0193
+SH2D3C	Central African Republic	MeSH	0.0197
+SH2D3C	Birds	MeSH	0.02
+SH2D3C	Patients	MeSH	0.0203
+SH2D3C	Cell Membrane	MeSH	0.0207
+SH2D3C	Methods	MeSH	0.0208
+SH2D3C	Microscopy, Immunoelectron	MeSH	0.0208
+SH2D3C	Epidemiology	MeSH	0.0209
+SH2D3C	African Swine Fever Virus	MeSH	0.0211
+SH2D3C	Databases, Pharmaceutical	MeSH	0.0213
+SH2D3C	Blotting, Western	MeSH	0.0216
+SH2D3C	Rift Valley fever virus	MeSH	0.0216
+SH2D3C	Comprehension	MeSH	0.022
+SH2D3C	Tundra	MeSH	0.022
+SH2D3C	Form	MeSH	0.0221
+SH2D3C	Chickens	MeSH	0.0222
+SH2D3C	Brazil	MeSH	0.0223
+SH2D3C	Madagascar	MeSH	0.0226
+SH2D3C	Patched Receptors	MeSH	0.0228
+SH2D3C	Regulatory Factor X Transcription Factors	MeSH	0.0229
+SH2D3C	Ireland	MeSH	0.023
+SH2D3C	Suriname	MeSH	0.023
+SH2D3C	Microscopy, Fluorescence	MeSH	0.0234
+SH2D3C	X-Box Binding Protein 1	MeSH	0.0235
+SH2D3C	Levivirus	MeSH	0.0239
+SH2D3C	Tetratricopeptide Repeat	MeSH	0.0239
+SH2D3C	Begomovirus	MeSH	0.0249
+SH2D3C	Repetitive Sequences, Nucleic Acid	MeSH	0.0252
+SH2D3C	Sequence Analysis, Protein	MeSH	0.0252
+SH2D3C	Malaysia	MeSH	0.0252
+SH2D3C	Camelus	MeSH	0.0252
+SH2D3C	Republic of Korea	MeSH	0.0259
+SH2D3C	Genetic Drift	MeSH	0.0265
+SH2D3C	Americas	MeSH	0.027
+SH2D3C	Caribbean Region	MeSH	0.0271
+SH2D3C	Silybin	MeSH	0.0276
+SH2D3C	Aged	MeSH	0.0279
+SH2D3C	Nucleic Acid Conformation	MeSH	0.0279
+SH2D3C	Zinc Finger Protein GLI1	MeSH	0.0281
+SH2D3C	Structure-Activity Relationship	MeSH	0.0291
+SH2D3C	Protein Structure, Quaternary	MeSH	0.0291
+SH2D3C	Geminiviridae	MeSH	0.0291
+SH2D3C	Insect Vectors	MeSH	0.0294
+SH2D3C	Reunion	MeSH	0.03
+SH2D3C	Micronesia	MeSH	0.0304
+SH2D3C	Aptitude	MeSH	0.0305
+SH2D3C	Immunity	MeSH	0.0305
+SH2D3C	Immunogenicity, Vaccine	MeSH	0.0305
+SH2D3C	Proteomics	MeSH	0.031
+SH2D3C	Tandem Repeat Sequences	MeSH	0.0311
+SH2D3C	Gene Deletion	MeSH	0.0312
+SH2D3C	Ruminants	MeSH	0.0318
+SH2D3C	Antelopes	MeSH	0.0318
+SH2D3C	Humans	MeSH	0.0321
+SH2D3C	Diarrhea, Infantile	MeSH	0.0324
+SH2D3C	Yellow fever virus	MeSH	0.0327
+SH2D3C	Honduras	MeSH	0.0331
+SH2D3C	Cameroon	MeSH	0.0346
+SH2D3C	Unfolded Protein Response	MeSH	0.0348
+SH2D3C	Polyadenylation	MeSH	0.0349
+SH2D3C	Virus Internalization	MeSH	0.0349
+SH2D3C	Anopheles	MeSH	0.0351
+SH2D3C	Internal Ribosome Entry Sites	MeSH	0.0352
+SH2D3C	Perissodactyla	MeSH	0.0353
+SH2D3C	Environmental Microbiology	MeSH	0.0357
+SH2D3C	Electrophoresis, Polyacrylamide Gel	MeSH	0.0365
+SH2D3C	MCF-7 Cells	MeSH	0.0366
+SH2D3C	Ectopic Gene Expression	MeSH	0.0367
+SH2D3C	Epidemiological Monitoring	MeSH	0.0367
+SH2D3C	Protein Structure, Secondary	MeSH	0.0383
+SH2D3C	Sri Lanka	MeSH	0.0385
+SH2D3C	Active Transport, Cell Nucleus	MeSH	0.0386
+SH2D3C	Adolescent	MeSH	0.0387
+SH2D3C	Peru	MeSH	0.0395
+SH2D3C	G2 Phase Cell Cycle Checkpoints	MeSH	0.0395
+SH2D3C	DNA Copy Number Variations	MeSH	0.04
+SH2D3C	Trees	MeSH	0.0405
+SH2D3C	Nuclear Magnetic Resonance, Biomolecular	MeSH	0.0407
+SH2D3C	Dominican Republic	MeSH	0.0411
+SH2D3C	Europe	MeSH	0.0414
+SH2D3C	Molecular Docking Simulation	MeSH	0.0431
+SH2D3C	Africa	MeSH	0.0433
+SH2D3C	Raccoons	MeSH	0.0433
+SH2D3C	Substrate Specificity	MeSH	0.0435
+SH2D3C	Hepatovirus	MeSH	0.0437
+SH2D3C	Aphthovirus	MeSH	0.044
+SH2D3C	Selenomethionine	MeSH	0.044
+SH2D3C	Sparrows	MeSH	0.0441
+SH2D3C	Vacuoles	MeSH	0.0447
+SH2D3C	Disease Vectors	MeSH	0.0448
+SH2D3C	Identification (Psychology)	MeSH	0.045
+SH2D3C	Exons	MeSH	0.0453
+SH2D3C	Serogroup	MeSH	0.0467
+SH2D3C	Fluorescent Antibody Technique, Indirect	MeSH	0.0467
+SH2D3C	Adaptation, Biological	MeSH	0.048
+SH2D3C	Chromatography, Affinity	MeSH	0.0486
+SH2D3C	Classification	MeSH	0.0489
+SH2D3C	Molecular Dynamics Simulation	MeSH	0.0489
+SH2D3C	Proteasome Inhibitors	MeSH	0.0495
+SH2D3C	Poly (ADP-Ribose) Polymerase-1	MeSH	0.0496
+SH2D3C	Inhibition (Psychology)	MeSH	0.0499
+SH2D3C	Therapeutics	MeSH	0.051
+SH2D3C	Temperature	MeSH	0.0518
+SH2D3C	Women	MeSH	0.0524
+SH2D3C	Insecta	MeSH	0.0525
+SH2D3C	Mice, Inbred BALB C	MeSH	0.0535
+SH2D3C	Virus Attachment	MeSH	0.0537
+SH2D3C	Social Control, Formal	MeSH	0.054
+SH2D3C	Rats	MeSH	0.0546
+SH2D3C	Computational Biology	MeSH	0.0549
+SH2D3C	Genetic Vectors	MeSH	0.0551
+SH2D3C	Hepatitis Delta Virus	MeSH	0.0552
+SH2D3C	Oncolytic Viruses	MeSH	0.0555
+SH2D3C	Efficiency	MeSH	0.0559
+SH2D3C	Turkeys	MeSH	0.0561
+SH2D3C	Protein Conformation, alpha-Helical	MeSH	0.0562
+SH2D3C	Penetrance	MeSH	0.057
+SH2D3C	Dengue Virus	MeSH	0.0579
+SH2D3C	Myalgia	MeSH	0.0579
+SH2D3C	Infant	MeSH	0.0583
+SH2D3C	Thermus thermophilus	MeSH	0.0592
+SH2D3C	Bacteriophage T7	MeSH	0.0594
+SH2D3C	Nucleic Acid Denaturation	MeSH	0.0599
+SH2D3C	Japan	MeSH	0.0604
+SH2D3C	Cats	MeSH	0.0605
+SH2D3C	Flavivirus	MeSH	0.0608
+SH2D3C	Attention	MeSH	0.061
+SH2D3C	Risk	MeSH	0.0613
+SH2D3C	Sensitivity and Specificity	MeSH	0.0616
+SH2D3C	Picornaviridae	MeSH	0.0618
+SH2D3C	Risk Factors	MeSH	0.0622
+SH2D3C	Set (Psychology)	MeSH	0.0633
+SH2D3C	Polymorphism, Single Nucleotide	MeSH	0.0646
+SH2D3C	Rabbits	MeSH	0.0649
+SH2D3C	Herbivory	MeSH	0.0668
+SH2D3C	Child	MeSH	0.0669
+SH2D3C	Myanmar	MeSH	0.0677
+SH2D3C	Treatment Outcome	MeSH	0.0678
+SH2D3C	Review	MeSH	0.0679
+SH2D3C	Mammals	MeSH	0.0687
+SH2D3C	Animals, Newborn	MeSH	0.0688
+SH2D3C	Hedgehogs	MeSH	0.069
+SH2D3C	Genetic Heterogeneity	MeSH	0.0717
+SH2D3C	Hydrophobic and Hydrophilic Interactions	MeSH	0.0718
+SH2D3C	Gene Duplication	MeSH	0.0725
+SH2D3C	Thermus	MeSH	0.0738
+SH2D3C	Cell Transformation, Viral	MeSH	0.0743
+SH2D3C	Down-Regulation	MeSH	0.0746
+SH2D3C	Association	MeSH	0.0749
+SH2D3C	Mortuary Practice	MeSH	0.0749
+SH2D3C	Hand Hygiene	MeSH	0.0766
+SH2D3C	Rubella virus	MeSH	0.0785
+SH2D3C	Slovenia	MeSH	0.0787
+SH2D3C	Australia	MeSH	0.0801
+SH2D3C	Scotland	MeSH	0.0804
+SH2D3C	Time Factors	MeSH	0.0809
+SH2D3C	Mongolia	MeSH	0.081
+SH2D3C	Pregnancy	MeSH	0.0811
+SH2D3C	X Chromosome Inactivation	MeSH	0.0819
+SH2D3C	Kenya	MeSH	0.0821
+SH2D3C	Pancreas, Exocrine	MeSH	0.0829
+SH2D3C	Hydrogen Bonding	MeSH	0.0846
+SH2D3C	Invertebrates	MeSH	0.0849
+SH2D3C	Axon Guidance	MeSH	0.0852
+SH2D3C	India	MeSH	0.0866
+SH2D3C	Structural Homology, Protein	MeSH	0.0872
+SH2D3C	Iraq	MeSH	0.0872
+SH2D3C	Pacific Islands	MeSH	0.0873
+SH2D3C	Phthiraptera	MeSH	0.0876
+SH2D3C	Abbreviations	MeSH	0.0878
+SH2D3C	Olfactory Receptor Neurons	MeSH	0.0884
+SH2D3C	Arthropods	MeSH	0.0886
+SH2D3C	Containment of Biohazards	MeSH	0.0895
+SH2D3C	Seasons	MeSH	0.09
+SH2D3C	G-Quadruplexes	MeSH	0.0924
+SH2D3C	Surveys and Questionnaires	MeSH	0.0926
+SH2D3C	Child, Preschool	MeSH	0.093
+SH2D3C	Zinc Fingers	MeSH	0.0939
+SH2D3C	Spatio-Temporal Analysis	MeSH	0.0952
+SH2D3C	Moths	MeSH	0.0955
+SH2D3C	Species Specificity	MeSH	0.0961
+SH2D3C	Molecular Biology	MeSH	0.0961
+SH2D3C	Prognosis	MeSH	0.0964
+SH2D3C	Beijing	MeSH	0.0965
+SH2D3C	RNA Stability	MeSH	0.097
+SH2D3C	Microscopy, Confocal	MeSH	0.0982
+SH2D3C	Crossing Over, Genetic	MeSH	0.0985
+SH2D3C	Incidence	MeSH	0.0986
+SH2D3C	Yeasts	MeSH	0.1
+SH2D3C	Cell Movement	MeSH	0.103
+SH2D3C	Haplorhini	MeSH	0.103
+SH2D3C	Diagnosis	MeSH	0.105
+SH2D3C	Regression (Psychology)	MeSH	0.105
+SH2D3C	Leucine Zippers	MeSH	0.106
+SH2D3C	Ecuador	MeSH	0.107
+SH2D3C	Reading Frames	MeSH	0.109
+SH2D3C	Molecular Weight	MeSH	0.11
+SH2D3C	West Indies	MeSH	0.111
+SH2D3C	Biology	MeSH	0.113
+SH2D3C	Agrobacterium	MeSH	0.113
+SH2D3C	Rhinovirus	MeSH	0.117
+SH2D3C	Mosaic Viruses	MeSH	0.118
+SH2D3C	Norovirus	MeSH	0.118
+SH2D3C	Homozygote	MeSH	0.119
+SH2D3C	Central Nervous System	MeSH	0.12
+SH2D3C	Organelle Biogenesis	MeSH	0.12
+SH2D3C	Chromosomes, Artificial, Bacterial	MeSH	0.12
+SH2D3C	Zambia	MeSH	0.12
+SH2D3C	B-Lymphocyte Subsets	MeSH	0.12
+SH2D3C	Genome Size	MeSH	0.121
+SH2D3C	Selection, Genetic	MeSH	0.122
+SH2D3C	South America	MeSH	0.122
+SH2D3C	Kinetics	MeSH	0.123
+SH2D3C	Social Planning	MeSH	0.125
+SH2D3C	Index	MeSH	0.128
+SH2D3C	Aged, 80 and over	MeSH	0.131
+SH2D3C	Adaptive Immunity	MeSH	0.131
+SH2D3C	Germ-Free Life	MeSH	0.131
+SH2D3C	Transgenes	MeSH	0.132
+SH2D3C	Central America	MeSH	0.132
+SH2D3C	Economics	MeSH	0.133
+SH2D3C	Organizations	MeSH	0.134
+SH2D3C	Rodentia	MeSH	0.134
+SH2D3C	Crystallization	MeSH	0.135
+SH2D3C	History	MeSH	0.138
+SH2D3C	Organization and Administration	MeSH	0.139
+SH2D3C	Solar Energy	MeSH	0.139
+SH2D3C	Pakistan	MeSH	0.142
+SH2D3C	Suppression, Genetic	MeSH	0.142
+SH2D3C	Weights and Measures	MeSH	0.144
+SH2D3C	Young Adult	MeSH	0.144
+SH2D3C	Gene Library	MeSH	0.145
+SH2D3C	Optical Imaging	MeSH	0.145
+SH2D3C	Antibody Formation	MeSH	0.146
+SH2D3C	Ferrets	MeSH	0.146
+SH2D3C	Northern Ireland	MeSH	0.146
+SH2D3C	Deamination	MeSH	0.147
+SH2D3C	Static Electricity	MeSH	0.151
+SH2D3C	United States	MeSH	0.152
+SH2D3C	Drug Resistance, Neoplasm	MeSH	0.154
+SH2D3C	Animals, Domestic	MeSH	0.155
+SH2D3C	Diagnosis, Differential	MeSH	0.156
+SH2D3C	Zimbabwe	MeSH	0.156
+SH2D3C	Paper	MeSH	0.158
+SH2D3C	Madin Darby Canine Kidney Cells	MeSH	0.16
+SH2D3C	Genomic Imprinting	MeSH	0.161
+SH2D3C	Alleles	MeSH	0.162
+SH2D3C	Austria	MeSH	0.162
+SH2D3C	Life	MeSH	0.163
+SH2D3C	Culex	MeSH	0.165
+SH2D3C	Songbirds	MeSH	0.165
+SH2D3C	Intensive Care Units, Pediatric	MeSH	0.165
+SH2D3C	Genetics, Microbial	MeSH	0.166
+SH2D3C	Virus Activation	MeSH	0.173
+SH2D3C	Wortmannin	MeSH	0.173
+SH2D3C	Nature	MeSH	0.174
+SH2D3C	Multigene Family	MeSH	0.174
+SH2D3C	Ghana	MeSH	0.174
+SH2D3C	Protein Interaction Maps	MeSH	0.174
+SH2D3C	Genetic Testing	MeSH	0.175
+SH2D3C	Farms	MeSH	0.176
+SH2D3C	Activation, Metabolic	MeSH	0.176
+SH2D3C	Norway	MeSH	0.179
+SH2D3C	South Africa	MeSH	0.179
+SH2D3C	Residence Characteristics	MeSH	0.179
+SH2D3C	Mice, Knockout	MeSH	0.181
+SH2D3C	Models, Genetic	MeSH	0.181
+SH2D3C	Maps	MeSH	0.184
+SH2D3C	Calcium Signaling	MeSH	0.187
+SH2D3C	Hydrolysis	MeSH	0.188
+SH2D3C	Lifting	MeSH	0.188
+SH2D3C	Islands	MeSH	0.192
+SH2D3C	Control Groups	MeSH	0.192
+SH2D3C	Fresh Water	MeSH	0.193
+SH2D3C	Asia	MeSH	0.193
+SH2D3C	Literature	MeSH	0.194
+SH2D3C	Research Report	MeSH	0.195
+SH2D3C	Lod Score	MeSH	0.196
+SH2D3C	Asian Continental Ancestry Group	MeSH	0.197
+SH2D3C	Croatia	MeSH	0.197
+SH2D3C	Choroid Plexus	MeSH	0.198
+SH2D3C	Eukaryota	MeSH	0.199
+SH2D3C	Western Australia	MeSH	0.2
+SH2D3C	Confidence Intervals	MeSH	0.202
+SH2D3C	Metagenomics	MeSH	0.205
+SH2D3C	Sex	MeSH	0.209
+SH2D3C	Education	MeSH	0.213
+SH2D3C	Base Composition	MeSH	0.214
+SH2D3C	Diet	MeSH	0.215
+SH2D3C	Prevalence	MeSH	0.218
+SH2D3C	Physicians	MeSH	0.218
+SH2D3C	Transducers	MeSH	0.22
+SH2D3C	Microscopy, Electron, Transmission	MeSH	0.221
+SH2D3C	Paint	MeSH	0.222
+SH2D3C	Italy	MeSH	0.223
+SH2D3C	Hepacivirus	MeSH	0.225
+SH2D3C	Child, Hospitalized	MeSH	0.226
+SH2D3C	Half-Life	MeSH	0.228
+SH2D3C	Cell Physiological Phenomena	MeSH	0.229
+SH2D3C	Alternative Splicing	MeSH	0.23
+SH2D3C	Cell Compartmentation	MeSH	0.23
+SH2D3C	Intestine, Small	MeSH	0.231
+SH2D3C	Algorithms	MeSH	0.231
+SH2D3C	Specific Pathogen-Free Organisms	MeSH	0.232
+SH2D3C	Immunization, Secondary	MeSH	0.234
+SH2D3C	Polymorphism, Genetic	MeSH	0.236
+SH2D3C	Gene Order	MeSH	0.237
+SH2D3C	Metabolism	MeSH	0.239
+SH2D3C	Ulnar Nerve	MeSH	0.241
+SH2D3C	Hospitals	MeSH	0.243
+SH2D3C	Cities	MeSH	0.246
+SH2D3C	Depression	MeSH	0.246
+SH2D3C	Exercise	MeSH	0.256
+SH2D3C	Templates, Genetic	MeSH	0.26
+SH2D3C	Immunity, Mucosal	MeSH	0.261
+SH2D3C	Age Factors	MeSH	0.262
+SH2D3C	Czech Republic	MeSH	0.262
+SH2D3C	Philippines	MeSH	0.263
+SH2D3C	Luteal Phase	MeSH	0.264
+SH2D3C	Tracheotomy	MeSH	0.274
+SH2D3C	Biological Variation, Population	MeSH	0.277
+SH2D3C	Secretory Pathway	MeSH	0.278
+SH2D3C	Bayes Theorem	MeSH	0.28
+SH2D3C	Parents	MeSH	0.283
+SH2D3C	Body Weight	MeSH	0.283
+SH2D3C	Perciformes	MeSH	0.292
+SH2D3C	Lipid Droplets	MeSH	0.296
+SH2D3C	Costs and Cost Analysis	MeSH	0.3
+SH2D3C	Cell Cycle Checkpoints	MeSH	0.302
+SH2D3C	Global Health	MeSH	0.303
+SH2D3C	Enterovirus	MeSH	0.31
+SH2D3C	Reproducibility of Results	MeSH	0.311
+SH2D3C	Endoplasmic Reticulum Stress	MeSH	0.315
+SH2D3C	Deer	MeSH	0.317
+SH2D3C	Terminology	MeSH	0.318
+SH2D3C	Electrons	MeSH	0.32
+SH2D3C	Centrifugation, Density Gradient	MeSH	0.326
+SH2D3C	Risk Assessment	MeSH	0.326
+SH2D3C	Arabidopsis	MeSH	0.328
+SH2D3C	Movement	MeSH	0.331
+SH2D3C	Expressed Sequence Tags	MeSH	0.333
+SH2D3C	Basidiomycota	MeSH	0.339
+SH2D3C	Urbanization	MeSH	0.34
+SH2D3C	Poliovirus	MeSH	0.342
+SH2D3C	Knowledge	MeSH	0.344
+SH2D3C	Consanguinity	MeSH	0.351
+SH2D3C	Pliability	MeSH	0.356
+SH2D3C	Students	MeSH	0.36
+SH2D3C	Gender Identity	MeSH	0.363
+SH2D3C	Genome, Human	MeSH	0.367
+SH2D3C	Lentivirus	MeSH	0.367
+SH2D3C	Microbial Viability	MeSH	0.373
+SH2D3C	Goats	MeSH	0.374
+SH2D3C	Simian virus 40	MeSH	0.375
+SH2D3C	Safety	MeSH	0.386
+SH2D3C	Chemotaxis, Leukocyte	MeSH	0.393
+SH2D3C	Colorado	MeSH	0.394
+SH2D3C	Medicine	MeSH	0.398
+SH2D3C	Rats, Wistar	MeSH	0.401
+SH2D3C	Models, Theoretical	MeSH	0.407
+SH2D3C	Sex Factors	MeSH	0.407
+SH2D3C	Virginia	MeSH	0.41
+SH2D3C	Tanzania	MeSH	0.418
+SH2D3C	Estrogen Receptor alpha	MeSH	0.422
+SH2D3C	Culture	MeSH	0.423
+SH2D3C	Light	MeSH	0.427
+SH2D3C	Asia, Southeastern	MeSH	0.428
+SH2D3C	Smoking	MeSH	0.429
+SH2D3C	Universities	MeSH	0.432
+SH2D3C	United Kingdom	MeSH	0.432
+SH2D3C	Seroconversion	MeSH	0.432
+SH2D3C	In Situ Hybridization, Fluorescence	MeSH	0.433
+SH2D3C	Disease Reservoirs	MeSH	0.435
+SH2D3C	Immunization Programs	MeSH	0.436
+SH2D3C	Coliphages	MeSH	0.437
+SH2D3C	Chimera	MeSH	0.448
+SH2D3C	Enzyme Activation	MeSH	0.453
+SH2D3C	Antibody Specificity	MeSH	0.455
+SH2D3C	Blood-Brain Barrier	MeSH	0.46
+SH2D3C	Survival	MeSH	0.461
+SH2D3C	Herpesvirus 1, Human	MeSH	0.461
+SH2D3C	Siblings	MeSH	0.468
+SH2D3C	Enhancer Elements, Genetic	MeSH	0.468
+SH2D3C	History, 20th Century	MeSH	0.469
+SH2D3C	Observation	MeSH	0.471
+SH2D3C	Chromatography, High Pressure Liquid	MeSH	0.472
+SH2D3C	Protein Conformation, beta-Strand	MeSH	0.474
+SH2D3C	Russia	MeSH	0.475
+SH2D3C	Biological Evolution	MeSH	0.476
+SH2D3C	Severity of Illness Index	MeSH	0.477
+SH2D3C	Biophysical Phenomena	MeSH	0.487
+SH2D3C	Probability	MeSH	0.489
+SH2D3C	Computer-Aided Design	MeSH	0.489
+SH2D3C	CpG Islands	MeSH	0.5
+SH2D3C	Collection	MeSH	0.508
+SH2D3C	Corpus Luteum	MeSH	0.508
+SH2D3C	Olfactory Bulb	MeSH	0.51
+SH2D3C	Columbidae	MeSH	0.514
+SH2D3C	Gene Frequency	MeSH	0.516
+SH2D3C	Mutation Rate	MeSH	0.517
+SH2D3C	Dose-Response Relationship, Drug	MeSH	0.529
+SH2D3C	Reference Standards	MeSH	0.536
+SH2D3C	Transcriptome	MeSH	0.537
+SH2D3C	Health	MeSH	0.556
+SH2D3C	Copyright	MeSH	0.557
+SH2D3C	Up-Regulation	MeSH	0.564
+SH2D3C	Stress, Physiological	MeSH	0.566
+SH2D3C	Cloning, Organism	MeSH	0.57
+SH2D3C	Negative Results	MeSH	0.579
+SH2D3C	Pedigree	MeSH	0.582
+SH2D3C	Sus scrofa	MeSH	0.583
+SH2D3C	Singapore	MeSH	0.588
+SH2D3C	Muscle, Skeletal	MeSH	0.598
+SH2D3C	Cell Shape	MeSH	0.599
+SH2D3C	Cohort Studies	MeSH	0.601
+SH2D3C	Oxidative Stress	MeSH	0.608
+SH2D3C	Genetic Loci	MeSH	0.615
+SH2D3C	Models, Animal	MeSH	0.618
+SH2D3C	Morphogenesis	MeSH	0.63
+SH2D3C	Animals, Wild	MeSH	0.632
+SH2D3C	Lasers	MeSH	0.644
+SH2D3C	Neptune	MeSH	0.644
+SH2D3C	Databases, Protein	MeSH	0.653
+SH2D3C	RNA, Long Noncoding	MeSH	0.656
+SH2D3C	Tissue Donors	MeSH	0.667
+SH2D3C	Pressure	MeSH	0.669
+SH2D3C	Waste Water	MeSH	0.669
+SH2D3C	Volatilization	MeSH	0.694
+SH2D3C	Health Resources	MeSH	0.699
+SH2D3C	Sheep	MeSH	0.704
+SH2D3C	Survival Rate	MeSH	0.714
+SH2D3C	Nerve Growth Factor	MeSH	0.718
+SH2D3C	Microscopy, Electron	MeSH	0.735
+SH2D3C	Chemistry	MeSH	0.737
+SH2D3C	Protein Stability	MeSH	0.756
+SH2D3C	Bacteriophages	MeSH	0.758
+SH2D3C	Odds Ratio	MeSH	0.759
+SH2D3C	Response Elements	MeSH	0.772
+SH2D3C	Computers	MeSH	0.78
+SH2D3C	Forecasting	MeSH	0.782
+SH2D3C	Persons	MeSH	0.79
+SH2D3C	Archaea	MeSH	0.79
+SH2D3C	Analysis of Variance	MeSH	0.793
+SH2D3C	Escherichia coli	MeSH	0.808
+SH2D3C	Argentina	MeSH	0.823
+SH2D3C	Linear Models	MeSH	0.839
+SH2D3C	Peroxisomes	MeSH	0.842
+SH2D3C	Introns	MeSH	0.846
+SH2D3C	Names	MeSH	0.855
+SH2D3C	Hong Kong	MeSH	0.856
+SH2D3C	Architecture	MeSH	0.866
+SH2D3C	ErbB Receptors	MeSH	0.866
+SH2D3C	Heterozygote	MeSH	0.874
+SH2D3C	Hungary	MeSH	0.885
+SH2D3C	Proxy	MeSH	0.895
+SH2D3C	Research Personnel	MeSH	0.907
+SH2D3C	Subject Headings	MeSH	0.908
+SH2D3C	Bias	MeSH	0.91
+SH2D3C	Enzyme Stability	MeSH	0.912
+SH2D3C	Family Characteristics	MeSH	0.947
+SH2D3C	Drug Design	MeSH	0.958
+SH2D3C	Tissues	MeSH	0.962
+SH2D3C	Work	MeSH	0.962
+SH2D3C	Ecology	MeSH	0.965
+SH2D3C	Time	MeSH	1.0
+SH2D3C	Population	MeSH	1.0
+SH2D3C	Environment	MeSH	1.0
+SH2D3C	Mortality	MeSH	1.0
+SH2D3C	Programs	MeSH	1.0
+SH2D3C	Infant, Newborn	MeSH	1.0
+SH2D3C	Laboratories	MeSH	1.0
+SH2D3C	Bacteria	MeSH	1.0
+SH2D3C	Dogs	MeSH	1.0
+SH2D3C	Pathology	MeSH	1.0
+SH2D3C	Muscles	MeSH	1.0
+SH2D3C	Mice, Inbred C57BL	MeSH	1.0
+SH2D3C	Cell Survival	MeSH	1.0
+SH2D3C	Fluorescence	MeSH	1.0
+SH2D3C	Morbidity	MeSH	1.0
+SH2D3C	Plants	MeSH	1.0
+SH2D3C	Public Health	MeSH	1.0
+SH2D3C	T-Lymphocytes	MeSH	1.0
+SH2D3C	Respect	MeSH	1.0
+SH2D3C	Gene Expression Regulation	MeSH	1.0
+SH2D3C	Retention (Psychology)	MeSH	1.0
+SH2D3C	Database	MeSH	1.0
+SH2D3C	Libraries	MeSH	1.0
+SH2D3C	Maintenance	MeSH	1.0
+SH2D3C	Models, Biological	MeSH	1.0
+SH2D3C	Orientation	MeSH	1.0
+SH2D3C	Promoter Regions, Genetic	MeSH	1.0
+SH2D3C	Software	MeSH	1.0
+SH2D3C	Arm	MeSH	1.0
+SH2D3C	Macrophages	MeSH	1.0
+SH2D3C	In Vitro Techniques	MeSH	1.0
+SH2D3C	Power (Psychology)	MeSH	1.0
+SH2D3C	Transfer (Psychology)	MeSH	1.0
+SH2D3C	Genetic Predisposition to Disease	MeSH	1.0
+SH2D3C	Developing Countries	MeSH	1.0
+SH2D3C	France	MeSH	1.0
+SH2D3C	Intensive Care Units	MeSH	1.0
+SH2D3C	Molecular Structure	MeSH	1.0
+SH2D3C	Ecosystem	MeSH	1.0
+SH2D3C	Extremities	MeSH	1.0
+SH2D3C	Lymphocytes	MeSH	1.0
+SH2D3C	Affect	MeSH	1.0
+SH2D3C	Haplotypes	MeSH	1.0
+SH2D3C	Longevity	MeSH	1.0
+SH2D3C	Age Groups	MeSH	1.0
+SH2D3C	Transcriptional Activation	MeSH	1.0
+SH2D3C	Gene Expression Regulation, Neoplastic	MeSH	1.0
+SH2D3C	Adaptation, Physiological	MeSH	1.0
+SH2D3C	Administration, Oral	MeSH	1.0
+SH2D3C	Diffusion	MeSH	1.0
+SH2D3C	England	MeSH	1.0
+SH2D3C	Fees and Charges	MeSH	1.0
+SH2D3C	Fruit	MeSH	1.0
+SH2D3C	Guinea Pigs	MeSH	1.0
+SH2D3C	Hot Temperature	MeSH	1.0
+SH2D3C	Hospitalization	MeSH	1.0
+SH2D3C	Immunoassay	MeSH	1.0
+SH2D3C	Industry	MeSH	1.0
+SH2D3C	Rest	MeSH	1.0
+SH2D3C	Blotting, Northern	MeSH	1.0
+SH2D3C	Statistics, Nonparametric	MeSH	1.0
+SH2D3C	Saccharomyces cerevisiae	MeSH	1.0
+SH2D3C	Gastrointestinal Tract	MeSH	1.0
+SH2D3C	Necrosis	MeSH	1.0
+SH2D3C	Dataset	MeSH	1.0
+SH2D3C	Sugars	MeSH	1.0
+SH2D3C	Awareness	MeSH	1.0
+SH2D3C	Biochemistry	MeSH	1.0
+SH2D3C	Biological Phenomena	MeSH	1.0
+SH2D3C	Biological Transport, Active	MeSH	1.0
+SH2D3C	Breast Feeding	MeSH	1.0
+SH2D3C	Breeding	MeSH	1.0
+SH2D3C	Catalysis	MeSH	1.0
+SH2D3C	Character	MeSH	1.0
+SH2D3C	Comparative Study	MeSH	1.0
+SH2D3C	Cricetulus	MeSH	1.0
+SH2D3C	Cell Biology	MeSH	1.0
+SH2D3C	Cytomegalovirus	MeSH	1.0
+SH2D3C	Dependency (Psychology)	MeSH	1.0
+SH2D3C	Drug Resistance	MeSH	1.0
+SH2D3C	Drug Resistance, Microbial	MeSH	1.0
+SH2D3C	Energy Metabolism	MeSH	1.0
+SH2D3C	Host-Parasite Interactions	MeSH	1.0
+SH2D3C	Immunity, Cellular	MeSH	1.0
+SH2D3C	Memory, Short-Term	MeSH	1.0
+SH2D3C	Primates	MeSH	1.0
+SH2D3C	Polymorphism, Restriction Fragment Length	MeSH	1.0
+SH2D3C	Retroviridae	MeSH	1.0
+SH2D3C	Reward	MeSH	1.0
+SH2D3C	Tobacco	MeSH	1.0
+SH2D3C	Linkage Disequilibrium	MeSH	1.0
+SH2D3C	Gene Expression Regulation, Enzymologic	MeSH	1.0
+SH2D3C	Simplexvirus	MeSH	1.0
+SH2D3C	Gene Expression Regulation, Plant	MeSH	1.0
+SH2D3C	Gene Expression Regulation, Developmental	MeSH	1.0
+SH2D3C	Heat-Shock Response	MeSH	1.0
+SH2D3C	Cell Lineage	MeSH	1.0
+SH2D3C	Inhibitory Concentration 50	MeSH	1.0
+SH2D3C	Manuscript	MeSH	1.0
+SH2D3C	MAP Kinase Signaling System	MeSH	1.0
+SH2D3C	Embryonic Development	MeSH	1.0
+SH2D3C	Growth and Development	MeSH	1.0
+SH2D3C	History, 21st Century	MeSH	1.0
+SH2D3C	Gene Regulatory Networks	MeSH	1.0
+SH2D3C	Acceleration	MeSH	1.0
+SH2D3C	Agriculture	MeSH	1.0
+SH2D3C	Appointments and Schedules	MeSH	1.0
+SH2D3C	Biotechnology	MeSH	1.0
+SH2D3C	Canada	MeSH	1.0
+SH2D3C	Chemistry, Pharmaceutical	MeSH	1.0
+SH2D3C	Cold Temperature	MeSH	1.0
+SH2D3C	Cross Reactions	MeSH	1.0
+SH2D3C	Discrimination (Psychology)	MeSH	1.0
+SH2D3C	Dissection	MeSH	1.0
+SH2D3C	Eggs	MeSH	1.0
+SH2D3C	Emergency Service, Hospital	MeSH	1.0
+SH2D3C	Engineering	MeSH	1.0
+SH2D3C	Environmental Monitoring	MeSH	1.0
+SH2D3C	Ethnic Groups	MeSH	1.0
+SH2D3C	Family Health	MeSH	1.0
+SH2D3C	Fathers	MeSH	1.0
+SH2D3C	Finland	MeSH	1.0
+SH2D3C	Florida	MeSH	1.0
+SH2D3C	Foundations	MeSH	1.0
+SH2D3C	Genes, Regulator	MeSH	1.0
+SH2D3C	Geography	MeSH	1.0
+SH2D3C	Germany	MeSH	1.0
+SH2D3C	Hygiene	MeSH	1.0
+SH2D3C	Leukocyte Count	MeSH	1.0
+SH2D3C	Genetic Linkage	MeSH	1.0
+SH2D3C	Macaca	MeSH	1.0
+SH2D3C	Mexico	MeSH	1.0
+SH2D3C	Mice, Transgenic	MeSH	1.0
+SH2D3C	Military Personnel	MeSH	1.0
+SH2D3C	Mining	MeSH	1.0
+SH2D3C	Molecular Conformation	MeSH	1.0
+SH2D3C	New York	MeSH	1.0
+SH2D3C	New Zealand	MeSH	1.0
+SH2D3C	Terminology as Topic	MeSH	1.0
+SH2D3C	North America	MeSH	1.0
+SH2D3C	Nucleic Acid Hybridization	MeSH	1.0
+SH2D3C	Occupations	MeSH	1.0
+SH2D3C	Organ Size	MeSH	1.0
+SH2D3C	Pennsylvania	MeSH	1.0
+SH2D3C	Photochemistry	MeSH	1.0
+SH2D3C	Physiology	MeSH	1.0
+SH2D3C	Population Dynamics	MeSH	1.0
+SH2D3C	Publishing	MeSH	1.0
+SH2D3C	Ventilators, Mechanical	MeSH	1.0
+SH2D3C	Seawater	MeSH	1.0
+SH2D3C	Solubility	MeSH	1.0
+SH2D3C	Sweden	MeSH	1.0
+SH2D3C	Switzerland	MeSH	1.0
+SH2D3C	Taiwan	MeSH	1.0
+SH2D3C	Telephone	MeSH	1.0
+SH2D3C	Texas	MeSH	1.0
+SH2D3C	Thermodynamics	MeSH	1.0
+SH2D3C	Tissue Distribution	MeSH	1.0
+SH2D3C	Travel	MeSH	1.0
+SH2D3C	Ultraviolet Rays	MeSH	1.0
+SH2D3C	Ventilation	MeSH	1.0
+SH2D3C	Waste Disposal, Fluid	MeSH	1.0
+SH2D3C	Wills	MeSH	1.0
+SH2D3C	Xenopus	MeSH	1.0
+SH2D3C	Xenopus laevis	MeSH	1.0
+SH2D3C	Blotting, Southern	MeSH	1.0
+SH2D3C	Databases, Factual	MeSH	1.0
+SH2D3C	Negotiating	MeSH	1.0
+SH2D3C	Africa South of the Sahara	MeSH	1.0
+SH2D3C	Hematopoietic Stem Cell Transplantation	MeSH	1.0
+SH2D3C	Water Purification	MeSH	1.0
+SH2D3C	Electrophoresis, Capillary	MeSH	1.0
+SH2D3C	Databases, Genetic	MeSH	1.0
+SH2D3C	Animals, Genetically Modified	MeSH	1.0
+SH2D3C	Immunity, Humoral	MeSH	1.0
+SH2D3C	Art	MeSH	1.0
+SH2D3C	Nervous System	MeSH	1.0
+SH2D3C	Plant Leaves	MeSH	1.0
+SH2D3C	Seedlings	MeSH	1.0
+SH2D3C	Polymerization	MeSH	1.0
+SH2D3C	Axons	MeSH	1.0
+SH2D3C	Hippocampus	MeSH	1.0
+SH2D3C	Immune Tolerance	MeSH	1.0
+SH2D3C	Killer Cells, Natural	MeSH	1.0
+SH2D3C	Hepatocytes	MeSH	1.0
+SH2D3C	Bays	MeSH	1.0
+SH2D3C	Meals	MeSH	1.0
+SH2D3C	Percutaneous Coronary Intervention	MeSH	1.0
+SH2D3C	Tertiary Healthcare	MeSH	1.0
+SH2D3C	Heterografts	MeSH	1.0
+SH2D3C	Pilots	MeSH	1.0
+SH2D3C	Smokers	MeSH	1.0
+SH2D3C	Density Functional Theory	MeSH	1.0
+SH2D3C	ling mao xiang	Traditional chinese medicine	0.00315
+SH2D3C	hou tou jun	Traditional chinese medicine	0.00502

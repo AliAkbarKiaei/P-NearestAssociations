@@ -1,0 +1,3479 @@
+Selection	Association Name	Association Type	Significance
+BCAR3	Phylogenetic analysis	Procedure	1.89E-4
+BCAR3	Reverse genetics	Procedure	2.21E-4
+BCAR3	Total protein measurement	Procedure	4.73E-4
+BCAR3	Sequence alignment	Procedure	5.19E-4
+BCAR3	Serial passage	Procedure	5.68E-4
+BCAR3	Sequence analysis	Procedure	5.86E-4
+BCAR3	Amino acid substitution	Procedure	7.17E-4
+BCAR3	Yeast two hybrid interaction screening	Procedure	8.05E-4
+BCAR3	Genome sequencing	Procedure	0.00116
+BCAR3	Viral plaque assay	Procedure	0.00176
+BCAR3	Reverse transcriptase polymerase chain reaction	Procedure	0.0018
+BCAR3	Immunoprecipitation	Procedure	0.00257
+BCAR3	Genetic annotation initiative	Procedure	0.00272
+BCAR3	Analysis	Procedure	0.00273
+BCAR3	Immunofluorescence assay	Procedure	0.00322
+BCAR3	Sequence insertion	Procedure	0.00323
+BCAR3	Radioimmunoprecipitation assay	Procedure	0.00325
+BCAR3	Mutagenesis	Procedure	0.00332
+BCAR3	Indirect fluorescence antibody test	Procedure	0.00341
+BCAR3	Passage tissue culture technique	Procedure	0.0035
+BCAR3	Transfection	Procedure	0.00375
+BCAR3	Cell culture techniques	Procedure	0.00394
+BCAR3	Inoculation	Procedure	0.00438
+BCAR3	Genetic complementation test	Procedure	0.00464
+BCAR3	Fluorescent antibody technique	Procedure	0.00484
+BCAR3	Deletion mutagenesis	Procedure	0.00503
+BCAR3	Vaccine development	Procedure	0.0055
+BCAR3	Artificial gene fusion	Procedure	0.00563
+BCAR3	Protein interaction mapping	Procedure	0.00601
+BCAR3	High-throughput nucleotide sequencing	Procedure	0.00647
+BCAR3	Scientific study	Procedure	0.00665
+BCAR3	Study	Procedure	0.00665
+BCAR3	DICOM study	Procedure	0.00665
+BCAR3	Co-immunoprecipitation	Procedure	0.0068
+BCAR3	Clinical research	Procedure	0.00682
+BCAR3	Pyrosequencing	Procedure	0.00689
+BCAR3	Genotype determination	Procedure	0.00691
+BCAR3	Homology modeling	Procedure	0.0072
+BCAR3	Genotyping techniques	Procedure	0.00724
+BCAR3	Plaque assay	Procedure	0.00724
+BCAR3	Comparative analysis	Procedure	0.00759
+BCAR3	Clinical trials	Procedure	0.00769
+BCAR3	Assay	Procedure	0.00782
+BCAR3	Genetic analysis	Procedure	0.00814
+BCAR3	Routine immunization	Procedure	0.00834
+BCAR3	Biological assay	Procedure	0.00911
+BCAR3	Immunoelectron microscopy	Procedure	0.0094
+BCAR3	Deep sequencing	Procedure	0.00949
+BCAR3	Indirect immunofluorescence	Procedure	0.00978
+BCAR3	Vaccine design	Procedure	0.0101
+BCAR3	DNA mutational analysis	Procedure	0.0107
+BCAR3	Doxorubicin/etoposide/vinblastine protocol	Procedure	0.011
+BCAR3	Two-hybrid system techniques	Procedure	0.0116
+BCAR3	Neutralization tests	Procedure	0.0117
+BCAR3	Surveillance program	Procedure	0.0127
+BCAR3	Epitope mapping	Procedure	0.0128
+BCAR3	Multi-angle laser light scattering	Procedure	0.0128
+BCAR3	Yeast one/two-hybrid system	Procedure	0.013
+BCAR3	High-throughput screening assays	Procedure	0.0133
+BCAR3	Enzyme-linked immunosorbent assay	Procedure	0.0138
+BCAR3	Neutralization actcode	Procedure	0.0143
+BCAR3	Genetic screening method	Procedure	0.0146
+BCAR3	Immunofluorescence microscopy	Procedure	0.0164
+BCAR3	Insertional mutagenesis	Procedure	0.0164
+BCAR3	Polyacrylamide gel electrophoresis	Procedure	0.0169
+BCAR3	Positive selection	Procedure	0.0171
+BCAR3	Real-time polymerase chain reaction	Procedure	0.0176
+BCAR3	Protein array analysis	Procedure	0.0181
+BCAR3	Phage display	Procedure	0.0188
+BCAR3	Induction procedure	Procedure	0.0189
+BCAR3	Antiviral therapy	Procedure	0.0189
+BCAR3	Western blot	Procedure	0.0204
+BCAR3	Doxorubicin/etoposide/vincristine protocol	Procedure	0.0206
+BCAR3	Polymerase chain reaction	Procedure	0.0208
+BCAR3	Virus cultivation	Procedure	0.0233
+BCAR3	Cell culture system	Procedure	0.024
+BCAR3	Length of trial	Procedure	0.0242
+BCAR3	Vaccination	Procedure	0.0244
+BCAR3	Serologic diagnosis	Procedure	0.0278
+BCAR3	Yeast two-hybrid system techniques	Procedure	0.0279
+BCAR3	Biolistics	Procedure	0.0296
+BCAR3	Secondary immunization	Procedure	0.0297
+BCAR3	Immunoblotting	Procedure	0.0299
+BCAR3	Confocal microscopy	Procedure	0.0302
+BCAR3	Precipitin tests	Procedure	0.0307
+BCAR3	Negative selection	Procedure	0.0307
+BCAR3	Serodiagnosis	Procedure	0.033
+BCAR3	Drug discovery	Procedure	0.0333
+BCAR3	Doxorubicin/semustine/streptozocin protocol	Procedure	0.0348
+BCAR3	Administration procedure	Procedure	0.0354
+BCAR3	Treatment study	Procedure	0.0354
+BCAR3	Therapeutic procedure	Procedure	0.0362
+BCAR3	Gene amplification technique	Procedure	0.0364
+BCAR3	Nucleic acid amplification techniques	Procedure	0.0365
+BCAR3	Indirect fluorescent antibody technique	Procedure	0.0389
+BCAR3	Western blotting	Procedure	0.0391
+BCAR3	Electroporation	Procedure	0.0429
+BCAR3	Preclinical drug evaluation	Procedure	0.0431
+BCAR3	Immunoglobulin A measurement	Procedure	0.047
+BCAR3	Reg upon act normal T-cell exprd secrtd measurement	Procedure	0.0483
+BCAR3	Detection	Procedure	0.0489
+BCAR3	Surgical and medical procedures	Procedure	0.0527
+BCAR3	Microdissection	Procedure	0.0536
+BCAR3	Cisplatin/cyclophosphamide/doxorubicin protocol	Procedure	0.0583
+BCAR3	Asparaginase/ifosfamide/methotrexate	Procedure	0.0597
+BCAR3	Neutralising antibodies analysis	Procedure	0.0601
+BCAR3	Mass spectrometry	Procedure	0.0617
+BCAR3	Protein purification	Procedure	0.0617
+BCAR3	Central minus	Procedure	0.0624
+BCAR3	Rapid diagnosis	Procedure	0.0629
+BCAR3	Density gradient centrifugation	Procedure	0.0641
+BCAR3	Cryoelectron microscopy	Procedure	0.0649
+BCAR3	Electron microscope tomography	Procedure	0.0653
+BCAR3	Fluorescence resonance energy transfer	Procedure	0.0672
+BCAR3	Multilocus sequence typing	Procedure	0.0695
+BCAR3	Northern hybridization	Procedure	0.0702
+BCAR3	Diagnosis study	Procedure	0.0709
+BCAR3	The science and art of healing	Procedure	0.0719
+BCAR3	Molecular typing	Procedure	0.0732
+BCAR3	Drug repositioning	Procedure	0.0736
+BCAR3	Rapid antigen test	Procedure	0.0737
+BCAR3	Gene expression profiling	Procedure	0.074
+BCAR3	Two-dimensional polyacrylamide gel electrophoresis	Procedure	0.0744
+BCAR3	Genetic engineering	Procedure	0.0747
+BCAR3	Comparative genomic analysis	Procedure	0.0764
+BCAR3	Affinity chromatography	Procedure	0.0793
+BCAR3	Positional cloning	Procedure	0.0813
+BCAR3	Analytical ultracentrifugation	Procedure	0.0834
+BCAR3	Retrospective studies	Procedure	0.0852
+BCAR3	Mediation analysis	Procedure	0.0859
+BCAR3	Macrophage-derived chemokine measurement	Procedure	0.0875
+BCAR3	Representational difference analysis	Procedure	0.0882
+BCAR3	Candidate gene identification	Procedure	0.0885
+BCAR3	Serologic tests	Procedure	0.0897
+BCAR3	Protein dynamics	Procedure	0.0903
+BCAR3	Microscopy	Procedure	0.0914
+BCAR3	Volume measurement	Procedure	0.0916
+BCAR3	Epidermal growth factor measurement	Procedure	0.0939
+BCAR3	Protein sequence analysis	Procedure	0.0946
+BCAR3	Laboratory procedures	Procedure	0.095
+BCAR3	High throughput screening	Procedure	0.0979
+BCAR3	Interventional procedure	Procedure	0.099
+BCAR3	Chromosome mapping	Procedure	0.104
+BCAR3	Oligonucleotide array sequence analysis	Procedure	0.104
+BCAR3	Ifosfamide/methotrexate/procarbazine protocol	Procedure	0.104
+BCAR3	High resolution	Procedure	0.105
+BCAR3	Restriction mapping	Procedure	0.106
+BCAR3	X-ray computed tomography	Procedure	0.114
+BCAR3	Biopsy	Procedure	0.117
+BCAR3	Electrophoretic mobility shift assay	Procedure	0.118
+BCAR3	Immortalization	Procedure	0.118
+BCAR3	Albumin/globulin ratio	Procedure	0.119
+BCAR3	Gene knockdown techniques	Procedure	0.121
+BCAR3	Immunization	Procedure	0.122
+BCAR3	Protein sequence determination	Procedure	0.122
+BCAR3	Cloning	Procedure	0.125
+BCAR3	Ultracentrifugation	Procedure	0.125
+BCAR3	Peptide mapping	Procedure	0.126
+BCAR3	DNA chemical synthesis	Procedure	0.127
+BCAR3	Pharmacotherapy	Procedure	0.131
+BCAR3	Clinical trial period	Procedure	0.137
+BCAR3	Enzyme assays	Procedure	0.137
+BCAR3	Molecular modeling	Procedure	0.137
+BCAR3	Auto	Procedure	0.14
+BCAR3	General (procedure) toxicology screen	Procedure	0.142
+BCAR3	IPA liver cancer regimen	Procedure	0.144
+BCAR3	Crystal present or absent (lab procedure)	Procedure	0.145
+BCAR3	Endothelin-1 measurement	Procedure	0.146
+BCAR3	Gene transfer techniques	Procedure	0.147
+BCAR3	Mass vaccination	Procedure	0.147
+BCAR3	Glucose measurement	Procedure	0.148
+BCAR3	Safety study	Procedure	0.159
+BCAR3	Subcellular fractionation	Procedure	0.16
+BCAR3	Osteoprotegerin test	Procedure	0.162
+BCAR3	Cyclophosphamide/doxorubicin/prednisone protocol	Procedure	0.165
+BCAR3	Genetic screening	Procedure	0.165
+BCAR3	Pathology procedure	Procedure	0.165
+BCAR3	Excision	Procedure	0.166
+BCAR3	Cell fusion procedure	Procedure	0.168
+BCAR3	Lipoprotein measurement	Procedure	0.17
+BCAR3	Cyclophosphamide/methotrexate/vincristine protocol	Procedure	0.171
+BCAR3	Cyclophosphamide/semustine/vincristine protocol	Procedure	0.171
+BCAR3	Two-dimensional electrophoresis	Procedure	0.172
+BCAR3	Homologous recombination	Procedure	0.175
+BCAR3	Tumor biology	Procedure	0.175
+BCAR3	Modeling	Procedure	0.18
+BCAR3	Gel mobility shift assay	Procedure	0.201
+BCAR3	Silver stain method	Procedure	0.202
+BCAR3	Cell fractionation	Procedure	0.203
+BCAR3	Enzyme-linked immunospot assay	Procedure	0.203
+BCAR3	Plasma glucose measurement	Procedure	0.204
+BCAR3	Protein engineering	Procedure	0.207
+BCAR3	Genome-wide association study	Procedure	0.215
+BCAR3	Injection of therapeutic agent	Procedure	0.216
+BCAR3	Efficacy study	Procedure	0.217
+BCAR3	Pre-clinical trial	Procedure	0.219
+BCAR3	Population surveillance	Procedure	0.219
+BCAR3	Genetic manipulation	Procedure	0.221
+BCAR3	Disease screening	Procedure	0.225
+BCAR3	Screening for cancer	Procedure	0.226
+BCAR3	Genetic research	Procedure	0.229
+BCAR3	Derivation procedure	Procedure	0.231
+BCAR3	Cisplatin/doxorubicin/mitomycin protocol	Procedure	0.24
+BCAR3	Disorder control	Procedure	0.24
+BCAR3	Microsatellite instability diagnostic test	Procedure	0.24
+BCAR3	Epidemiologic studies	Procedure	0.244
+BCAR3	Research project grants	Procedure	0.248
+BCAR3	Fasting blood sugar measurement	Procedure	0.254
+BCAR3	Research study	Procedure	0.258
+BCAR3	Imaging techniques	Procedure	0.26
+BCAR3	Sodium measurement	Procedure	0.26
+BCAR3	Sedimentation procedure	Procedure	0.263
+BCAR3	Body mass index procedure	Procedure	0.268
+BCAR3	Insulin treatment	Procedure	0.27
+BCAR3	Primer extension	Procedure	0.271
+BCAR3	Observation in research	Procedure	0.279
+BCAR3	Cyclophosphamide/etoposide/methotrexate protocol	Procedure	0.281
+BCAR3	Agar gel electrophoresis	Procedure	0.282
+BCAR3	Gene therapy	Procedure	0.285
+BCAR3	Enzyme immunoassay	Procedure	0.285
+BCAR3	Bacterial count measurement	Procedure	0.288
+BCAR3	Weighing patient	Procedure	0.289
+BCAR3	Observation method cytotoxicity	Procedure	0.289
+BCAR3	Observation diagnostic procedure	Procedure	0.294
+BCAR3	Animal experimentation	Procedure	0.294
+BCAR3	Therapeutic intervention	Procedure	0.295
+BCAR3	Research	Procedure	0.298
+BCAR3	Sds-page	Procedure	0.298
+BCAR3	Research design	Procedure	0.299
+BCAR3	Extraction	Procedure	0.3
+BCAR3	Microarray analysis	Procedure	0.301
+BCAR3	Chemical extraction	Procedure	0.301
+BCAR3	Molecular analysis	Procedure	0.307
+BCAR3	Discussion	Procedure	0.31
+BCAR3	Spectrum analysis	Procedure	0.314
+BCAR3	Culture of specimen from other site	Procedure	0.318
+BCAR3	Culture of specimen from unspecified site	Procedure	0.318
+BCAR3	Laboratory culture	Procedure	0.318
+BCAR3	Dideoxy chain termination DNA sequencing	Procedure	0.325
+BCAR3	Diagnostic tests	Procedure	0.328
+BCAR3	CHOP regimen	Procedure	0.328
+BCAR3	CHOP protocol-cyclophosphamide/doxorubicin/prednisone/vincristine	Procedure	0.33
+BCAR3	Determination aspects	Procedure	0.333
+BCAR3	High sensitivity	Procedure	0.335
+BCAR3	Radiotherapy fractionation	Procedure	0.339
+BCAR3	Induced abortion	Procedure	0.34
+BCAR3	Northern blotting	Procedure	0.342
+BCAR3	Microbiology procedure	Procedure	0.345
+BCAR3	Incubation laboratory procedure	Procedure	0.351
+BCAR3	Repositioning	Procedure	0.353
+BCAR3	Nested polymerase chain reaction	Procedure	0.354
+BCAR3	Logistic regression	Procedure	0.354
+BCAR3	Microinjections	Procedure	0.358
+BCAR3	Data transformation	Procedure	0.362
+BCAR3	Placebo control	Procedure	0.378
+BCAR3	Research and development	Procedure	0.384
+BCAR3	Serotyping	Procedure	0.393
+BCAR3	Cisplatin/methotrexate/vinblastine protocol	Procedure	0.399
+BCAR3	Sex determination analysis	Procedure	0.405
+BCAR3	Interferometry	Procedure	0.415
+BCAR3	Mass screening	Procedure	0.428
+BCAR3	Yeast cell measurement	Procedure	0.428
+BCAR3	Oxidative stress analysis	Procedure	0.428
+BCAR3	Electrophoresis, gel, two-dimensional	Procedure	0.434
+BCAR3	Booster	Procedure	0.438
+BCAR3	Lymphocyte count measurement	Procedure	0.449
+BCAR3	Adjuvant therapy	Procedure	0.473
+BCAR3	Chemical fractionation	Procedure	0.486
+BCAR3	Dose fractionation	Procedure	0.49
+BCAR3	Carmustine/methotrexate/procarbazine protocol	Procedure	0.494
+BCAR3	Circular dichroism	Procedure	0.502
+BCAR3	Research activities	Procedure	0.509
+BCAR3	Scanning transmission electron microscopy procedures	Procedure	0.522
+BCAR3	Systemic therapy	Procedure	0.522
+BCAR3	Renal dialysis	Procedure	0.523
+BCAR3	Evaluation studies as topic	Procedure	0.524
+BCAR3	Isolation aspects	Procedure	0.525
+BCAR3	Chemical procedure	Procedure	0.529
+BCAR3	Isolation procedure	Procedure	0.538
+BCAR3	Immunization schedule	Procedure	0.552
+BCAR3	Cyclophosphamide/doxorubicin/vincristine protocol	Procedure	0.569
+BCAR3	Clinical treatment	Procedure	0.575
+BCAR3	Myoglobin measurement	Procedure	0.588
+BCAR3	Cell count	Procedure	0.592
+BCAR3	Genetic linkage analysis	Procedure	0.599
+BCAR3	Prevention of disorder	Procedure	0.605
+BCAR3	Lipids measurement	Procedure	0.62
+BCAR3	Pellet formation	Procedure	0.623
+BCAR3	Primary cell culture	Procedure	0.631
+BCAR3	Asparaginase/prednisone/vincristine protocol	Procedure	0.654
+BCAR3	Phencyclidine measurement	Procedure	0.68
+BCAR3	Gene expression analysis	Procedure	0.685
+BCAR3	Red blood cell count measurement	Procedure	0.698
+BCAR3	Early diagnosis	Procedure	0.717
+BCAR3	Genetic techniques	Procedure	0.72
+BCAR3	Animal experiments	Procedure	0.725
+BCAR3	Genetic association studies	Procedure	0.731
+BCAR3	Survival analysis	Procedure	0.734
+BCAR3	Adsorption	Procedure	0.739
+BCAR3	Cell hybridization	Procedure	0.759
+BCAR3	Chlorambucil/dactinomycin/methotrexate protocol	Procedure	0.774
+BCAR3	Profile (lab procedure)	Procedure	0.777
+BCAR3	Nucleic acid hybridization procedure	Procedure	0.788
+BCAR3	Cholecystokinin measurement	Procedure	0.811
+BCAR3	Genetic marker expression	Procedure	0.818
+BCAR3	Infiltration	Procedure	0.826
+BCAR3	Protocol treatment arm	Procedure	0.842
+BCAR3	Insulin measurement	Procedure	0.85
+BCAR3	Electron microscopy	Procedure	0.857
+BCAR3	Gene delivery process	Procedure	0.894
+BCAR3	X-ray diffraction	Procedure	0.898
+BCAR3	Cytogenetic analysis	Procedure	0.916
+BCAR3	Differential diagnosis	Procedure	0.921
+BCAR3	Histology procedure	Procedure	0.921
+BCAR3	Oscillations	Procedure	0.933
+BCAR3	Multiplex polymerase chain reaction	Procedure	0.936
+BCAR3	Cyclophosphamide/prednisone/vincristine/zorubicin protocol	Procedure	0.937
+BCAR3	Electrophysiology studies	Procedure	0.955
+BCAR3	Patient selection	Procedure	0.968
+BCAR3	Immunohistochemistry	Procedure	0.969
+BCAR3	White blood cell count procedure	Procedure	0.97
+BCAR3	Fluorescence-activated cell sorting	Procedure	0.971
+BCAR3	Laser-induced fluorescence endoscopy	Procedure	1.0
+BCAR3	Release	Procedure	1.0
+BCAR3	Prevention study	Procedure	1.0
+BCAR3	Staining and labeling	Procedure	1.0
+BCAR3	Staining method	Procedure	1.0
+BCAR3	Calcium measurement	Procedure	1.0
+BCAR3	Validation	Procedure	1.0
+BCAR3	Electrophoresis	Procedure	1.0
+BCAR3	Phosphate measurement	Procedure	1.0
+BCAR3	Squamous transitional epithelial cell count	Procedure	1.0
+BCAR3	Epithelial cell count	Procedure	1.0
+BCAR3	DNA probe method	Procedure	1.0
+BCAR3	Monitoring clinical trials	Procedure	1.0
+BCAR3	Iontophoresis	Procedure	1.0
+BCAR3	Microbial sensitivity tests	Procedure	1.0
+BCAR3	Simulation	Procedure	1.0
+BCAR3	Tissue dissection	Procedure	1.0
+BCAR3	Tumor necrosis factor measurement	Procedure	1.0
+BCAR3	Zinc measurement	Procedure	1.0
+BCAR3	Flow cytometry	Procedure	1.0
+BCAR3	Protein digestion (research activity)	Procedure	1.0
+BCAR3	Chromatography	Procedure	1.0
+BCAR3	Observation method algorithm	Procedure	1.0
+BCAR3	Positioning therapy	Procedure	1.0
+BCAR3	Tandem mass spectrometry	Procedure	1.0
+BCAR3	Fluorescent in situ hybridization	Procedure	1.0
+BCAR3	Immunoglobulin measurement	Procedure	1.0
+BCAR3	Statistical cluster	Procedure	1.0
+BCAR3	Nutritional study	Procedure	1.0
+BCAR3	Gel electrophoresis (lab technique)	Procedure	1.0
+BCAR3	Sample fixation	Procedure	1.0
+BCAR3	Immunoenzyme techniques	Procedure	1.0
+BCAR3	Dialysis procedure	Procedure	1.0
+BCAR3	Mammaplasty	Procedure	1.0
+BCAR3	Chlorodihydroxypyridine/potassium oxonate/tegafur	Procedure	1.0
+BCAR3	Adjuvant chemotherapy	Procedure	1.0
+BCAR3	Immersion investigative technique	Procedure	1.0
+BCAR3	Cyclophosphamide/doxorubicin/tamoxifen protocol	Procedure	1.0
+BCAR3	Immunotherapy	Procedure	1.0
+BCAR3	Therapeutic immunosuppression	Procedure	1.0
+BCAR3	AID artificial insemination by donor	Procedure	1.0
+BCAR3	Dacarbazine/doxorubicin/ifosfamide protocol	Procedure	1.0
+BCAR3	Patient-controlled analgesia	Procedure	1.0
+BCAR3	Cytarabine/thioguanine	Procedure	1.0
+BCAR3	Assisted reproductive technologies	Procedure	1.0
+BCAR3	Demand	Procedure	1.0
+BCAR3	Visual analog pain scale	Procedure	1.0
+BCAR3	DNA sequence determinations	Procedure	1.0
+BCAR3	In situ nick-end labeling	Procedure	1.0
+BCAR3	Bone mineral density test	Procedure	1.0
+BCAR3	Diagnostic procedure	Procedure	1.0
+BCAR3	Immunomodulation	Procedure	1.0
+BCAR3	Antiretroviral therapy	Procedure	1.0
+BCAR3	Molecular cloning	Procedure	1.0
+BCAR3	Surface plasmon resonance	Procedure	1.0
+BCAR3	Gene transfer	Procedure	1.0
+BCAR3	In situ hybridization	Procedure	1.0
+BCAR3	Scanning	Procedure	1.0
+BCAR3	Experimental design	Procedure	1.0
+BCAR3	Verification of theories	Procedure	1.0
+BCAR3	Vitamin D measurement	Procedure	1.0
+BCAR3	Fecal immunochemical test	Procedure	1.0
+BCAR3	Colorimetric cell viability assay	Procedure	1.0
+BCAR3	Fluorescence microscopy	Procedure	1.0
+BCAR3	Passive cutaneous anaphylaxis	Procedure	1.0
+BCAR3	Photon correlation spectroscopy	Procedure	1.0
+BCAR3	Spectrometry, mass, matrix-assisted laser desorption-ionization	Procedure	1.0
+BCAR3	Electron spin resonance spectroscopy	Procedure	1.0
+BCAR3	Organ culture techniques	Procedure	1.0
+BCAR3	Erythrocyte sedimentation rate measurement	Procedure	1.0
+BCAR3	Magnesium measurement	Procedure	1.0
+BCAR3	Progesterone measurement	Procedure	1.0
+BCAR3	Densitometry	Procedure	1.0
+BCAR3	Vascular endothelial growth factor measurement	Procedure	1.0
+BCAR3	Glutamate measurement	Procedure	1.0
+BCAR3	Glutathione S-transferase measurement	Procedure	1.0
+BCAR3	Comparative study research	Procedure	1.0
+BCAR3	CD8 expressing T cell count	Procedure	1.0
+BCAR3	Lactic acid measurement	Procedure	1.0
+BCAR3	Immunoglobulin G measurement	Procedure	1.0
+BCAR3	Brain-derived neurotrophic factor measurement	Procedure	1.0
+BCAR3	Tissue culture techniques	Procedure	1.0
+BCAR3	Gel chromatography	Procedure	1.0
+BCAR3	Monocyte count procedure	Procedure	1.0
+BCAR3	Spectrometry	Procedure	1.0
+BCAR3	Alkaline phosphatase measurement	Procedure	1.0
+BCAR3	Capillary electrophoresis	Procedure	1.0
+BCAR3	Autoradiography	Procedure	1.0
+BCAR3	Calorimetry	Procedure	1.0
+BCAR3	International normalized ratio	Procedure	1.0
+BCAR3	Seroepidemiologic studies	Procedure	1.0
+BCAR3	Centrifugation	Procedure	1.0
+BCAR3	Culture techniques	Procedure	1.0
+BCAR3	Transmission electron microscopy	Procedure	1.0
+BCAR3	Isotope labeling	Procedure	1.0
+BCAR3	Paradigm	Procedure	1.0
+BCAR3	Immunologic techniques	Procedure	1.0
+BCAR3	Statistical analysis	Procedure	1.0
+BCAR3	Patch-clamp techniques	Procedure	1.0
+BCAR3	Porcine Reproductive and Respiratory Syndrome	Disease	2.11E-6
+BCAR3	Rotavirus Infections	Disease	1.73E-5
+BCAR3	Venezuelan equine encephalomyelitis	Disease	3.24E-5
+BCAR3	Alphavirus Infections	Disease	3.99E-5
+BCAR3	Arterivirus Infections	Disease	1.3E-4
+BCAR3	Sprains and Strains	Disease	2.06E-4
+BCAR3	Gastroenteritis	Disease	2.17E-4
+BCAR3	Swine Diseases	Disease	6.65E-4
+BCAR3	Arteritis	Disease	6.76E-4
+BCAR3	Infection	Disease	7.07E-4
+BCAR3	Severe Acute Respiratory Syndrome	Disease	9.45E-4
+BCAR3	Encephalomyelitis, Western Equine	Disease	0.00105
+BCAR3	Encephalomyelitis, Eastern Equine	Disease	0.00114
+BCAR3	Viremia	Disease	0.00117
+BCAR3	Virus Diseases	Disease	0.00133
+BCAR3	Gastroenteritis, Transmissible, of Swine	Disease	0.0044
+BCAR3	Encephalomyelitis, Equine	Disease	0.00454
+BCAR3	Polyarthralgia	Disease	0.0049
+BCAR3	Coronavirus Infections	Disease	0.00529
+BCAR3	Fever	Disease	0.00547
+BCAR3	Horse Diseases	Disease	0.00706
+BCAR3	Vaccinia	Disease	0.00739
+BCAR3	Anaplasmataceae Infections	Disease	0.00781
+BCAR3	Goat Diseases	Disease	0.00851
+BCAR3	Malignant neoplasm of breast	Disease	0.00981
+BCAR3	Senile Plaques	Disease	0.0141
+BCAR3	Dental Plaque	Disease	0.0141
+BCAR3	Cattle Diseases	Disease	0.0156
+BCAR3	Togaviridae Infections	Disease	0.0159
+BCAR3	Bluetongue	Disease	0.0171
+BCAR3	Classical Swine Fever	Disease	0.0183
+BCAR3	Fowlpox	Disease	0.0219
+BCAR3	Respiration Disorders	Disease	0.0259
+BCAR3	Cowpox	Disease	0.0278
+BCAR3	Viral Encephalitis	Disease	0.0301
+BCAR3	Encephalitis	Disease	0.0314
+BCAR3	RNA Virus Infections	Disease	0.0337
+BCAR3	Plasma Cell Neoplasm	Disease	0.0342
+BCAR3	Asymptomatic Infections	Disease	0.0391
+BCAR3	Bronchitis	Disease	0.0429
+BCAR3	Choline Deficiency	Disease	0.0432
+BCAR3	Bronchopneumonia	Disease	0.0445
+BCAR3	Yellow Fever	Disease	0.0448
+BCAR3	Exanthema	Disease	0.0459
+BCAR3	Communicable Diseases, Emerging	Disease	0.0468
+BCAR3	Chromosomal translocation	Disease	0.0474
+BCAR3	Coinfection	Disease	0.0555
+BCAR3	Hepatitis	Disease	0.0592
+BCAR3	Neoplasms	Disease	0.0626
+BCAR3	Syndrome	Disease	0.0647
+BCAR3	Genomic Instability	Disease	0.0747
+BCAR3	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	Disease	0.0754
+BCAR3	Plasmacytoma	Disease	0.0932
+BCAR3	Respiratory Tract Diseases	Disease	0.0992
+BCAR3	Arthritis	Disease	0.121
+BCAR3	Enteritis	Disease	0.133
+BCAR3	Fish Diseases	Disease	0.173
+BCAR3	Hemorrhage	Disease	0.178
+BCAR3	Hemorrhagic Fevers, Viral	Disease	0.179
+BCAR3	HIV Infections	Disease	0.179
+BCAR3	Mammary Neoplasms, Experimental	Disease	0.181
+BCAR3	Hepatitis C	Disease	0.185
+BCAR3	Neoplasms, Hormone-Dependent	Disease	0.193
+BCAR3	Dengue Fever	Disease	0.202
+BCAR3	Superinfection	Disease	0.203
+BCAR3	Multiple Myeloma	Disease	0.213
+BCAR3	Sheep Diseases	Disease	0.233
+BCAR3	Newcastle Disease	Disease	0.237
+BCAR3	Anus Neoplasms	Disease	0.241
+BCAR3	Vesicular Stomatitis	Disease	0.245
+BCAR3	Convalescence	Disease	0.271
+BCAR3	Chromosome Deletion	Disease	0.286
+BCAR3	Microsatellite Instability	Disease	0.288
+BCAR3	Foot-and-Mouth Disease	Disease	0.291
+BCAR3	Recurrence (disease attribute)	Disease	0.292
+BCAR3	Acute Disease	Disease	0.294
+BCAR3	Inflammation	Disease	0.295
+BCAR3	Zoonoses	Disease	0.298
+BCAR3	Encephalomyelitis	Disease	0.3
+BCAR3	Carcinoma	Disease	0.312
+BCAR3	Animal Disease Models	Disease	0.329
+BCAR3	Neoplasm Metastasis	Disease	0.336
+BCAR3	Animal Diseases	Disease	0.338
+BCAR3	Communicable Diseases	Disease	0.339
+BCAR3	Cell Transformation, Neoplastic	Disease	0.399
+BCAR3	Weight Gain	Disease	0.411
+BCAR3	Nematode infections	Disease	0.412
+BCAR3	Paraproteinemias	Disease	0.434
+BCAR3	leukemia	Disease	0.47
+BCAR3	Bites and Stings	Disease	0.485
+BCAR3	Adenocarcinoma	Disease	0.487
+BCAR3	Anorexia	Disease	0.5
+BCAR3	Polyploidy	Disease	0.501
+BCAR3	Traumatic Rupture	Disease	0.559
+BCAR3	Ear Diseases	Disease	0.571
+BCAR3	Septicemia	Disease	0.608
+BCAR3	Noninfiltrating Intraductal Carcinoma	Disease	0.654
+BCAR3	Pneumonia	Disease	0.663
+BCAR3	Arthritis, Infectious	Disease	0.677
+BCAR3	Colorectal Neoplasms	Disease	0.697
+BCAR3	melanoma	Disease	0.746
+BCAR3	Pericarditis	Disease	0.821
+BCAR3	Malignant neoplasm of ovary	Disease	0.838
+BCAR3	Rabies (disorder)	Disease	0.883
+BCAR3	Neoplasm Recurrence, Local	Disease	0.885
+BCAR3	Animal Mammary Neoplasms	Disease	0.909
+BCAR3	Burkitt Lymphoma	Disease	0.921
+BCAR3	Breast Diseases	Disease	0.96
+BCAR3	Lymphatic Diseases	Disease	0.969
+BCAR3	Disease	Disease	1.0
+BCAR3	Disease Progression	Disease	1.0
+BCAR3	Dissociative disorder	Disease	1.0
+BCAR3	Atrophic	Disease	1.0
+BCAR3	Neoplasm Invasiveness	Disease	1.0
+BCAR3	Shock	Disease	1.0
+BCAR3	Body Weight decreased	Disease	1.0
+BCAR3	Squamous cell carcinoma	Disease	1.0
+BCAR3	Cardiac Arrest	Disease	1.0
+BCAR3	Paralysed	Disease	1.0
+BCAR3	Major Depressive Disorder	Disease	1.0
+BCAR3	Amyloidosis	Disease	1.0
+BCAR3	Bacterial Infections	Disease	1.0
+BCAR3	Bulla	Disease	1.0
+BCAR3	Dehydration	Disease	1.0
+BCAR3	Gastrointestinal Diseases	Disease	1.0
+BCAR3	Head and Neck Neoplasms	Disease	1.0
+BCAR3	Hyperplasia	Disease	1.0
+BCAR3	Influenza	Disease	1.0
+BCAR3	Intestinal Diseases	Disease	1.0
+BCAR3	Pancreatic Diseases	Disease	1.0
+BCAR3	Prenatal Exposure Delayed Effects	Disease	1.0
+BCAR3	Rheumatism	Disease	1.0
+BCAR3	B-Cell Lymphomas	Disease	1.0
+BCAR3	Endometrial Neoplasms	Disease	1.0
+BCAR3	Lung Diseases, Interstitial	Disease	1.0
+BCAR3	Invasive Ductal Breast Carcinoma	Disease	1.0
+BCAR3	Precursor Cell Lymphoblastic Leukemia Lymphoma	Disease	1.0
+BCAR3	Cataract	Disease	1.0
+BCAR3	Poultry Diseases	Disease	1.0
+BCAR3	Insulin Resistance	Disease	1.0
+BCAR3	Endometriosis of uterus	Disease	1.0
+BCAR3	Malignant neoplasm of urinary bladder	Disease	1.0
+BCAR3	Malignant neoplasm of larynx	Disease	1.0
+BCAR3	Hyperactive behavior	Disease	1.0
+BCAR3	nsP2 proteinase	Chemical	3.34E-7
+BCAR3	NS35 protein, rotavirus	Chemical	1.12E-6
+BCAR3	Viral Nonstructural Proteins	Chemical	3.34E-6
+BCAR3	NSP5 protein, rotavirus group A	Chemical	8.75E-6
+BCAR3	gene 11 protein, Rotavirus B	Chemical	9.13E-6
+BCAR3	nsP3 protein, virus	Chemical	1.03E-5
+BCAR3	Nsp3 protein, semliki forest virus	Chemical	1.52E-5
+BCAR3	Polyproteins	Chemical	1.82E-5
+BCAR3	glycoprotein 5, PRRSV	Chemical	1.85E-5
+BCAR3	Nucleoside-Triphosphatase	Chemical	2.95E-5
+BCAR3	VP2 protein, Rotavirus	Chemical	3.08E-5
+BCAR3	NSP3 protein, Rotavirus	Chemical	3.58E-5
+BCAR3	nsP4 protein, Sindbis virus	Chemical	4.87E-5
+BCAR3	nucleocapsid protein C, western equine encephalitis virus	Chemical	4.87E-5
+BCAR3	RNA triphosphatase	Chemical	4.9E-5
+BCAR3	VP1 protein, Rotavirus	Chemical	5.02E-5
+BCAR3	RNA, Viral	Chemical	5.21E-5
+BCAR3	Cysteine Endopeptidases	Chemical	5.4E-5
+BCAR3	NSP4 serine protease	Chemical	6.09E-5
+BCAR3	papain-like proteinase 1	Chemical	6.22E-5
+BCAR3	Breast Cancer Anti-Estrogen Resistance 1 Protein	Chemical	7.07E-5
+BCAR3	rap1a-GTPase activating proteins, human	Chemical	7.3E-5
+BCAR3	smg p21 GAP1 protein, human	Chemical	7.3E-5
+BCAR3	smg p21 GAP2 protein, human	Chemical	7.3E-5
+BCAR3	NSP1 protein, Rotavirus	Chemical	8.28E-5
+BCAR3	Viral Proteins	Chemical	8.63E-5
+BCAR3	VP7 protein, Rotavirus	Chemical	8.92E-5
+BCAR3	nonstructural protein, coronavirus	Chemical	8.93E-5
+BCAR3	Nsp1 protein, SARS coronavirus	Chemical	9.13E-5
+BCAR3	Pyridinolcarbamate	Chemical	9.15E-5
+BCAR3	ribonuclease P2	Chemical	1.22E-4
+BCAR3	RNA-Directed RNA Polymerase	Chemical	1.38E-4
+BCAR3	2,7-diamino-1,8-naphthyridine	Chemical	1.46E-4
+BCAR3	Nod factor IV, Rhizobium meliloti	Chemical	1.7E-4
+BCAR3	S 27	Chemical	1.7E-4
+BCAR3	RNA Binding Protein	Chemical	1.73E-4
+BCAR3	RV3 rotavirus vaccine	Chemical	1.95E-4
+BCAR3	VP3 protein, Rotavirus	Chemical	2.19E-4
+BCAR3	Ribonucleic Acid	Chemical	2.6E-4
+BCAR3	Capsid Protein	Chemical	2.63E-4
+BCAR3	CAR3 protein, Dictyostelium discoideum	Chemical	2.68E-4
+BCAR3	nsP1 protein, Sindbis virus	Chemical	2.92E-4
+BCAR3	Double-Stranded RNA	Chemical	3.36E-4
+BCAR3	Protein	Chemical	3.51E-4
+BCAR3	VP6 protein, Rotavirus	Chemical	3.67E-4
+BCAR3	Viral Core Proteins	Chemical	3.69E-4
+BCAR3	Cysteine Proteinase	Chemical	3.7E-4
+BCAR3	Nucleotide	Chemical	3.74E-4
+BCAR3	NIN protein, Lotus japonicus	Chemical	3.9E-4
+BCAR3	Viral Structural Proteins	Chemical	4.41E-4
+BCAR3	VP4 protein, Rotavirus	Chemical	4.42E-4
+BCAR3	MTN6 protein, Medicago truncatula	Chemical	4.63E-4
+BCAR3	G3BP2 protein, human	Chemical	4.87E-4
+BCAR3	Amino Acid	Chemical	4.9E-4
+BCAR3	Structural Protein	Chemical	4.92E-4
+BCAR3	Viral Envelope Proteins	Chemical	4.98E-4
+BCAR3	Single-Stranded RNA	Chemical	5.24E-4
+BCAR3	NS28 protein, rotavirus	Chemical	5.59E-4
+BCAR3	endodeoxyribonuclease SgrAI	Chemical	5.6E-4
+BCAR3	Viral Protein	Chemical	6.06E-4
+BCAR3	uniconazole-P	Chemical	6.09E-4
+BCAR3	RNA Helicase	Chemical	6.11E-4
+BCAR3	Vaccines, Marker	Chemical	6.13E-4
+BCAR3	nodulin	Chemical	6.15E-4
+BCAR3	RNA Polymerase	Chemical	6.59E-4
+BCAR3	GATA2 protein, Xenopus	Chemical	6.82E-4
+BCAR3	NEDD9 protein, mouse	Chemical	7.07E-4
+BCAR3	Casein Kinase Ialpha	Chemical	7.08E-4
+BCAR3	Antiestrogen	Chemical	7.2E-4
+BCAR3	Replicon	Chemical	7.81E-4
+BCAR3	DNA replicase	Chemical	8.06E-4
+BCAR3	Rotavirus Vaccines	Chemical	8.15E-4
+BCAR3	Adaptor Proteins, Signal Transducing	Chemical	8.22E-4
+BCAR3	Helicase	Chemical	8.22E-4
+BCAR3	pateamine A	Chemical	8.29E-4
+BCAR3	Vaccines	Chemical	8.65E-4
+BCAR3	Acid Anhydride Hydrolases	Chemical	9.92E-4
+BCAR3	orobanchol	Chemical	0.00105
+BCAR3	endodeoxyribonuclease MluI	Chemical	0.00107
+BCAR3	Viral Vaccines	Chemical	0.00114
+BCAR3	RotaTeq	Chemical	0.00114
+BCAR3	DNA-Directed RNA Polymerases	Chemical	0.00116
+BCAR3	Interferon Type I	Chemical	0.00127
+BCAR3	tizoxanide	Chemical	0.00127
+BCAR3	Antigens, Viral	Chemical	0.00131
+BCAR3	hSWI/SNF	Chemical	0.00132
+BCAR3	Epitopes, B-Lymphocyte	Chemical	0.00135
+BCAR3	GR24 compound	Chemical	0.00137
+BCAR3	3C-like proteinase, Coronavirus	Chemical	0.00137
+BCAR3	Antibodies, Viral	Chemical	0.00138
+BCAR3	ras Guanine Nucleotide Exchange Factors	Chemical	0.00142
+BCAR3	puromycin N-acetyltransferase	Chemical	0.00161
+BCAR3	Papain	Chemical	0.00166
+BCAR3	protein K	Chemical	0.00173
+BCAR3	Nucleocapsid	Chemical	0.00174
+BCAR3	cDNA	Chemical	0.00176
+BCAR3	Nuclear Factor 45 Protein	Chemical	0.00176
+BCAR3	Vaccines, Attenuated	Chemical	0.00181
+BCAR3	Peptidase	Chemical	0.00184
+BCAR3	Endoribonuclease	Chemical	0.0021
+BCAR3	Codon, Terminator	Chemical	0.00213
+BCAR3	Epitope	Chemical	0.00216
+BCAR3	nuclear dot protein 52, human	Chemical	0.00218
+BCAR3	Guanine Nucleotide Exchange Factor	Chemical	0.00229
+BCAR3	Untranslated Regions	Chemical	0.00236
+BCAR3	guanylyltransferase	Chemical	0.00237
+BCAR3	glycoprotein E2, Sindbis virus	Chemical	0.00237
+BCAR3	RNA, recombinant	Chemical	0.00246
+BCAR3	Cysteine	Chemical	0.00254
+BCAR3	Nuclear Localization Signals	Chemical	0.00255
+BCAR3	Interferon	Chemical	0.0027
+BCAR3	Antiviral Agent	Chemical	0.00285
+BCAR3	Nucleocapsid Protein	Chemical	0.00285
+BCAR3	Heterogeneous-Nuclear Ribonucleoprotein K	Chemical	0.00294
+BCAR3	uniconazole	Chemical	0.00304
+BCAR3	Plant Proteins	Chemical	0.0031
+BCAR3	Stratifin	Chemical	0.00331
+BCAR3	GAI protein, Arabidopsis	Chemical	0.00348
+BCAR3	Green Fluorescent Proteins	Chemical	0.00358
+BCAR3	enhanced green fluorescent protein	Chemical	0.00358
+BCAR3	Rap Guanine Nucleotide Exchange Factor 1	Chemical	0.0036
+BCAR3	Immunoglobulin Binding Protein	Chemical	0.00363
+BCAR3	DNA, Viral	Chemical	0.0037
+BCAR3	CapZ Actin Capping Protein	Chemical	0.00375
+BCAR3	Recombinant Proteins	Chemical	0.00381
+BCAR3	Scaffolding Protein	Chemical	0.00396
+BCAR3	Interferons	Chemical	0.00414
+BCAR3	triacsin C	Chemical	0.0042
+BCAR3	HC-Pro protein, potyvirus	Chemical	0.0042
+BCAR3	glycoprotein E2, classical swine fever virus	Chemical	0.00449
+BCAR3	5' Untranslated Regions	Chemical	0.00466
+BCAR3	Attenuated Live Vaccine	Chemical	0.00489
+BCAR3	Mutant Proteins	Chemical	0.00499
+BCAR3	Retinoblastoma-Like Protein 2	Chemical	0.00511
+BCAR3	GTPase	Chemical	0.00518
+BCAR3	Thioglucosides	Chemical	0.00524
+BCAR3	tris(2-carboxyethyl)phosphine	Chemical	0.00529
+BCAR3	Early Growth Response Transcription Factors	Chemical	0.00529
+BCAR3	swine leukocyte antigen	Chemical	0.00529
+BCAR3	Cell Division Control Protein 42 Homolog	Chemical	0.00531
+BCAR3	oligochitosan	Chemical	0.00536
+BCAR3	Nucleoside	Chemical	0.0054
+BCAR3	adenosine 5'-O-(3-thiotriphosphate)	Chemical	0.00585
+BCAR3	Polymerase	Chemical	0.00587
+BCAR3	Interferon-Induced, Double-Stranded RNA-Activated Protein Kinase	Chemical	0.00588
+BCAR3	Messenger RNA	Chemical	0.00615
+BCAR3	Deubiquitinating Enzyme	Chemical	0.00621
+BCAR3	Protein-Tyrosine Kinase 2-Beta	Chemical	0.0065
+BCAR3	Peptidomimetics	Chemical	0.00662
+BCAR3	lipid-linked oligosaccharides	Chemical	0.00673
+BCAR3	RAL Guanine Nucleotide Dissociation Stimulator	Chemical	0.00676
+BCAR3	phosphohistidine	Chemical	0.00678
+BCAR3	interleukin-1beta-converting enzyme inhibitor	Chemical	0.00691
+BCAR3	M Protein	Chemical	0.00693
+BCAR3	Immunodominant Epitopes	Chemical	0.00769
+BCAR3	18alpha-glycyrrhetinic acid	Chemical	0.00769
+BCAR3	myosin light chain 2	Chemical	0.00774
+BCAR3	Recombinant Fusion Proteins	Chemical	0.00785
+BCAR3	Phosphoprotein	Chemical	0.00786
+BCAR3	Cysteine Proteinase Inhibitors	Chemical	0.00816
+BCAR3	GTP-Binding Protein Regulators	Chemical	0.00854
+BCAR3	DNA Primers	Chemical	0.0086
+BCAR3	Antineoplastic Agents, Hormonal	Chemical	0.00896
+BCAR3	VP1 protein, Foot-and-mouth disease virus	Chemical	0.00899
+BCAR3	PVT1	Chemical	0.00899
+BCAR3	Eukaryotic Translation Initiation Factor 2 Subunit 1	Chemical	0.00938
+BCAR3	SWI-SNF-B chromatin-remodeling complex	Chemical	0.00957
+BCAR3	Antibody	Chemical	0.0096
+BCAR3	Ras-Related Protein Ral-A	Chemical	0.0096
+BCAR3	ras Proteins	Chemical	0.00997
+BCAR3	Caveolin 2	Chemical	0.01
+BCAR3	Recombinant Protein	Chemical	0.0101
+BCAR3	Virulence Factors	Chemical	0.0104
+BCAR3	Rotavirus Antigen	Chemical	0.0108
+BCAR3	Methyltransferase	Chemical	0.0112
+BCAR3	Luciferase	Chemical	0.0114
+BCAR3	Receptor-Type Tyrosine-Protein Phosphatase Epsilon	Chemical	0.0115
+BCAR3	Protease Inhibitor	Chemical	0.0116
+BCAR3	Multiprotein Complexes	Chemical	0.0116
+BCAR3	Proto-Oncogene Proteins c-crk	Chemical	0.0119
+BCAR3	Transcription Factor	Chemical	0.0123
+BCAR3	C-C Motif Chemokine 7	Chemical	0.0124
+BCAR3	Codon	Chemical	0.0128
+BCAR3	Pepstatin	Chemical	0.013
+BCAR3	Casein Kinases	Chemical	0.013
+BCAR3	3' Untranslated Regions	Chemical	0.0131
+BCAR3	jacalin	Chemical	0.0134
+BCAR3	Interferon Regulatory Factor 3	Chemical	0.0136
+BCAR3	benzylaminopurine	Chemical	0.0138
+BCAR3	Sorting Nexins	Chemical	0.0138
+BCAR3	Proto-Oncogene Tyrosine-Protein Kinase Src	Chemical	0.0143
+BCAR3	FLAG peptide	Chemical	0.0145
+BCAR3	Polyubiquitin	Chemical	0.0146
+BCAR3	Vaccines, Synthetic	Chemical	0.0147
+BCAR3	Ras Protein Specific Guanine Nucleotide Releasing Factor 1	Chemical	0.0151
+BCAR3	Serine/Threonine-Protein Kinase PAK 1	Chemical	0.0153
+BCAR3	RNA Caps	Chemical	0.0154
+BCAR3	Oligonucleotide Primer	Chemical	0.0154
+BCAR3	Eukaryotic Initiation Factor-4A	Chemical	0.0155
+BCAR3	Fusion Protein	Chemical	0.0157
+BCAR3	Glucosinolate	Chemical	0.016
+BCAR3	Bioflavonoid	Chemical	0.0162
+BCAR3	gibberellic acid	Chemical	0.0171
+BCAR3	Receptors, Interleukin-1 Type I	Chemical	0.0172
+BCAR3	Nonmuscle Myosin Type IIA	Chemical	0.0172
+BCAR3	Glycoprotein	Chemical	0.0173
+BCAR3	Immune Sera	Chemical	0.0174
+BCAR3	Ethylene	Chemical	0.0175
+BCAR3	Antibodies, Neutralizing	Chemical	0.0175
+BCAR3	Toxins, Biological	Chemical	0.018
+BCAR3	Methyltransferases	Chemical	0.0183
+BCAR3	Hepatocyte Nuclear Factor 3-Alpha	Chemical	0.0187
+BCAR3	Ubiquitins	Chemical	0.0188
+BCAR3	Arylamine N-Acetyltransferase	Chemical	0.0188
+BCAR3	rab11 protein	Chemical	0.0188
+BCAR3	Polypyrimidine Tract-Binding Protein	Chemical	0.0193
+BCAR3	src-Family Kinases	Chemical	0.0195
+BCAR3	Naphthyridines	Chemical	0.0202
+BCAR3	Initiation Factor	Chemical	0.0204
+BCAR3	Viral Matrix Proteins	Chemical	0.0212
+BCAR3	GTPase-Activating Protein	Chemical	0.0228
+BCAR3	Heterogeneous-Nuclear Ribonucleoproteins	Chemical	0.0228
+BCAR3	Endothelial Transcription Factor GATA-2	Chemical	0.0233
+BCAR3	IGF1 protein, human	Chemical	0.0237
+BCAR3	Luminescent Proteins	Chemical	0.0238
+BCAR3	RNA primers	Chemical	0.0242
+BCAR3	GTP	Chemical	0.0247
+BCAR3	Casein Kinase I	Chemical	0.0249
+BCAR3	Estrogen Antagonists	Chemical	0.0251
+BCAR3	alpha Karyopherins	Chemical	0.0252
+BCAR3	CCAAT-Binding Factor	Chemical	0.0255
+BCAR3	RAS-Related Protein RAP1A	Chemical	0.0255
+BCAR3	Mitogen-Activated Protein Kinase Kinase Kinase 1	Chemical	0.0256
+BCAR3	Poly(A)-Binding Proteins	Chemical	0.0258
+BCAR3	leptomycin B	Chemical	0.0259
+BCAR3	G protein, vesicular stomatitis virus	Chemical	0.0268
+BCAR3	Metalloprotein	Chemical	0.0268
+BCAR3	Integration Host Factors	Chemical	0.0283
+BCAR3	Triazenes	Chemical	0.0287
+BCAR3	Phosphatase	Chemical	0.0288
+BCAR3	Plant Growth Regulators	Chemical	0.029
+BCAR3	Gibberellins	Chemical	0.029
+BCAR3	chrysin	Chemical	0.0294
+BCAR3	hammerhead ribozyme	Chemical	0.0298
+BCAR3	light chain 3, human	Chemical	0.0298
+BCAR3	Ovomucin	Chemical	0.0302
+BCAR3	SYBR Green I	Chemical	0.0306
+BCAR3	Phosphoproteins	Chemical	0.0309
+BCAR3	Activating Transcription Factor 4	Chemical	0.031
+BCAR3	RNA, Plant	Chemical	0.0315
+BCAR3	Shc Signaling Adaptor Proteins	Chemical	0.0323
+BCAR3	Oligonucleotide Probes	Chemical	0.0325
+BCAR3	Ras-Related C3 Botulinum Toxin Substrate 1	Chemical	0.0328
+BCAR3	Receptors, Cyclic AMP	Chemical	0.0342
+BCAR3	Protein Isoforms	Chemical	0.0346
+BCAR3	Peptide Library	Chemical	0.0352
+BCAR3	Kinase	Chemical	0.0353
+BCAR3	RNA, Small Interfering	Chemical	0.0354
+BCAR3	Antiserum	Chemical	0.0355
+BCAR3	Phosphate Transport Proteins	Chemical	0.0358
+BCAR3	Nuclear Factor-I	Chemical	0.0369
+BCAR3	Nuclear Export Signals	Chemical	0.0371
+BCAR3	Beta-Galactosidase	Chemical	0.0373
+BCAR3	Transforming Protein RHOA	Chemical	0.0373
+BCAR3	TNF Receptor-Associated Factor 2	Chemical	0.0377
+BCAR3	Signal Transducer and Activator of Transcription 1-alpha/beta	Chemical	0.0378
+BCAR3	Casein	Chemical	0.0385
+BCAR3	coomassie Brilliant Blue	Chemical	0.0395
+BCAR3	GDP	Chemical	0.0397
+BCAR3	Enzyme	Chemical	0.0404
+BCAR3	Monoclonal Antibody	Chemical	0.0407
+BCAR3	Calcium-Calmodulin-Dependent Protein Kinases	Chemical	0.0408
+BCAR3	Agent	Chemical	0.0411
+BCAR3	Ubiquitin	Chemical	0.0419
+BCAR3	Epidermal Growth Factor	Chemical	0.0424
+BCAR3	Lactone Compound	Chemical	0.0428
+BCAR3	Genetic Markers	Chemical	0.0447
+BCAR3	Biomarkers, Pharmacological	Chemical	0.0455
+BCAR3	Kruppel-Like Transcription Factors	Chemical	0.046
+BCAR3	I Kappa B	Chemical	0.0462
+BCAR3	DNA Primase	Chemical	0.0464
+BCAR3	Small Ubiquitin-Related Modifier Proteins	Chemical	0.0466
+BCAR3	ras GTPase-Activating Proteins	Chemical	0.0469
+BCAR3	Phosphothreonine	Chemical	0.0485
+BCAR3	Talin	Chemical	0.0492
+BCAR3	benzyloxycarbonylvalyl-alanyl-aspartyl fluoromethyl ketone	Chemical	0.0495
+BCAR3	Peptides	Chemical	0.0499
+BCAR3	Quinazolinones	Chemical	0.0502
+BCAR3	Ethylenes	Chemical	0.0505
+BCAR3	Focal Adhesion Protein-Tyrosine Kinases	Chemical	0.0522
+BCAR3	cdc25 Phosphatases	Chemical	0.0526
+BCAR3	Kinetin	Chemical	0.0537
+BCAR3	Nucleoside-Diphosphate Kinase	Chemical	0.0542
+BCAR3	Ligand Binding Protein	Chemical	0.0549
+BCAR3	ursolic acid	Chemical	0.0557
+BCAR3	Phenylmethylsulfonyl Fluoride	Chemical	0.0586
+BCAR3	polyacrylamide	Chemical	0.0594
+BCAR3	Ribonuclease	Chemical	0.06
+BCAR3	Chemokine CCL5	Chemical	0.0606
+BCAR3	Retrotransposon	Chemical	0.061
+BCAR3	Estrogen	Chemical	0.0616
+BCAR3	Receptors, Estrogen	Chemical	0.0635
+BCAR3	Protein Sorting Signals	Chemical	0.0638
+BCAR3	Estrogen Receptor	Chemical	0.0641
+BCAR3	DNA, Plant	Chemical	0.0646
+BCAR3	STAT Transcription Factors	Chemical	0.0649
+BCAR3	Antisense DNA	Chemical	0.0651
+BCAR3	Cardiac Myosins	Chemical	0.0656
+BCAR3	Protein Kinase B	Chemical	0.066
+BCAR3	Protein Precursors	Chemical	0.0662
+BCAR3	ATPase	Chemical	0.0666
+BCAR3	Ribosomal Protein S6	Chemical	0.067
+BCAR3	Nuclear Protein	Chemical	0.0693
+BCAR3	IgA	Chemical	0.0696
+BCAR3	Platelet-Derived Growth Factor Receptor Beta	Chemical	0.0697
+BCAR3	Glycyrrhizin	Chemical	0.0702
+BCAR3	Enzyme Activators	Chemical	0.0702
+BCAR3	Transcription Initiation Site	Chemical	0.0702
+BCAR3	Thiazoles	Chemical	0.0711
+BCAR3	Coenzymes	Chemical	0.0725
+BCAR3	Cyclin D1	Chemical	0.0733
+BCAR3	methyl jasmonate	Chemical	0.0736
+BCAR3	Molecule	Chemical	0.0742
+BCAR3	Water	Chemical	0.0754
+BCAR3	Antibodies, Heterophile	Chemical	0.0754
+BCAR3	MutS Homolog 2 Protein	Chemical	0.0758
+BCAR3	Phosphotyrosine	Chemical	0.0769
+BCAR3	Viral Vector	Chemical	0.0787
+BCAR3	Vaccines, DNA	Chemical	0.0792
+BCAR3	Transcript	Chemical	0.0794
+BCAR3	Amino Acid Chloromethyl Ketones	Chemical	0.0798
+BCAR3	Chymases	Chemical	0.0821
+BCAR3	RNA, Small Untranslated	Chemical	0.0837
+BCAR3	Cytoplasmic Protein	Chemical	0.0838
+BCAR3	Serpin	Chemical	0.0842
+BCAR3	rac GTP-Binding Proteins	Chemical	0.0856
+BCAR3	Interferon Inducers	Chemical	0.0861
+BCAR3	Receptors, Interferon	Chemical	0.0879
+BCAR3	Reverse Transcriptase	Chemical	0.0884
+BCAR3	Nucleic Acid Heteroduplexes	Chemical	0.0903
+BCAR3	Janus Kinases	Chemical	0.0919
+BCAR3	Oxygen	Chemical	0.0936
+BCAR3	Lactams, Macrocyclic	Chemical	0.0944
+BCAR3	Ubiquitin-Conjugating Enzymes	Chemical	0.0944
+BCAR3	Fertilizers	Chemical	0.0959
+BCAR3	Tubulin Modulators	Chemical	0.0989
+BCAR3	Epitopes, T-Lymphocyte	Chemical	0.102
+BCAR3	Lipid	Chemical	0.102
+BCAR3	Cytokinins	Chemical	0.103
+BCAR3	Glucose	Chemical	0.107
+BCAR3	NF-kB	Chemical	0.108
+BCAR3	MicroRNA	Chemical	0.109
+BCAR3	Fibronectin	Chemical	0.109
+BCAR3	Integrins	Chemical	0.109
+BCAR3	Protein Kinase	Chemical	0.11
+BCAR3	Macromolecular Substances	Chemical	0.11
+BCAR3	Plasmid	Chemical	0.113
+BCAR3	Cyclin	Chemical	0.114
+BCAR3	Dioxygenases	Chemical	0.118
+BCAR3	CpG Islands	Chemical	0.118
+BCAR3	Galectin-3	Chemical	0.12
+BCAR3	Apigenin	Chemical	0.125
+BCAR3	Ca(2+) Mg(2+)-ATPase	Chemical	0.126
+BCAR3	Cyclophilins	Chemical	0.126
+BCAR3	Receptor Tyrosine Kinase	Chemical	0.127
+BCAR3	Benzyl Compounds	Chemical	0.128
+BCAR3	lysophosphatidic acid	Chemical	0.13
+BCAR3	Protein Phosphatase 1	Chemical	0.132
+BCAR3	Cytokine	Chemical	0.133
+BCAR3	Codon, Nonsense	Chemical	0.133
+BCAR3	Smad Proteins	Chemical	0.134
+BCAR3	Stain	Chemical	0.137
+BCAR3	DNA-directed DNA Polymerase	Chemical	0.137
+BCAR3	Phosphines	Chemical	0.14
+BCAR3	Casein Kinase 2	Chemical	0.141
+BCAR3	Acid	Chemical	0.142
+BCAR3	Vitellogenins	Chemical	0.146
+BCAR3	thiazolyl blue	Chemical	0.146
+BCAR3	Cell Extracts	Chemical	0.148
+BCAR3	Phosphoserine	Chemical	0.148
+BCAR3	14-3-3 Proteins	Chemical	0.149
+BCAR3	DNA Vaccine	Chemical	0.152
+BCAR3	jasmonic acid	Chemical	0.156
+BCAR3	Isothiocyanates	Chemical	0.156
+BCAR3	DEAD-box RNA Helicases	Chemical	0.158
+BCAR3	Sodium	Chemical	0.159
+BCAR3	Adenosine Diphosphate Ribose	Chemical	0.16
+BCAR3	Estradiol Congeners	Chemical	0.162
+BCAR3	rab GTP-Binding Proteins	Chemical	0.164
+BCAR3	Lithium Chloride	Chemical	0.165
+BCAR3	Cytidine Triphosphate	Chemical	0.167
+BCAR3	Cytokines	Chemical	0.169
+BCAR3	Glucose Transporter Type 4	Chemical	0.169
+BCAR3	JNK Mitogen-Activated Protein Kinases	Chemical	0.17
+BCAR3	Flagellin	Chemical	0.17
+BCAR3	Food	Chemical	0.175
+BCAR3	Insulin Receptor Substrate Proteins	Chemical	0.177
+BCAR3	Tunicamycin	Chemical	0.183
+BCAR3	Phenothiazine	Chemical	0.183
+BCAR3	Okadaic Acid	Chemical	0.184
+BCAR3	Rosaniline Dyes	Chemical	0.187
+BCAR3	Small Interfering RNA	Chemical	0.191
+BCAR3	Serine/Threonine-Protein Kinase mTOR	Chemical	0.193
+BCAR3	Uridine Triphosphate	Chemical	0.195
+BCAR3	Antineoplastic Agent	Chemical	0.198
+BCAR3	Lipopolysaccharides	Chemical	0.201
+BCAR3	Hydrolase	Chemical	0.202
+BCAR3	Endothelin-1	Chemical	0.205
+BCAR3	Ribonucleotides	Chemical	0.205
+BCAR3	Dimethylbenzanthracene	Chemical	0.206
+BCAR3	Cyclopropanes	Chemical	0.207
+BCAR3	Antigen	Chemical	0.209
+BCAR3	Endoribonucleases	Chemical	0.212
+BCAR3	Myosin Light Chains	Chemical	0.212
+BCAR3	Caspase Inhibitors	Chemical	0.217
+BCAR3	Tumor Necrosis Factor Receptor Superfamily Member 11B	Chemical	0.22
+BCAR3	Recombinant Transforming Growth Factor	Chemical	0.222
+BCAR3	Isotopes	Chemical	0.224
+BCAR3	Aquaporins	Chemical	0.224
+BCAR3	Serpins	Chemical	0.225
+BCAR3	Peptide Elongation Factors	Chemical	0.226
+BCAR3	Adhesins, Bacterial	Chemical	0.226
+BCAR3	Nucleotidyltransferases	Chemical	0.229
+BCAR3	Estrogen Receptor Beta	Chemical	0.233
+BCAR3	Actin	Chemical	0.234
+BCAR3	Sphingomyelins	Chemical	0.236
+BCAR3	Yeast	Chemical	0.245
+BCAR3	Binding Sites	Chemical	0.251
+BCAR3	Metalloproteins	Chemical	0.252
+BCAR3	1-Methyl-3-isobutylxanthine	Chemical	0.254
+BCAR3	Purines	Chemical	0.259
+BCAR3	Monomeric GTP-Binding Proteins	Chemical	0.26
+BCAR3	Kinesin	Chemical	0.267
+BCAR3	Ribozyme	Chemical	0.267
+BCAR3	Interleukin-8	Chemical	0.269
+BCAR3	HSP90 Heat-Shock Proteins	Chemical	0.272
+BCAR3	Fetal Bovine Serum	Chemical	0.272
+BCAR3	Element	Chemical	0.274
+BCAR3	Serine Endopeptidases	Chemical	0.276
+BCAR3	RNA, Fungal	Chemical	0.283
+BCAR3	Xenopus Proteins	Chemical	0.283
+BCAR3	Transforming Growth Factor	Chemical	0.283
+BCAR3	Insulin-Like Growth Factor 1 Receptor	Chemical	0.287
+BCAR3	Hormone	Chemical	0.292
+BCAR3	Nitriles	Chemical	0.302
+BCAR3	Rho-Associated, Coiled-Coil Containing Protein Kinase 1	Chemical	0.302
+BCAR3	Microtubule Associated Protein	Chemical	0.304
+BCAR3	Bone Morphogenetic Protein 2	Chemical	0.306
+BCAR3	Insulin-Like Growth Factor I	Chemical	0.307
+BCAR3	Deoxyribonucleases, Type II Site-Specific	Chemical	0.325
+BCAR3	Benzoquinones	Chemical	0.328
+BCAR3	Calpain	Chemical	0.333
+BCAR3	Ceramides	Chemical	0.338
+BCAR3	Receptors, Growth Factor	Chemical	0.342
+BCAR3	Cytoskeletal Proteins	Chemical	0.347
+BCAR3	Receptors, Virus	Chemical	0.347
+BCAR3	Transmembrane Protein	Chemical	0.347
+BCAR3	Oxazoles	Chemical	0.348
+BCAR3	Poly A	Chemical	0.349
+BCAR3	Vimentin	Chemical	0.356
+BCAR3	Fatty Acid	Chemical	0.358
+BCAR3	Thioredoxin	Chemical	0.358
+BCAR3	Receptors, G-Protein-Coupled	Chemical	0.362
+BCAR3	Vitamin	Chemical	0.362
+BCAR3	Tubulin	Chemical	0.367
+BCAR3	Heat Shock Protein	Chemical	0.371
+BCAR3	DNA Probes	Chemical	0.373
+BCAR3	Thiourea	Chemical	0.374
+BCAR3	Bacterial Protein	Chemical	0.383
+BCAR3	Small Molecule Libraries	Chemical	0.387
+BCAR3	Nutrient	Chemical	0.391
+BCAR3	Tetrazolium Salts	Chemical	0.393
+BCAR3	Membrane Glycoproteins	Chemical	0.394
+BCAR3	Chloramphenicol O-acetyltransferase	Chemical	0.394
+BCAR3	Phosphorus Radioisotopes	Chemical	0.397
+BCAR3	Carotenoid	Chemical	0.398
+BCAR3	Collagen	Chemical	0.398
+BCAR3	Ethylmaleimide	Chemical	0.401
+BCAR3	Poly [ADP-Ribose] Polymerase 1	Chemical	0.411
+BCAR3	Peroxisome Proliferator-Activated Receptors	Chemical	0.418
+BCAR3	Vitamin D3 Receptor	Chemical	0.425
+BCAR3	Particle	Chemical	0.43
+BCAR3	DNA	Chemical	0.432
+BCAR3	Mercaptoethanol	Chemical	0.443
+BCAR3	Nuclear DNA	Chemical	0.443
+BCAR3	Protein Synthesis Inhibitors	Chemical	0.458
+BCAR3	Acetyltransferases	Chemical	0.458
+BCAR3	Fluorescent Dyes	Chemical	0.464
+BCAR3	Thioredoxin	Chemical	0.472
+BCAR3	Untranslated RNA	Chemical	0.475
+BCAR3	Molecular Probes	Chemical	0.478
+BCAR3	Restriction Endonuclease	Chemical	0.479
+BCAR3	Phenothiazines	Chemical	0.481
+BCAR3	Protein Subunit	Chemical	0.484
+BCAR3	matrigel	Chemical	0.489
+BCAR3	Abscisic Acid	Chemical	0.491
+BCAR3	Chitin	Chemical	0.494
+BCAR3	Arabidopsis Proteins	Chemical	0.495
+BCAR3	Phosphoric Monoester Hydrolases	Chemical	0.499
+BCAR3	Regulatory Protein	Chemical	0.503
+BCAR3	IgG	Chemical	0.508
+BCAR3	Heparan Sulfate	Chemical	0.514
+BCAR3	Insulin	Chemical	0.53
+BCAR3	Chromosomal Proteins, Non-Histone	Chemical	0.532
+BCAR3	DNA Helicases	Chemical	0.541
+BCAR3	E-Cadherin	Chemical	0.547
+BCAR3	Chaperone	Chemical	0.554
+BCAR3	Membrane Protein	Chemical	0.556
+BCAR3	Epoxy Compounds	Chemical	0.559
+BCAR3	Purine	Chemical	0.563
+BCAR3	Endonucleases	Chemical	0.565
+BCAR3	Growth Factor	Chemical	0.57
+BCAR3	Chemokine	Chemical	0.583
+BCAR3	Transposon	Chemical	0.585
+BCAR3	Ion	Chemical	0.588
+BCAR3	Protein-Serine-Threonine Kinases	Chemical	0.61
+BCAR3	5'-AMP-Activated Protein Kinase	Chemical	0.627
+BCAR3	Interleukin-6	Chemical	0.65
+BCAR3	Interleukin-13	Chemical	0.65
+BCAR3	Interleukin-10	Chemical	0.655
+BCAR3	Biological Markers	Chemical	0.665
+BCAR3	Transfer RNA	Chemical	0.668
+BCAR3	Nitrogen	Chemical	0.674
+BCAR3	Salicylic Acid	Chemical	0.687
+BCAR3	Gamma-Enolase	Chemical	0.708
+BCAR3	RNA Polymerase II	Chemical	0.724
+BCAR3	Isomerase	Chemical	0.732
+BCAR3	Basic Helix-Loop-Helix Transcription Factors	Chemical	0.744
+BCAR3	Interferon Alpha-2	Chemical	0.754
+BCAR3	Phosphoprotein Phosphatase	Chemical	0.758
+BCAR3	Phosphatidylinositol 3-Kinases	Chemical	0.781
+BCAR3	Ketone	Chemical	0.797
+BCAR3	Phospholipase	Chemical	0.816
+BCAR3	Indoleacetic Acids	Chemical	0.824
+BCAR3	Dithiothreitol	Chemical	0.825
+BCAR3	Nucleoproteins	Chemical	0.846
+BCAR3	Cholecystokinin	Chemical	0.899
+BCAR3	Nucleosome	Chemical	0.911
+BCAR3	Peptide Fragments	Chemical	0.92
+BCAR3	Protein Tyrosine Phosphatase	Chemical	0.931
+BCAR3	Octoxynol 9	Chemical	0.98
+BCAR3	Receptor	Chemical	1.0
+BCAR3	Pharmaceutical Preparations	Chemical	1.0
+BCAR3	Electron	Chemical	1.0
+BCAR3	Elements	Chemical	1.0
+BCAR3	Base	Chemical	1.0
+BCAR3	Antagonist	Chemical	1.0
+BCAR3	Indicators and Reagents	Chemical	1.0
+BCAR3	Ligands	Chemical	1.0
+BCAR3	Ligand	Chemical	1.0
+BCAR3	Hydrogen	Chemical	1.0
+BCAR3	Phosphates	Chemical	1.0
+BCAR3	Lead Metal	Chemical	1.0
+BCAR3	Estradiol	Chemical	1.0
+BCAR3	Tumor Necrosis Factor	Chemical	1.0
+BCAR3	Metal	Chemical	1.0
+BCAR3	Chromatin	Chemical	1.0
+BCAR3	Soil	Chemical	1.0
+BCAR3	Complement	Chemical	1.0
+BCAR3	Enzyme Inhibitors	Chemical	1.0
+BCAR3	Immunoglobulin	Chemical	1.0
+BCAR3	DNA Binding Protein	Chemical	1.0
+BCAR3	Protein Tyrosine Kinase	Chemical	1.0
+BCAR3	Sodium Chloride	Chemical	1.0
+BCAR3	Phosphorus	Chemical	1.0
+BCAR3	Edetic Acid	Chemical	1.0
+BCAR3	Adenosine Diphosphate	Chemical	1.0
+BCAR3	Acids	Chemical	1.0
+BCAR3	Histone	Chemical	1.0
+BCAR3	DNA, Neoplasm	Chemical	1.0
+BCAR3	Isoenzymes	Chemical	1.0
+BCAR3	Polyethylene Glycol	Chemical	1.0
+BCAR3	Tumor Marker	Chemical	1.0
+BCAR3	Interleukin-2	Chemical	1.0
+BCAR3	G Protein	Chemical	1.0
+BCAR3	Interleukin	Chemical	1.0
+BCAR3	Transforming Growth Factor-Beta Superfamily	Chemical	1.0
+BCAR3	Mitogen-Activated Protein Kinase	Chemical	1.0
+BCAR3	Proteome	Chemical	1.0
+BCAR3	Growth Factor Receptor	Chemical	1.0
+BCAR3	Isotope	Chemical	1.0
+BCAR3	Sewage	Chemical	1.0
+BCAR3	Dietary Sulfur	Chemical	1.0
+BCAR3	Progesterone	Chemical	1.0
+BCAR3	Manganese	Chemical	1.0
+BCAR3	Cycloheximide	Chemical	1.0
+BCAR3	Cytosine	Chemical	1.0
+BCAR3	Tritium	Chemical	1.0
+BCAR3	Membranes, Artificial	Chemical	1.0
+BCAR3	Pyrimidine	Chemical	1.0
+BCAR3	Sepharose	Chemical	1.0
+BCAR3	Interleukin-1 Beta	Chemical	1.0
+BCAR3	Flavonoid	Chemical	1.0
+BCAR3	C-C Motif Chemokine 2	Chemical	1.0
+BCAR3	Forkhead Transcription Factors	Chemical	1.0
+BCAR3	Fluoride Ion	Chemical	1.0
+BCAR3	Pyrimidines	Chemical	1.0
+BCAR3	Trypsin	Chemical	1.0
+BCAR3	Piperazines	Chemical	1.0
+BCAR3	Flavonoids	Chemical	1.0
+BCAR3	Nucleosides	Chemical	1.0
+BCAR3	Caseins	Chemical	1.0
+BCAR3	Detergents	Chemical	1.0
+BCAR3	Alkaloid	Chemical	1.0
+BCAR3	Carcinogens	Chemical	1.0
+BCAR3	Glucuronidase	Chemical	1.0
+BCAR3	Nitrates	Chemical	1.0
+BCAR3	Terpene Compound	Chemical	1.0
+BCAR3	Buffers	Chemical	1.0
+BCAR3	Pyridines	Chemical	1.0
+BCAR3	Growth Substances	Chemical	1.0
+BCAR3	Benzimidazoles	Chemical	1.0
+BCAR3	Endopeptidase	Chemical	1.0
+BCAR3	Neoplasm Proteins	Chemical	1.0
+BCAR3	Oligosaccharide	Chemical	1.0
+BCAR3	Triazoles	Chemical	1.0
+BCAR3	Alkaline DNase	Chemical	1.0
+BCAR3	Mutagens	Chemical	1.0
+BCAR3	Immunoadjuvant	Chemical	1.0
+BCAR3	IgM	Chemical	1.0
+BCAR3	Organic Chemicals	Chemical	1.0
+BCAR3	Carbon Radioisotopes	Chemical	1.0
+BCAR3	Quinazolines	Chemical	1.0
+BCAR3	Antigens, Bacterial	Chemical	1.0
+BCAR3	Cations	Chemical	1.0
+BCAR3	Carboxylic Acids	Chemical	1.0
+BCAR3	Antigen-Antibody Complex	Chemical	1.0
+BCAR3	Cross-Linking Reagents	Chemical	1.0
+BCAR3	Hemagglutinins	Chemical	1.0
+BCAR3	Cell Surface Antigen	Chemical	1.0
+BCAR3	Cations, Divalent	Chemical	1.0
+BCAR3	Oligopeptides	Chemical	1.0
+BCAR3	Repressor Proteins	Chemical	1.0
+BCAR3	Water Pollutants, Chemical	Chemical	1.0
+BCAR3	Ion Channels	Chemical	1.0
+BCAR3	Liposomes	Chemical	1.0
+BCAR3	Protein Kinase Inhibitors	Chemical	1.0
+BCAR3	Recombinant DNA	Chemical	1.0
+BCAR3	Sesquiterpenes	Chemical	1.0
+BCAR3	Ribonucleoprotein	Chemical	1.0
+BCAR3	Glucocorticoid Receptor	Chemical	1.0
+BCAR3	Glutathione S-Transferase	Chemical	1.0
+BCAR3	Histocompatibility Antigens Class II	Chemical	1.0
+BCAR3	Insulin Receptor	Chemical	1.0
+BCAR3	Bacterial Outer Membrane Proteins	Chemical	1.0
+BCAR3	Histone Deacetylase	Chemical	1.0
+BCAR3	Progesterone Receptor	Chemical	1.0
+BCAR3	DNA Insertion Elements	Chemical	1.0
+BCAR3	Brain-Derived Neurotrophic Factor	Chemical	1.0
+BCAR3	Histocompatibility Antigens Class I	Chemical	1.0
+BCAR3	Macrolide Antibiotic	Chemical	1.0
+BCAR3	Intracellular Signaling Peptides and Proteins	Chemical	1.0
+BCAR3	Bone Morphogenetic Protein	Chemical	1.0
+BCAR3	Antigens, Differentiation	Chemical	1.0
+BCAR3	Cellular Tumor Antigen p53	Chemical	1.0
+BCAR3	Interleukin-4	Chemical	1.0
+BCAR3	Vascular Endothelial Growth Factor A	Chemical	1.0
+BCAR3	Trans-Activators	Chemical	1.0
+BCAR3	Proteasome Endopeptidase Complex	Chemical	1.0
+BCAR3	Cell Cycle Proteins	Chemical	1.0
+BCAR3	Proto-Oncogene Proteins	Chemical	1.0
+BCAR3	Homeodomain Proteins	Chemical	1.0
+BCAR3	Proto-Oncogene Proteins c-bcl-2	Chemical	1.0
+BCAR3	Mitogen-Activated Protein Kinases	Chemical	1.0
+BCAR3	Apoptosis Regulatory Proteins	Chemical	1.0
+BCAR3	Prostaglandin G/H Synthase 2	Chemical	1.0
+BCAR3	Apoptosis Regulator BAX	Chemical	1.0
+BCAR3	Caspase	Chemical	1.0
+BCAR3	Transcription Factor AP-1	Chemical	1.0
+BCAR3	Nitric Oxide Synthase, Endothelial	Chemical	1.0
+BCAR3	Type C Phospholipases	Chemical	1.0
+BCAR3	Serine Protease	Chemical	1.0
+BCAR3	Exons	Chemical	1.0
+BCAR3	Proteasome	Chemical	1.0
+BCAR3	Analog	Chemical	1.0
+BCAR3	Lectin	Chemical	1.0
+BCAR3	Receptor Tyrosine-Protein Kinase erbB-2	Chemical	1.0
+BCAR3	Adjuvant	Chemical	1.0
+BCAR3	Amine	Chemical	1.0
+BCAR3	Dye	Chemical	1.0
+BCAR3	Conjugate	Chemical	1.0
+BCAR3	Buffer	Chemical	1.0
+BCAR3	Reagent	Chemical	1.0
+BCAR3	viral replication complex	Anatomy	8.06E-5
+BCAR3	viral genome location	Anatomy	3.77E-4
+BCAR3	protein location	Anatomy	4.76E-4
+BCAR3	Capsid	Anatomy	4.95E-4
+BCAR3	Cell Line	Anatomy	5.52E-4
+BCAR3	periarbuscular membrane	Anatomy	6.58E-4
+BCAR3	root hair (cell projection)	Anatomy	7.06E-4
+BCAR3	Virion	Anatomy	7.71E-4
+BCAR3	Vero Cells	Anatomy	7.95E-4
+BCAR3	Host Cell	Anatomy	8.65E-4
+BCAR3	RNA viral genome	Anatomy	9.27E-4
+BCAR3	Cytoplasmic inclusion (cell structure)	Anatomy	9.64E-4
+BCAR3	hair root	Anatomy	0.00102
+BCAR3	arbuscule	Anatomy	0.00117
+BCAR3	Cells	Anatomy	0.00159
+BCAR3	cytoplasmic foci	Anatomy	0.00185
+BCAR3	Clone	Anatomy	0.00188
+BCAR3	peribacteroid membrane	Anatomy	0.00205
+BCAR3	Clone Cells	Anatomy	0.00219
+BCAR3	Macrophages, Alveolar	Anatomy	0.00232
+BCAR3	Feces	Anatomy	0.00287
+BCAR3	Inclusion Bodies, Viral	Anatomy	0.003
+BCAR3	Breast Cancer Cell	Anatomy	0.00322
+BCAR3	stress granule	Anatomy	0.00324
+BCAR3	Structure of tracheal gland	Anatomy	0.00402
+BCAR3	Structure of intestinal gland	Anatomy	0.00427
+BCAR3	secretory IgA immunoglobulin complex	Anatomy	0.00432
+BCAR3	Inclusion Bodies	Anatomy	0.00437
+BCAR3	Root body part	Anatomy	0.00462
+BCAR3	Structure of esophageal gland	Anatomy	0.00464
+BCAR3	envelope	Anatomy	0.005
+BCAR3	Focal Adhesions	Anatomy	0.00505
+BCAR3	Smooth Endoplasmic Reticulum	Anatomy	0.00544
+BCAR3	Nodulus cerebelli	Anatomy	0.00546
+BCAR3	Viral Structures	Anatomy	0.00557
+BCAR3	NIH 3T3 Cells	Anatomy	0.00591
+BCAR3	Solocyte	Anatomy	0.0069
+BCAR3	Structure of cortex of lens	Anatomy	0.00708
+BCAR3	Vertebral column	Anatomy	0.00761
+BCAR3	Cytoplasm	Anatomy	0.00795
+BCAR3	Viral Components	Anatomy	0.00806
+BCAR3	Cytoplasmic Vesicles	Anatomy	0.00872
+BCAR3	HEK293 Cells	Anatomy	0.00882
+BCAR3	Laryngeal cartilage	Anatomy	0.00937
+BCAR3	exportin	Anatomy	0.00988
+BCAR3	Interlobular bile duct	Anatomy	0.0105
+BCAR3	Cultured Cells	Anatomy	0.0106
+BCAR3	Glomerular Mesangial Cells	Anatomy	0.0108
+BCAR3	Outer nuclear membrane	Anatomy	0.0108
+BCAR3	Supporting cell	Anatomy	0.0108
+BCAR3	Breast	Anatomy	0.0118
+BCAR3	RNA-protein complex	Anatomy	0.0126
+BCAR3	membrane fraction	Anatomy	0.0132
+BCAR3	viral nucleocapsid location	Anatomy	0.0133
+BCAR3	Intracellular Membranes	Anatomy	0.0142
+BCAR3	protein complex location	Anatomy	0.0154
+BCAR3	COS Cells	Anatomy	0.0159
+BCAR3	transcription factor complex	Anatomy	0.0167
+BCAR3	Pronephric structure	Anatomy	0.0168
+BCAR3	Autophagic vacuoles	Anatomy	0.0173
+BCAR3	Groove	Anatomy	0.0176
+BCAR3	Cell Nucleus	Anatomy	0.0192
+BCAR3	BALB 3T3 Cells	Anatomy	0.0192
+BCAR3	Helix of ear	Anatomy	0.0194
+BCAR3	Molecular helix	Anatomy	0.0194
+BCAR3	heterogeneous nuclear ribonucleoprotein complex location	Anatomy	0.0197
+BCAR3	chromatin remodeling complex location	Anatomy	0.02
+BCAR3	Transverse tubule of muscle cell	Anatomy	0.0201
+BCAR3	Pars postrema of ventral lateral nucleus	Anatomy	0.0206
+BCAR3	stable cell line	Anatomy	0.0225
+BCAR3	Duodenal juice	Anatomy	0.0243
+BCAR3	Mouse Intestine	Anatomy	0.026
+BCAR3	Chick Embryo	Anatomy	0.0266
+BCAR3	HeLa Cells	Anatomy	0.0269
+BCAR3	Nuclear Matrix	Anatomy	0.0278
+BCAR3	Inner nuclear membrane	Anatomy	0.028
+BCAR3	signalosome	Anatomy	0.0285
+BCAR3	Crystal - human material	Anatomy	0.0286
+BCAR3	integral to membrane	Anatomy	0.029
+BCAR3	fully spanning the plasma membrane	Anatomy	0.029
+BCAR3	Tail	Anatomy	0.0294
+BCAR3	ribozyme location	Anatomy	0.0295
+BCAR3	Fragments	Anatomy	0.0304
+BCAR3	Cytoplasmic Structures	Anatomy	0.0308
+BCAR3	Distal convoluted renal tubule structure	Anatomy	0.0331
+BCAR3	Endoplasmic Reticulum	Anatomy	0.0356
+BCAR3	Ribosomes	Anatomy	0.0356
+BCAR3	Specimen Type - Macrophages	Anatomy	0.0367
+BCAR3	Mammalian Cell	Anatomy	0.0375
+BCAR3	Reticulocytes	Anatomy	0.0382
+BCAR3	Blood	Anatomy	0.0388
+BCAR3	Mouse Cell Line	Anatomy	0.0395
+BCAR3	Tonsil	Anatomy	0.0404
+BCAR3	Popliteal lymph node group	Anatomy	0.0406
+BCAR3	macrophage	Anatomy	0.0451
+BCAR3	Alveolar	Anatomy	0.0481
+BCAR3	interleukin-35 complex	Anatomy	0.0482
+BCAR3	Heart	Anatomy	0.0487
+BCAR3	Hair	Anatomy	0.0495
+BCAR3	Cytoskeleton	Anatomy	0.05
+BCAR3	Leukocyte - Monocyte - Macrophage (MMHCC)	Anatomy	0.0502
+BCAR3	Human Cell Line	Anatomy	0.0506
+BCAR3	Cell Line, Tumor	Anatomy	0.0508
+BCAR3	IgA immunoglobulin complex, circulating	Anatomy	0.0515
+BCAR3	Membrane	Anatomy	0.0557
+BCAR3	Liver	Anatomy	0.0582
+BCAR3	Gastric Glands	Anatomy	0.0605
+BCAR3	Intestinal cell	Anatomy	0.0607
+BCAR3	Chromosomes, Human, Pair 3	Anatomy	0.0613
+BCAR3	Phagosomes	Anatomy	0.0621
+BCAR3	CNS - Brain (MMHCC)	Anatomy	0.0642
+BCAR3	Epithelial Cells	Anatomy	0.0658
+BCAR3	Palatine Tonsil	Anatomy	0.066
+BCAR3	IgG antibody	Anatomy	0.0666
+BCAR3	Brain	Anatomy	0.0679
+BCAR3	cell periphery	Anatomy	0.0703
+BCAR3	Inguinal lymph node group	Anatomy	0.0747
+BCAR3	MCF7	Anatomy	0.0779
+BCAR3	Intestinal Contents	Anatomy	0.0787
+BCAR3	Pseudopodia	Anatomy	0.0798
+BCAR3	Tissue membrane	Anatomy	0.0809
+BCAR3	viral capsid	Anatomy	0.0815
+BCAR3	COS-1 Cells	Anatomy	0.0817
+BCAR3	Skin	Anatomy	0.0876
+BCAR3	Lamellipodia	Anatomy	0.0911
+BCAR3	Structure of notochord	Anatomy	0.0923
+BCAR3	Cell-Free System	Anatomy	0.0964
+BCAR3	Serum	Anatomy	0.0988
+BCAR3	Fibroblasts	Anatomy	0.101
+BCAR3	Organelles	Anatomy	0.102
+BCAR3	B-Lymphocytes	Anatomy	0.105
+BCAR3	Intercellular Junctions	Anatomy	0.119
+BCAR3	Cellular Structures	Anatomy	0.119
+BCAR3	Vacuole	Anatomy	0.122
+BCAR3	Filopodia	Anatomy	0.123
+BCAR3	Muscle	Anatomy	0.133
+BCAR3	Nuclear Envelope	Anatomy	0.138
+BCAR3	Cytoplasmic Granules	Anatomy	0.14
+BCAR3	filamentous actin location	Anatomy	0.14
+BCAR3	Cell Extracts	Anatomy	0.148
+BCAR3	Bone and Bones	Anatomy	0.151
+BCAR3	tubulin location	Anatomy	0.16
+BCAR3	Microtubules	Anatomy	0.163
+BCAR3	Chromosomes, Human, Pair 19	Anatomy	0.164
+BCAR3	Subcellular Fractions	Anatomy	0.165
+BCAR3	Skeletal bone	Anatomy	0.173
+BCAR3	Exudate	Anatomy	0.176
+BCAR3	Gastrula	Anatomy	0.177
+BCAR3	Structure of parenchyma of lung	Anatomy	0.188
+BCAR3	Blood Vessels	Anatomy	0.188
+BCAR3	interleukin-12 complex	Anatomy	0.188
+BCAR3	Neuromyoarterial glomus	Anatomy	0.189
+BCAR3	Bone Tissue	Anatomy	0.19
+BCAR3	Specimen Type - Bone	Anatomy	0.195
+BCAR3	Aborted Fetus (structure)	Anatomy	0.197
+BCAR3	COS-7 Cells	Anatomy	0.203
+BCAR3	Head	Anatomy	0.21
+BCAR3	Fin	Anatomy	0.211
+BCAR3	Germ Layers	Anatomy	0.212
+BCAR3	Semen	Anatomy	0.213
+BCAR3	Hybridomas	Anatomy	0.213
+BCAR3	Chinese Hamster Ovary Cell	Anatomy	0.218
+BCAR3	Body Fluid Discharge	Anatomy	0.219
+BCAR3	interleukin-23 complex	Anatomy	0.223
+BCAR3	Mammary gland	Anatomy	0.229
+BCAR3	Erythrocytes	Anatomy	0.232
+BCAR3	Organ	Anatomy	0.237
+BCAR3	nucleic acid location	Anatomy	0.243
+BCAR3	Cell Line, Transformed	Anatomy	0.246
+BCAR3	Structure of calf of leg	Anatomy	0.248
+BCAR3	Osteocytes	Anatomy	0.248
+BCAR3	Mesenteric artery lymph node group	Anatomy	0.25
+BCAR3	Lymph	Anatomy	0.26
+BCAR3	Lymph node of mesentery	Anatomy	0.26
+BCAR3	Malignant Epithelial Cell	Anatomy	0.261
+BCAR3	LYSP100-associated nuclear domain	Anatomy	0.271
+BCAR3	Mesangial Cells, Kidney	Anatomy	0.271
+BCAR3	Vas deferens structure	Anatomy	0.274
+BCAR3	neural circuits	Anatomy	0.277
+BCAR3	vimentin location	Anatomy	0.283
+BCAR3	lymphoblast	Anatomy	0.29
+BCAR3	Structure of choroid plexus	Anatomy	0.293
+BCAR3	Gastrointestinal Contents	Anatomy	0.299
+BCAR3	Chromosomes, Plant	Anatomy	0.3
+BCAR3	Emission - Male genitalia finding	Anatomy	0.304
+BCAR3	Bodily secretions	Anatomy	0.307
+BCAR3	Anatomical compartments	Anatomy	0.308
+BCAR3	Dendritic Spines	Anatomy	0.316
+BCAR3	nucleosome location	Anatomy	0.317
+BCAR3	Epiphysial cartilage	Anatomy	0.339
+BCAR3	Bone Matrix	Anatomy	0.345
+BCAR3	Exudates and Transudates	Anatomy	0.348
+BCAR3	animal Oviduct	Anatomy	0.349
+BCAR3	Eye	Anatomy	0.355
+BCAR3	Ectoderm	Anatomy	0.355
+BCAR3	Auditory Hair Cell	Anatomy	0.369
+BCAR3	Breast tissue sample	Anatomy	0.374
+BCAR3	Mesoderm	Anatomy	0.38
+BCAR3	Plasma membrane	Anatomy	0.385
+BCAR3	Veins	Anatomy	0.391
+BCAR3	Mucous Membrane	Anatomy	0.395
+BCAR3	Neck	Anatomy	0.396
+BCAR3	Mammary Gland Parenchyma	Anatomy	0.401
+BCAR3	3T3-L1 Cells	Anatomy	0.406
+BCAR3	Polyribosomes	Anatomy	0.411
+BCAR3	Mesenchyma	Anatomy	0.411
+BCAR3	Anterior cingulate gyrus	Anatomy	0.413
+BCAR3	Periodontal Ligament	Anatomy	0.422
+BCAR3	Lymphocyte	Anatomy	0.427
+BCAR3	Spinal Cord	Anatomy	0.443
+BCAR3	peripheral blood	Anatomy	0.448
+BCAR3	Extracellular Matrix	Anatomy	0.453
+BCAR3	Endothelial Cells	Anatomy	0.455
+BCAR3	Urinary Bladder	Anatomy	0.457
+BCAR3	collagen location	Anatomy	0.46
+BCAR3	Endocrine system	Anatomy	0.466
+BCAR3	Thyroid Gland	Anatomy	0.472
+BCAR3	Structure of sertoli cell	Anatomy	0.475
+BCAR3	HCT116 Cells	Anatomy	0.477
+BCAR3	Limb structure	Anatomy	0.478
+BCAR3	Stomach	Anatomy	0.505
+BCAR3	Respiratory tract structure	Anatomy	0.52
+BCAR3	Uterus	Anatomy	0.531
+BCAR3	Stem cells	Anatomy	0.541
+BCAR3	Protoplasts	Anatomy	0.55
+BCAR3	Enterocytes	Anatomy	0.551
+BCAR3	Upper arm	Anatomy	0.553
+BCAR3	yolk	Anatomy	0.565
+BCAR3	Upper Extremity	Anatomy	0.571
+BCAR3	Organoids	Anatomy	0.572
+BCAR3	chromatin location	Anatomy	0.59
+BCAR3	Chromosomes, Human, Pair 1	Anatomy	0.598
+BCAR3	Chromosome band	Anatomy	0.623
+BCAR3	Mouse Dendritic Cell	Anatomy	0.652
+BCAR3	Microfilaments	Anatomy	0.67
+BCAR3	Pancreas	Anatomy	0.692
+BCAR3	Mitochondria	Anatomy	0.698
+BCAR3	Adipose tissue	Anatomy	0.707
+BCAR3	Epithelium	Anatomy	0.749
+BCAR3	Cell Nucleolus	Anatomy	0.768
+BCAR3	Ovary	Anatomy	0.771
+BCAR3	lymph nodes	Anatomy	0.773
+BCAR3	Lung	Anatomy	0.839
+BCAR3	Cerebral cortex	Anatomy	0.886
+BCAR3	Leukocytes	Anatomy	0.954
+BCAR3	Leptocyte	Anatomy	0.962
+BCAR3	Body tissue	Anatomy	1.0
+BCAR3	Kidney	Anatomy	1.0
+BCAR3	Hand	Anatomy	1.0
+BCAR3	Neurons	Anatomy	1.0
+BCAR3	anatomical layer	Anatomy	1.0
+BCAR3	Anatomical base	Anatomy	1.0
+BCAR3	Intestines	Anatomy	1.0
+BCAR3	T-Lymphocyte	Anatomy	1.0
+BCAR3	Tumor Cells, Cultured	Anatomy	1.0
+BCAR3	Chromosomes	Anatomy	1.0
+BCAR3	Joints	Anatomy	1.0
+BCAR3	Tumor cells, uncertain whether benign or malignant	Anatomy	1.0
+BCAR3	Embryonic Structures	Anatomy	1.0
+BCAR3	Fingers	Anatomy	1.0
+BCAR3	Intestines, Small	Anatomy	1.0
+BCAR3	Spleen	Anatomy	1.0
+BCAR3	Embryo	Anatomy	1.0
+BCAR3	Cortex of Organ	Anatomy	1.0
+BCAR3	Tract	Anatomy	1.0
+BCAR3	Immune system	Anatomy	1.0
+BCAR3	Antigen-Presenting Cells	Anatomy	1.0
+BCAR3	Cerebrospinal Fluid	Anatomy	1.0
+BCAR3	Avian crop	Anatomy	1.0
+BCAR3	Ear structure	Anatomy	1.0
+BCAR3	Embryo, Mammalian	Anatomy	1.0
+BCAR3	Epidermis	Anatomy	1.0
+BCAR3	Fetus	Anatomy	1.0
+BCAR3	Foot	Anatomy	1.0
+BCAR3	Hematopoietic stem cells	Anatomy	1.0
+BCAR3	Lysosomes	Anatomy	1.0
+BCAR3	Testis	Anatomy	1.0
+BCAR3	Thymus Gland	Anatomy	1.0
+BCAR3	Blood specimen	Anatomy	1.0
+BCAR3	Neoplastic Cell	Anatomy	1.0
+BCAR3	Anatomic Node	Anatomy	1.0
+BCAR3	Stem of Organ	Anatomy	1.0
+BCAR3	Gland	Anatomy	1.0
+BCAR3	Specimen Type - Lymphocytes	Anatomy	1.0
+BCAR3	Respiratory System	Anatomy	1.0
+BCAR3	Back	Anatomy	1.0
+BCAR3	Basement membrane	Anatomy	1.0
+BCAR3	Blood Cells	Anatomy	1.0
+BCAR3	Cartilage	Anatomy	1.0
+BCAR3	Cerebellum	Anatomy	1.0
+BCAR3	Cervix Uteri	Anatomy	1.0
+BCAR3	Corpus striatum structure	Anatomy	1.0
+BCAR3	Cytoplasmic matrix	Anatomy	1.0
+BCAR3	Dendritic Cells	Anatomy	1.0
+BCAR3	Endometrium	Anatomy	1.0
+BCAR3	Esophagus	Anatomy	1.0
+BCAR3	Extracellular Space	Anatomy	1.0
+BCAR3	Fallopian Tubes	Anatomy	1.0
+BCAR3	Gastric mucosa	Anatomy	1.0
+BCAR3	Germ Cells	Anatomy	1.0
+BCAR3	Golgi Apparatus	Anatomy	1.0
+BCAR3	Gonadal structure	Anatomy	1.0
+BCAR3	Interneurons	Anatomy	1.0
+BCAR3	Intestinal Mucosa	Anatomy	1.0
+BCAR3	Large Intestine	Anatomy	1.0
+BCAR3	Ligaments	Anatomy	1.0
+BCAR3	Lip structure	Anatomy	1.0
+BCAR3	Lymphoid Tissue	Anatomy	1.0
+BCAR3	Motor Neurons	Anatomy	1.0
+BCAR3	Oral cavity	Anatomy	1.0
+BCAR3	Nasal cavity	Anatomy	1.0
+BCAR3	Oligodendroglia	Anatomy	1.0
+BCAR3	Osteoblasts	Anatomy	1.0
+BCAR3	Osteoclasts	Anatomy	1.0
+BCAR3	Ovum	Anatomy	1.0
+BCAR3	Plasma Cells	Anatomy	1.0
+BCAR3	Endosomes	Anatomy	1.0
+BCAR3	saliva	Anatomy	1.0
+BCAR3	Trachea	Anatomy	1.0
+BCAR3	Neoplastic Stem Cells	Anatomy	1.0
+BCAR3	Giant Cells	Anatomy	1.0
+BCAR3	Neostriatum	Anatomy	1.0
+BCAR3	Stromal Cells	Anatomy	1.0
+BCAR3	Pyramidal Cells	Anatomy	1.0
+BCAR3	peroxisome	Anatomy	1.0
+BCAR3	Mesenchymal Stem Cells	Anatomy	1.0
+BCAR3	Lens, Crystalline	Anatomy	1.0
+BCAR3	Lymphoid Cells	Anatomy	1.0
+BCAR3	Blood supply aspects	Anatomy	1.0
+BCAR3	Shell - Animal skin appendage	Anatomy	1.0
+BCAR3	Oral region	Anatomy	1.0
+BCAR3	Structure of lumen of body system	Anatomy	1.0
+BCAR3	Pore	Anatomy	1.0
+BCAR3	Cervix Specimen	Anatomy	1.0
+BCAR3	SpecimenType - Ear	Anatomy	1.0
+BCAR3	Specimen Type - Filter	Anatomy	1.0
+BCAR3	vesicle	Anatomy	1.0
+BCAR3	Skeleton	Anatomy	1.0
+BCAR3	outer membrane	Anatomy	1.0
+BCAR3	Quarter of the Udder	Anatomy	1.0
+BCAR3	Animal Coat	Anatomy	1.0
+BCAR3	Cellular Membrane	Anatomy	1.0
+BCAR3	Merits A	Biomedical expert	0.6065
+BCAR3	Frolov I	Biomedical expert	0.6065
+BCAR3	Li Y	Biomedical expert	0.6065
+BCAR3	Patton JT	Biomedical expert	0.6313
+BCAR3	Kääriäinen L	Biomedical expert	0.657
+BCAR3	Snijder EJ	Biomedical expert	0.6703
+BCAR3	Zhou L	Biomedical expert	0.6839
+BCAR3	Guo X	Biomedical expert	0.6839
+BCAR3	Kobayashi N	Biomedical expert	0.6839
+BCAR3	Ghosh S	Biomedical expert	0.7118
+BCAR3	Fang Y	Biomedical expert	0.7261
+BCAR3	Yang H	Biomedical expert	0.7408
+BCAR3	Yang X	Biomedical expert	0.7408
+BCAR3	Ge X	Biomedical expert	0.7408
+BCAR3	Wang X	Biomedical expert	0.7558
+BCAR3	Wang L	Biomedical expert	0.7558
+BCAR3	Matthijnssens J	Biomedical expert	0.7558
+BCAR3	Zhang Y	Biomedical expert	0.7711
+BCAR3	Faaberg KS	Biomedical expert	0.7711
+BCAR3	Bányai K	Biomedical expert	0.7711
+BCAR3	Taraporewala ZF	Biomedical expert	0.7711
+BCAR3	Strauss JH	Biomedical expert	0.7711
+BCAR3	Rice CM	Biomedical expert	0.7711
+BCAR3	Wang Y	Biomedical expert	0.7711
+BCAR3	Zhang J	Biomedical expert	0.7866
+BCAR3	Chen H	Biomedical expert	0.7866
+BCAR3	Esona MD	Biomedical expert	0.7866
+BCAR3	Li X	Biomedical expert	0.7866
+BCAR3	Han J	Biomedical expert	0.7866
+BCAR3	Wang H	Biomedical expert	0.7866
+BCAR3	Liu Y	Biomedical expert	0.8025
+BCAR3	Burrone OR	Biomedical expert	0.8025
+BCAR3	Ahola T	Biomedical expert	0.8025
+BCAR3	Frolova EI	Biomedical expert	0.8025
+BCAR3	Sawicki DL	Biomedical expert	0.8187
+BCAR3	Sawicki SG	Biomedical expert	0.8187
+BCAR3	Zhang X	Biomedical expert	0.8187
+BCAR3	Xiao S	Biomedical expert	0.8187
+BCAR3	Lulla A	Biomedical expert	0.8187
+BCAR3	Taniguchi K	Biomedical expert	0.8187
+BCAR3	Lulla V	Biomedical expert	0.8187
+BCAR3	Nakagomi O	Biomedical expert	0.8353
+BCAR3	Liu X	Biomedical expert	0.8353
+BCAR3	Lerner A	Biomedical expert	0.8353
+BCAR3	Van Ranst M	Biomedical expert	0.8353
+BCAR3	Wang FX	Biomedical expert	0.8521
+BCAR3	van Agthoven T	Biomedical expert	0.8521
+BCAR3	Prasad BV	Biomedical expert	0.8521
+BCAR3	Bowen MD	Biomedical expert	0.8521
+BCAR3	Fang L	Biomedical expert	0.8521
+BCAR3	Wang J	Biomedical expert	0.8521
+BCAR3	Estes MK	Biomedical expert	0.8521
+BCAR3	Strauss EG	Biomedical expert	0.8521
+BCAR3	Frolova E	Biomedical expert	0.8521
+BCAR3	Zhang G	Biomedical expert	0.8521
+BCAR3	Gorchakov R	Biomedical expert	0.8521
+BCAR3	Nakagomi T	Biomedical expert	0.8521
+BCAR3	Peränen J	Biomedical expert	0.8694
+BCAR3	Kirkwood CD	Biomedical expert	0.8694
+BCAR3	Tian K	Biomedical expert	0.8694
+BCAR3	Wen YJ	Biomedical expert	0.8694
+BCAR3	Martella V	Biomedical expert	0.8694
+BCAR3	Heylen E	Biomedical expert	0.8694
+BCAR3	Atasheva S	Biomedical expert	0.8694
+BCAR3	Gentsch JR	Biomedical expert	0.8694
+BCAR3	Wu H	Biomedical expert	0.8694
+BCAR3	Komoto S	Biomedical expert	0.8694
+BCAR3	Tian Y	Biomedical expert	0.8694
+BCAR3	Zhang S	Biomedical expert	0.8694
+BCAR3	Wang C	Biomedical expert	0.8694
+BCAR3	Jiang Y	Biomedical expert	0.8694
+BCAR3	Wu J	Biomedical expert	0.8694
+BCAR3	Kang R	Biomedical expert	0.8694
+BCAR3	Sun Z	Biomedical expert	0.8869
+BCAR3	Wang D	Biomedical expert	0.8869
+BCAR3	Sun Y	Biomedical expert	0.8869
+BCAR3	Arnoldi F	Biomedical expert	0.8869
+BCAR3	Chen Y	Biomedical expert	0.8869
+BCAR3	Li J	Biomedical expert	0.8869
+BCAR3	Zeller M	Biomedical expert	0.8869
+BCAR3	Doan YH	Biomedical expert	0.8869
+BCAR3	Utt A	Biomedical expert	0.8869
+BCAR3	Zhou Z	Biomedical expert	0.8869
+BCAR3	Kim DY	Biomedical expert	0.8869
+BCAR3	Jiang P	Biomedical expert	0.8869
+BCAR3	Poncet D	Biomedical expert	0.8869
+BCAR3	Liu Z	Biomedical expert	0.8869
+BCAR3	Rowland RR	Biomedical expert	0.8869
+BCAR3	Zhang M	Biomedical expert	0.8869
+BCAR3	Zhou X	Biomedical expert	0.8869
+BCAR3	Dorssers LC	Biomedical expert	0.8869
+BCAR3	Rikkonen M	Biomedical expert	0.8869
+BCAR3	Chen Z	Biomedical expert	0.8869
+BCAR3	Timoney PJ	Biomedical expert	0.8869
+BCAR3	Tas A	Biomedical expert	0.9048
+BCAR3	Das PK	Biomedical expert	0.9048
+BCAR3	Tong W	Biomedical expert	0.9048
+BCAR3	Lu Z	Biomedical expert	0.9048
+BCAR3	Chattopadhyay S	Biomedical expert	0.9048
+BCAR3	Naik TN	Biomedical expert	0.9048
+BCAR3	Protein	Food	4.8E-4
+BCAR3	Histidine	Food	0.00876
+BCAR3	Pork	Food	0.00942
+BCAR3	Serine	Food	0.0193
+BCAR3	Arginine	Food	0.0252
+BCAR3	Alanine	Food	0.0397
+BCAR3	Tyrosine	Food	0.0432
+BCAR3	Water	Food	0.0733
+BCAR3	Glucose	Food	0.107
+BCAR3	Peas	Food	0.121
+BCAR3	Sodium	Food	0.175
+BCAR3	Glycine	Food	0.284
+BCAR3	Threonine	Food	0.301
+BCAR3	Lysine	Food	0.309
+BCAR3	Iron	Food	0.355
+BCAR3	Fatty acids	Food	0.444
+BCAR3	Fungi	Food	0.54
+BCAR3	Dates	Food	0.742
+BCAR3	Egg	Food	0.997
+BCAR3	Calcium	Food	1.0
+BCAR3	Magnesium	Food	1.0
+BCAR3	Zinc	Food	1.0
+BCAR3	Chicken	Food	1.0
+BCAR3	Fish	Food	1.0
+BCAR3	Tryptophan	Food	1.0
+BCAR3	Soybeans	Food	1.0
+BCAR3	Phosphorus	Food	1.0
+BCAR3	Sugar	Food	1.0
+BCAR3	Turkey	Food	1.0
+BCAR3	Leucine	Food	1.0
+BCAR3	Aspartic acid	Food	1.0
+BCAR3	Manganese	Food	1.0
+BCAR3	Phenylalanine	Food	1.0
+BCAR3	Shortening	Food	1.0
+BCAR3	Seeds	Food	1.0
+BCAR3	Salmon	Food	1.0
+BCAR3	Choline	Food	1.0
+BCAR3	Juice	Food	1.0
+BCAR3	Valine	Food	1.0
+BCAR3	Vitamin D	Food	1.0
+BCAR3	Fluoride	Food	1.0
+BCAR3	Glutamic acid	Food	1.0
+BCAR3	viral replication complex	Cellular component	1.05E-4
+BCAR3	viral outer capsid	Cellular component	2.41E-4
+BCAR3	viral intermediate capsid	Cellular component	2.44E-4
+BCAR3	viral genome	Cellular component	4.22E-4
+BCAR3	periarbuscular membrane	Cellular component	6.58E-4
+BCAR3	root hair	Cellular component	6.7E-4
+BCAR3	virion	Cellular component	7.71E-4
+BCAR3	viral nucleocapsid	Cellular component	8.17E-4
+BCAR3	host cell	Cellular component	8.35E-4
+BCAR3	RNA viral genome	Cellular component	9.27E-4
+BCAR3	arbuscule	Cellular component	0.00117
+BCAR3	peribacteroid membrane	Cellular component	0.00205
+BCAR3	secretory IgA immunoglobulin complex	Cellular component	0.00432
+BCAR3	focal adhesion	Cellular component	0.00455
+BCAR3	viral inner capsid	Cellular component	0.00511
+BCAR3	cytoplasm	Cellular component	0.00791
+BCAR3	cell	Cellular component	0.0092
+BCAR3	cytoplasmic stress granule	Cellular component	0.0114
+BCAR3	protein complex	Cellular component	0.0154
+BCAR3	autophagic vacuole	Cellular component	0.0159
+BCAR3	transcription factor complex	Cellular component	0.0163
+BCAR3	ribosome	Cellular component	0.0195
+BCAR3	viral membrane	Cellular component	0.0263
+BCAR3	nucleus	Cellular component	0.0278
+BCAR3	nuclear matrix	Cellular component	0.0278
+BCAR3	nuclear inner membrane	Cellular component	0.028
+BCAR3	nuclear membrane	Cellular component	0.0315
+BCAR3	endoplasmic reticulum	Cellular component	0.036
+BCAR3	cytoskeleton	Cellular component	0.0489
+BCAR3	IgA immunoglobulin complex, circulating	Cellular component	0.0515
+BCAR3	cell periphery	Cellular component	0.0701
+BCAR3	viral capsid	Cellular component	0.0792
+BCAR3	membrane	Cellular component	0.0876
+BCAR3	lipid particle	Cellular component	0.09
+BCAR3	viral envelope	Cellular component	0.0969
+BCAR3	catalytic complex	Cellular component	0.107
+BCAR3	nuclear envelope	Cellular component	0.138
+BCAR3	filamentous actin	Cellular component	0.14
+BCAR3	actin cytoskeleton	Cellular component	0.219
+BCAR3	lysosome	Cellular component	0.234
+BCAR3	nucleosome	Cellular component	0.305
+BCAR3	ribonucleoprotein complex	Cellular component	0.311
+BCAR3	extracellular matrix	Cellular component	0.36
+BCAR3	collagen trimer	Cellular component	0.398
+BCAR3	peroxisome	Cellular component	0.46
+BCAR3	mitochondrion	Cellular component	0.794
+BCAR3	plasma membrane	Cellular component	1.0
+BCAR3	chromatin	Cellular component	1.0
+BCAR3	chromosome	Cellular component	1.0
+BCAR3	yolk	Cellular component	1.0
+BCAR3	basement membrane	Cellular component	1.0
+BCAR3	Golgi apparatus	Cellular component	1.0
+BCAR3	cytosol	Cellular component	1.0
+BCAR3	microtubule	Cellular component	1.0
+BCAR3	outer membrane	Cellular component	1.0
+BCAR3	proteasome complex	Cellular component	1.0
+BCAR3	vesicle	Cellular component	1.0
+BCAR3	organelle	Cellular component	1.0
+BCAR3	extracellular space	Cellular component	1.0
+BCAR3	Rotavirus vaccine	Drug	6.77E-4
+BCAR3	ALISPORIVIR	Drug	0.00195
+BCAR3	Recombinant Interferon	Drug	0.00376
+BCAR3	Ribostamycin	Drug	0.00464
+BCAR3	Recombinant Interferon Beta	Drug	0.00485
+BCAR3	KLH-FITC	Drug	0.00554
+BCAR3	Histidine	Drug	0.00876
+BCAR3	Tamoxifen	Drug	0.009
+BCAR3	Minocycline	Drug	0.00958
+BCAR3	INALIMAREV	Drug	0.01
+BCAR3	L-Serine	Drug	0.0154
+BCAR3	NITAZOXANIDE	Drug	0.0166
+BCAR3	FULVESTRANT	Drug	0.0211
+BCAR3	Hesperetin	Drug	0.0218
+BCAR3	Calyculin A	Drug	0.023
+BCAR3	ZINC ACETATE	Drug	0.0238
+BCAR3	Arginine	Drug	0.0252
+BCAR3	PUROMYCIN	Drug	0.0252
+BCAR3	Benzamidine	Drug	0.0258
+BCAR3	nocodazole	Drug	0.0289
+BCAR3	RIBAVIRIN	Drug	0.0317
+BCAR3	Isatin	Drug	0.0361
+BCAR3	L-Alanine	Drug	0.0397
+BCAR3	Silibinin	Drug	0.0397
+BCAR3	TYROSINE	Drug	0.042
+BCAR3	Geldanamycin	Drug	0.046
+BCAR3	L-Asparagine	Drug	0.0477
+BCAR3	AFIMOXIFENE	Drug	0.0482
+BCAR3	Enoxolone	Drug	0.06
+BCAR3	Naringenin	Drug	0.0683
+BCAR3	G418	Drug	0.0704
+BCAR3	Cyclin-Dependent Kinase 6	Drug	0.0719
+BCAR3	3-Methyladenine	Drug	0.081
+BCAR3	S-Adenosylmethionine	Drug	0.083
+BCAR3	Licorice	Drug	0.0921
+BCAR3	Adenosine Triphosphate	Drug	0.0944
+BCAR3	Mecasermin	Drug	0.116
+BCAR3	Benzimidazole	Drug	0.162
+BCAR3	Erlotinib	Drug	0.179
+BCAR3	Guanine	Drug	0.215
+BCAR3	Coagulation Factor IX	Drug	0.221
+BCAR3	SIROLIMUS	Drug	0.224
+BCAR3	GLYCINE	Drug	0.285
+BCAR3	L-Threonine	Drug	0.301
+BCAR3	DACTINOMYCIN	Drug	0.31
+BCAR3	Lysine	Drug	0.311
+BCAR3	DEOXYCHOLIC ACID	Drug	0.348
+BCAR3	Iron	Drug	0.352
+BCAR3	Recombinant Macrophage Colony-Stimulating Factor	Drug	0.43
+BCAR3	ANTHRACENE	Drug	0.432
+BCAR3	ETHINYL ESTRADIOL	Drug	0.467
+BCAR3	NITRIC OXIDE	Drug	0.471
+BCAR3	Saline	Drug	0.489
+BCAR3	Dodecyl Sulfate	Drug	0.494
+BCAR3	Recombinant Interferon Gamma	Drug	0.495
+BCAR3	SINCALIDE	Drug	0.538
+BCAR3	Neomycin	Drug	0.625
+BCAR3	Guanidine	Drug	0.818
+BCAR3	Recombinant Interleukin-6	Drug	0.838
+BCAR3	Therapeutic Insulin	Drug	0.839
+BCAR3	Protein C	Drug	0.845
+BCAR3	GLYCERIN	Drug	0.859
+BCAR3	CALCIUM	Drug	1.0
+BCAR3	Magnesium	Drug	1.0
+BCAR3	Glutathione	Drug	1.0
+BCAR3	Therapeutic Immune Globulin	Drug	1.0
+BCAR3	L-Tryptophan	Drug	1.0
+BCAR3	Zinc	Drug	1.0
+BCAR3	L-Leucine	Drug	1.0
+BCAR3	EDETATE CALCIUM DISODIUM	Drug	1.0
+BCAR3	L-Aspartic Acid	Drug	1.0
+BCAR3	Alkaline Phosphatase	Drug	1.0
+BCAR3	Glutamic Acid	Drug	1.0
+BCAR3	Vitamin D Compound	Drug	1.0
+BCAR3	Choline	Drug	1.0
+BCAR3	L-Phenylalanine	Drug	1.0
+BCAR3	CYCLOSPORINE	Drug	1.0
+BCAR3	ALDESLEUKIN	Drug	1.0
+BCAR3	CHYMOTRYPSIN	Drug	1.0
+BCAR3	Flavonoid	Drug	1.0
+BCAR3	L-Valine	Drug	1.0
+BCAR3	Adenine	Drug	1.0
+BCAR3	Metformin	Drug	1.0
+BCAR3	Therapeutic Progesterone	Drug	1.0
+BCAR3	Broxuridine	Drug	1.0
+BCAR3	CHLORAMPHENICOL	Drug	1.0
+BCAR3	Recombinant Tumor Necrosis Factor Family Protein	Drug	1.0
+BCAR3	Chlorpromazine	Drug	1.0
+BCAR3	ASPIRIN	Drug	1.0
+BCAR3	Isoproterenol	Drug	1.0
+BCAR3	PACLITAXEL	Drug	1.0
+BCAR3	Diphosphate	Drug	1.0
+BCAR3	DEXAMETHASONE	Drug	1.0
+BCAR3	Uridine	Drug	1.0
+BCAR3	Guanosine	Drug	1.0
+BCAR3	RNA strand annealing activity	Molecular function	2.43E-5
+BCAR3	nucleoside-triphosphatase activity	Molecular function	5.5E-5
+BCAR3	RNA helicase activity	Molecular function	2.32E-4
+BCAR3	single-stranded RNA binding	Molecular function	3.72E-4
+BCAR3	peptidase activity	Molecular function	3.85E-4
+BCAR3	triphosphatase activity	Molecular function	7.39E-4
+BCAR3	RNA binding	Molecular function	0.00159
+BCAR3	protein N-terminus binding	Molecular function	0.00176
+BCAR3	SH3 domain binding	Molecular function	0.00309
+BCAR3	RNA-directed RNA polymerase activity	Molecular function	0.00422
+BCAR3	epidermal growth factor-activated receptor activity	Molecular function	0.00554
+BCAR3	RNA polymerase activity	Molecular function	0.00578
+BCAR3	protein binding	Molecular function	0.00653
+BCAR3	helicase activity	Molecular function	0.00811
+BCAR3	protein C-terminus binding	Molecular function	0.00937
+BCAR3	phosphatase activity	Molecular function	0.00975
+BCAR3	immunoglobulin binding	Molecular function	0.0111
+BCAR3	ubiquitin-specific protease activity	Molecular function	0.0141
+BCAR3	methyl-CpG binding	Molecular function	0.0156
+BCAR3	chromatin binding	Molecular function	0.0193
+BCAR3	enhancer binding	Molecular function	0.0293
+BCAR3	kinase activity	Molecular function	0.0305
+BCAR3	ion binding	Molecular function	0.0386
+BCAR3	nuclease activity	Molecular function	0.0483
+BCAR3	ATPase activity	Molecular function	0.0541
+BCAR3	beta-galactosidase activity	Molecular function	0.072
+BCAR3	GTPase activity	Molecular function	0.0945
+BCAR3	protein kinase activity	Molecular function	0.12
+BCAR3	DBD domain binding	Molecular function	0.124
+BCAR3	DNA binding	Molecular function	0.167
+BCAR3	luciferin monooxygenase activity	Molecular function	0.214
+BCAR3	nucleotide binding	Molecular function	0.232
+BCAR3	catalytic activity	Molecular function	1.0
+BCAR3	narrow pore, gated channel activity	Molecular function	1.0
+BCAR3	Severe diarrhea	Symptom	5.82E-4
+BCAR3	Diarrhea	Symptom	9.44E-4
+BCAR3	Arthralgia	Symptom	0.00245
+BCAR3	Infantile diarrhea	Symptom	0.0055
+BCAR3	Vomit diarrhea	Symptom	0.00551
+BCAR3	Respiratory problems	Symptom	0.00804
+BCAR3	Multiples symptoms	Symptom	0.0273
+BCAR3	Myalgia	Symptom	0.0457
+BCAR3	Chills	Symptom	0.049
+BCAR3	Watery diarrhea	Symptom	0.0523
+BCAR3	Swollen joint	Symptom	0.0716
+BCAR3	Pain	Symptom	0.142
+BCAR3	Body weight problem	Symptom	0.364
+BCAR3	Starvation	Symptom	0.547
+BCAR3	Headache	Symptom	0.615
+BCAR3	Coughing	Symptom	0.79
+BCAR3	Nausea	Symptom	1.0
+BCAR3	Vomiting	Symptom	1.0
+BCAR3	Fluctuation	Symptom	1.0
+BCAR3	Spots on skin	Symptom	1.0
+BCAR3	Dyspnea	Symptom	1.0
+BCAR3	Abdominal pain	Symptom	1.0
+BCAR3	RTN2	Gene/Protein	3.72E-8
+BCAR3	SH2D3A	Gene/Protein	4.02E-7
+BCAR3	SH2D3C	Gene/Protein	4.05E-7
+BCAR3	SPECC1	Gene/Protein	4.33E-7
+BCAR3	PRSS57	Gene/Protein	8.01E-7
+BCAR3	CWC15	Gene/Protein	8.15E-6
+BCAR3	ZNF563	Gene/Protein	2.43E-5
+BCAR3	NTPCR	Gene/Protein	2.98E-5
+BCAR3	TOR4A	Gene/Protein	4.87E-5
+BCAR3	ZNF621	Gene/Protein	4.87E-5
+BCAR3	ITPA	Gene/Protein	4.9E-5
+BCAR3	GTF2H3	Gene/Protein	5.41E-5
+BCAR3	GP5	Gene/Protein	5.82E-5
+BCAR3	BCAR1	Gene/Protein	6.63E-5
+BCAR3	ICT1	Gene/Protein	6.98E-5
+BCAR3	C12orf29	Gene/Protein	7.3E-5
+BCAR3	ASZ1	Gene/Protein	8.72E-5
+BCAR3	FAM171A1	Gene/Protein	9.74E-5
+BCAR3	KIR2DL4	Gene/Protein	1.04E-4
+BCAR3	PPP1CA	Gene/Protein	1.13E-4
+BCAR3	PLP2	Gene/Protein	1.4E-4
+BCAR3	TTC7B	Gene/Protein	1.46E-4
+BCAR3	C1orf186	Gene/Protein	1.46E-4
+BCAR3	CCDC57	Gene/Protein	1.7E-4
+BCAR3	SLX4IP	Gene/Protein	2.19E-4
+BCAR3	CTTNBP2	Gene/Protein	2.48E-4
+BCAR3	NUP85	Gene/Protein	2.5E-4
+BCAR3	G3BP2	Gene/Protein	2.74E-4
+BCAR3	CSNK1G1	Gene/Protein	3.41E-4
+BCAR3	CTSB	Gene/Protein	4.12E-4
+BCAR3	CPNE6	Gene/Protein	4.14E-4
+BCAR3	HFM1	Gene/Protein	4.52E-4
+BCAR3	LILRA1	Gene/Protein	4.63E-4
+BCAR3	CDC42EP2	Gene/Protein	4.87E-4
+BCAR3	ADAM5	Gene/Protein	5.12E-4
+BCAR3	CENPM	Gene/Protein	5.36E-4
+BCAR3	ASNS	Gene/Protein	5.46E-4
+BCAR3	UBAP2L	Gene/Protein	5.85E-4
+BCAR3	NT5M	Gene/Protein	6.09E-4
+BCAR3	RAPGEF5	Gene/Protein	6.58E-4
+BCAR3	DDX19A	Gene/Protein	6.79E-4
+BCAR3	GRB7	Gene/Protein	6.9E-4
+BCAR3	DDX46	Gene/Protein	6.93E-4
+BCAR3	DHX16	Gene/Protein	7.35E-4
+BCAR3	HHATL	Gene/Protein	7.56E-4
+BCAR3	MYH13	Gene/Protein	8.29E-4
+BCAR3	NID2	Gene/Protein	8.67E-4
+BCAR3	CCDC130	Gene/Protein	9.76E-4
+BCAR3	ZNF398	Gene/Protein	9.77E-4
+BCAR3	BCAR4	Gene/Protein	0.00102
+BCAR3	TRIM14	Gene/Protein	0.00105
+BCAR3	ERN2	Gene/Protein	0.00107
+BCAR3	ST5	Gene/Protein	0.00112
+BCAR3	UBQLN4	Gene/Protein	0.00115
+BCAR3	KLF9	Gene/Protein	0.00117
+BCAR3	HOMER3	Gene/Protein	0.00117
+BCAR3	LYPD3	Gene/Protein	0.0012
+BCAR3	SNX5	Gene/Protein	0.00122
+BCAR3	MLF2	Gene/Protein	0.00124
+BCAR3	TRMT1	Gene/Protein	0.00124
+BCAR3	CD36	Gene/Protein	0.00128
+BCAR3	ERN1	Gene/Protein	0.00137
+BCAR3	NUP133	Gene/Protein	0.00137
+BCAR3	EDDM3A	Gene/Protein	0.00144
+BCAR3	HMHB1	Gene/Protein	0.00151
+BCAR3	NME2P1	Gene/Protein	0.00152
+BCAR3	TCF20	Gene/Protein	0.00154
+BCAR3	SERTAD1	Gene/Protein	0.00154
+BCAR3	IL20RB	Gene/Protein	0.00156
+BCAR3	G3BP1	Gene/Protein	0.00157
+BCAR3	TS13	Gene/Protein	0.00161
+BCAR3	ACBD3	Gene/Protein	0.00161
+BCAR3	COTL1	Gene/Protein	0.00171
+BCAR3	ITGB8	Gene/Protein	0.00173
+BCAR3	MAPKAPK3	Gene/Protein	0.00178
+BCAR3	RBM4	Gene/Protein	0.00181
+BCAR3	RRAS	Gene/Protein	0.00183
+BCAR3	FREM1	Gene/Protein	0.00183
+BCAR3	CLDN12	Gene/Protein	0.00186
+BCAR3	RBL2	Gene/Protein	0.00193
+BCAR3	POLR2C	Gene/Protein	0.00193
+BCAR3	HSPB3	Gene/Protein	0.00204
+BCAR3	ORF1	Gene/Protein	0.00204
+BCAR3	SMARCC2	Gene/Protein	0.0021
+BCAR3	ZDHHC23	Gene/Protein	0.0021
+BCAR3	NCKIPSD	Gene/Protein	0.00213
+BCAR3	TLE3	Gene/Protein	0.00213
+BCAR3	WDR36	Gene/Protein	0.00213
+BCAR3	MTRNR2L5	Gene/Protein	0.00213
+BCAR3	FGFRL1	Gene/Protein	0.00218
+BCAR3	AHI1	Gene/Protein	0.00219
+BCAR3	NTN4	Gene/Protein	0.00225
+BCAR3	AKR7A2	Gene/Protein	0.00232
+BCAR3	FXYD5	Gene/Protein	0.00232
+BCAR3	BHLHE40	Gene/Protein	0.00233
+BCAR3	EIF3I	Gene/Protein	0.00237
+BCAR3	CTSF	Gene/Protein	0.00237
+BCAR3	KLK11	Gene/Protein	0.0024
+BCAR3	MYCBP2	Gene/Protein	0.00247
+BCAR3	PIP5K1B	Gene/Protein	0.0025
+BCAR3	PRM3	Gene/Protein	0.00252
+BCAR3	PIR	Gene/Protein	0.00257
+BCAR3	CKS2	Gene/Protein	0.00262
+BCAR3	TRMU	Gene/Protein	0.00262
+BCAR3	SEMA6A	Gene/Protein	0.00279
+BCAR3	NIN	Gene/Protein	0.00281
+BCAR3	CD2AP	Gene/Protein	0.00286
+BCAR3	NCK1	Gene/Protein	0.00291
+BCAR3	NEDD9	Gene/Protein	0.00292
+BCAR3	CALCOCO2	Gene/Protein	0.00294
+BCAR3	KDM2B	Gene/Protein	0.00309
+BCAR3	CLIC4	Gene/Protein	0.00311
+BCAR3	BCAS2	Gene/Protein	0.00316
+BCAR3	RPS6KA2	Gene/Protein	0.00331
+BCAR3	RALA	Gene/Protein	0.00341
+BCAR3	GREB1	Gene/Protein	0.00341
+BCAR3	RAB25	Gene/Protein	0.00343
+BCAR3	PLP1	Gene/Protein	0.00346
+BCAR3	NXT1	Gene/Protein	0.00347
+BCAR3	ABL2	Gene/Protein	0.00363
+BCAR3	MYO10	Gene/Protein	0.00365
+BCAR3	SH3KBP1	Gene/Protein	0.00392
+BCAR3	TLN1	Gene/Protein	0.00397
+BCAR3	GRAP2	Gene/Protein	0.00397
+BCAR3	DPP9	Gene/Protein	0.00397
+BCAR3	AKT2	Gene/Protein	0.00409
+BCAR3	SPARCL1	Gene/Protein	0.0041
+BCAR3	AMIGO2	Gene/Protein	0.00412
+BCAR3	DCTN1	Gene/Protein	0.00422
+BCAR3	MAPK6	Gene/Protein	0.0043
+BCAR3	TNK2	Gene/Protein	0.00432
+BCAR3	HNRNPK	Gene/Protein	0.00433
+BCAR3	TMPRSS4	Gene/Protein	0.00435
+BCAR3	CAPZA2	Gene/Protein	0.00437
+BCAR3	KIFAP3	Gene/Protein	0.00442
+BCAR3	CAPZB	Gene/Protein	0.00449
+BCAR3	APBA2	Gene/Protein	0.00452
+BCAR3	HERC2	Gene/Protein	0.00454
+BCAR3	CDKN2B	Gene/Protein	0.00458
+BCAR3	ARF4	Gene/Protein	0.00462
+BCAR3	CAPZA1	Gene/Protein	0.00462
+BCAR3	RNGTT	Gene/Protein	0.00474
+BCAR3	MAPRE1	Gene/Protein	0.00484
+BCAR3	SCYL1	Gene/Protein	0.00484
+BCAR3	ARF3	Gene/Protein	0.00497
+BCAR3	WISP2	Gene/Protein	0.00497
+BCAR3	DEC1	Gene/Protein	0.00511
+BCAR3	SMARCC1	Gene/Protein	0.00519
+BCAR3	RALGDS	Gene/Protein	0.00531
+BCAR3	CSNK1A1	Gene/Protein	0.00534
+BCAR3	KRT82	Gene/Protein	0.00541
+BCAR3	NS2	Gene/Protein	0.00548
+BCAR3	KLF10	Gene/Protein	0.00551
+BCAR3	MORF4	Gene/Protein	0.00554
+BCAR3	UBE2L3	Gene/Protein	0.00561
+BCAR3	MMP16	Gene/Protein	0.00576
+BCAR3	TOLLIP	Gene/Protein	0.0058
+BCAR3	RASGRF1	Gene/Protein	0.00584
+BCAR3	COL4A2	Gene/Protein	0.00586
+BCAR3	KIF23	Gene/Protein	0.00596
+BCAR3	IFIT2	Gene/Protein	0.00599
+BCAR3	EIF4A2	Gene/Protein	0.00605
+BCAR3	DDX41	Gene/Protein	0.00606
+BCAR3	ISG15	Gene/Protein	0.00628
+BCAR3	IER3	Gene/Protein	0.00646
+BCAR3	TFAP2C	Gene/Protein	0.00661
+BCAR3	RAD51B	Gene/Protein	0.00668
+BCAR3	CRK	Gene/Protein	0.00671
+BCAR3	PLIN2	Gene/Protein	0.00672
+BCAR3	UNC13D	Gene/Protein	0.00688
+BCAR3	IRF3	Gene/Protein	0.00701
+BCAR3	DCLK1	Gene/Protein	0.00701
+BCAR3	ILF3	Gene/Protein	0.00718
+BCAR3	STAT1	Gene/Protein	0.0073
+BCAR3	RASA1	Gene/Protein	0.00735
+BCAR3	DIAPH1	Gene/Protein	0.00743
+BCAR3	PEG10	Gene/Protein	0.00748
+BCAR3	XBP1P1	Gene/Protein	0.00753
+BCAR3	CDH23	Gene/Protein	0.00766
+BCAR3	XPO1	Gene/Protein	0.00771
+BCAR3	SMARCB1	Gene/Protein	0.00788
+BCAR3	RPTOR	Gene/Protein	0.00794
+BCAR3	CDK5R2	Gene/Protein	0.00801
+BCAR3	ATP6V0D1	Gene/Protein	0.00806
+BCAR3	PTGES2	Gene/Protein	0.00806
+BCAR3	UBE2B	Gene/Protein	0.00831
+BCAR3	PHB2	Gene/Protein	0.00831
+BCAR3	SLPI	Gene/Protein	0.00833
+BCAR3	RAB11A	Gene/Protein	0.00834
+BCAR3	CDC25C	Gene/Protein	0.00836
+BCAR3	PKN1	Gene/Protein	0.0084
+BCAR3	SYNGAP1	Gene/Protein	0.00854
+BCAR3	CCNB2	Gene/Protein	0.00869
+BCAR3	PAK1	Gene/Protein	0.00873
+BCAR3	ZFP36L1	Gene/Protein	0.00874
+BCAR3	SPRY2	Gene/Protein	0.00877
+BCAR3	PVT1	Gene/Protein	0.00879
+BCAR3	SEMA3B	Gene/Protein	0.00892
+BCAR3	ESRRA	Gene/Protein	0.00894
+BCAR3	PIEZO1	Gene/Protein	0.00894
+BCAR3	RMRP	Gene/Protein	0.00904
+BCAR3	ANK3	Gene/Protein	0.00932
+BCAR3	SLC20A2	Gene/Protein	0.00932
+BCAR3	APOM	Gene/Protein	0.00932
+BCAR3	HRAS	Gene/Protein	0.00933
+BCAR3	CECR1	Gene/Protein	0.00947
+BCAR3	PDIK1L	Gene/Protein	0.00958
+BCAR3	SOS1	Gene/Protein	0.01
+BCAR3	RAPGEF1	Gene/Protein	0.0102
+BCAR3	DDX56	Gene/Protein	0.0102
+BCAR3	PAM	Gene/Protein	0.0106
+BCAR3	IL12A	Gene/Protein	0.0109
+BCAR3	CACNA1B	Gene/Protein	0.0111
+BCAR3	SFN	Gene/Protein	0.0111
+BCAR3	COL4A1	Gene/Protein	0.0112
+BCAR3	EIF1	Gene/Protein	0.0112
+BCAR3	XBP1	Gene/Protein	0.0116
+BCAR3	PEA15	Gene/Protein	0.0116
+BCAR3	CAV2	Gene/Protein	0.0118
+BCAR3	RNASE2	Gene/Protein	0.012
+BCAR3	ERVW-1	Gene/Protein	0.0122
+BCAR3	LCP2	Gene/Protein	0.0122
+BCAR3	MAVS	Gene/Protein	0.0122
+BCAR3	CRKL	Gene/Protein	0.0125
+BCAR3	PPP1R15A	Gene/Protein	0.0125
+BCAR3	FOXC1	Gene/Protein	0.0126
+BCAR3	FZD5	Gene/Protein	0.0126
+BCAR3	GBA3	Gene/Protein	0.0128
+BCAR3	KLF6	Gene/Protein	0.0129
+BCAR3	TERF2IP	Gene/Protein	0.0131
+BCAR3	DUSP6	Gene/Protein	0.0131
+BCAR3	RABGEF1	Gene/Protein	0.0133
+BCAR3	TPPP3	Gene/Protein	0.0134
+BCAR3	EPHB4	Gene/Protein	0.0135
+BCAR3	PIK3R1	Gene/Protein	0.0136
+BCAR3	CSE1L	Gene/Protein	0.0142
+BCAR3	PSMD1	Gene/Protein	0.0142
+BCAR3	CTNND1	Gene/Protein	0.0146
+BCAR3	BUB1	Gene/Protein	0.0147
+BCAR3	RAP1A	Gene/Protein	0.0148
+BCAR3	FAM168B	Gene/Protein	0.0151
+BCAR3	POLR2A	Gene/Protein	0.0152
+BCAR3	SSFA2	Gene/Protein	0.0153
+BCAR3	RNASE1	Gene/Protein	0.0157
+BCAR3	TRERF1	Gene/Protein	0.0157
+BCAR3	RAD21	Gene/Protein	0.0157
+BCAR3	SOS2	Gene/Protein	0.0159
+BCAR3	SIRPA	Gene/Protein	0.0162
+BCAR3	CDC42	Gene/Protein	0.0163
+BCAR3	GRB2	Gene/Protein	0.0164
+BCAR3	CST6	Gene/Protein	0.0166
+BCAR3	SH2D1A	Gene/Protein	0.0174
+BCAR3	CCL8	Gene/Protein	0.0176
+BCAR3	VAV1	Gene/Protein	0.018
+BCAR3	KIF11	Gene/Protein	0.0181
+BCAR3	EIF4A1	Gene/Protein	0.0184
+BCAR3	PABPC1	Gene/Protein	0.0186
+BCAR3	CDH13	Gene/Protein	0.0192
+BCAR3	CYTIP	Gene/Protein	0.0195
+BCAR3	CRTAP	Gene/Protein	0.0199
+BCAR3	EIF2AK2	Gene/Protein	0.02
+BCAR3	HNRNPA1	Gene/Protein	0.0203
+BCAR3	THRB	Gene/Protein	0.0204
+BCAR3	PTK2B	Gene/Protein	0.0206
+BCAR3	AMH	Gene/Protein	0.0208
+BCAR3	SULT1A1	Gene/Protein	0.0214
+BCAR3	IL12B	Gene/Protein	0.0215
+BCAR3	EGR2	Gene/Protein	0.0218
+BCAR3	ARID1A	Gene/Protein	0.0222
+BCAR3	AKT1	Gene/Protein	0.0224
+BCAR3	DSG3	Gene/Protein	0.0225
+BCAR3	TERF1	Gene/Protein	0.0226
+BCAR3	RAC1	Gene/Protein	0.0229
+BCAR3	FSCN1	Gene/Protein	0.0231
+BCAR3	SERPINE2	Gene/Protein	0.0236
+BCAR3	SFRP1	Gene/Protein	0.0241
+BCAR3	CCNB1	Gene/Protein	0.0243
+BCAR3	IL6R	Gene/Protein	0.0244
+BCAR3	PHB	Gene/Protein	0.0249
+BCAR3	RBMS3	Gene/Protein	0.025
+BCAR3	ABCC4	Gene/Protein	0.0256
+BCAR3	CDC20	Gene/Protein	0.0259
+BCAR3	ARHGEF5	Gene/Protein	0.0265
+BCAR3	PAX2	Gene/Protein	0.0266
+BCAR3	CENPA	Gene/Protein	0.0269
+BCAR3	PTBP1	Gene/Protein	0.0273
+BCAR3	TANK	Gene/Protein	0.0273
+BCAR3	FOXA1	Gene/Protein	0.0274
+BCAR3	PLCG1	Gene/Protein	0.0276
+BCAR3	TRAF2	Gene/Protein	0.0278
+BCAR3	PLIN1	Gene/Protein	0.0279
+BCAR3	AURKB	Gene/Protein	0.028
+BCAR3	EGF	Gene/Protein	0.0282
+BCAR3	IFIT3	Gene/Protein	0.0284
+BCAR3	NUP62	Gene/Protein	0.0286
+BCAR3	MAP3K1	Gene/Protein	0.0286
+BCAR3	HTRA1	Gene/Protein	0.0286
+BCAR3	GP6	Gene/Protein	0.0289
+BCAR3	CSF1	Gene/Protein	0.0291
+BCAR3	MAP1LC3A	Gene/Protein	0.0291
+BCAR3	IL1R1	Gene/Protein	0.0297
+BCAR3	CTTN	Gene/Protein	0.03
+BCAR3	GATA2	Gene/Protein	0.0301
+BCAR3	EPHA8	Gene/Protein	0.0304
+BCAR3	KHDRBS1	Gene/Protein	0.0305
+BCAR3	DNAH8	Gene/Protein	0.0306
+BCAR3	RAF1	Gene/Protein	0.0306
+BCAR3	IFNAR1	Gene/Protein	0.0308
+BCAR3	GLYAT	Gene/Protein	0.0315
+BCAR3	STIP1	Gene/Protein	0.0317
+BCAR3	PTCH1	Gene/Protein	0.0329
+BCAR3	PGAP3	Gene/Protein	0.0332
+BCAR3	EPHA2	Gene/Protein	0.0333
+BCAR3	CCL17	Gene/Protein	0.0335
+BCAR3	MAP3K5	Gene/Protein	0.0347
+BCAR3	ATF6	Gene/Protein	0.0347
+BCAR3	NCOA1	Gene/Protein	0.0352
+BCAR3	GPER1	Gene/Protein	0.0354
+BCAR3	GLB1	Gene/Protein	0.0355
+BCAR3	PER1	Gene/Protein	0.0364
+BCAR3	MAPK9	Gene/Protein	0.0378
+BCAR3	RET	Gene/Protein	0.0384
+BCAR3	EIF4G1	Gene/Protein	0.0386
+BCAR3	SHC1	Gene/Protein	0.0388
+BCAR3	HSPA5	Gene/Protein	0.0395
+BCAR3	CSNK2A1	Gene/Protein	0.0398
+BCAR3	SQSTM1	Gene/Protein	0.0406
+BCAR3	GRN	Gene/Protein	0.0412
+BCAR3	PROC	Gene/Protein	0.042
+BCAR3	GBA	Gene/Protein	0.042
+BCAR3	ALDH1A1	Gene/Protein	0.0431
+BCAR3	LAMC2	Gene/Protein	0.0435
+BCAR3	HSP90B1	Gene/Protein	0.0438
+BCAR3	TGFB2	Gene/Protein	0.0442
+BCAR3	CRAT	Gene/Protein	0.0445
+BCAR3	NOG	Gene/Protein	0.045
+BCAR3	NME1	Gene/Protein	0.0461
+BCAR3	AIF1	Gene/Protein	0.0462
+BCAR3	KLKB1	Gene/Protein	0.0464
+BCAR3	OCA2	Gene/Protein	0.0482
+BCAR3	FGFR4	Gene/Protein	0.0499
+BCAR3	EIF2S1	Gene/Protein	0.0501
+BCAR3	RPS6	Gene/Protein	0.0502
+BCAR3	ATF4	Gene/Protein	0.0504
+BCAR3	MRPL28	Gene/Protein	0.0511
+BCAR3	SMARCA4	Gene/Protein	0.052
+BCAR3	BLZF1	Gene/Protein	0.0524
+BCAR3	KAT5	Gene/Protein	0.0536
+BCAR3	MAPK8	Gene/Protein	0.0541
+BCAR3	CUX1	Gene/Protein	0.0556
+BCAR3	TP63	Gene/Protein	0.056
+BCAR3	SUB1	Gene/Protein	0.056
+BCAR3	NRG1	Gene/Protein	0.0566
+BCAR3	SLAMF7	Gene/Protein	0.0572
+BCAR3	IRF1	Gene/Protein	0.0583
+BCAR3	ZAP70	Gene/Protein	0.0583
+BCAR3	JAG1	Gene/Protein	0.059
+BCAR3	ETS1	Gene/Protein	0.0596
+BCAR3	CCL18	Gene/Protein	0.0616
+BCAR3	RHOA	Gene/Protein	0.0635
+BCAR3	CDK6	Gene/Protein	0.0643
+BCAR3	PRKAB1	Gene/Protein	0.0648
+BCAR3	PRKAA2	Gene/Protein	0.0655
+BCAR3	CCND1	Gene/Protein	0.0662
+BCAR3	RPS6KB1	Gene/Protein	0.0663
+BCAR3	PRKAA1	Gene/Protein	0.0664
+BCAR3	DKK1	Gene/Protein	0.0666
+BCAR3	HNRNPDL	Gene/Protein	0.0667
+BCAR3	STAT6	Gene/Protein	0.0671
+BCAR3	PDGFRA	Gene/Protein	0.0674
+BCAR3	CCL5	Gene/Protein	0.069
+BCAR3	PDGFRB	Gene/Protein	0.0696
+BCAR3	SART3	Gene/Protein	0.0742
+BCAR3	ERBB3	Gene/Protein	0.0748
+BCAR3	PXN	Gene/Protein	0.0748
+BCAR3	HNRNPC	Gene/Protein	0.0751
+BCAR3	EEF1A1	Gene/Protein	0.0756
+BCAR3	EIF4EBP1	Gene/Protein	0.076
+BCAR3	PMEL	Gene/Protein	0.0767
+BCAR3	KLF4	Gene/Protein	0.0775
+BCAR3	LGALS4	Gene/Protein	0.0812
+BCAR3	MS2	Gene/Protein	0.0835
+BCAR3	BCL6	Gene/Protein	0.0854
+BCAR3	ABL1	Gene/Protein	0.086
+BCAR3	EIF4E	Gene/Protein	0.0861
+BCAR3	ESR1	Gene/Protein	0.0868
+BCAR3	F9	Gene/Protein	0.0879
+BCAR3	ADAM8	Gene/Protein	0.0904
+BCAR3	HIST2H2AC	Gene/Protein	0.0936
+BCAR3	HIST2H2AA3	Gene/Protein	0.0939
+BCAR3	CALB1	Gene/Protein	0.0969
+BCAR3	CTRL	Gene/Protein	0.0976
+BCAR3	CCL2	Gene/Protein	0.104
+BCAR3	BCL2	Gene/Protein	0.106
+BCAR3	EGFR	Gene/Protein	0.107
+BCAR3	NFKBIA	Gene/Protein	0.109
+BCAR3	KCNH2	Gene/Protein	0.11
+BCAR3	IGF1R	Gene/Protein	0.111
+BCAR3	LGALS3	Gene/Protein	0.124
+BCAR3	PLA2G4A	Gene/Protein	0.127
+BCAR3	SOX9	Gene/Protein	0.13
+BCAR3	ERBB2	Gene/Protein	0.136
+BCAR3	STAT5A	Gene/Protein	0.136
+BCAR3	WT1	Gene/Protein	0.137
+BCAR3	ACTB	Gene/Protein	0.138
+BCAR3	STAT5B	Gene/Protein	0.138
+BCAR3	EDN1	Gene/Protein	0.14
+BCAR3	IRS1	Gene/Protein	0.148
+BCAR3	NRAS	Gene/Protein	0.15
+BCAR3	PIK3CA	Gene/Protein	0.15
+BCAR3	SMAD2	Gene/Protein	0.157
+BCAR3	MSH2	Gene/Protein	0.159
+BCAR3	PTGS1	Gene/Protein	0.161
+BCAR3	CDKN2A	Gene/Protein	0.168
+BCAR3	MARK2	Gene/Protein	0.177
+BCAR3	FN1	Gene/Protein	0.187
+BCAR3	IFNB1	Gene/Protein	0.188
+BCAR3	MUC1	Gene/Protein	0.201
+BCAR3	MLH1	Gene/Protein	0.204
+BCAR3	SLC2A4	Gene/Protein	0.205
+BCAR3	MAPK1	Gene/Protein	0.206
+BCAR3	TNFRSF11B	Gene/Protein	0.21
+BCAR3	PTPN11	Gene/Protein	0.218
+BCAR3	CXCL8	Gene/Protein	0.231
+BCAR3	BAX	Gene/Protein	0.258
+BCAR3	TNFSF11	Gene/Protein	0.278
+BCAR3	NR3C1	Gene/Protein	0.283
+BCAR3	CDK1	Gene/Protein	0.286
+BCAR3	VIM	Gene/Protein	0.287
+BCAR3	BMP2	Gene/Protein	0.293
+BCAR3	MTOR	Gene/Protein	0.303
+BCAR3	ABCG2	Gene/Protein	0.319
+BCAR3	PPARA	Gene/Protein	0.326
+BCAR3	SOAT1	Gene/Protein	0.34
+BCAR3	JUN	Gene/Protein	0.35
+BCAR3	HLA-DRB4	Gene/Protein	0.379
+BCAR3	HSP90AA1	Gene/Protein	0.399
+BCAR3	CD14	Gene/Protein	0.421
+BCAR3	NDUFA2	Gene/Protein	0.422
+BCAR3	TXN	Gene/Protein	0.437
+BCAR3	PRH2	Gene/Protein	0.449
+BCAR3	CXCR4	Gene/Protein	0.498
+BCAR3	BDNF-AS	Gene/Protein	0.549
+BCAR3	IL10	Gene/Protein	0.57
+BCAR3	CCK	Gene/Protein	0.607
+BCAR3	INSR	Gene/Protein	0.645
+BCAR3	BRCA1	Gene/Protein	0.678
+BCAR3	PTGS2	Gene/Protein	0.71
+BCAR3	IL6	Gene/Protein	0.781
+BCAR3	WNK1	Gene/Protein	0.844
+BCAR3	SYT1	Gene/Protein	0.887
+BCAR3	TP53	Gene/Protein	1.0
+BCAR3	IL2	Gene/Protein	1.0
+BCAR3	KLK3	Gene/Protein	1.0
+BCAR3	BDNF	Gene/Protein	1.0
+BCAR3	CAT	Gene/Protein	1.0
+BCAR3	CDH1	Gene/Protein	1.0
+BCAR3	F2	Gene/Protein	1.0
+BCAR3	IL13	Gene/Protein	1.0
+BCAR3	NFKB1	Gene/Protein	1.0
+BCAR3	NOS3	Gene/Protein	1.0
+BCAR3	RELA	Gene/Protein	1.0
+BCAR3	TNF	Gene/Protein	1.0
+BCAR3	TSC1	Gene/Protein	1.0
+BCAR3	VEGFA	Gene/Protein	1.0
+BCAR3	viral RNA genome packaging	Biological process	2.43E-5
+BCAR3	RNA replication	Biological process	8.19E-5
+BCAR3	RNA biosynthetic process	Biological process	1.09E-4
+BCAR3	nodulation	Biological process	1.92E-4
+BCAR3	nucleotide-binding oligomerization domain containing signaling pathway	Biological process	2.68E-4
+BCAR3	symbiosis, encompassing mutualism through parasitism	Biological process	4.5E-4
+BCAR3	defense response to virus	Biological process	4.72E-4
+BCAR3	acropetal auxin transport	Biological process	4.87E-4
+BCAR3	strigolactone biosynthetic process	Biological process	5.31E-4
+BCAR3	viral protein processing	Biological process	8.05E-4
+BCAR3	viral genome packaging	Biological process	9.76E-4
+BCAR3	viral life cycle	Biological process	0.0015
+BCAR3	basipetal auxin transport	Biological process	0.00169
+BCAR3	translation	Biological process	0.0025
+BCAR3	glucosinolate catabolic process	Biological process	0.00267
+BCAR3	phosphorylation	Biological process	0.00323
+BCAR3	translational readthrough	Biological process	0.00323
+BCAR3	nitrogen fixation	Biological process	0.00369
+BCAR3	evasion or tolerance of immune response of other organism involved in symbiotic interaction	Biological process	0.00409
+BCAR3	mRNA transcription	Biological process	0.0042
+BCAR3	viral transcription	Biological process	0.00426
+BCAR3	stress granule assembly	Biological process	0.00427
+BCAR3	proteolysis	Biological process	0.00478
+BCAR3	organ development	Biological process	0.0049
+BCAR3	autophagic vacuole maturation	Biological process	0.00494
+BCAR3	ruffle assembly	Biological process	0.00512
+BCAR3	virion assembly	Biological process	0.00523
+BCAR3	tropism	Biological process	0.00546
+BCAR3	protein processing	Biological process	0.00547
+BCAR3	gene expression	Biological process	0.00633
+BCAR3	root development	Biological process	0.0066
+BCAR3	cell motility	Biological process	0.00688
+BCAR3	7-methylguanosine mRNA capping	Biological process	0.00696
+BCAR3	nuclear transport	Biological process	0.00703
+BCAR3	intercellular transport	Biological process	0.00794
+BCAR3	osteoclast development	Biological process	0.00841
+BCAR3	lateral root development	Biological process	0.00864
+BCAR3	cytokinin-activated signaling pathway	Biological process	0.00879
+BCAR3	antigenic variation	Biological process	0.00911
+BCAR3	RNA surveillance	Biological process	0.00922
+BCAR3	innate immune response	Biological process	0.00935
+BCAR3	RNA interference	Biological process	0.0102
+BCAR3	viral genome replication	Biological process	0.0106
+BCAR3	signal transduction	Biological process	0.0113
+BCAR3	cell chemotaxis	Biological process	0.0126
+BCAR3	epidermal growth factor receptor signaling pathway	Biological process	0.0127
+BCAR3	pathogenesis	Biological process	0.0133
+BCAR3	immune response	Biological process	0.0136
+BCAR3	oxidation-reduction process	Biological process	0.014
+BCAR3	cell migration	Biological process	0.0162
+BCAR3	proteasome complex disassembly	Biological process	0.0163
+BCAR3	viral gene expression	Biological process	0.0189
+BCAR3	type I interferon production	Biological process	0.0192
+BCAR3	anatomical structure morphogenesis	Biological process	0.0196
+BCAR3	glycosylation	Biological process	0.0197
+BCAR3	membrane fusion	Biological process	0.0229
+BCAR3	humoral immune response	Biological process	0.0229
+BCAR3	virus maturation	Biological process	0.023
+BCAR3	gonad development	Biological process	0.0238
+BCAR3	microtubule depolymerization	Biological process	0.0266
+BCAR3	protein stabilization	Biological process	0.0276
+BCAR3	viral translation	Biological process	0.031
+BCAR3	strand displacement	Biological process	0.0327
+BCAR3	transduction	Biological process	0.0339
+BCAR3	syncytium formation	Biological process	0.0339
+BCAR3	nuclear export	Biological process	0.0343
+BCAR3	ethylene biosynthetic process	Biological process	0.0383
+BCAR3	reverse transcription	Biological process	0.0412
+BCAR3	autophagy	Biological process	0.0422
+BCAR3	integrin activation	Biological process	0.0422
+BCAR3	growth	Biological process	0.0433
+BCAR3	RNA folding	Biological process	0.0448
+BCAR3	transmission of virus	Biological process	0.046
+BCAR3	cellular process	Biological process	0.0466
+BCAR3	cell communication	Biological process	0.0652
+BCAR3	protein transport	Biological process	0.0656
+BCAR3	cellular localization	Biological process	0.0659
+BCAR3	receptor internalization	Biological process	0.0674
+BCAR3	ribosome biogenesis	Biological process	0.0712
+BCAR3	translational initiation	Biological process	0.0735
+BCAR3	intracellular signal transduction	Biological process	0.0746
+BCAR3	DNA replication	Biological process	0.0792
+BCAR3	skeletal system development	Biological process	0.0837
+BCAR3	protein localization	Biological process	0.0903
+BCAR3	microtubule polymerization	Biological process	0.0931
+BCAR3	gene silencing	Biological process	0.0977
+BCAR3	hormone biosynthetic process	Biological process	0.0978
+BCAR3	cell adhesion	Biological process	0.1
+BCAR3	protein sumoylation	Biological process	0.108
+BCAR3	DNA methylation	Biological process	0.112
+BCAR3	osteoclast differentiation	Biological process	0.113
+BCAR3	behavior	Biological process	0.115
+BCAR3	defense response	Biological process	0.116
+BCAR3	developmental process	Biological process	0.118
+BCAR3	nuclear import	Biological process	0.118
+BCAR3	DNA biosynthetic process	Biological process	0.13
+BCAR3	epithelial to mesenchymal transition	Biological process	0.14
+BCAR3	post-translational protein modification	Biological process	0.141
+BCAR3	signaling	Biological process	0.146
+BCAR3	protein folding	Biological process	0.149
+BCAR3	protein catabolic process	Biological process	0.153
+BCAR3	light absorption	Biological process	0.167
+BCAR3	import into cell	Biological process	0.169
+BCAR3	adaptive immune response	Biological process	0.172
+BCAR3	tumor necrosis factor production	Biological process	0.179
+BCAR3	sex determination	Biological process	0.195
+BCAR3	gastrulation	Biological process	0.21
+BCAR3	histone acetylation	Biological process	0.211
+BCAR3	actin filament polymerization	Biological process	0.211
+BCAR3	chromatin remodeling	Biological process	0.22
+BCAR3	anatomical structure arrangement	Biological process	0.226
+BCAR3	inflammatory response	Biological process	0.27
+BCAR3	positive regulation of NF-kappaB transcription factor activity	Biological process	0.279
+BCAR3	metabolic process	Biological process	0.28
+BCAR3	mismatch repair	Biological process	0.364
+BCAR3	secretion	Biological process	0.436
+BCAR3	biosynthetic process	Biological process	0.505
+BCAR3	parturition	Biological process	0.559
+BCAR3	regulation of cell cycle	Biological process	0.572
+BCAR3	cell proliferation	Biological process	0.627
+BCAR3	lymphocyte activation	Biological process	0.891
+BCAR3	female pregnancy	Biological process	0.904
+BCAR3	methylation	Biological process	0.967
+BCAR3	apoptotic process	Biological process	1.0
+BCAR3	death	Biological process	1.0
+BCAR3	cell cycle	Biological process	1.0
+BCAR3	cell death	Biological process	1.0
+BCAR3	cell differentiation	Biological process	1.0
+BCAR3	cell division	Biological process	1.0
+BCAR3	digestion	Biological process	1.0
+BCAR3	cell growth	Biological process	1.0
+BCAR3	mitotic nuclear division	Biological process	1.0
+BCAR3	fertilization	Biological process	1.0
+BCAR3	conjugation	Biological process	1.0
+BCAR3	glucose metabolic process	Biological process	1.0
+BCAR3	endocytosis	Biological process	1.0
+BCAR3	chemotaxis	Biological process	1.0
+BCAR3	cell cycle arrest	Biological process	1.0
+BCAR3	RNA splicing	Biological process	1.0
+BCAR3	hemopoiesis	Biological process	1.0
+BCAR3	T cell activation	Biological process	1.0
+BCAR3	intestinal absorption	Biological process	1.0
+BCAR3	detoxification	Biological process	1.0
+BCAR3	Porcine respiratory and reproductive syndrome virus	MeSH	2.04E-6
+BCAR3	Alphavirus	MeSH	5.5E-6
+BCAR3	Rotavirus	MeSH	1.01E-5
+BCAR3	Sindbis Virus	MeSH	1.05E-5
+BCAR3	Semliki forest virus	MeSH	1.61E-5
+BCAR3	Chikungunya virus	MeSH	1.92E-5
+BCAR3	Arterivirus	MeSH	2.12E-5
+BCAR3	Genome, Viral	MeSH	2.45E-5
+BCAR3	Encephalitis Virus, Venezuelan Equine	MeSH	3.6E-5
+BCAR3	Equartevirus	MeSH	3.9E-5
+BCAR3	Nidovirales	MeSH	4.4E-5
+BCAR3	Arteriviridae	MeSH	5.17E-5
+BCAR3	Reassortant Viruses	MeSH	6.26E-5
+BCAR3	Viruses	MeSH	6.8E-5
+BCAR3	Virus Replication	MeSH	7.01E-5
+BCAR3	Chikungunya Fever	MeSH	7.29E-5
+BCAR3	Genome	MeSH	1.12E-4
+BCAR3	Medicago truncatula	MeSH	1.17E-4
+BCAR3	Plant Root Nodulation	MeSH	1.17E-4
+BCAR3	Root Nodules, Plant	MeSH	1.38E-4
+BCAR3	Swine	MeSH	1.65E-4
+BCAR3	Phylogeny	MeSH	1.67E-4
+BCAR3	Togaviridae	MeSH	2.29E-4
+BCAR3	RNA Viruses	MeSH	2.41E-4
+BCAR3	O'nyong-nyong Virus	MeSH	2.46E-4
+BCAR3	Sequence Deletion	MeSH	3.14E-4
+BCAR3	Open Reading Frames	MeSH	3.17E-4
+BCAR3	Medicago	MeSH	3.58E-4
+BCAR3	Genotype	MeSH	3.67E-4
+BCAR3	Replicon	MeSH	3.72E-4
+BCAR3	Ross River virus	MeSH	3.86E-4
+BCAR3	Gene Expression Regulation, Viral	MeSH	3.87E-4
+BCAR3	Amino Acid Sequence	MeSH	3.88E-4
+BCAR3	Molecular Sequence Data	MeSH	4.05E-4
+BCAR3	Virus Assembly	MeSH	4.07E-4
+BCAR3	Product Packaging	MeSH	4.24E-4
+BCAR3	Genetic Variation	MeSH	4.4E-4
+BCAR3	Coronavirus	MeSH	4.53E-4
+BCAR3	Lotus	MeSH	4.78E-4
+BCAR3	Genes, Viral	MeSH	4.94E-4
+BCAR3	Genes	MeSH	5.17E-4
+BCAR3	Evolution, Molecular	MeSH	5.44E-4
+BCAR3	Sequence Analysis, DNA	MeSH	5.78E-4
+BCAR3	Encephalitis Virus, Western Equine	MeSH	6.19E-4
+BCAR3	Mutation	MeSH	6.33E-4
+BCAR3	Virulence	MeSH	6.34E-4
+BCAR3	Encephalitis Virus, Eastern Equine	MeSH	6.45E-4
+BCAR3	Recombination, Genetic	MeSH	6.58E-4
+BCAR3	Cricetinae	MeSH	7.0E-4
+BCAR3	Symbiosis	MeSH	7.68E-4
+BCAR3	Cercopithecus aethiops	MeSH	7.72E-4
+BCAR3	Base Sequence	MeSH	7.84E-4
+BCAR3	Mesorhizobium	MeSH	8.83E-4
+BCAR3	Whole Genome Sequencing	MeSH	9.47E-4
+BCAR3	Nucleocapsid	MeSH	9.99E-4
+BCAR3	China	MeSH	0.00101
+BCAR3	Frameshifting, Ribosomal	MeSH	0.00102
+BCAR3	Sinorhizobium meliloti	MeSH	0.00112
+BCAR3	Host-Pathogen Interactions	MeSH	0.00113
+BCAR3	Sequence Analysis, RNA	MeSH	0.00125
+BCAR3	Murine hepatitis virus	MeSH	0.00131
+BCAR3	Sequence Homology	MeSH	0.00137
+BCAR3	Animals	MeSH	0.00139
+BCAR3	Molecular Epidemiology	MeSH	0.00143
+BCAR3	Gammacoronavirus	MeSH	0.00144
+BCAR3	src Homology Domains	MeSH	0.00158
+BCAR3	Immune Evasion	MeSH	0.00162
+BCAR3	Sequence Homology, Amino Acid	MeSH	0.00166
+BCAR3	Cytopathogenic Effect, Viral	MeSH	0.00169
+BCAR3	Fabaceae	MeSH	0.00173
+BCAR3	Culicidae	MeSH	0.00176
+BCAR3	Defective Viruses	MeSH	0.00181
+BCAR3	Farms	MeSH	0.00187
+BCAR3	Reoviridae	MeSH	0.00194
+BCAR3	Industry	MeSH	0.00207
+BCAR3	Infectious bronchitis virus	MeSH	0.00207
+BCAR3	Protein Processing, Post-Translational	MeSH	0.00212
+BCAR3	Gene Expression Regulation, Plant	MeSH	0.00212
+BCAR3	Protein Biosynthesis	MeSH	0.00214
+BCAR3	Sequence Homology, Nucleic Acid	MeSH	0.00227
+BCAR3	Arboviruses	MeSH	0.0023
+BCAR3	Mycorrhizae	MeSH	0.00237
+BCAR3	Rhizobium	MeSH	0.00257
+BCAR3	Quasispecies	MeSH	0.00257
+BCAR3	Protein Structure, Tertiary	MeSH	0.00266
+BCAR3	Point Mutation	MeSH	0.00269
+BCAR3	Catalytic Domain	MeSH	0.0027
+BCAR3	Disease Outbreaks	MeSH	0.00275
+BCAR3	Transmissible gastroenteritis virus	MeSH	0.00297
+BCAR3	Sinorhizobium	MeSH	0.00311
+BCAR3	Bangladesh	MeSH	0.00314
+BCAR3	Clinical Coding	MeSH	0.00329
+BCAR3	RNA-Binding Motifs	MeSH	0.00337
+BCAR3	Cluster Analysis	MeSH	0.00338
+BCAR3	Spodoptera	MeSH	0.0034
+BCAR3	Virology	MeSH	0.00345
+BCAR3	Coronavirus, Turkey	MeSH	0.00375
+BCAR3	Comoros	MeSH	0.00376
+BCAR3	Neorickettsia risticii	MeSH	0.00395
+BCAR3	Neorickettsia	MeSH	0.00405
+BCAR3	Humans	MeSH	0.00412
+BCAR3	Mutagenesis, Site-Directed	MeSH	0.00415
+BCAR3	Mutagenesis, Insertional	MeSH	0.00418
+BCAR3	Transcription, Genetic	MeSH	0.0042
+BCAR3	Indian Ocean	MeSH	0.00421
+BCAR3	Amino Acid Motifs	MeSH	0.00427
+BCAR3	Camelids, New World	MeSH	0.00433
+BCAR3	Life Cycle Stages	MeSH	0.00434
+BCAR3	Phenotype	MeSH	0.00457
+BCAR3	Role	MeSH	0.00473
+BCAR3	Plant Roots	MeSH	0.00485
+BCAR3	Male	MeSH	0.00497
+BCAR3	Antelopes	MeSH	0.00512
+BCAR3	Encephalitis Viruses	MeSH	0.00528
+BCAR3	Coronavirus NL63, Human	MeSH	0.00529
+BCAR3	MCF-7 Cells	MeSH	0.00536
+BCAR3	Organogenesis	MeSH	0.0054
+BCAR3	Sf9 Cells	MeSH	0.00564
+BCAR3	Mononegavirales	MeSH	0.00576
+BCAR3	Bacteriophage phi 6	MeSH	0.00579
+BCAR3	RNA Recognition Motif Proteins	MeSH	0.00579
+BCAR3	Vertebrates	MeSH	0.0058
+BCAR3	Myanmar	MeSH	0.00585
+BCAR3	Genetic Drift	MeSH	0.00608
+BCAR3	Databases, Nucleic Acid	MeSH	0.00631
+BCAR3	Densovirinae	MeSH	0.00633
+BCAR3	Genes, Reporter	MeSH	0.00636
+BCAR3	Molecular Docking Simulation	MeSH	0.00639
+BCAR3	Circovirus	MeSH	0.00653
+BCAR3	Indian Ocean Islands	MeSH	0.00653
+BCAR3	Female	MeSH	0.00676
+BCAR3	Renilla	MeSH	0.00679
+BCAR3	Cloning, Molecular	MeSH	0.00688
+BCAR3	Identification (Psychology)	MeSH	0.00706
+BCAR3	Genetic Background	MeSH	0.00736
+BCAR3	Mutation, Missense	MeSH	0.00739
+BCAR3	Crystallography, X-Ray	MeSH	0.0074
+BCAR3	Genetics	MeSH	0.00742
+BCAR3	Silent Mutation	MeSH	0.0075
+BCAR3	Protein Structure, Quaternary	MeSH	0.00753
+BCAR3	Sus scrofa	MeSH	0.00763
+BCAR3	Genes, Plant	MeSH	0.00775
+BCAR3	Genetic Vectors	MeSH	0.00812
+BCAR3	Plasmids	MeSH	0.00818
+BCAR3	Horses	MeSH	0.00878
+BCAR3	Antibody Formation	MeSH	0.00897
+BCAR3	Patients	MeSH	0.00898
+BCAR3	Tylenchida	MeSH	0.00899
+BCAR3	Baculoviridae	MeSH	0.00907
+BCAR3	Adult	MeSH	0.00918
+BCAR3	Models, Molecular	MeSH	0.00921
+BCAR3	Nitrogen-Fixing Bacteria	MeSH	0.00922
+BCAR3	Protein Domains	MeSH	0.00929
+BCAR3	Mutation Rate	MeSH	0.00939
+BCAR3	Coronavirus 229E, Human	MeSH	0.0094
+BCAR3	Consensus Sequence	MeSH	0.00947
+BCAR3	Cells, Cultured	MeSH	0.00951
+BCAR3	Binding Sites	MeSH	0.00967
+BCAR3	Fluorescent Antibody Technique, Indirect	MeSH	0.00985
+BCAR3	Lactate dehydrogenase-elevating virus	MeSH	0.00988
+BCAR3	Extravehicular Activity	MeSH	0.01
+BCAR3	Microscopy, Fluorescence	MeSH	0.0101
+BCAR3	Thailand	MeSH	0.0102
+BCAR3	Vaccinia virus	MeSH	0.0102
+BCAR3	Ecotype	MeSH	0.0105
+BCAR3	Middle East Respiratory Syndrome Coronavirus	MeSH	0.0105
+BCAR3	Immunity, Innate	MeSH	0.0106
+BCAR3	Substrate Specificity	MeSH	0.0108
+BCAR3	Sendai virus	MeSH	0.011
+BCAR3	Middle Aged	MeSH	0.0112
+BCAR3	Immunogenicity, Vaccine	MeSH	0.0112
+BCAR3	Drug Resistance, Neoplasm	MeSH	0.0118
+BCAR3	Sequence Analysis, Protein	MeSH	0.0119
+BCAR3	Fulvestrant	MeSH	0.0119
+BCAR3	Blotting, Far-Western	MeSH	0.012
+BCAR3	Methods	MeSH	0.0122
+BCAR3	Frankia	MeSH	0.0122
+BCAR3	Classical Swine Fever Virus	MeSH	0.0124
+BCAR3	Virus Internalization	MeSH	0.0126
+BCAR3	Internal Ribosome Entry Sites	MeSH	0.0129
+BCAR3	Genomics	MeSH	0.0131
+BCAR3	Gene Deletion	MeSH	0.0131
+BCAR3	Communicable Diseases, Imported	MeSH	0.0131
+BCAR3	Alfalfa mosaic virus	MeSH	0.0132
+BCAR3	Raccoon Dogs	MeSH	0.0132
+BCAR3	Vietnam	MeSH	0.0135
+BCAR3	Protein Interaction Maps	MeSH	0.0136
+BCAR3	Orthoreovirus, Avian	MeSH	0.0136
+BCAR3	Microscopy, Immunoelectron	MeSH	0.0138
+BCAR3	Orf virus	MeSH	0.0138
+BCAR3	Viral Tropism	MeSH	0.0139
+BCAR3	Protein Conformation	MeSH	0.0141
+BCAR3	Africa	MeSH	0.0143
+BCAR3	Epidemiology	MeSH	0.0148
+BCAR3	Virus Integration	MeSH	0.0148
+BCAR3	Blotting, Western	MeSH	0.0149
+BCAR3	Plant Epidermis	MeSH	0.0149
+BCAR3	Helper Viruses	MeSH	0.0151
+BCAR3	Family	MeSH	0.0153
+BCAR3	Forests	MeSH	0.0154
+BCAR3	Potyviridae	MeSH	0.0155
+BCAR3	Aged	MeSH	0.0162
+BCAR3	Inverted Repeat Sequences	MeSH	0.0162
+BCAR3	Microscopy, Confocal	MeSH	0.0163
+BCAR3	Giraffes	MeSH	0.0163
+BCAR3	Inhibition (Psychology)	MeSH	0.0166
+BCAR3	Protein Multimerization	MeSH	0.0169
+BCAR3	Cell Compartmentation	MeSH	0.0171
+BCAR3	Bluetongue virus	MeSH	0.0171
+BCAR3	Trinidad and Tobago	MeSH	0.0171
+BCAR3	Adaptation, Biological	MeSH	0.0172
+BCAR3	Pronephros	MeSH	0.0174
+BCAR3	Cowpox virus	MeSH	0.0179
+BCAR3	Seychelles	MeSH	0.0179
+BCAR3	Viral Load	MeSH	0.0182
+BCAR3	Potyvirus	MeSH	0.0187
+BCAR3	Aptitude	MeSH	0.0189
+BCAR3	Comprehension	MeSH	0.0193
+BCAR3	Down-Regulation	MeSH	0.0194
+BCAR3	Americas	MeSH	0.0196
+BCAR3	Chiroptera	MeSH	0.0202
+BCAR3	Active Transport, Cell Nucleus	MeSH	0.0203
+BCAR3	Meristem	MeSH	0.0204
+BCAR3	Structure-Activity Relationship	MeSH	0.0206
+BCAR3	Trees	MeSH	0.0206
+BCAR3	Morphogenesis	MeSH	0.021
+BCAR3	Social Control, Formal	MeSH	0.0214
+BCAR3	Protein Interaction Domains and Motifs	MeSH	0.0214
+BCAR3	Ubiquitin-Specific Proteases	MeSH	0.0214
+BCAR3	Porcine epidemic diarrhea virus	MeSH	0.0217
+BCAR3	Bromovirus	MeSH	0.0219
+BCAR3	Cameroon	MeSH	0.023
+BCAR3	Unfolded Protein Response	MeSH	0.0231
+BCAR3	Embryophyta	MeSH	0.0235
+BCAR3	Glomeromycota	MeSH	0.0236
+BCAR3	Macaca mulatta	MeSH	0.0238
+BCAR3	Autophagosomes	MeSH	0.024
+BCAR3	Conserved Sequence	MeSH	0.0242
+BCAR3	Plants	MeSH	0.0244
+BCAR3	Therapeutics	MeSH	0.0251
+BCAR3	Perilipin-1	MeSH	0.0251
+BCAR3	Adolescent	MeSH	0.0254
+BCAR3	Streptococcus equi	MeSH	0.0257
+BCAR3	Cattle	MeSH	0.0258
+BCAR3	Drug Design	MeSH	0.026
+BCAR3	Electrophoresis, Polyacrylamide Gel	MeSH	0.0262
+BCAR3	Mauritius	MeSH	0.0263
+BCAR3	Risk	MeSH	0.0271
+BCAR3	Aedes	MeSH	0.0274
+BCAR3	Estrogen Receptor alpha	MeSH	0.0274
+BCAR3	Form	MeSH	0.0275
+BCAR3	Enzyme Stability	MeSH	0.0276
+BCAR3	Hydrolysis	MeSH	0.0278
+BCAR3	Gene Expression Regulation, Neoplastic	MeSH	0.0293
+BCAR3	Immunity, Humoral	MeSH	0.0297
+BCAR3	Child, Hospitalized	MeSH	0.0312
+BCAR3	Haplorhini	MeSH	0.0313
+BCAR3	Brassicaceae	MeSH	0.0317
+BCAR3	Japan	MeSH	0.0323
+BCAR3	Molecular Dynamics Simulation	MeSH	0.0324
+BCAR3	North America	MeSH	0.0326
+BCAR3	Cross Protection	MeSH	0.0328
+BCAR3	Topography, Medical	MeSH	0.0329
+BCAR3	Kinetics	MeSH	0.0334
+BCAR3	India	MeSH	0.0336
+BCAR3	Immunity	MeSH	0.0345
+BCAR3	Vesiculovirus	MeSH	0.0345
+BCAR3	Sequestosome-1 Protein	MeSH	0.0345
+BCAR3	Mosquito Vectors	MeSH	0.0348
+BCAR3	Regulatory Factor X Transcription Factors	MeSH	0.035
+BCAR3	Nurseries	MeSH	0.0351
+BCAR3	Suriname	MeSH	0.0351
+BCAR3	Templates, Genetic	MeSH	0.0352
+BCAR3	Nucleic Acid Conformation	MeSH	0.0354
+BCAR3	Consensus	MeSH	0.0358
+BCAR3	X-Box Binding Protein 1	MeSH	0.0359
+BCAR3	Tetratricopeptide Repeat	MeSH	0.0365
+BCAR3	Cell Movement	MeSH	0.0371
+BCAR3	Prunus domestica	MeSH	0.0372
+BCAR3	Membranes	MeSH	0.038
+BCAR3	Ecuador	MeSH	0.038
+BCAR3	Geographic Mapping	MeSH	0.0381
+BCAR3	Species Specificity	MeSH	0.0383
+BCAR3	Myalgia	MeSH	0.0384
+BCAR3	Reading Frames	MeSH	0.0388
+BCAR3	Women	MeSH	0.0391
+BCAR3	Receptor Aggregation	MeSH	0.0395
+BCAR3	Goats	MeSH	0.0397
+BCAR3	Risk Factors	MeSH	0.04
+BCAR3	Mammals	MeSH	0.0402
+BCAR3	Aurora Kinase A	MeSH	0.0409
+BCAR3	Computational Biology	MeSH	0.0413
+BCAR3	Rats	MeSH	0.0416
+BCAR3	Virus Latency	MeSH	0.0418
+BCAR3	Mosaic Viruses	MeSH	0.0419
+BCAR3	Silybin	MeSH	0.0424
+BCAR3	Mice, Inbred BALB C	MeSH	0.043
+BCAR3	Europe	MeSH	0.0432
+BCAR3	Republic of Korea	MeSH	0.0435
+BCAR3	Streptococcus suis	MeSH	0.0435
+BCAR3	Host Specificity	MeSH	0.0457
+BCAR3	Knowledge	MeSH	0.0461
+BCAR3	Poly-ADP-Ribose Binding Proteins	MeSH	0.0462
+BCAR3	Lentivirus	MeSH	0.0466
+BCAR3	Laryngeal Cartilages	MeSH	0.0468
+BCAR3	Microbial Viability	MeSH	0.0472
+BCAR3	Genetic Heterogeneity	MeSH	0.0476
+BCAR3	ERG1 Potassium Channel	MeSH	0.048
+BCAR3	Gene Duplication	MeSH	0.0481
+BCAR3	Polymorphism, Genetic	MeSH	0.0486
+BCAR3	Infectious bursal disease virus	MeSH	0.0491
+BCAR3	Mice	MeSH	0.0498
+BCAR3	Venezuela	MeSH	0.05
+BCAR3	Red Meat	MeSH	0.0501
+BCAR3	Cypriniformes	MeSH	0.0502
+BCAR3	Honduras	MeSH	0.0511
+BCAR3	Diarrhea, Infantile	MeSH	0.0514
+BCAR3	NF-KappaB Inhibitor alpha	MeSH	0.0517
+BCAR3	Sensitivity and Specificity	MeSH	0.0519
+BCAR3	Insecta	MeSH	0.0522
+BCAR3	Aborted Fetus	MeSH	0.0528
+BCAR3	Seroconversion	MeSH	0.053
+BCAR3	Perissodactyla	MeSH	0.0545
+BCAR3	Belgium	MeSH	0.0555
+BCAR3	Surveys and Questionnaires	MeSH	0.0564
+BCAR3	Enzyme Activation	MeSH	0.0571
+BCAR3	Nicaragua	MeSH	0.0571
+BCAR3	Culex	MeSH	0.0573
+BCAR3	Classification	MeSH	0.0579
+BCAR3	Anopheles	MeSH	0.0579
+BCAR3	Epidermal Cells	MeSH	0.0589
+BCAR3	Attention	MeSH	0.0601
+BCAR3	Virus Release	MeSH	0.0601
+BCAR3	Drug Evaluation, Preclinical	MeSH	0.0605
+BCAR3	Ectopic Gene Expression	MeSH	0.0608
+BCAR3	Phylogeography	MeSH	0.0612
+BCAR3	Diagnosis	MeSH	0.0616
+BCAR3	Selection, Genetic	MeSH	0.062
+BCAR3	Mesangial Cells	MeSH	0.0621
+BCAR3	Cicer	MeSH	0.0623
+BCAR3	Weights and Measures	MeSH	0.0638
+BCAR3	Dominican Republic	MeSH	0.0639
+BCAR3	Hospitals	MeSH	0.0649
+BCAR3	Young Adult	MeSH	0.0661
+BCAR3	Incidence	MeSH	0.0661
+BCAR3	Life	MeSH	0.0661
+BCAR3	Bradyrhizobium	MeSH	0.0666
+BCAR3	Pregnancy	MeSH	0.0667
+BCAR3	Transgenes	MeSH	0.0669
+BCAR3	Raccoons	MeSH	0.0675
+BCAR3	Health	MeSH	0.0697
+BCAR3	Plant Viruses	MeSH	0.0703
+BCAR3	Macrophages	MeSH	0.0704
+BCAR3	Equidae	MeSH	0.0709
+BCAR3	Antibody Specificity	MeSH	0.0716
+BCAR3	Regression (Psychology)	MeSH	0.0756
+BCAR3	Organization and Administration	MeSH	0.076
+BCAR3	Review	MeSH	0.0772
+BCAR3	Aged, 80 and over	MeSH	0.0774
+BCAR3	South Dakota	MeSH	0.0776
+BCAR3	Cell Physiological Phenomena	MeSH	0.0779
+BCAR3	Encephalomyocarditis virus	MeSH	0.0779
+BCAR3	Set (Psychology)	MeSH	0.0798
+BCAR3	Gene Order	MeSH	0.0804
+BCAR3	Histidine Kinase	MeSH	0.0823
+BCAR3	Economics	MeSH	0.0825
+BCAR3	Genes, Essential	MeSH	0.0831
+BCAR3	Kidney Tubules, Distal	MeSH	0.0835
+BCAR3	Transcriptome	MeSH	0.0856
+BCAR3	INDEL Mutation	MeSH	0.0856
+BCAR3	Transcriptional Activation	MeSH	0.0868
+BCAR3	Oncolytic Viruses	MeSH	0.0875
+BCAR3	Progression-Free Survival	MeSH	0.0877
+BCAR3	Cloning, Organism	MeSH	0.0891
+BCAR3	Hungary	MeSH	0.0891
+BCAR3	Literature	MeSH	0.0894
+BCAR3	Chromatography, Affinity	MeSH	0.0896
+BCAR3	Oryza	MeSH	0.0902
+BCAR3	Paper	MeSH	0.0916
+BCAR3	Protein Conformation, alpha-Helical	MeSH	0.0931
+BCAR3	Ubiquitination	MeSH	0.0932
+BCAR3	Temperature	MeSH	0.0938
+BCAR3	Bacteriophage T7	MeSH	0.0938
+BCAR3	MutL Protein Homolog 1	MeSH	0.0939
+BCAR3	Carrier State	MeSH	0.0949
+BCAR3	Libraries	MeSH	0.0975
+BCAR3	Picornaviridae	MeSH	0.0978
+BCAR3	Neurobiology	MeSH	0.0982
+BCAR3	Biology	MeSH	0.0987
+BCAR3	Phytochemicals	MeSH	0.0999
+BCAR3	Anti-Mullerian Hormone	MeSH	0.1
+BCAR3	Flavivirus	MeSH	0.101
+BCAR3	Bacteriophages	MeSH	0.102
+BCAR3	Mammary Glands, Human	MeSH	0.102
+BCAR3	Muscles	MeSH	0.102
+BCAR3	Africa, Central	MeSH	0.103
+BCAR3	Prognosis	MeSH	0.104
+BCAR3	Artiodactyla	MeSH	0.104
+BCAR3	Drug Resistance, Viral	MeSH	0.106
+BCAR3	Alphaproteobacteria	MeSH	0.107
+BCAR3	Arachis	MeSH	0.108
+BCAR3	Residence Characteristics	MeSH	0.108
+BCAR3	Hepacivirus	MeSH	0.11
+BCAR3	Notochord	MeSH	0.11
+BCAR3	Caribbean Region	MeSH	0.111
+BCAR3	Herbivory	MeSH	0.113
+BCAR3	Diagnosis, Differential	MeSH	0.115
+BCAR3	Sex Determination Processes	MeSH	0.116
+BCAR3	Drug Therapy	MeSH	0.116
+BCAR3	Genes, Synthetic	MeSH	0.118
+BCAR3	Gryllidae	MeSH	0.118
+BCAR3	Cities	MeSH	0.12
+BCAR3	Epidemics	MeSH	0.121
+BCAR3	Immunoassay	MeSH	0.123
+BCAR3	Sumoylation	MeSH	0.123
+BCAR3	Calcium Signaling	MeSH	0.124
+BCAR3	Dimerization	MeSH	0.127
+BCAR3	Cell Transformation, Viral	MeSH	0.127
+BCAR3	Slovenia	MeSH	0.127
+BCAR3	Gene Regulatory Networks	MeSH	0.13
+BCAR3	Glycyrrhiza	MeSH	0.13
+BCAR3	Physicians	MeSH	0.13
+BCAR3	Chickens	MeSH	0.131
+BCAR3	Promoter Regions, Genetic	MeSH	0.132
+BCAR3	Morbidity	MeSH	0.133
+BCAR3	Index	MeSH	0.133
+BCAR3	Brassica rapa	MeSH	0.134
+BCAR3	Cohort Studies	MeSH	0.134
+BCAR3	Ruminants	MeSH	0.135
+BCAR3	Nucleotide Motifs	MeSH	0.135
+BCAR3	Plant Development	MeSH	0.137
+BCAR3	Cambodia	MeSH	0.141
+BCAR3	Iraq	MeSH	0.141
+BCAR3	Proteomics	MeSH	0.142
+BCAR3	Abbreviations	MeSH	0.142
+BCAR3	Foot-and-Mouth Disease Virus	MeSH	0.143
+BCAR3	Containment of Biohazards	MeSH	0.145
+BCAR3	Depression	MeSH	0.145
+BCAR3	Virus Shedding	MeSH	0.145
+BCAR3	Medicine	MeSH	0.146
+BCAR3	Research Report	MeSH	0.147
+BCAR3	Injections	MeSH	0.147
+BCAR3	Nebraska	MeSH	0.147
+BCAR3	Salmo salar	MeSH	0.148
+BCAR3	Regression Analysis	MeSH	0.148
+BCAR3	Protein Conformation, beta-Strand	MeSH	0.149
+BCAR3	Polymorphism, Restriction Fragment Length	MeSH	0.15
+BCAR3	Slovakia	MeSH	0.151
+BCAR3	Up-Regulation	MeSH	0.152
+BCAR3	Crystallization	MeSH	0.152
+BCAR3	Universities	MeSH	0.153
+BCAR3	Costs and Cost Analysis	MeSH	0.154
+BCAR3	Computer-Aided Design	MeSH	0.154
+BCAR3	Food	MeSH	0.154
+BCAR3	Arthropods	MeSH	0.155
+BCAR3	Spatio-Temporal Analysis	MeSH	0.155
+BCAR3	CpG Islands	MeSH	0.156
+BCAR3	Sex	MeSH	0.158
+BCAR3	Tobacco Mosaic Virus	MeSH	0.16
+BCAR3	Logistic Models	MeSH	0.161
+BCAR3	Dose-Response Relationship, Drug	MeSH	0.162
+BCAR3	Madagascar	MeSH	0.162
+BCAR3	Diet	MeSH	0.164
+BCAR3	Vacuoles	MeSH	0.166
+BCAR3	Zinc Fingers	MeSH	0.166
+BCAR3	Synteny	MeSH	0.167
+BCAR3	Moths	MeSH	0.169
+BCAR3	Models, Biological	MeSH	0.171
+BCAR3	Safety	MeSH	0.171
+BCAR3	Leucine Zippers	MeSH	0.175
+BCAR3	Africa, Southern	MeSH	0.176
+BCAR3	Zika Virus	MeSH	0.176
+BCAR3	DNA Cleavage	MeSH	0.177
+BCAR3	Metabolism	MeSH	0.18
+BCAR3	Gene Rearrangement	MeSH	0.18
+BCAR3	Trout	MeSH	0.183
+BCAR3	New Mexico	MeSH	0.183
+BCAR3	Camelus	MeSH	0.184
+BCAR3	Risk Assessment	MeSH	0.185
+BCAR3	Agrobacterium	MeSH	0.187
+BCAR3	Brassica napus	MeSH	0.193
+BCAR3	Glomerular Mesangium	MeSH	0.194
+BCAR3	Power (Psychology)	MeSH	0.195
+BCAR3	Molecular Biology	MeSH	0.197
+BCAR3	Zambia	MeSH	0.199
+BCAR3	Chromosomes, Artificial, Bacterial	MeSH	0.2
+BCAR3	Gene Ontology	MeSH	0.201
+BCAR3	Organelle Biogenesis	MeSH	0.201
+BCAR3	Plant Diseases	MeSH	0.206
+BCAR3	Pathology	MeSH	0.206
+BCAR3	Oklahoma	MeSH	0.208
+BCAR3	Social Planning	MeSH	0.21
+BCAR3	Rabies virus	MeSH	0.213
+BCAR3	ErbB Receptors	MeSH	0.214
+BCAR3	Centrifugation, Density Gradient	MeSH	0.216
+BCAR3	Caspase Inhibitors	MeSH	0.218
+BCAR3	Erlotinib Hydrochloride	MeSH	0.218
+BCAR3	Rats, Wistar	MeSH	0.221
+BCAR3	Protein Stability	MeSH	0.222
+BCAR3	Protein Structure, Secondary	MeSH	0.223
+BCAR3	Models, Theoretical	MeSH	0.224
+BCAR3	Malaysia	MeSH	0.226
+BCAR3	Multivariate Analysis	MeSH	0.226
+BCAR3	Rats, Sprague-Dawley	MeSH	0.228
+BCAR3	Gene Amplification	MeSH	0.232
+BCAR3	Smoking	MeSH	0.234
+BCAR3	United Kingdom	MeSH	0.235
+BCAR3	Clustered Regularly Interspaced Short Palindromic Repeats	MeSH	0.235
+BCAR3	Kansas	MeSH	0.236
+BCAR3	Goals	MeSH	0.239
+BCAR3	Genes, BRCA1	MeSH	0.239
+BCAR3	Livestock	MeSH	0.24
+BCAR3	Suppression, Genetic	MeSH	0.242
+BCAR3	Genome, Human	MeSH	0.243
+BCAR3	History	MeSH	0.244
+BCAR3	Hong Kong	MeSH	0.246
+BCAR3	Salmonidae	MeSH	0.248
+BCAR3	Ferrets	MeSH	0.249
+BCAR3	Epithelial-Mesenchymal Transition	MeSH	0.253
+BCAR3	Newcastle disease virus	MeSH	0.253
+BCAR3	Chromatography, High Pressure Liquid	MeSH	0.253
+BCAR3	Serology	MeSH	0.257
+BCAR3	CHO Cells	MeSH	0.258
+BCAR3	Subject Headings	MeSH	0.258
+BCAR3	Malawi	MeSH	0.262
+BCAR3	Records	MeSH	0.262
+BCAR3	Body Temperature	MeSH	0.263
+BCAR3	Africa, Eastern	MeSH	0.265
+BCAR3	Zimbabwe	MeSH	0.267
+BCAR3	Electrophoresis, Agar Gel	MeSH	0.268
+BCAR3	Pakistan	MeSH	0.271
+BCAR3	Body Mass Index	MeSH	0.271
+BCAR3	Infant, Newborn	MeSH	0.272
+BCAR3	Birds	MeSH	0.274
+BCAR3	Cricetulus	MeSH	0.274
+BCAR3	Genetic Linkage	MeSH	0.274
+BCAR3	Public Health	MeSH	0.279
+BCAR3	Mesocricetus	MeSH	0.279
+BCAR3	Hydrogen-Ion Concentration	MeSH	0.28
+BCAR3	Nepal	MeSH	0.286
+BCAR3	Reproducibility of Results	MeSH	0.287
+BCAR3	Host-Parasite Interactions	MeSH	0.288
+BCAR3	Nature	MeSH	0.293
+BCAR3	Bulgaria	MeSH	0.295
+BCAR3	Work	MeSH	0.296
+BCAR3	Gender Identity	MeSH	0.298
+BCAR3	Survival Rate	MeSH	0.299
+BCAR3	Ghana	MeSH	0.304
+BCAR3	Necrosis	MeSH	0.304
+BCAR3	Maps	MeSH	0.305
+BCAR3	Tobacco	MeSH	0.306
+BCAR3	Serogroup	MeSH	0.306
+BCAR3	Observation	MeSH	0.309
+BCAR3	Silver Staining	MeSH	0.31
+BCAR3	Molecular Structure	MeSH	0.311
+BCAR3	Infant	MeSH	0.312
+BCAR3	Oxidative Stress	MeSH	0.312
+BCAR3	Sri Lanka	MeSH	0.313
+BCAR3	Bortezomib	MeSH	0.313
+BCAR3	Blotting, Northern	MeSH	0.314
+BCAR3	Egg Yolk	MeSH	0.314
+BCAR3	Models, Animal	MeSH	0.316
+BCAR3	Forecasting	MeSH	0.319
+BCAR3	Genes, Neoplasm	MeSH	0.319
+BCAR3	Body Weight	MeSH	0.323
+BCAR3	Peru	MeSH	0.324
+BCAR3	Absorption	MeSH	0.325
+BCAR3	Lasers	MeSH	0.327
+BCAR3	Gene Expression Regulation	MeSH	0.332
+BCAR3	Algorithms	MeSH	0.342
+BCAR3	Control Groups	MeSH	0.349
+BCAR3	Choroid Plexus	MeSH	0.351
+BCAR3	Pliability	MeSH	0.352
+BCAR3	Growth Plate	MeSH	0.352
+BCAR3	Catalysis	MeSH	0.361
+BCAR3	Copyright	MeSH	0.368
+BCAR3	Feedback, Physiological	MeSH	0.371
+BCAR3	Population	MeSH	0.373
+BCAR3	Time Factors	MeSH	0.383
+BCAR3	Terminal Repeat Sequences	MeSH	0.385
+BCAR3	Administration, Oral	MeSH	0.391
+BCAR3	Multigene Family	MeSH	0.393
+BCAR3	DNA Mismatch Repair	MeSH	0.393
+BCAR3	Extremities	MeSH	0.393
+BCAR3	Chimera	MeSH	0.397
+BCAR3	Lac Operon	MeSH	0.398
+BCAR3	Neoplasm Staging	MeSH	0.404
+BCAR3	Seasons	MeSH	0.408
+BCAR3	Movement	MeSH	0.411
+BCAR3	South Africa	MeSH	0.411
+BCAR3	Oxidation-Reduction	MeSH	0.412
+BCAR3	Retention (Psychology)	MeSH	0.412
+BCAR3	Severity of Illness Index	MeSH	0.413
+BCAR3	Hydrogen Bonding	MeSH	0.416
+BCAR3	Endemic Diseases	MeSH	0.419
+BCAR3	Probability	MeSH	0.425
+BCAR3	Lymphocytes	MeSH	0.427
+BCAR3	Immunization, Secondary	MeSH	0.429
+BCAR3	Bias	MeSH	0.429
+BCAR3	Arm	MeSH	0.433
+BCAR3	Family Characteristics	MeSH	0.442
+BCAR3	Oviducts	MeSH	0.444
+BCAR3	Tissue Donors	MeSH	0.449
+BCAR3	Hawaii	MeSH	0.449
+BCAR3	Human papillomavirus 16	MeSH	0.458
+BCAR3	Health Services Needs and Demand	MeSH	0.462
+BCAR3	Orientation	MeSH	0.462
+BCAR3	Sheep	MeSH	0.463
+BCAR3	Biological Phenomena	MeSH	0.463
+BCAR3	Pulse	MeSH	0.464
+BCAR3	Models, Genetic	MeSH	0.469
+BCAR3	Health Resources	MeSH	0.471
+BCAR3	Inhibitory Concentration 50	MeSH	0.472
+BCAR3	Divorce	MeSH	0.472
+BCAR3	Sertoli Cells	MeSH	0.475
+BCAR3	Frameshift Mutation	MeSH	0.48
+BCAR3	Mice, Inbred C57BL	MeSH	0.481
+BCAR3	Abortion, Induced	MeSH	0.483
+BCAR3	Germany	MeSH	0.484
+BCAR3	Retroviridae	MeSH	0.487
+BCAR3	Vas Deferens	MeSH	0.487
+BCAR3	Bacteria	MeSH	0.488
+BCAR3	In Vitro Techniques	MeSH	0.489
+BCAR3	Czech Republic	MeSH	0.49
+BCAR3	Cell Membrane	MeSH	0.492
+BCAR3	Escherichia coli	MeSH	0.495
+BCAR3	Yeasts	MeSH	0.496
+BCAR3	Hyphae	MeSH	0.505
+BCAR3	Adipogenesis	MeSH	0.517
+BCAR3	Motivation	MeSH	0.523
+BCAR3	Invertebrates	MeSH	0.523
+BCAR3	Rest	MeSH	0.525
+BCAR3	Turkeys	MeSH	0.527
+BCAR3	Guinea Pigs	MeSH	0.532
+BCAR3	Mice, Knockout	MeSH	0.542
+BCAR3	Comparative Genomic Hybridization	MeSH	0.552
+BCAR3	Dengue Virus	MeSH	0.553
+BCAR3	Awareness	MeSH	0.554
+BCAR3	Oncorhynchus mykiss	MeSH	0.558
+BCAR3	Survival	MeSH	0.562
+BCAR3	Association	MeSH	0.564
+BCAR3	Allosteric Regulation	MeSH	0.566
+BCAR3	Lipid Droplets	MeSH	0.569
+BCAR3	Brazil	MeSH	0.57
+BCAR3	Epigenesis, Genetic	MeSH	0.57
+BCAR3	Hospitalization	MeSH	0.577
+BCAR3	Nucleic Acid Denaturation	MeSH	0.581
+BCAR3	Hot Temperature	MeSH	0.598
+BCAR3	Cell Fusion	MeSH	0.6
+BCAR3	Asian Continental Ancestry Group	MeSH	0.603
+BCAR3	Cytoprotection	MeSH	0.605
+BCAR3	Endoplasmic Reticulum Stress	MeSH	0.613
+BCAR3	Deer	MeSH	0.618
+BCAR3	Africa, Western	MeSH	0.619
+BCAR3	Polymerization	MeSH	0.623
+BCAR3	Age Groups	MeSH	0.624
+BCAR3	Seedlings	MeSH	0.625
+BCAR3	Disease Resistance	MeSH	0.627
+BCAR3	Environment	MeSH	0.628
+BCAR3	United States	MeSH	0.631
+BCAR3	Polymorphism, Single Nucleotide	MeSH	0.631
+BCAR3	Microscopy, Electron, Transmission	MeSH	0.635
+BCAR3	Polymorphism, Single-Stranded Conformational	MeSH	0.635
+BCAR3	Ecology	MeSH	0.636
+BCAR3	Bayes Theorem	MeSH	0.649
+BCAR3	Acetylation	MeSH	0.653
+BCAR3	Expressed Sequence Tags	MeSH	0.658
+BCAR3	Dynamic Light Scattering	MeSH	0.662
+BCAR3	Electrons	MeSH	0.664
+BCAR3	Half-Life	MeSH	0.668
+BCAR3	Biocatalysis	MeSH	0.673
+BCAR3	Emergency Service, Hospital	MeSH	0.678
+BCAR3	Intestine, Small	MeSH	0.68
+BCAR3	Dogs	MeSH	0.693
+BCAR3	Mortality	MeSH	0.699
+BCAR3	Research Personnel	MeSH	0.708
+BCAR3	Image Processing, Computer-Assisted	MeSH	0.715
+BCAR3	Solubility	MeSH	0.716
+BCAR3	Hedgehogs	MeSH	0.723
+BCAR3	Neuropathology	MeSH	0.738
+BCAR3	Selection Bias	MeSH	0.746
+BCAR3	Collection	MeSH	0.754
+BCAR3	Decision Making	MeSH	0.755
+BCAR3	Simian virus 40	MeSH	0.764
+BCAR3	Cats	MeSH	0.774
+BCAR3	Transcription Initiation Site	MeSH	0.775
+BCAR3	Terminology	MeSH	0.778
+BCAR3	Gestational Age	MeSH	0.799
+BCAR3	Surface Properties	MeSH	0.809
+BCAR3	Chronology as Topic	MeSH	0.814
+BCAR3	Colombia	MeSH	0.815
+BCAR3	Colorado	MeSH	0.815
+BCAR3	Thermodynamics	MeSH	0.82
+BCAR3	Euthanasia	MeSH	0.83
+BCAR3	Cross Reactions	MeSH	0.837
+BCAR3	Parasites	MeSH	0.838
+BCAR3	Cytogenetics	MeSH	0.839
+BCAR3	Histology	MeSH	0.857
+BCAR3	Quantitative Structure-Activity Relationship	MeSH	0.865
+BCAR3	Tanzania	MeSH	0.878
+BCAR3	Specialization	MeSH	0.879
+BCAR3	Hydrophobic and Hydrophilic Interactions	MeSH	0.88
+BCAR3	Asia, Southeastern	MeSH	0.905
+BCAR3	Systems Biology	MeSH	0.914
+BCAR3	Fees and Charges	MeSH	0.917
+BCAR3	Disease Reservoirs	MeSH	0.926
+BCAR3	Coliphages	MeSH	0.931
+BCAR3	Immune Tolerance	MeSH	0.937
+BCAR3	Negotiating	MeSH	0.948
+BCAR3	Kenya	MeSH	0.961
+BCAR3	Appointments and Schedules	MeSH	0.963
+BCAR3	Architecture	MeSH	0.991
+BCAR3	Time	MeSH	1.0
+BCAR3	Child	MeSH	1.0
+BCAR3	Tissues	MeSH	1.0
+BCAR3	Child, Preschool	MeSH	1.0
+BCAR3	Culture	MeSH	1.0
+BCAR3	Prevalence	MeSH	1.0
+BCAR3	Programs	MeSH	1.0
+BCAR3	Efficiency	MeSH	1.0
+BCAR3	Rabbits	MeSH	1.0
+BCAR3	Pressure	MeSH	1.0
+BCAR3	Light	MeSH	1.0
+BCAR3	Laboratories	MeSH	1.0
+BCAR3	Organizations	MeSH	1.0
+BCAR3	Cell Survival	MeSH	1.0
+BCAR3	Fluorescence	MeSH	1.0
+BCAR3	Microscopy, Electron	MeSH	1.0
+BCAR3	Molecular Weight	MeSH	1.0
+BCAR3	Parents	MeSH	1.0
+BCAR3	Software	MeSH	1.0
+BCAR3	Technology	MeSH	1.0
+BCAR3	T-Lymphocytes	MeSH	1.0
+BCAR3	Respect	MeSH	1.0
+BCAR3	Transfer (Psychology)	MeSH	1.0
+BCAR3	Database	MeSH	1.0
+BCAR3	Maintenance	MeSH	1.0
+BCAR3	Perception	MeSH	1.0
+BCAR3	Alleles	MeSH	1.0
+BCAR3	Animals, Newborn	MeSH	1.0
+BCAR3	Australia	MeSH	1.0
+BCAR3	Developing Countries	MeSH	1.0
+BCAR3	Engineering	MeSH	1.0
+BCAR3	Random Allocation	MeSH	1.0
+BCAR3	Biological Evolution	MeSH	1.0
+BCAR3	Exons	MeSH	1.0
+BCAR3	Homeostasis	MeSH	1.0
+BCAR3	Adaptation, Physiological	MeSH	1.0
+BCAR3	Computer Simulation	MeSH	1.0
+BCAR3	Dissection	MeSH	1.0
+BCAR3	Italy	MeSH	1.0
+BCAR3	Limit of Detection	MeSH	1.0
+BCAR3	Saccharomyces cerevisiae	MeSH	1.0
+BCAR3	DNA Damage	MeSH	1.0
+BCAR3	Hippocampus	MeSH	1.0
+BCAR3	Stress, Physiological	MeSH	1.0
+BCAR3	Biological Transport	MeSH	1.0
+BCAR3	Comparative Study	MeSH	1.0
+BCAR3	Drug Resistance	MeSH	1.0
+BCAR3	Ego	MeSH	1.0
+BCAR3	Gene Expression Regulation, Developmental	MeSH	1.0
+BCAR3	Microsatellite Repeats	MeSH	1.0
+BCAR3	History, 21st Century	MeSH	1.0
+BCAR3	Agriculture	MeSH	1.0
+BCAR3	Chromatography, Gel	MeSH	1.0
+BCAR3	Chromatography, Liquid	MeSH	1.0
+BCAR3	Diagnostic Tests, Routine	MeSH	1.0
+BCAR3	Discrimination (Psychology)	MeSH	1.0
+BCAR3	Feedback	MeSH	1.0
+BCAR3	Genetic Testing	MeSH	1.0
+BCAR3	Molecular Conformation	MeSH	1.0
+BCAR3	Nucleic Acid Hybridization	MeSH	1.0
+BCAR3	Organ Specificity	MeSH	1.0
+BCAR3	Physiology	MeSH	1.0
+BCAR3	Population Dynamics	MeSH	1.0
+BCAR3	Taiwan	MeSH	1.0
+BCAR3	Transducers	MeSH	1.0
+BCAR3	Models, Statistical	MeSH	1.0
+BCAR3	Gene Library	MeSH	1.0
+BCAR3	Chemotherapy, Adjuvant	MeSH	1.0
+BCAR3	Ecosystem	MeSH	1.0
+BCAR3	Disease-Free Survival	MeSH	1.0
+BCAR3	Statistics, Nonparametric	MeSH	1.0
+BCAR3	Developed Countries	MeSH	1.0
+BCAR3	Eukaryota	MeSH	1.0
+BCAR3	Cough	MeSH	1.0
+BCAR3	Sugars	MeSH	1.0
+BCAR3	Acclimatization	MeSH	1.0
+BCAR3	Adenoviridae	MeSH	1.0
+BCAR3	Affect	MeSH	1.0
+BCAR3	Biochemistry	MeSH	1.0
+BCAR3	Biological Products	MeSH	1.0
+BCAR3	Breast Feeding	MeSH	1.0
+BCAR3	Breeding	MeSH	1.0
+BCAR3	Defense Mechanisms	MeSH	1.0
+BCAR3	Dependency (Psychology)	MeSH	1.0
+BCAR3	Displacement (Psychology)	MeSH	1.0
+BCAR3	Drive	MeSH	1.0
+BCAR3	Genes, Fungal	MeSH	1.0
+BCAR3	Genes, Recessive	MeSH	1.0
+BCAR3	Haplotypes	MeSH	1.0
+BCAR3	Hematopoiesis	MeSH	1.0
+BCAR3	Immunity, Cellular	MeSH	1.0
+BCAR3	Introns	MeSH	1.0
+BCAR3	Larva	MeSH	1.0
+BCAR3	Neural Conduction	MeSH	1.0
+BCAR3	Neuronal Plasticity	MeSH	1.0
+BCAR3	Orthomyxoviridae	MeSH	1.0
+BCAR3	Rodentia	MeSH	1.0
+BCAR3	Sex Characteristics	MeSH	1.0
+BCAR3	Second Messenger Systems	MeSH	1.0
+BCAR3	Genes, Tumor Suppressor	MeSH	1.0
+BCAR3	Genes, p53	MeSH	1.0
+BCAR3	Alternative Splicing	MeSH	1.0
+BCAR3	Gene Dosage	MeSH	1.0
+BCAR3	Receptor, ErbB-2	MeSH	1.0
+BCAR3	Manuscript	MeSH	1.0
+BCAR3	RNA Stability	MeSH	1.0
+BCAR3	Plants, Genetically Modified	MeSH	1.0
+BCAR3	Nanotubes	MeSH	1.0
+BCAR3	Biodiversity	MeSH	1.0
+BCAR3	Cell Shape	MeSH	1.0
+BCAR3	Growth and Development	MeSH	1.0
+BCAR3	Metabolic Networks and Pathways	MeSH	1.0
+BCAR3	Biosynthetic Pathways	MeSH	1.0
+BCAR3	Biophysical Phenomena	MeSH	1.0
+BCAR3	Static Electricity	MeSH	1.0
+BCAR3	Accounting	MeSH	1.0
+BCAR3	Argentina	MeSH	1.0
+BCAR3	Asia	MeSH	1.0
+BCAR3	Base Composition	MeSH	1.0
+BCAR3	Baths	MeSH	1.0
+BCAR3	Binding, Competitive	MeSH	1.0
+BCAR3	Biotechnology	MeSH	1.0
+BCAR3	California	MeSH	1.0
+BCAR3	Compliance	MeSH	1.0
+BCAR3	Denmark	MeSH	1.0
+BCAR3	Dialysis	MeSH	1.0
+BCAR3	Documentation	MeSH	1.0
+BCAR3	Electrophysiology	MeSH	1.0
+BCAR3	Fathers	MeSH	1.0
+BCAR3	Florida	MeSH	1.0
+BCAR3	Food Supply	MeSH	1.0
+BCAR3	Fruit	MeSH	1.0
+BCAR3	Genes, Bacterial	MeSH	1.0
+BCAR3	Indonesia	MeSH	1.0
+BCAR3	Injections, Intramuscular	MeSH	1.0
+BCAR3	Injections, Intraventricular	MeSH	1.0
+BCAR3	Insect Vectors	MeSH	1.0
+BCAR3	Ireland	MeSH	1.0
+BCAR3	Israel	MeSH	1.0
+BCAR3	Latin America	MeSH	1.0
+BCAR3	Leukocyte Count	MeSH	1.0
+BCAR3	Membrane Potentials	MeSH	1.0
+BCAR3	Mexico	MeSH	1.0
+BCAR3	Mice, Inbred C3H	MeSH	1.0
+BCAR3	Mining	MeSH	1.0
+BCAR3	Minnesota	MeSH	1.0
+BCAR3	Models, Chemical	MeSH	1.0
+BCAR3	Models, Structural	MeSH	1.0
+BCAR3	Motion Pictures	MeSH	1.0
+BCAR3	New Zealand	MeSH	1.0
+BCAR3	Terminology as Topic	MeSH	1.0
+BCAR3	Norway	MeSH	1.0
+BCAR3	Nuclear Family	MeSH	1.0
+BCAR3	Nutritional Status	MeSH	1.0
+BCAR3	Parity	MeSH	1.0
+BCAR3	Pedigree	MeSH	1.0
+BCAR3	Photochemistry	MeSH	1.0
+BCAR3	Population Density	MeSH	1.0
+BCAR3	Chemical Precipitation	MeSH	1.0
+BCAR3	Publishing	MeSH	1.0
+BCAR3	Quantum Theory	MeSH	1.0
+BCAR3	ROC Curve	MeSH	1.0
+BCAR3	Russia	MeSH	1.0
+BCAR3	Scattering, Radiation	MeSH	1.0
+BCAR3	Semiconductors	MeSH	1.0
+BCAR3	Soil Microbiology	MeSH	1.0
+BCAR3	South America	MeSH	1.0
+BCAR3	Spectrophotometry, Ultraviolet	MeSH	1.0
+BCAR3	Spectrum Analysis, Raman	MeSH	1.0
+BCAR3	Stereoisomerism	MeSH	1.0
+BCAR3	Streptococcus	MeSH	1.0
+BCAR3	Stress, Mechanical	MeSH	1.0
+BCAR3	Suicide	MeSH	1.0
+BCAR3	Sweden	MeSH	1.0
+BCAR3	Tensile Strength	MeSH	1.0
+BCAR3	Tissue Distribution	MeSH	1.0
+BCAR3	User-Computer Interface	MeSH	1.0
+BCAR3	Wills	MeSH	1.0
+BCAR3	Global Health	MeSH	1.0
+BCAR3	World Health Organization	MeSH	1.0
+BCAR3	Xenopus	MeSH	1.0
+BCAR3	Xenopus laevis	MeSH	1.0
+BCAR3	Neural Networks (Computer)	MeSH	1.0
+BCAR3	Arabidopsis	MeSH	1.0
+BCAR3	Africa South of the Sahara	MeSH	1.0
+BCAR3	Sample Size	MeSH	1.0
+BCAR3	Neptune	MeSH	1.0
+BCAR3	Lymphocyte Count	MeSH	1.0
+BCAR3	Electrophoresis, Capillary	MeSH	1.0
+BCAR3	Databases, Genetic	MeSH	1.0
+BCAR3	Siblings	MeSH	1.0
+BCAR3	Vulnerable Populations	MeSH	1.0
+BCAR3	Adaptive Immunity	MeSH	1.0
+BCAR3	Art	MeSH	1.0
+BCAR3	Brassica	MeSH	1.0
+BCAR3	Tumor Microenvironment	MeSH	1.0
+BCAR3	Bile Ducts	MeSH	1.0
+BCAR3	Ear	MeSH	1.0
+BCAR3	Gonads	MeSH	1.0
+BCAR3	Gyrus Cinguli	MeSH	1.0
+BCAR3	Hypothalamus	MeSH	1.0
+BCAR3	Immersion	MeSH	1.0
+BCAR3	Intestine, Large	MeSH	1.0
+BCAR3	Leukocytes, Mononuclear	MeSH	1.0
+BCAR3	Lip	MeSH	1.0
+BCAR3	Pericardium	MeSH	1.0
+BCAR3	Repression, Psychology	MeSH	1.0
+BCAR3	Spermatozoa	MeSH	1.0
+BCAR3	Cell Cycle Checkpoints	MeSH	1.0
+BCAR3	Islands	MeSH	1.0
+BCAR3	Meals	MeSH	1.0
+BCAR3	Tertiary Healthcare	MeSH	1.0
+BCAR3	Drug Development	MeSH	1.0
+BCAR3	Nutrients	MeSH	1.0
+BCAR3	hua sheng yi	Traditional chinese medicine	5.6E-4
+BCAR3	wu jing	Traditional chinese medicine	0.0538

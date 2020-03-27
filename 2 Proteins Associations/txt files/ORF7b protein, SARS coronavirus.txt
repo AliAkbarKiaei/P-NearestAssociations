@@ -1,0 +1,223 @@
+Selection	Association Name	Association Type	Significance
+ORF7b protein, SARS coronavirus	Interferon beta measurement	Procedure	5.11E-4
+ORF7b protein, SARS coronavirus	Cell fusion procedure	Procedure	0.00139
+ORF7b protein, SARS coronavirus	Indirect fluorescent antibody technique	Procedure	0.00148
+ORF7b protein, SARS coronavirus	Antiviral therapy	Procedure	0.00288
+ORF7b protein, SARS coronavirus	Confocal microscopy	Procedure	0.00293
+ORF7b protein, SARS coronavirus	Indirect immunofluorescence	Procedure	0.00465
+ORF7b protein, SARS coronavirus	Mutagenesis	Procedure	0.00615
+ORF7b protein, SARS coronavirus	Precipitin tests	Procedure	0.00656
+ORF7b protein, SARS coronavirus	Affinity chromatography	Procedure	0.00895
+ORF7b protein, SARS coronavirus	Transfection	Procedure	0.0128
+ORF7b protein, SARS coronavirus	Total protein measurement	Procedure	0.0186
+ORF7b protein, SARS coronavirus	Western blotting	Procedure	0.0221
+ORF7b protein, SARS coronavirus	CD4 expressing T cell count	Procedure	0.0231
+ORF7b protein, SARS coronavirus	Immunofluorescence assay	Procedure	0.0246
+ORF7b protein, SARS coronavirus	Scanning	Procedure	0.0279
+ORF7b protein, SARS coronavirus	Cell culture techniques	Procedure	0.0404
+ORF7b protein, SARS coronavirus	Survival analysis	Procedure	0.0441
+ORF7b protein, SARS coronavirus	Fluorescent antibody technique	Procedure	0.0483
+ORF7b protein, SARS coronavirus	Mass spectrometry	Procedure	0.0606
+ORF7b protein, SARS coronavirus	Flow cytometry	Procedure	0.0622
+ORF7b protein, SARS coronavirus	Enzyme-linked immunosorbent assay	Procedure	0.0807
+ORF7b protein, SARS coronavirus	Pathology procedure	Procedure	0.101
+ORF7b protein, SARS coronavirus	Induction procedure	Procedure	0.161
+ORF7b protein, SARS coronavirus	Weighing patient	Procedure	0.289
+ORF7b protein, SARS coronavirus	Pre-clinical trial	Procedure	0.294
+ORF7b protein, SARS coronavirus	Study	Procedure	0.918
+ORF7b protein, SARS coronavirus	DICOM study	Procedure	0.918
+ORF7b protein, SARS coronavirus	Scientific study	Procedure	0.918
+ORF7b protein, SARS coronavirus	Clinical research	Procedure	0.945
+ORF7b protein, SARS coronavirus	Clinical trials	Procedure	1.0
+ORF7b protein, SARS coronavirus	Analysis	Procedure	1.0
+ORF7b protein, SARS coronavirus	Respiratory distress	Symptom	0.0102
+ORF7b protein, SARS coronavirus	Severe Acute Respiratory Syndrome	Disease	4.01E-5
+ORF7b protein, SARS coronavirus	Respiratory Distress Syndrome, Adult	Disease	0.00696
+ORF7b protein, SARS coronavirus	Virus Diseases	Disease	0.0107
+ORF7b protein, SARS coronavirus	Dental Plaque	Disease	0.0229
+ORF7b protein, SARS coronavirus	Body Weight decreased	Disease	0.0273
+ORF7b protein, SARS coronavirus	Senile Plaques	Disease	0.0327
+ORF7b protein, SARS coronavirus	Disease Progression	Disease	0.0648
+ORF7b protein, SARS coronavirus	Infection	Disease	0.0975
+ORF7b protein, SARS coronavirus	Animal Disease Models	Disease	0.101
+ORF7b protein, SARS coronavirus	Sprains and Strains	Disease	0.258
+ORF7b protein, SARS coronavirus	Disease	Disease	1.0
+ORF7b protein, SARS coronavirus	sars7a protein, SARS virus	Chemical	1.79E-6
+ORF7b protein, SARS coronavirus	Viral Proteins	Chemical	2.94E-4
+ORF7b protein, SARS coronavirus	Interferon Beta	Chemical	4.42E-4
+ORF7b protein, SARS coronavirus	Viral Matrix Proteins	Chemical	4.63E-4
+ORF7b protein, SARS coronavirus	Bacterial Artificial Chromosome	Chemical	8.4E-4
+ORF7b protein, SARS coronavirus	Transmembrane Protein	Chemical	0.00234
+ORF7b protein, SARS coronavirus	Codon, Initiator	Chemical	0.00263
+ORF7b protein, SARS coronavirus	Codon, Terminator	Chemical	0.0032
+ORF7b protein, SARS coronavirus	CD4 Antigen	Chemical	0.00393
+ORF7b protein, SARS coronavirus	Recombinant Protein	Chemical	0.00478
+ORF7b protein, SARS coronavirus	Interferon Type I	Chemical	0.00481
+ORF7b protein, SARS coronavirus	Antibodies, Viral	Chemical	0.005
+ORF7b protein, SARS coronavirus	Mutant Proteins	Chemical	0.006
+ORF7b protein, SARS coronavirus	Membrane Protein	Chemical	0.00624
+ORF7b protein, SARS coronavirus	RNA Polymerase	Chemical	0.00629
+ORF7b protein, SARS coronavirus	Virulence Factors	Chemical	0.00788
+ORF7b protein, SARS coronavirus	Monoclonal Antibody	Chemical	0.00812
+ORF7b protein, SARS coronavirus	DNA-Directed RNA Polymerases	Chemical	0.00822
+ORF7b protein, SARS coronavirus	Fusion Protein	Chemical	0.00901
+ORF7b protein, SARS coronavirus	Ribonucleic Acid	Chemical	0.0105
+ORF7b protein, SARS coronavirus	Protein	Chemical	0.0109
+ORF7b protein, SARS coronavirus	cDNA	Chemical	0.0124
+ORF7b protein, SARS coronavirus	Codon	Chemical	0.0161
+ORF7b protein, SARS coronavirus	Caspase-3	Chemical	0.0168
+ORF7b protein, SARS coronavirus	Interferon	Chemical	0.0195
+ORF7b protein, SARS coronavirus	RNA, Viral	Chemical	0.023
+ORF7b protein, SARS coronavirus	Binding Sites	Chemical	0.024
+ORF7b protein, SARS coronavirus	Recombinant Fusion Proteins	Chemical	0.0253
+ORF7b protein, SARS coronavirus	Immunosuppressant	Chemical	0.0286
+ORF7b protein, SARS coronavirus	Recombinant Proteins	Chemical	0.0661
+ORF7b protein, SARS coronavirus	Metal	Chemical	0.0811
+ORF7b protein, SARS coronavirus	Antigen	Chemical	0.177
+ORF7b protein, SARS coronavirus	Golgi network	Anatomy	4.74E-5
+ORF7b protein, SARS coronavirus	Vero Cells	Anatomy	1.93E-4
+ORF7b protein, SARS coronavirus	Golgi Apparatus	Anatomy	6.68E-4
+ORF7b protein, SARS coronavirus	Hybridomas	Anatomy	0.00133
+ORF7b protein, SARS coronavirus	Cytoplasmic Domain	Anatomy	0.00339
+ORF7b protein, SARS coronavirus	Caco-2 Cells	Anatomy	0.00456
+ORF7b protein, SARS coronavirus	Endoplasmic Reticulum	Anatomy	0.00508
+ORF7b protein, SARS coronavirus	Nasal cavity	Anatomy	0.00551
+ORF7b protein, SARS coronavirus	Anatomical compartments	Anatomy	0.00818
+ORF7b protein, SARS coronavirus	fully spanning the plasma membrane	Anatomy	0.00872
+ORF7b protein, SARS coronavirus	integral to membrane	Anatomy	0.00872
+ORF7b protein, SARS coronavirus	Virion	Anatomy	0.0117
+ORF7b protein, SARS coronavirus	Ribosomes	Anatomy	0.0134
+ORF7b protein, SARS coronavirus	HEK293 Cells	Anatomy	0.0157
+ORF7b protein, SARS coronavirus	protein location	Anatomy	0.0187
+ORF7b protein, SARS coronavirus	Tail	Anatomy	0.0218
+ORF7b protein, SARS coronavirus	Cell Line	Anatomy	0.0237
+ORF7b protein, SARS coronavirus	Cytoplasm	Anatomy	0.0461
+ORF7b protein, SARS coronavirus	Cells	Anatomy	0.0543
+ORF7b protein, SARS coronavirus	Lung	Anatomy	0.0567
+ORF7b protein, SARS coronavirus	Crystal - human material	Anatomy	0.0594
+ORF7b protein, SARS coronavirus	Myocardium	Anatomy	0.0603
+ORF7b protein, SARS coronavirus	Chromosomes	Anatomy	0.077
+ORF7b protein, SARS coronavirus	Bodily secretions	Anatomy	0.105
+ORF7b protein, SARS coronavirus	Kidney	Anatomy	0.209
+ORF7b protein, SARS coronavirus	Heart	Anatomy	0.399
+ORF7b protein, SARS coronavirus	Body tissue	Anatomy	0.928
+ORF7b protein, SARS coronavirus	Pekosz A	Biomedical expert	0.9048
+ORF7b protein, SARS coronavirus	Schaecher SR	Biomedical expert	0.9231
+ORF7b protein, SARS coronavirus	Diamond MS	Biomedical expert	0.9418
+ORF7b protein, SARS coronavirus	Fremont DH	Biomedical expert	0.9608
+ORF7b protein, SARS coronavirus	Lemmermeyer T	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Krähling V	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Ditt V	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Pfefferle S	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Tekes G	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Schriewer J	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Grywna K	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Drosten C	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Ziebuhr J	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Sagartz JE	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Mühlberger E	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Oberle C	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Lamp B	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Ma DL	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Zhang T	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Baric RS	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Luo X	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Buller RM	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Sims AC	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Stabenow J	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Thiel HJ	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Chen YY	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Lee CA	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Mackenzie JM	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Nelson CA	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	Schneider R	Biomedical expert	0.9802
+ORF7b protein, SARS coronavirus	MIR7-3HG	Gene/Protein	7.77E-4
+ORF7b protein, SARS coronavirus	IFNB1	Gene/Protein	0.00152
+ORF7b protein, SARS coronavirus	CD4	Gene/Protein	0.0232
+ORF7b protein, SARS coronavirus	Golgi localization	Biological process	1.03E-4
+ORF7b protein, SARS coronavirus	tropism	Biological process	0.00272
+ORF7b protein, SARS coronavirus	pathogenesis	Biological process	0.0121
+ORF7b protein, SARS coronavirus	glycosylation	Biological process	0.0134
+ORF7b protein, SARS coronavirus	immune response	Biological process	0.0354
+ORF7b protein, SARS coronavirus	translation	Biological process	0.052
+ORF7b protein, SARS coronavirus	secretion	Biological process	0.068
+ORF7b protein, SARS coronavirus	apoptotic process	Biological process	0.132
+ORF7b protein, SARS coronavirus	Protein	Food	0.0188
+ORF7b protein, SARS coronavirus	Alanine	Food	0.0223
+ORF7b protein, SARS coronavirus	Coronavirus, Feline	MeSH	1.78E-4
+ORF7b protein, SARS coronavirus	Coronavirus	MeSH	2.6E-4
+ORF7b protein, SARS coronavirus	Cercopithecus aethiops	MeSH	4.15E-4
+ORF7b protein, SARS coronavirus	Open Reading Frames	MeSH	6.89E-4
+ORF7b protein, SARS coronavirus	Mesocricetus	MeSH	0.00156
+ORF7b protein, SARS coronavirus	Chromosomes, Artificial, Bacterial	MeSH	0.00159
+ORF7b protein, SARS coronavirus	Immune Evasion	MeSH	0.00207
+ORF7b protein, SARS coronavirus	Virus Replication	MeSH	0.00218
+ORF7b protein, SARS coronavirus	Fluorescent Antibody Technique, Indirect	MeSH	0.00227
+ORF7b protein, SARS coronavirus	Microscopy, Confocal	MeSH	0.00243
+ORF7b protein, SARS coronavirus	Clinical Coding	MeSH	0.00292
+ORF7b protein, SARS coronavirus	Cell Fusion	MeSH	0.00325
+ORF7b protein, SARS coronavirus	Sequence Analysis, Protein	MeSH	0.00555
+ORF7b protein, SARS coronavirus	RNA Viruses	MeSH	0.00574
+ORF7b protein, SARS coronavirus	Amino Acid Motifs	MeSH	0.00719
+ORF7b protein, SARS coronavirus	Protein Structure, Tertiary	MeSH	0.00733
+ORF7b protein, SARS coronavirus	Virulence	MeSH	0.00825
+ORF7b protein, SARS coronavirus	Cricetinae	MeSH	0.00856
+ORF7b protein, SARS coronavirus	Immunocompromised Host	MeSH	0.00893
+ORF7b protein, SARS coronavirus	Sequence Deletion	MeSH	0.00946
+ORF7b protein, SARS coronavirus	Viruses	MeSH	0.0112
+ORF7b protein, SARS coronavirus	Mice, Inbred BALB C	MeSH	0.0118
+ORF7b protein, SARS coronavirus	Antibody Specificity	MeSH	0.0122
+ORF7b protein, SARS coronavirus	Gene Deletion	MeSH	0.0139
+ORF7b protein, SARS coronavirus	Chromatography, Affinity	MeSH	0.014
+ORF7b protein, SARS coronavirus	Protein Structure, Secondary	MeSH	0.0163
+ORF7b protein, SARS coronavirus	Serogroup	MeSH	0.0188
+ORF7b protein, SARS coronavirus	Set (Psychology)	MeSH	0.0198
+ORF7b protein, SARS coronavirus	Molecular Sequence Data	MeSH	0.021
+ORF7b protein, SARS coronavirus	Immunosuppression	MeSH	0.021
+ORF7b protein, SARS coronavirus	Genetic Vectors	MeSH	0.0211
+ORF7b protein, SARS coronavirus	Foundations	MeSH	0.0233
+ORF7b protein, SARS coronavirus	Crystallography, X-Ray	MeSH	0.0265
+ORF7b protein, SARS coronavirus	Sequence Homology, Amino Acid	MeSH	0.0297
+ORF7b protein, SARS coronavirus	Biological Transport	MeSH	0.0301
+ORF7b protein, SARS coronavirus	Animals	MeSH	0.0354
+ORF7b protein, SARS coronavirus	Amino Acid Sequence	MeSH	0.0366
+ORF7b protein, SARS coronavirus	Chimera	MeSH	0.0458
+ORF7b protein, SARS coronavirus	Retention (Psychology)	MeSH	0.0496
+ORF7b protein, SARS coronavirus	Sequence Analysis, DNA	MeSH	0.0521
+ORF7b protein, SARS coronavirus	Models, Animal	MeSH	0.0596
+ORF7b protein, SARS coronavirus	Role	MeSH	0.0602
+ORF7b protein, SARS coronavirus	Models, Molecular	MeSH	0.0723
+ORF7b protein, SARS coronavirus	Escherichia coli	MeSH	0.08
+ORF7b protein, SARS coronavirus	Cell Membrane	MeSH	0.0913
+ORF7b protein, SARS coronavirus	Binding Sites	MeSH	0.1
+ORF7b protein, SARS coronavirus	Genome	MeSH	0.102
+ORF7b protein, SARS coronavirus	Blotting, Western	MeSH	0.103
+ORF7b protein, SARS coronavirus	Models, Biological	MeSH	0.105
+ORF7b protein, SARS coronavirus	Pathology	MeSH	0.108
+ORF7b protein, SARS coronavirus	Morbidity	MeSH	0.117
+ORF7b protein, SARS coronavirus	Base Sequence	MeSH	0.171
+ORF7b protein, SARS coronavirus	Mice	MeSH	0.175
+ORF7b protein, SARS coronavirus	Genes	MeSH	0.19
+ORF7b protein, SARS coronavirus	Cells, Cultured	MeSH	0.191
+ORF7b protein, SARS coronavirus	Kinetics	MeSH	0.229
+ORF7b protein, SARS coronavirus	Identification (Psychology)	MeSH	0.232
+ORF7b protein, SARS coronavirus	Mortality	MeSH	0.295
+ORF7b protein, SARS coronavirus	Form	MeSH	0.423
+ORF7b protein, SARS coronavirus	Sensitivity and Specificity	MeSH	0.613
+ORF7b protein, SARS coronavirus	Humans	MeSH	1.0
+ORF7b protein, SARS coronavirus	Female	MeSH	1.0
+ORF7b protein, SARS coronavirus	Therapeutics	MeSH	1.0
+ORF7b protein, SARS coronavirus	Patients	MeSH	1.0
+ORF7b protein, SARS coronavirus	Tissues	MeSH	1.0
+ORF7b protein, SARS coronavirus	Methods	MeSH	1.0
+ORF7b protein, SARS coronavirus	Golgi apparatus	Cellular component	8.87E-4
+ORF7b protein, SARS coronavirus	ribosome	Cellular component	0.00451
+ORF7b protein, SARS coronavirus	endoplasmic reticulum	Cellular component	0.00512
+ORF7b protein, SARS coronavirus	virion	Cellular component	0.0117
+ORF7b protein, SARS coronavirus	membrane	Cellular component	0.0377
+ORF7b protein, SARS coronavirus	cytoplasm	Cellular component	0.0459
+ORF7b protein, SARS coronavirus	chromosome	Cellular component	0.0595
+ORF7b protein, SARS coronavirus	cell	Cellular component	0.107
+ORF7b protein, SARS coronavirus	Recombinant Interferon Beta	Drug	0.00316
+ORF7b protein, SARS coronavirus	CYCLOPHOSPHAMIDE	Drug	0.0186
+ORF7b protein, SARS coronavirus	L-Alanine	Drug	0.0223

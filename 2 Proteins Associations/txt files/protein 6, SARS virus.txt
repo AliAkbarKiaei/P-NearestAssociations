@@ -1,0 +1,207 @@
+Selection	Association Name	Association Type	Significance
+protein 6, SARS virus	Equilibrium centrifugation	Procedure	1.39E-4
+protein 6, SARS virus	Protein interaction mapping	Procedure	0.00434
+protein 6, SARS virus	Two-hybrid system techniques	Procedure	0.00456
+protein 6, SARS virus	Total protein measurement	Procedure	0.00881
+protein 6, SARS virus	Centrifugation	Procedure	0.0128
+protein 6, SARS virus	Confocal microscopy	Procedure	0.0134
+protein 6, SARS virus	DNA chemical synthesis	Procedure	0.0136
+protein 6, SARS virus	Mutagenesis	Procedure	0.0285
+protein 6, SARS virus	Cell culture techniques	Procedure	0.0459
+protein 6, SARS virus	Yeast cell measurement	Procedure	0.0533
+protein 6, SARS virus	Case-control studies	Procedure	0.11
+protein 6, SARS virus	Screening for cancer	Procedure	0.134
+protein 6, SARS virus	Disease screening	Procedure	0.134
+protein 6, SARS virus	Mass screening	Procedure	0.16
+protein 6, SARS virus	Immunohistochemistry	Procedure	0.161
+protein 6, SARS virus	Culture of specimen from other site	Procedure	0.18
+protein 6, SARS virus	Culture of specimen from unspecified site	Procedure	0.18
+protein 6, SARS virus	Laboratory culture	Procedure	0.18
+protein 6, SARS virus	Induction procedure	Procedure	0.188
+protein 6, SARS virus	Assay	Procedure	0.246
+protein 6, SARS virus	Biological assay	Procedure	0.279
+protein 6, SARS virus	Study	Procedure	1.0
+protein 6, SARS virus	Clinical trials	Procedure	1.0
+protein 6, SARS virus	Clinical research	Procedure	1.0
+protein 6, SARS virus	DICOM study	Procedure	1.0
+protein 6, SARS virus	Scientific study	Procedure	1.0
+protein 6, SARS virus	Analysis	Procedure	1.0
+protein 6, SARS virus	protein binding	Molecular function	0.109
+protein 6, SARS virus	Severe Acute Respiratory Syndrome	Disease	2.73E-5
+protein 6, SARS virus	Coronavirus Infections	Disease	3.85E-4
+protein 6, SARS virus	Hepatitis	Disease	0.00651
+protein 6, SARS virus	Respiration Disorders	Disease	0.0119
+protein 6, SARS virus	Infection	Disease	0.0237
+protein 6, SARS virus	Chromosomal translocation	Disease	0.0398
+protein 6, SARS virus	Pneumonia	Disease	0.0421
+protein 6, SARS virus	Virus Diseases	Disease	0.0509
+protein 6, SARS virus	Disease	Disease	0.637
+protein 6, SARS virus	benzyloxycarbonyl-aspartyl(OMe)-isoleucyl-prolyl-aspartyl(OMe) fluoromethylketone	Chemical	1.19E-6
+protein 6, SARS virus	sars7a protein, SARS virus	Chemical	8.05E-6
+protein 6, SARS virus	Endoplasmin	Chemical	1.34E-4
+protein 6, SARS virus	Virosomes	Chemical	1.94E-4
+protein 6, SARS virus	glucose-regulated proteins	Chemical	2.02E-4
+protein 6, SARS virus	Karyopherins	Chemical	2.28E-4
+protein 6, SARS virus	Viral Proteins	Chemical	2.62E-4
+protein 6, SARS virus	beta Karyopherins	Chemical	3.43E-4
+protein 6, SARS virus	Signal Transducer and Activator of Transcription 1-alpha/beta	Chemical	4.04E-4
+protein 6, SARS virus	Nuclear Localization Signals	Chemical	0.00193
+protein 6, SARS virus	Viral Matrix Proteins	Chemical	0.00209
+protein 6, SARS virus	Receptors, Virus	Chemical	0.00264
+protein 6, SARS virus	Caspase-3	Chemical	0.00465
+protein 6, SARS virus	Heat Shock Protein 70	Chemical	0.00519
+protein 6, SARS virus	JNK Mitogen-Activated Protein Kinases	Chemical	0.00523
+protein 6, SARS virus	Mutant Proteins	Chemical	0.00676
+protein 6, SARS virus	Plasmid	Chemical	0.00754
+protein 6, SARS virus	Ubiquitin	Chemical	0.00942
+protein 6, SARS virus	Protein	Chemical	0.00973
+protein 6, SARS virus	Chaperone	Chemical	0.00997
+protein 6, SARS virus	Intracellular Signaling Peptides and Proteins	Chemical	0.0112
+protein 6, SARS virus	Green Fluorescent Proteins	Chemical	0.0144
+protein 6, SARS virus	Oligopeptides	Chemical	0.0147
+protein 6, SARS virus	Membrane Protein	Chemical	0.0162
+protein 6, SARS virus	Interferon	Chemical	0.0221
+protein 6, SARS virus	Membrane Glycoproteins	Chemical	0.0235
+protein 6, SARS virus	Interferons	Chemical	0.0237
+protein 6, SARS virus	Recombinant Fusion Proteins	Chemical	0.0286
+protein 6, SARS virus	RNA, Small Interfering	Chemical	0.033
+protein 6, SARS virus	Yeast	Chemical	0.0536
+protein 6, SARS virus	cDNA	Chemical	0.0594
+protein 6, SARS virus	Transcription Factor	Chemical	0.103
+protein 6, SARS virus	Amino Acid	Chemical	0.189
+protein 6, SARS virus	Antibody	Chemical	0.33
+protein 6, SARS virus	Receptor	Chemical	0.375
+protein 6, SARS virus	DNA	Chemical	0.457
+protein 6, SARS virus	Vero Cells	Anatomy	0.00136
+protein 6, SARS virus	Reticulum	Anatomy	0.00267
+protein 6, SARS virus	Endoplasmic Reticulum	Anatomy	0.00573
+protein 6, SARS virus	Host Cell	Anatomy	0.00695
+protein 6, SARS virus	Cell Nucleus	Anatomy	0.00814
+protein 6, SARS virus	protein location	Anatomy	0.00885
+protein 6, SARS virus	Respiratory tract structure	Anatomy	0.0097
+protein 6, SARS virus	Virion	Anatomy	0.0132
+protein 6, SARS virus	Cell Line	Anatomy	0.0147
+protein 6, SARS virus	Respiratory System	Anatomy	0.0205
+protein 6, SARS virus	Tail	Anatomy	0.0247
+protein 6, SARS virus	Tract	Anatomy	0.027
+protein 6, SARS virus	Intestinal Mucosa	Anatomy	0.0299
+protein 6, SARS virus	Membrane	Anatomy	0.0407
+protein 6, SARS virus	Cells	Anatomy	0.0411
+protein 6, SARS virus	Cytoplasm	Anatomy	0.0524
+protein 6, SARS virus	Spleen	Anatomy	0.0647
+protein 6, SARS virus	Intestines	Anatomy	0.097
+protein 6, SARS virus	Body tissue	Anatomy	0.163
+protein 6, SARS virus	Lung	Anatomy	0.339
+protein 6, SARS virus	Perlman S	Biomedical expert	0.9418
+protein 6, SARS virus	Hussain S	Biomedical expert	0.9418
+protein 6, SARS virus	Netland J	Biomedical expert	0.9608
+protein 6, SARS virus	Zhou H	Biomedical expert	0.9608
+protein 6, SARS virus	Li P	Biomedical expert	0.9608
+protein 6, SARS virus	Zhao J	Biomedical expert	0.9608
+protein 6, SARS virus	Xie Y	Biomedical expert	0.9608
+protein 6, SARS virus	Wong CK	Biomedical expert	0.9608
+protein 6, SARS virus	Gallagher T	Biomedical expert	0.9608
+protein 6, SARS virus	Pérez Breña P	Biomedical expert	0.9802
+protein 6, SARS virus	Lo AW	Biomedical expert	0.9802
+protein 6, SARS virus	Waye MM	Biomedical expert	0.9802
+protein 6, SARS virus	Ye ZD	Biomedical expert	0.9802
+protein 6, SARS virus	Ferraro D	Biomedical expert	0.9802
+protein 6, SARS virus	Ho YY	Biomedical expert	0.9802
+protein 6, SARS virus	Ye Z	Biomedical expert	0.9802
+protein 6, SARS virus	Guo D	Biomedical expert	0.9802
+protein 6, SARS virus	Au DM	Biomedical expert	0.9802
+protein 6, SARS virus	Geng H	Biomedical expert	0.9802
+protein 6, SARS virus	Shao J	Biomedical expert	0.9802
+protein 6, SARS virus	Li R	Biomedical expert	0.9802
+protein 6, SARS virus	Enjuanes L	Biomedical expert	0.9802
+protein 6, SARS virus	Gallagher TM	Biomedical expert	0.9802
+protein 6, SARS virus	Peters CJ	Biomedical expert	0.9802
+protein 6, SARS virus	Huang C	Biomedical expert	0.9802
+protein 6, SARS virus	Cheng W	Biomedical expert	0.9802
+protein 6, SARS virus	Trujillo J	Biomedical expert	0.9802
+protein 6, SARS virus	Chan WS	Biomedical expert	0.9802
+protein 6, SARS virus	Wang M	Biomedical expert	0.9802
+protein 6, SARS virus	Falcón A	Biomedical expert	0.9802
+protein 6, SARS virus	Chen Y	Biomedical expert	0.9802
+protein 6, SARS virus	Chen S	Biomedical expert	0.9802
+protein 6, SARS virus	Makino S	Biomedical expert	0.9802
+protein 6, SARS virus	Liu YM	Biomedical expert	0.9802
+protein 6, SARS virus	NMI	Gene/Protein	1.94E-5
+protein 6, SARS virus	SH2D3C	Gene/Protein	1.47E-4
+protein 6, SARS virus	CDSN	Gene/Protein	3.81E-4
+protein 6, SARS virus	HSP90B1	Gene/Protein	4.95E-4
+protein 6, SARS virus	HSPB3	Gene/Protein	0.0012
+protein 6, SARS virus	MYCN	Gene/Protein	0.00138
+protein 6, SARS virus	STAT1	Gene/Protein	0.00209
+protein 6, SARS virus	SOAT1	Gene/Protein	0.0026
+protein 6, SARS virus	CASP3	Gene/Protein	0.0163
+protein 6, SARS virus	nuclear import	Biological process	2.95E-4
+protein 6, SARS virus	protein import	Biological process	8.13E-4
+protein 6, SARS virus	innate immune response	Biological process	0.00989
+protein 6, SARS virus	gene silencing	Biological process	0.0116
+protein 6, SARS virus	DNA biosynthetic process	Biological process	0.0138
+protein 6, SARS virus	protein transport	Biological process	0.0176
+protein 6, SARS virus	proteolysis	Biological process	0.0186
+protein 6, SARS virus	apoptotic process	Biological process	0.0334
+protein 6, SARS virus	cell death	Biological process	0.0565
+protein 6, SARS virus	growth	Biological process	0.142
+protein 6, SARS virus	pathogenesis	Biological process	0.146
+protein 6, SARS virus	gene expression	Biological process	0.213
+protein 6, SARS virus	Protein	Food	0.00891
+protein 6, SARS virus	Sucrose	Food	0.0216
+protein 6, SARS virus	Coronavirus	MeSH	4.11E-5
+protein 6, SARS virus	Murine hepatitis virus	MeSH	1.93E-4
+protein 6, SARS virus	Active Transport, Cell Nucleus	MeSH	5.81E-4
+protein 6, SARS virus	Cercopithecus aethiops	MeSH	0.0013
+protein 6, SARS virus	Open Reading Frames	MeSH	0.00217
+protein 6, SARS virus	Gene Expression Regulation, Viral	MeSH	0.00449
+protein 6, SARS virus	Virus Replication	MeSH	0.00556
+protein 6, SARS virus	Hong Kong	MeSH	0.00659
+protein 6, SARS virus	Viruses	MeSH	0.00701
+protein 6, SARS virus	Disease Outbreaks	MeSH	0.00805
+protein 6, SARS virus	Host-Pathogen Interactions	MeSH	0.00974
+protein 6, SARS virus	Sequence Deletion	MeSH	0.0107
+protein 6, SARS virus	Centrifugation, Density Gradient	MeSH	0.0116
+protein 6, SARS virus	CHO Cells	MeSH	0.0127
+protein 6, SARS virus	Plasmids	MeSH	0.0137
+protein 6, SARS virus	Gene Library	MeSH	0.0139
+protein 6, SARS virus	Transducers	MeSH	0.0177
+protein 6, SARS virus	Protein Structure, Secondary	MeSH	0.0184
+protein 6, SARS virus	Mutagenesis, Site-Directed	MeSH	0.0218
+protein 6, SARS virus	Immunity, Innate	MeSH	0.0235
+protein 6, SARS virus	Microscopy, Confocal	MeSH	0.0254
+protein 6, SARS virus	Genome	MeSH	0.0265
+protein 6, SARS virus	Mice, Transgenic	MeSH	0.0373
+protein 6, SARS virus	Enzyme Activation	MeSH	0.0379
+protein 6, SARS virus	Cricetinae	MeSH	0.0402
+protein 6, SARS virus	Libraries	MeSH	0.0507
+protein 6, SARS virus	Kinetics	MeSH	0.0546
+protein 6, SARS virus	Yeasts	MeSH	0.0557
+protein 6, SARS virus	Up-Regulation	MeSH	0.0719
+protein 6, SARS virus	Mice	MeSH	0.0762
+protein 6, SARS virus	Swine	MeSH	0.0898
+protein 6, SARS virus	Animals	MeSH	0.0959
+protein 6, SARS virus	Cell Membrane	MeSH	0.105
+protein 6, SARS virus	Tissues	MeSH	0.182
+protein 6, SARS virus	Amino Acid Sequence	MeSH	0.197
+protein 6, SARS virus	Cells, Cultured	MeSH	0.225
+protein 6, SARS virus	Membranes	MeSH	0.26
+protein 6, SARS virus	Molecular Sequence Data	MeSH	0.291
+protein 6, SARS virus	Culture	MeSH	0.367
+protein 6, SARS virus	Mutation	MeSH	0.379
+protein 6, SARS virus	Survival	MeSH	0.413
+protein 6, SARS virus	Inhibition (Psychology)	MeSH	0.433
+protein 6, SARS virus	Role	MeSH	0.51
+protein 6, SARS virus	Association	MeSH	0.872
+protein 6, SARS virus	Research Report	MeSH	0.88
+protein 6, SARS virus	Humans	MeSH	0.887
+protein 6, SARS virus	Patients	MeSH	1.0
+protein 6, SARS virus	endoplasmic reticulum	Cellular component	0.00577
+protein 6, SARS virus	host cell	Cellular component	0.00672
+protein 6, SARS virus	virion	Cellular component	0.0132
+protein 6, SARS virus	nucleus	Cellular component	0.0171
+protein 6, SARS virus	membrane	Cellular component	0.0432
+protein 6, SARS virus	cytoplasm	Cellular component	0.0522
+protein 6, SARS virus	cell	Cellular component	1.0
+protein 6, SARS virus	Sucrose	Drug	0.0216
+protein 6, SARS virus	Recombinant Interferon Gamma	Drug	0.0256

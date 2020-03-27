@@ -1,0 +1,142 @@
+Selection	Association Name	Association Type	Significance
+ORF 10 protein, varicella-zoster virus	Mutagenesis	Procedure	9.45E-4
+ORF 10 protein, varicella-zoster virus	Electrophoretic mobility shift assay	Procedure	0.00446
+ORF 10 protein, varicella-zoster virus	Cell culture techniques	Procedure	0.00599
+ORF 10 protein, varicella-zoster virus	Restriction mapping	Procedure	0.00668
+ORF 10 protein, varicella-zoster virus	Statistical cluster	Procedure	0.0121
+ORF 10 protein, varicella-zoster virus	Total protein measurement	Procedure	0.0258
+ORF 10 protein, varicella-zoster virus	Electron microscopy	Procedure	0.0277
+ORF 10 protein, varicella-zoster virus	Transfection	Procedure	0.0323
+ORF 10 protein, varicella-zoster virus	Surgical and medical procedures	Procedure	0.27
+ORF 10 protein, varicella-zoster virus	Herpes Simplex Infections	Disease	2.7E-4
+ORF 10 protein, varicella-zoster virus	Genital Herpes	Disease	9.7E-4
+ORF 10 protein, varicella-zoster virus	Immunologic Deficiency Syndromes	Disease	0.00913
+ORF 10 protein, varicella-zoster virus	Senile Plaques	Disease	0.02
+ORF 10 protein, varicella-zoster virus	melanoma	Disease	0.0212
+ORF 10 protein, varicella-zoster virus	HIV Infections	Disease	0.0553
+ORF 10 protein, varicella-zoster virus	Sprains and Strains	Disease	0.138
+ORF 10 protein, varicella-zoster virus	Varicella-Zoster ORF47-associated protein kinase	Chemical	2.48E-6
+ORF 10 protein, varicella-zoster virus	protein 61, Varicella-zoster virus	Chemical	4.47E-6
+ORF 10 protein, varicella-zoster virus	IE62 protein, Human herpesvirus 3	Chemical	1.74E-5
+ORF 10 protein, varicella-zoster virus	Herpes Simplex Virus Protein Vmw65	Chemical	3.11E-5
+ORF 10 protein, varicella-zoster virus	exportin 1 protein	Chemical	1.71E-4
+ORF 10 protein, varicella-zoster virus	beta Karyopherins	Chemical	1.9E-4
+ORF 10 protein, varicella-zoster virus	GAL4 protein, S cerevisiae	Chemical	2.15E-4
+ORF 10 protein, varicella-zoster virus	ran GTP-Binding Protein	Chemical	2.19E-4
+ORF 10 protein, varicella-zoster virus	Nuclear Export Signals	Chemical	2.35E-4
+ORF 10 protein, varicella-zoster virus	yellow fluorescent protein, Bacteria	Chemical	3.39E-4
+ORF 10 protein, varicella-zoster virus	Trans-Activators	Chemical	3.41E-4
+ORF 10 protein, varicella-zoster virus	Karyopherins	Chemical	5.07E-4
+ORF 10 protein, varicella-zoster virus	Viral Structural Proteins	Chemical	0.00107
+ORF 10 protein, varicella-zoster virus	Nuclear Localization Signals	Chemical	0.00107
+ORF 10 protein, varicella-zoster virus	Oligodeoxyribonucleotides	Chemical	0.00118
+ORF 10 protein, varicella-zoster virus	Viral Proteins	Chemical	0.00131
+ORF 10 protein, varicella-zoster virus	Immediate-Early Proteins	Chemical	0.00135
+ORF 10 protein, varicella-zoster virus	Chloramphenicol O-acetyltransferase	Chemical	0.00159
+ORF 10 protein, varicella-zoster virus	Codon, Terminator	Chemical	0.002
+ORF 10 protein, varicella-zoster virus	Viral Envelope Proteins	Chemical	0.00318
+ORF 10 protein, varicella-zoster virus	Luminescent Proteins	Chemical	0.00332
+ORF 10 protein, varicella-zoster virus	Recombinant Fusion Proteins	Chemical	0.00382
+ORF 10 protein, varicella-zoster virus	Viral Vaccines	Chemical	0.00426
+ORF 10 protein, varicella-zoster virus	Nuclear Hormone Receptor Superfamily	Chemical	0.00456
+ORF 10 protein, varicella-zoster virus	DNA Binding Protein	Chemical	0.0063
+ORF 10 protein, varicella-zoster virus	Saccharomyces cerevisiae Proteins	Chemical	0.00786
+ORF 10 protein, varicella-zoster virus	Fungal Proteins	Chemical	0.00787
+ORF 10 protein, varicella-zoster virus	Codon	Chemical	0.00992
+ORF 10 protein, varicella-zoster virus	Transcription Factor	Chemical	0.0126
+ORF 10 protein, varicella-zoster virus	Vaccines	Chemical	0.0174
+ORF 10 protein, varicella-zoster virus	Protein	Chemical	0.0175
+ORF 10 protein, varicella-zoster virus	Amino Acid	Chemical	0.021
+ORF 10 protein, varicella-zoster virus	Protein Kinase	Chemical	0.0243
+ORF 10 protein, varicella-zoster virus	Glycoprotein	Chemical	0.0282
+ORF 10 protein, varicella-zoster virus	Element	Chemical	0.0296
+ORF 10 protein, varicella-zoster virus	Bacterial Protein	Chemical	0.0314
+ORF 10 protein, varicella-zoster virus	Elements	Chemical	0.0485
+ORF 10 protein, varicella-zoster virus	Electron	Chemical	0.0929
+ORF 10 protein, varicella-zoster virus	Antibody	Chemical	0.146
+ORF 10 protein, varicella-zoster virus	importin location	Anatomy	2.7E-4
+ORF 10 protein, varicella-zoster virus	Simple lobule of cerebellum	Anatomy	2.86E-4
+ORF 10 protein, varicella-zoster virus	Region of chromosome	Anatomy	6.91E-4
+ORF 10 protein, varicella-zoster virus	COS-7 Cells	Anatomy	0.001
+ORF 10 protein, varicella-zoster virus	Virion	Anatomy	0.0018
+ORF 10 protein, varicella-zoster virus	Vero Cells	Anatomy	0.00302
+ORF 10 protein, varicella-zoster virus	Host Cell	Anatomy	0.00384
+ORF 10 protein, varicella-zoster virus	Cell-Free System	Anatomy	0.0039
+ORF 10 protein, varicella-zoster virus	COS Cells	Anatomy	0.00563
+ORF 10 protein, varicella-zoster virus	Tumor Cells, Cultured	Anatomy	0.00709
+ORF 10 protein, varicella-zoster virus	Cell Line	Anatomy	0.00776
+ORF 10 protein, varicella-zoster virus	protein location	Anatomy	0.0259
+ORF 10 protein, varicella-zoster virus	Cytoplasm	Anatomy	0.0279
+ORF 10 protein, varicella-zoster virus	Cell Nucleus	Anatomy	0.042
+ORF 10 protein, varicella-zoster virus	Cells	Anatomy	0.0477
+ORF 10 protein, varicella-zoster virus	Cohen JI	Biomedical expert	0.9231
+ORF 10 protein, varicella-zoster virus	Moriuchi M	Biomedical expert	0.9608
+ORF 10 protein, varicella-zoster virus	Moriuchi H	Biomedical expert	0.9608
+ORF 10 protein, varicella-zoster virus	Long J	Biomedical expert	0.9802
+ORF 10 protein, varicella-zoster virus	Seidel K	Biomedical expert	0.9802
+ORF 10 protein, varicella-zoster virus	Wang S	Biomedical expert	0.9802
+ORF 10 protein, varicella-zoster virus	Straus SE	Biomedical expert	0.9802
+ORF 10 protein, varicella-zoster virus	Triezenberg SJ	Biomedical expert	0.9802
+ORF 10 protein, varicella-zoster virus	Zheng C	Biomedical expert	0.9802
+ORF 10 protein, varicella-zoster virus	Cai M	Biomedical expert	0.9802
+ORF 10 protein, varicella-zoster virus	Pichyangkura R	Biomedical expert	0.9802
+ORF 10 protein, varicella-zoster virus	SLC22A1	Gene/Protein	1.98E-4
+ORF 10 protein, varicella-zoster virus	ACKR1	Gene/Protein	2.62E-4
+ORF 10 protein, varicella-zoster virus	POU2F1	Gene/Protein	3.57E-4
+ORF 10 protein, varicella-zoster virus	virion assembly	Biological process	5.47E-4
+ORF 10 protein, varicella-zoster virus	nuclear import	Biological process	6.55E-4
+ORF 10 protein, varicella-zoster virus	nuclear export	Biological process	8.24E-4
+ORF 10 protein, varicella-zoster virus	protein transport	Biological process	0.00965
+ORF 10 protein, varicella-zoster virus	pathogenesis	Biological process	0.0726
+ORF 10 protein, varicella-zoster virus	growth	Biological process	0.334
+ORF 10 protein, varicella-zoster virus	Phenylalanine	Food	0.00672
+ORF 10 protein, varicella-zoster virus	Protein	Food	0.0261
+ORF 10 protein, varicella-zoster virus	Herpesvirus 3, Human	MeSH	6.91E-5
+ORF 10 protein, varicella-zoster virus	Genes, Immediate-Early	MeSH	1.05E-4
+ORF 10 protein, varicella-zoster virus	Cosmids	MeSH	2.66E-4
+ORF 10 protein, varicella-zoster virus	Simplexvirus	MeSH	3.75E-4
+ORF 10 protein, varicella-zoster virus	Herpesvirus 1, Human	MeSH	6.5E-4
+ORF 10 protein, varicella-zoster virus	Open Reading Frames	MeSH	6.72E-4
+ORF 10 protein, varicella-zoster virus	Herpesvirus 2, Human	MeSH	0.0012
+ORF 10 protein, varicella-zoster virus	Virus Assembly	MeSH	0.0012
+ORF 10 protein, varicella-zoster virus	Simian Immunodeficiency Virus	MeSH	0.00124
+ORF 10 protein, varicella-zoster virus	Transcriptional Activation	MeSH	0.00125
+ORF 10 protein, varicella-zoster virus	Cercopithecus aethiops	MeSH	0.00162
+ORF 10 protein, varicella-zoster virus	Viruses	MeSH	0.00242
+ORF 10 protein, varicella-zoster virus	Active Transport, Cell Nucleus	MeSH	0.00291
+ORF 10 protein, varicella-zoster virus	Sequence Homology, Amino Acid	MeSH	0.00446
+ORF 10 protein, varicella-zoster virus	Genes, Viral	MeSH	0.00576
+ORF 10 protein, varicella-zoster virus	Genome, Viral	MeSH	0.00579
+ORF 10 protein, varicella-zoster virus	Sequence Deletion	MeSH	0.00587
+ORF 10 protein, varicella-zoster virus	Guinea	MeSH	0.00635
+ORF 10 protein, varicella-zoster virus	Molecular Sequence Data	MeSH	0.00693
+ORF 10 protein, varicella-zoster virus	Blotting, Southern	MeSH	0.00744
+ORF 10 protein, varicella-zoster virus	Mutagenesis, Site-Directed	MeSH	0.0119
+ORF 10 protein, varicella-zoster virus	Virus Replication	MeSH	0.0124
+ORF 10 protein, varicella-zoster virus	Genetic Vectors	MeSH	0.013
+ORF 10 protein, varicella-zoster virus	Microscopy, Fluorescence	MeSH	0.0172
+ORF 10 protein, varicella-zoster virus	Genes	MeSH	0.0202
+ORF 10 protein, varicella-zoster virus	Cluster Analysis	MeSH	0.0203
+ORF 10 protein, varicella-zoster virus	Amino Acid Sequence	MeSH	0.0217
+ORF 10 protein, varicella-zoster virus	Base Sequence	MeSH	0.0219
+ORF 10 protein, varicella-zoster virus	Promoter Regions, Genetic	MeSH	0.0264
+ORF 10 protein, varicella-zoster virus	Protein Conformation	MeSH	0.0291
+ORF 10 protein, varicella-zoster virus	Maintenance	MeSH	0.0459
+ORF 10 protein, varicella-zoster virus	Genome	MeSH	0.0597
+ORF 10 protein, varicella-zoster virus	Microscopy, Electron	MeSH	0.0598
+ORF 10 protein, varicella-zoster virus	Phenotype	MeSH	0.105
+ORF 10 protein, varicella-zoster virus	Kinetics	MeSH	0.124
+ORF 10 protein, varicella-zoster virus	Mortality	MeSH	0.155
+ORF 10 protein, varicella-zoster virus	Family	MeSH	0.205
+ORF 10 protein, varicella-zoster virus	Animals	MeSH	0.239
+ORF 10 protein, varicella-zoster virus	Humans	MeSH	1.0
+ORF 10 protein, varicella-zoster virus	Time	MeSH	1.0
+ORF 10 protein, varicella-zoster virus	Methods	MeSH	1.0
+ORF 10 protein, varicella-zoster virus	chromosomal region	Cellular component	0.00101
+ORF 10 protein, varicella-zoster virus	virion	Cellular component	0.0018
+ORF 10 protein, varicella-zoster virus	host cell	Cellular component	0.00371
+ORF 10 protein, varicella-zoster virus	cytoplasm	Cellular component	0.0278
+ORF 10 protein, varicella-zoster virus	nucleus	Cellular component	0.0383
+ORF 10 protein, varicella-zoster virus	cell	Cellular component	0.145
+ORF 10 protein, varicella-zoster virus	ETOPOSIDE	Drug	2.69E-4
+ORF 10 protein, varicella-zoster virus	L-Phenylalanine	Drug	0.00672

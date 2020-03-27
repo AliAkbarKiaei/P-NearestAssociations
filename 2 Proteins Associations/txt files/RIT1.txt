@@ -1,0 +1,2841 @@
+Selection	Association Name	Association Type	Significance
+RIT1	Stem cell factor measurement	Procedure	6.66E-5
+RIT1	Growth hormone stimulation test	Procedure	2.16E-4
+RIT1	Pancreatic elastase measurement	Procedure	5.89E-4
+RIT1	Two-hybrid system techniques	Procedure	0.00116
+RIT1	Total protein measurement	Procedure	0.00161
+RIT1	Protein measurement	Procedure	0.00181
+RIT1	Riboflavin assay	Procedure	0.00207
+RIT1	Molecular diagnosis	Procedure	0.0022
+RIT1	Bispectral index	Procedure	0.0025
+RIT1	Acmg	Procedure	0.00257
+RIT1	Yeast cell measurement	Procedure	0.00308
+RIT1	Radioimmunosorbent test	Procedure	0.0044
+RIT1	Genetic association studies	Procedure	0.00458
+RIT1	Cisplatin/ifosfamide/mesna/mitomycin protocol	Procedure	0.00491
+RIT1	Dideoxy chain termination DNA sequencing	Procedure	0.00729
+RIT1	Sequence alignment	Procedure	0.00733
+RIT1	Expression cloning	Procedure	0.00993
+RIT1	Genetic complementation test	Procedure	0.0106
+RIT1	SELEX aptamer technique	Procedure	0.0106
+RIT1	Gene expression analysis	Procedure	0.0116
+RIT1	Ligation	Procedure	0.0144
+RIT1	Transfection	Procedure	0.0148
+RIT1	Genetic screening method	Procedure	0.0162
+RIT1	Immunoprecipitation	Procedure	0.0168
+RIT1	Metabolic engineering	Procedure	0.0179
+RIT1	Co-immunoprecipitation	Procedure	0.0186
+RIT1	Molecular typing	Procedure	0.0189
+RIT1	Lomustine/methotrexate/procarbazine protocol	Procedure	0.0193
+RIT1	Comparative genomic analysis	Procedure	0.0196
+RIT1	Northern hybridization	Procedure	0.0197
+RIT1	Nuchal translucency measurement	Procedure	0.0198
+RIT1	Somatomedin-C measurement	Procedure	0.0202
+RIT1	Cloning	Procedure	0.021
+RIT1	Gastric lavage	Procedure	0.0215
+RIT1	Gene knock-in techniques	Procedure	0.0219
+RIT1	Induction procedure	Procedure	0.0223
+RIT1	Precipitin tests	Procedure	0.0229
+RIT1	Targeted therapy	Procedure	0.023
+RIT1	Special education	Procedure	0.0233
+RIT1	DNA sequence determinations	Procedure	0.0237
+RIT1	Normal delivery procedure	Procedure	0.0241
+RIT1	General (procedure) toxicology screen	Procedure	0.0244
+RIT1	Gene amplification technique	Procedure	0.0245
+RIT1	Array-based comparative genomic hybridization	Procedure	0.0248
+RIT1	Microarray analysis	Procedure	0.0249
+RIT1	Gene knockdown techniques	Procedure	0.0258
+RIT1	Doxorubicin/mitomycin/vinblastine protocol	Procedure	0.0259
+RIT1	Phylogenetic analysis	Procedure	0.0263
+RIT1	High throughput screening	Procedure	0.0266
+RIT1	Knock-in	Procedure	0.0275
+RIT1	Genetic analysis	Procedure	0.0278
+RIT1	Gene expression profiling	Procedure	0.0283
+RIT1	Cell migration assays	Procedure	0.0292
+RIT1	Molecular profiling	Procedure	0.0294
+RIT1	Genetic disorders screening	Procedure	0.0294
+RIT1	RNA differential display	Procedure	0.0303
+RIT1	Immortalization	Procedure	0.0312
+RIT1	Antiangiogenesis therapy	Procedure	0.0331
+RIT1	Blood thyroid stimulating hormone analysis	Procedure	0.0332
+RIT1	DNA mutational analysis	Procedure	0.0347
+RIT1	Radioallergosorbent test	Procedure	0.0366
+RIT1	Genetic testing for cancer risk	Procedure	0.0388
+RIT1	Polymerase chain reaction	Procedure	0.0391
+RIT1	High-throughput nucleotide sequencing	Procedure	0.0391
+RIT1	Cyclophosphamide/doxorubicin/lomustine protocol	Procedure	0.0407
+RIT1	Caffeine/cisplatin/cytarabine protocol	Procedure	0.0407
+RIT1	Genetic screening	Procedure	0.0417
+RIT1	Sequence analysis	Procedure	0.042
+RIT1	Karyotype determination procedure	Procedure	0.0422
+RIT1	Induction of neuromuscular blockade	Procedure	0.0457
+RIT1	Altretamine/cisplatin/cyclophosphamide protocol	Procedure	0.0467
+RIT1	Transabdominal ultrasound	Procedure	0.0469
+RIT1	Validation studies	Procedure	0.0469
+RIT1	Wavelet analysis	Procedure	0.048
+RIT1	Gel mobility shift assay	Procedure	0.0492
+RIT1	Minimum lethal concentration (MLC)	Procedure	0.0492
+RIT1	Bacterial typing techniques	Procedure	0.0521
+RIT1	In situ hybridization	Procedure	0.0537
+RIT1	Thermoregulation intervention	Procedure	0.0539
+RIT1	Corneal topography	Procedure	0.0564
+RIT1	Skin prick test	Procedure	0.0567
+RIT1	Amsacrine/azacitidine/etoposide	Procedure	0.0583
+RIT1	Mutagenesis	Procedure	0.0612
+RIT1	Electrophoretic mobility shift assay	Procedure	0.0613
+RIT1	Amino acid substitution	Procedure	0.0627
+RIT1	Analysis	Procedure	0.0643
+RIT1	Cisplatin/etoposide/methotrexate chemotherapy protocol	Procedure	0.0672
+RIT1	Cisplatin/mitomycin/vindesine protocol	Procedure	0.0674
+RIT1	Tissue array analysis	Procedure	0.0719
+RIT1	Random amplified polymorphic DNA technique	Procedure	0.0731
+RIT1	Heterozygote detection	Procedure	0.0736
+RIT1	Radiation ionizing radiotherapy	Procedure	0.0756
+RIT1	Radiotherapy research	Procedure	0.0756
+RIT1	Nested polymerase chain reaction	Procedure	0.0762
+RIT1	Therapeutic radiology procedure	Procedure	0.0776
+RIT1	Bronchial provocation tests	Procedure	0.0776
+RIT1	Xenograft model antitumor assays	Procedure	0.0784
+RIT1	Research project	Procedure	0.0787
+RIT1	Ablation	Procedure	0.0791
+RIT1	Research and development	Procedure	0.0808
+RIT1	Triacylglycerol lipase measurement	Procedure	0.081
+RIT1	Immunofluorescence microscopy	Procedure	0.0825
+RIT1	Conscious sedation	Procedure	0.0895
+RIT1	Bacterial count measurement	Procedure	0.0898
+RIT1	Cancer therapeutic procedure	Procedure	0.0978
+RIT1	Immunoblotting	Procedure	0.103
+RIT1	RNA sequence determinations	Procedure	0.103
+RIT1	Data transformation	Procedure	0.105
+RIT1	Heart function tests	Procedure	0.107
+RIT1	Serotonin measurement	Procedure	0.111
+RIT1	Protein structure initiative	Procedure	0.112
+RIT1	Primary cell culture	Procedure	0.114
+RIT1	Chromosome banding	Procedure	0.115
+RIT1	Gene fusion	Procedure	0.119
+RIT1	Immunofluorescence assay	Procedure	0.12
+RIT1	Cholecalciferol	Procedure	0.121
+RIT1	Genome sequencing	Procedure	0.122
+RIT1	Scanning transmission electron microscopy procedures	Procedure	0.123
+RIT1	Chromatin immunoprecipitation	Procedure	0.125
+RIT1	Cisplatin/etoposide/ifosfamide protocol	Procedure	0.127
+RIT1	Gene targeting	Procedure	0.127
+RIT1	Immunoglobulin E measurement	Procedure	0.128
+RIT1	Drug discovery	Procedure	0.128
+RIT1	Clinical trial period	Procedure	0.128
+RIT1	Coculture techniques	Procedure	0.129
+RIT1	Intubation	Procedure	0.131
+RIT1	Chromosome mapping	Procedure	0.133
+RIT1	Fluorescent in situ hybridization	Procedure	0.135
+RIT1	Protein interaction mapping	Procedure	0.135
+RIT1	Enzyme assays	Procedure	0.142
+RIT1	Molecular cloning	Procedure	0.162
+RIT1	Oxidative stress analysis	Procedure	0.164
+RIT1	Fluorescent antibody technique	Procedure	0.164
+RIT1	Cisplatin/doxorubicin/mitomycin protocol	Procedure	0.171
+RIT1	Glutathione S-transferase measurement	Procedure	0.173
+RIT1	Thin layer chromatography	Procedure	0.173
+RIT1	Homologous recombination	Procedure	0.175
+RIT1	Validation	Procedure	0.18
+RIT1	Medical research activity	Procedure	0.185
+RIT1	Immunohistochemistry	Procedure	0.206
+RIT1	Ultrafiltration	Procedure	0.206
+RIT1	Genetic counseling	Procedure	0.221
+RIT1	Cyclophosphamide/doxorubicin/methotrexate/procarbazine protocol	Procedure	0.225
+RIT1	Amsacrine/cyclophosphamide/etoposide	Procedure	0.225
+RIT1	Brain-derived neurotrophic factor measurement	Procedure	0.227
+RIT1	Disease screening	Procedure	0.243
+RIT1	Screening for cancer	Procedure	0.243
+RIT1	Biological assay	Procedure	0.249
+RIT1	Phosphate measurement	Procedure	0.251
+RIT1	Mass spectrometry	Procedure	0.251
+RIT1	Therapeutic procedure	Procedure	0.253
+RIT1	Energy dispersive spectroscopy	Procedure	0.253
+RIT1	Western blot	Procedure	0.254
+RIT1	Real-time polymerase chain reaction	Procedure	0.255
+RIT1	Craniotomy	Procedure	0.26
+RIT1	Administration procedure	Procedure	0.261
+RIT1	Treatment study	Procedure	0.261
+RIT1	Cell count	Procedure	0.267
+RIT1	Oligonucleotide array sequence analysis	Procedure	0.267
+RIT1	Molecular analysis	Procedure	0.276
+RIT1	Surgical and medical procedures	Procedure	0.279
+RIT1	Discriminant analysis	Procedure	0.289
+RIT1	Corticosterone assay	Procedure	0.294
+RIT1	Research	Procedure	0.297
+RIT1	Assay	Procedure	0.307
+RIT1	Molecular targeted therapy	Procedure	0.323
+RIT1	Allogeneic hematopoietic stem cell transplantation	Procedure	0.326
+RIT1	Iontophoresis	Procedure	0.34
+RIT1	Research activities	Procedure	0.344
+RIT1	Nucleic acid hybridization procedure	Procedure	0.345
+RIT1	Thyroidectomy	Procedure	0.345
+RIT1	Magnetic resonance imaging	Procedure	0.349
+RIT1	Multicenter studies as topic	Procedure	0.351
+RIT1	Electromyogram of eye	Procedure	0.359
+RIT1	Electrophoresis, gel, two-dimensional	Procedure	0.359
+RIT1	Laboratory procedures	Procedure	0.361
+RIT1	Aspartate aminotransferase assay	Procedure	0.366
+RIT1	Mass screening	Procedure	0.367
+RIT1	Cytarabine/daunorubicin/prednisone/thioguanine	Procedure	0.372
+RIT1	Total radical-trap antioxidant potential measurement	Procedure	0.372
+RIT1	Immunophenotyping	Procedure	0.378
+RIT1	Eosinophil count procedure	Procedure	0.381
+RIT1	Citrate measurement	Procedure	0.415
+RIT1	Experimental design	Procedure	0.426
+RIT1	Zinc measurement	Procedure	0.438
+RIT1	Multicenter study	Procedure	0.449
+RIT1	Glutamate measurement	Procedure	0.459
+RIT1	Volume measurement	Procedure	0.462
+RIT1	Thyroid stimulating hormone measurement	Procedure	0.469
+RIT1	Polyacrylamide gel electrophoresis	Procedure	0.487
+RIT1	Release	Procedure	0.489
+RIT1	Removal technique	Procedure	0.494
+RIT1	Genome-wide association study	Procedure	0.552
+RIT1	Rapid antigen test	Procedure	0.576
+RIT1	Adrenocorticotropic hormone measurement	Procedure	0.594
+RIT1	Retrospective studies	Procedure	0.595
+RIT1	Restriction mapping	Procedure	0.601
+RIT1	Heart transplantation	Procedure	0.608
+RIT1	Cyclophosphamide/prednisone/vincristine/zorubicin protocol	Procedure	0.61
+RIT1	Dietary supplementation	Procedure	0.627
+RIT1	Albumin/globulin ratio	Procedure	0.639
+RIT1	Diastolic blood pressure measurement	Procedure	0.642
+RIT1	X-ray computed tomography	Procedure	0.644
+RIT1	Nuclear magnetic resonance spectroscopy	Procedure	0.657
+RIT1	Centrifugation	Procedure	0.664
+RIT1	Chemosensitization/potentiation	Procedure	0.685
+RIT1	Xenograft procedure	Procedure	0.71
+RIT1	Tumor burden	Procedure	0.721
+RIT1	Ammonia measurement	Procedure	0.733
+RIT1	DNA chemical synthesis	Procedure	0.738
+RIT1	Phytotherapy	Procedure	0.807
+RIT1	Radiotherapy fractionation	Procedure	0.846
+RIT1	Diagnosis study	Procedure	0.849
+RIT1	Weighing patient	Procedure	0.897
+RIT1	Neoplasm transplantation	Procedure	0.903
+RIT1	Training programs	Procedure	0.937
+RIT1	Training	Procedure	0.939
+RIT1	Lymphocyte count measurement	Procedure	0.954
+RIT1	Culture techniques	Procedure	0.98
+RIT1	Histamine measurement	Procedure	0.987
+RIT1	Growth hormone measurement	Procedure	0.989
+RIT1	Scientific study	Procedure	1.0
+RIT1	Clinical research	Procedure	1.0
+RIT1	Clinical trials	Procedure	1.0
+RIT1	Study	Procedure	1.0
+RIT1	DICOM study	Procedure	1.0
+RIT1	Asparaginase/ifosfamide/methotrexate	Procedure	1.0
+RIT1	Detection	Procedure	1.0
+RIT1	Excision	Procedure	1.0
+RIT1	Laser-induced fluorescence endoscopy	Procedure	1.0
+RIT1	Pre-clinical trial	Procedure	1.0
+RIT1	Profile (lab procedure)	Procedure	1.0
+RIT1	Efficacy study	Procedure	1.0
+RIT1	Reverse transcriptase polymerase chain reaction	Procedure	1.0
+RIT1	Determination aspects	Procedure	1.0
+RIT1	Length of trial	Procedure	1.0
+RIT1	Insulin measurement	Procedure	1.0
+RIT1	Injection of therapeutic agent	Procedure	1.0
+RIT1	Electroencephalography	Procedure	1.0
+RIT1	Echocardiography	Procedure	1.0
+RIT1	Observation diagnostic procedure	Procedure	1.0
+RIT1	Magnetic resonance spectroscopy	Procedure	1.0
+RIT1	Knowledge acquisition	Procedure	1.0
+RIT1	Flow cytometry	Procedure	1.0
+RIT1	Sodium measurement	Procedure	1.0
+RIT1	Iron measurement	Procedure	1.0
+RIT1	Observation method cytotoxicity	Procedure	1.0
+RIT1	Staining method	Procedure	1.0
+RIT1	Research study	Procedure	1.0
+RIT1	Staining and labeling	Procedure	1.0
+RIT1	Observation in research	Procedure	1.0
+RIT1	Organ transplantation	Procedure	1.0
+RIT1	Discussion	Procedure	1.0
+RIT1	Isolation procedure	Procedure	1.0
+RIT1	Dose fractionation	Procedure	1.0
+RIT1	Transplantation	Procedure	1.0
+RIT1	Infiltration	Procedure	1.0
+RIT1	Anesthesia procedures	Procedure	1.0
+RIT1	Cyclophosphamide/doxorubicin/tamoxifen protocol	Procedure	1.0
+RIT1	Immunotherapy	Procedure	1.0
+RIT1	Cytarabine/thioguanine	Procedure	1.0
+RIT1	Oral administration	Procedure	1.0
+RIT1	Perfusion	Procedure	1.0
+RIT1	Electrocardiogram Q waves test	Procedure	1.0
+RIT1	MRI	Procedure	1.0
+RIT1	Systolic blood pressure measurement	Procedure	1.0
+RIT1	Electromyography	Procedure	1.0
+RIT1	Infertility study	Procedure	1.0
+RIT1	Early diagnosis	Procedure	1.0
+RIT1	Body mass index procedure	Procedure	1.0
+RIT1	Western blotting	Procedure	1.0
+RIT1	Respiratory function tests	Procedure	1.0
+RIT1	Pathology procedure	Procedure	1.0
+RIT1	Vitamin D measurement	Procedure	1.0
+RIT1	Tumor necrosis factor measurement	Procedure	1.0
+RIT1	Microscopy	Procedure	1.0
+RIT1	Enzyme-linked immunosorbent assay	Procedure	1.0
+RIT1	Inoculation	Procedure	1.0
+RIT1	Magnesium measurement	Procedure	1.0
+RIT1	Passage tissue culture technique	Procedure	1.0
+RIT1	Squamous transitional epithelial cell count	Procedure	1.0
+RIT1	Norepinephrine measurement	Procedure	1.0
+RIT1	Chemical fractionation	Procedure	1.0
+RIT1	Incubation laboratory procedure	Procedure	1.0
+RIT1	Simulation	Procedure	1.0
+RIT1	Observation method algorithm	Procedure	1.0
+RIT1	Survival analysis	Procedure	1.0
+RIT1	Epithelial cell count	Procedure	1.0
+RIT1	Carbon dioxide content measurement	Procedure	1.0
+RIT1	Chloride measurement	Procedure	1.0
+RIT1	Central minus	Procedure	1.0
+RIT1	Nutritional study	Procedure	1.0
+RIT1	Gel electrophoresis (lab technique)	Procedure	1.0
+RIT1	Sample fixation	Procedure	1.0
+RIT1	Blood coagulation tests	Procedure	1.0
+RIT1	Biomedical research	Procedure	1.0
+RIT1	Data collection	Procedure	1.0
+RIT1	Research design	Procedure	1.0
+RIT1	Isolation aspects	Procedure	1.0
+RIT1	Statistical analysis	Procedure	1.0
+RIT1	Monitoring clinical trials	Procedure	1.0
+RIT1	Pilot projects	Procedure	1.0
+RIT1	Meta analysis (statistical procedure)	Procedure	1.0
+RIT1	Noonan Syndrome	Disease	1.46E-5
+RIT1	Costello syndrome (disorder)	Disease	7.81E-4
+RIT1	Hypertrophic Cardiomyopathy	Disease	9.98E-4
+RIT1	Leukemia, Radiation-Induced	Disease	0.00137
+RIT1	Coffin-Lowry syndrome	Disease	0.0017
+RIT1	Pulmonary Valve Stenosis	Disease	0.00177
+RIT1	Congenital Heart Defects	Disease	0.00181
+RIT1	Failure to Thrive	Disease	0.00187
+RIT1	Cockayne Syndrome	Disease	0.00292
+RIT1	LEOPARD Syndrome	Disease	0.0031
+RIT1	Ectromelia, Infectious	Disease	0.00313
+RIT1	Myelodysplastic-Myeloproliferative Diseases	Disease	0.00319
+RIT1	Fibromatosis, Gingival	Disease	0.00377
+RIT1	Ectodermal Dysplasia	Disease	0.00383
+RIT1	Lentigo	Disease	0.00441
+RIT1	Ectromelia	Disease	0.00595
+RIT1	Hydrops Fetalis	Disease	0.00595
+RIT1	Hereditary Diseases	Disease	0.00622
+RIT1	Juvenile Myelomonocytic Leukemia	Disease	0.00626
+RIT1	Organoid Nevus Phakomatosis	Disease	0.00648
+RIT1	Coronaviridae Infections	Disease	0.00678
+RIT1	Atrial Septal Defects	Disease	0.008
+RIT1	Cowpox	Disease	0.0082
+RIT1	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	Disease	0.0084
+RIT1	Mental Disorders Diagnosed in Childhood	Disease	0.00848
+RIT1	Cryptorchidism	Disease	0.00924
+RIT1	Lymphatic Abnormalities	Disease	0.00944
+RIT1	Cardiac Arrest	Disease	0.00968
+RIT1	Xeroderma Pigmentosum	Disease	0.0101
+RIT1	Neurofibromatosis 1	Disease	0.0111
+RIT1	Cardiovascular Abnormalities	Disease	0.0113
+RIT1	Empty Sella Syndrome	Disease	0.0114
+RIT1	Craniofacial Abnormalities	Disease	0.0123
+RIT1	Embryo Loss	Disease	0.0135
+RIT1	Cardiomegaly	Disease	0.0164
+RIT1	Genomic Instability	Disease	0.0179
+RIT1	Chromosomal translocation	Disease	0.0184
+RIT1	Muscular Atrophy	Disease	0.0184
+RIT1	Thymus Neoplasms	Disease	0.0184
+RIT1	Lymphoma	Disease	0.0191
+RIT1	Myeloproliferative disease	Disease	0.0194
+RIT1	Adult T-Cell Lymphoma/Leukemia	Disease	0.0202
+RIT1	Multiple Myeloma	Disease	0.0208
+RIT1	Pheochromocytoma	Disease	0.0208
+RIT1	Hemangioblastoma	Disease	0.0208
+RIT1	Cadmium poisoning	Disease	0.0215
+RIT1	Orbital separation excessive	Disease	0.0222
+RIT1	Skin callus	Disease	0.0224
+RIT1	Sarcoma, Experimental	Disease	0.0224
+RIT1	Multiple congenital anomalies	Disease	0.0235
+RIT1	Protozoan Infections, Animal	Disease	0.0235
+RIT1	T-Cell Lymphoma	Disease	0.0236
+RIT1	Adenosquamous carcinoma	Disease	0.0243
+RIT1	Lymphedema	Disease	0.0253
+RIT1	Cardiac Fibrosis	Disease	0.0253
+RIT1	Lymphangioma, Cystic	Disease	0.0272
+RIT1	Neoplasms	Disease	0.0273
+RIT1	Von Hippel-Lindau Syndrome	Disease	0.0273
+RIT1	Polyhydramnios	Disease	0.0301
+RIT1	Chylothorax	Disease	0.0308
+RIT1	Hyperammonemia	Disease	0.0318
+RIT1	Cell Transformation, Neoplastic	Disease	0.0323
+RIT1	Limb Deformities, Congenital	Disease	0.0341
+RIT1	Neoplasms, Radiation-Induced	Disease	0.0363
+RIT1	Hypertrophy	Disease	0.0367
+RIT1	Splenomegaly	Disease	0.0383
+RIT1	Hyperopia	Disease	0.04
+RIT1	Retroviridae Infections	Disease	0.0433
+RIT1	Mental Retardation	Disease	0.0466
+RIT1	Urologic Neoplasms	Disease	0.0488
+RIT1	Spinal Muscular Atrophy	Disease	0.051
+RIT1	Malignant Squamous Cell Neoplasm	Disease	0.051
+RIT1	Fetal Growth Retardation	Disease	0.0523
+RIT1	Eye Abnormalities	Disease	0.0543
+RIT1	Paramyxoviridae Infections	Disease	0.0557
+RIT1	Keratoconus	Disease	0.057
+RIT1	Liver neoplasms	Disease	0.0582
+RIT1	Liver carcinoma	Disease	0.0593
+RIT1	Developmental Disabilities	Disease	0.0637
+RIT1	Language Development Disorders	Disease	0.067
+RIT1	Hyperpigmentation	Disease	0.0696
+RIT1	Mumps	Disease	0.0708
+RIT1	Motor Neuron Disease	Disease	0.0711
+RIT1	Coronary Vessel Anomalies	Disease	0.0724
+RIT1	Nevus	Disease	0.074
+RIT1	Amblyopia	Disease	0.0768
+RIT1	Sprains and Strains	Disease	0.077
+RIT1	Blood Coagulation Disorders	Disease	0.0802
+RIT1	Autistic Disorder	Disease	0.0828
+RIT1	Dwarfism	Disease	0.0834
+RIT1	Sarcoma	Disease	0.0948
+RIT1	Precursor Cell Lymphoblastic Leukemia Lymphoma	Disease	0.101
+RIT1	Astigmatism	Disease	0.104
+RIT1	Unconscious State	Disease	0.11
+RIT1	Anoxia	Disease	0.114
+RIT1	Congenital musculoskeletal anomalies	Disease	0.118
+RIT1	Syndrome	Disease	0.12
+RIT1	Atrophic	Disease	0.121
+RIT1	Renal Cell Carcinoma	Disease	0.126
+RIT1	Hepatic Encephalopathy	Disease	0.131
+RIT1	Tumor Virus Infections	Disease	0.134
+RIT1	Hyperplasia	Disease	0.138
+RIT1	Heart Diseases	Disease	0.142
+RIT1	Burkitt Lymphoma	Disease	0.143
+RIT1	Squamous cell carcinoma	Disease	0.153
+RIT1	Esophageal Neoplasms	Disease	0.16
+RIT1	Dissociative disorder	Disease	0.161
+RIT1	Fibrosarcoma	Disease	0.161
+RIT1	Facial paralysis	Disease	0.17
+RIT1	fibroma	Disease	0.175
+RIT1	Cardiomyopathies	Disease	0.178
+RIT1	Leukemia, Myelocytic, Acute	Disease	0.179
+RIT1	Obsessive-Compulsive Disorder	Disease	0.18
+RIT1	Animal Disease Models	Disease	0.184
+RIT1	Endocrine System Diseases	Disease	0.188
+RIT1	Lung Neoplasms	Disease	0.191
+RIT1	Dysmyelopoietic Syndromes	Disease	0.2
+RIT1	Disease	Disease	0.201
+RIT1	Leukopenia	Disease	0.21
+RIT1	Wounds and Injuries	Disease	0.218
+RIT1	Aneuploidy	Disease	0.218
+RIT1	Pseudomonas Infections	Disease	0.219
+RIT1	Growth Disorders	Disease	0.221
+RIT1	Neurodegenerative Disorders	Disease	0.253
+RIT1	Melanocytic nevus	Disease	0.26
+RIT1	Gastrointestinal Neoplasms	Disease	0.262
+RIT1	Sudden Cardiac Death	Disease	0.267
+RIT1	Edema	Disease	0.268
+RIT1	Cholera	Disease	0.27
+RIT1	Adenocarcinoma	Disease	0.283
+RIT1	Carcinoma, Transitional Cell	Disease	0.285
+RIT1	Child Development Disorders, Pervasive	Disease	0.289
+RIT1	Neoplasm Invasiveness	Disease	0.293
+RIT1	Ptosis	Disease	0.319
+RIT1	Dermatitis, Atopic	Disease	0.325
+RIT1	Sudden death	Disease	0.329
+RIT1	Carcinoma	Disease	0.344
+RIT1	Pleural effusion disorder	Disease	0.345
+RIT1	Endometrial Neoplasms	Disease	0.35
+RIT1	leukemia	Disease	0.355
+RIT1	Mild cognitive disorder	Disease	0.358
+RIT1	Fetal Death	Disease	0.364
+RIT1	Hematologic Neoplasms	Disease	0.376
+RIT1	Bronchitis	Disease	0.402
+RIT1	Brain Diseases	Disease	0.414
+RIT1	Escherichia coli Infections	Disease	0.415
+RIT1	Anxiety Disorders	Disease	0.448
+RIT1	Recurrence (disease attribute)	Disease	0.472
+RIT1	Migraine Disorders	Disease	0.511
+RIT1	hearing impairment	Disease	0.516
+RIT1	Colitis	Disease	0.532
+RIT1	Mouth Neoplasms	Disease	0.553
+RIT1	Inflammation	Disease	0.583
+RIT1	Glioblastoma	Disease	0.591
+RIT1	Neutropenia	Disease	0.593
+RIT1	Neuroblastoma	Disease	0.632
+RIT1	Hypertensive disease	Disease	0.695
+RIT1	Mycoses	Disease	0.779
+RIT1	Epilepsy	Disease	0.848
+RIT1	Disease Progression	Disease	0.86
+RIT1	Cystic Fibrosis	Disease	0.892
+RIT1	Schizophrenia	Disease	0.987
+RIT1	Dermatitis	Disease	0.988
+RIT1	Infection	Disease	1.0
+RIT1	Neoplasm Metastasis	Disease	1.0
+RIT1	Cardiovascular Diseases	Disease	1.0
+RIT1	Fibrosis	Disease	1.0
+RIT1	Heart failure	Disease	1.0
+RIT1	Congenital Abnormality	Disease	1.0
+RIT1	Hemorrhage	Disease	1.0
+RIT1	Malignant neoplasm of breast	Disease	1.0
+RIT1	Cognition Disorders	Disease	1.0
+RIT1	Asthma	Disease	1.0
+RIT1	Brain Neoplasms	Disease	1.0
+RIT1	Carcinoma, Non-Small-Cell Lung	Disease	1.0
+RIT1	Brain Ischemia	Disease	1.0
+RIT1	Colonic Neoplasms	Disease	1.0
+RIT1	Stenosis	Disease	1.0
+RIT1	Cyst	Disease	1.0
+RIT1	Exanthema	Disease	1.0
+RIT1	Head and Neck Neoplasms	Disease	1.0
+RIT1	Liver Cirrhosis	Disease	1.0
+RIT1	Lymphoma, Non-Hodgkin	Disease	1.0
+RIT1	melanoma	Disease	1.0
+RIT1	Neoplasm Recurrence, Local	Disease	1.0
+RIT1	Pathologic Neovascularization	Disease	1.0
+RIT1	nervous system disorder	Disease	1.0
+RIT1	Obesity	Disease	1.0
+RIT1	Osteoporosis	Disease	1.0
+RIT1	Parkinson Disease	Disease	1.0
+RIT1	Pneumonia	Disease	1.0
+RIT1	Salmonella infections	Disease	1.0
+RIT1	Dermatologic disorders	Disease	1.0
+RIT1	Skin Neoplasms	Disease	1.0
+RIT1	Stomach Neoplasms	Disease	1.0
+RIT1	Synovial Cyst	Disease	1.0
+RIT1	Thrombocytopenia	Disease	1.0
+RIT1	Tuberculosis	Disease	1.0
+RIT1	Colorectal Neoplasms	Disease	1.0
+RIT1	Fracture	Disease	1.0
+RIT1	Renal Insufficiency	Disease	1.0
+RIT1	Neoplasms, Experimental	Disease	1.0
+RIT1	Thyroid carcinoma	Disease	1.0
+RIT1	Malignant neoplasm of urinary bladder	Disease	1.0
+RIT1	ROC1 protein, Arabidopsis	Chemical	1.86E-6
+RIT1	RIT1 protein, S cerevisiae	Chemical	4.14E-6
+RIT1	Cullin Proteins	Chemical	4.88E-6
+RIT1	Cullin-1	Chemical	6.2E-6
+RIT1	ROC2 protein, Arabidopsis	Chemical	7.45E-6
+RIT1	2-chloro-1-epicalcitriol	Chemical	1.49E-5
+RIT1	CPR1 protein, S cerevisiae	Chemical	1.49E-5
+RIT1	L-3,4-dihydroxy-2-butanone-4-phosphate synthase	Chemical	1.68E-5
+RIT1	ribB protein, E coli	Chemical	1.68E-5
+RIT1	Rin protein (GTPase)	Chemical	1.68E-5
+RIT1	CDC34 protein, human	Chemical	1.78E-5
+RIT1	SKP Cullin F-Box Protein Ligases	Chemical	2.09E-5
+RIT1	CUL3 protein, S cerevisiae	Chemical	2.24E-5
+RIT1	NEDD8	Chemical	3.13E-5
+RIT1	Roc1a protein, Drosophila	Chemical	3.73E-5
+RIT1	ras Proteins	Chemical	3.8E-5
+RIT1	Ligase	Chemical	4.33E-5
+RIT1	Andolast	Chemical	4.47E-5
+RIT1	Ubiquitin-Protein Ligases	Chemical	5.19E-5
+RIT1	ZNF292 protein, human	Chemical	5.22E-5
+RIT1	E3 Ubiquitin Ligase	Chemical	5.69E-5
+RIT1	Ubiquitin-Protein Ligase Complexes	Chemical	5.83E-5
+RIT1	Ran-Binding Protein 17	Chemical	5.96E-5
+RIT1	Ubiquitin	Chemical	6.47E-5
+RIT1	F-Box Proteins	Chemical	6.81E-5
+RIT1	Anaphase-Promoting Complex-Cyclosome	Chemical	7.06E-5
+RIT1	FET4 protein, S cerevisiae	Chemical	7.45E-5
+RIT1	Fbxw1b protein, mouse	Chemical	7.45E-5
+RIT1	APC2 protein, S cerevisiae	Chemical	7.45E-5
+RIT1	avrRpt2 protein, Pseudomonas syringae	Chemical	8.76E-5
+RIT1	ZRT2 protein, S cerevisiae	Chemical	8.94E-5
+RIT1	Ubiquitins	Chemical	9.7E-5
+RIT1	cyclophilin hCyp-18	Chemical	1.12E-4
+RIT1	Elongin	Chemical	1.27E-4
+RIT1	DEPTOR protein, human	Chemical	1.32E-4
+RIT1	S-Phase Kinase-Associated Protein 2	Chemical	1.37E-4
+RIT1	MTN6 protein, Medicago truncatula	Chemical	1.42E-4
+RIT1	ANAPC11 protein, human	Chemical	1.42E-4
+RIT1	RUB1 protein, S cerevisiae	Chemical	1.49E-4
+RIT1	beta-Transducin Repeat-Containing Proteins	Chemical	1.55E-4
+RIT1	3,4-dihydroxy-2-butanone-4-phosphate	Chemical	1.57E-4
+RIT1	RTT101 protein, S cerevisiae	Chemical	1.57E-4
+RIT1	V protein, Paramyxovirus	Chemical	1.64E-4
+RIT1	Peptide Synthases	Chemical	1.71E-4
+RIT1	Apc2 Subunit, Anaphase-Promoting Complex-Cyclosome	Chemical	1.71E-4
+RIT1	Apc11 Subunit, Anaphase-Promoting Complex-Cyclosome	Chemical	1.71E-4
+RIT1	momilactone A	Chemical	1.79E-4
+RIT1	Ligases	Chemical	1.96E-4
+RIT1	ZRT1 protein, S cerevisiae	Chemical	2.01E-4
+RIT1	APC protein, Drosophila	Chemical	2.01E-4
+RIT1	Ubiquitin-Conjugating Enzymes	Chemical	2.03E-4
+RIT1	Nod factor IV, Rhizobium meliloti	Chemical	2.09E-4
+RIT1	Polyubiquitin	Chemical	2.1E-4
+RIT1	SKP1 protein, S cerevisiae	Chemical	2.24E-4
+RIT1	Cullin-2	Chemical	2.24E-4
+RIT1	thermostable lipase	Chemical	2.26E-4
+RIT1	Ris2 protein, mouse	Chemical	2.46E-4
+RIT1	NEDD8 Activating Enzyme	Chemical	2.83E-4
+RIT1	BMS204352	Chemical	3.21E-4
+RIT1	Allophanate Hydrolase	Chemical	3.28E-4
+RIT1	3,4-dihydroxy-2-butanone	Chemical	3.43E-4
+RIT1	KdpD protein, E coli	Chemical	3.5E-4
+RIT1	RIN4 protein, Arabidopsis	Chemical	3.58E-4
+RIT1	Intramolecular Transferases	Chemical	3.69E-4
+RIT1	RPB1 protein, S cerevisiae	Chemical	3.95E-4
+RIT1	Licensing Factor	Chemical	4.22E-4
+RIT1	EDNRB protein, human	Chemical	4.33E-4
+RIT1	BES1 protein, Arabidopsis	Chemical	4.4E-4
+RIT1	IRT1 protein, Arabidopsis	Chemical	4.7E-4
+RIT1	GL2 protein, Arabidopsis	Chemical	4.77E-4
+RIT1	CDC4 protein, S cerevisiae	Chemical	4.85E-4
+RIT1	Cell Cycle Proteins	Chemical	4.88E-4
+RIT1	Cyclophilins	Chemical	4.91E-4
+RIT1	Retinoblastoma-Binding Protein 7	Chemical	4.92E-4
+RIT1	ubiquitin-conjugating enzyme UBC4	Chemical	5.0E-4
+RIT1	Tyrosine-Protein Phosphatase Non-Receptor Type 11	Chemical	5.08E-4
+RIT1	RAL Guanine Nucleotide Dissociation Stimulator	Chemical	5.11E-4
+RIT1	1-deoxylulose 5-phosphate	Chemical	5.37E-4
+RIT1	CDC34 protein, S cerevisiae	Chemical	5.74E-4
+RIT1	GTPase	Chemical	6.07E-4
+RIT1	FET3 protein, S cerevisiae	Chemical	6.86E-4
+RIT1	chloroplast transit peptides	Chemical	7.16E-4
+RIT1	4-nitroquinolone-1-oxide	Chemical	7.61E-4
+RIT1	TraI protein, E coli	Chemical	8.13E-4
+RIT1	Ligand Binding Protein	Chemical	8.18E-4
+RIT1	AP20187	Chemical	8.28E-4
+RIT1	Cyclin-Dependent Kinase Inhibitor 1B	Chemical	9.48E-4
+RIT1	I Kappa B	Chemical	9.93E-4
+RIT1	Peptidylprolyl Isomerase	Chemical	0.00101
+RIT1	Riboflavin Synthase	Chemical	0.00132
+RIT1	tacrolimus binding protein 4	Chemical	0.00138
+RIT1	Riboswitch	Chemical	0.0014
+RIT1	homeobox A1 protein	Chemical	0.0014
+RIT1	marinobufagenin	Chemical	0.00146
+RIT1	DNA Binding Protein	Chemical	0.00153
+RIT1	Monomeric GTP-Binding Proteins	Chemical	0.00153
+RIT1	Protein	Chemical	0.0016
+RIT1	4-hydroxymercuribenzoate	Chemical	0.00165
+RIT1	Multiprotein Complexes	Chemical	0.00181
+RIT1	CRY1 protein, Arabidopsis	Chemical	0.0019
+RIT1	coronin proteins	Chemical	0.00197
+RIT1	RNA, Small Interfering	Chemical	0.0021
+RIT1	lumazine	Chemical	0.00212
+RIT1	Ribosomal Protein S6 Kinase Alpha-5	Chemical	0.00212
+RIT1	raf Kinases	Chemical	0.00224
+RIT1	Proteasome Endopeptidase Complex	Chemical	0.00234
+RIT1	Ribulosephosphates	Chemical	0.00236
+RIT1	Adenovirus E4 Proteins	Chemical	0.00239
+RIT1	Peroxiredoxin III	Chemical	0.00241
+RIT1	E2F Transcription Factors	Chemical	0.00242
+RIT1	GTP Cyclohydrolase	Chemical	0.00246
+RIT1	RNA, Transfer, Met	Chemical	0.00275
+RIT1	ferric citrate iron reductase	Chemical	0.00288
+RIT1	nodulin	Chemical	0.00301
+RIT1	Pentosyltransferases	Chemical	0.00302
+RIT1	DNA Replication Licensing Factor MCM2	Chemical	0.00306
+RIT1	laminin 1	Chemical	0.00307
+RIT1	Yeast	Chemical	0.0031
+RIT1	Geminin	Chemical	0.00319
+RIT1	Minichromosome Maintenance Proteins	Chemical	0.00332
+RIT1	Ring Finger Domain	Chemical	0.00347
+RIT1	Phytochrome A	Chemical	0.00353
+RIT1	DNA Helicase	Chemical	0.00371
+RIT1	Saccharomyces cerevisiae Proteins	Chemical	0.00374
+RIT1	CDK1 protein, human	Chemical	0.00378
+RIT1	Transcription Factor	Chemical	0.00379
+RIT1	Arabidopsis Proteins	Chemical	0.00386
+RIT1	E1B Protein	Chemical	0.0041
+RIT1	Cyclin	Chemical	0.00412
+RIT1	Anesthetics, Combined	Chemical	0.00413
+RIT1	Flavin Mononucleotide	Chemical	0.00415
+RIT1	Hydroxymercuribenzoates	Chemical	0.00422
+RIT1	AURKA protein, human	Chemical	0.00428
+RIT1	VDJ Recombinases	Chemical	0.00434
+RIT1	Survival of Motor Neuron 2 Protein	Chemical	0.0045
+RIT1	Intracellular Signaling Peptides and Proteins	Chemical	0.00458
+RIT1	GTP	Chemical	0.00462
+RIT1	Signal Transducer and Activator of Transcription 2	Chemical	0.00468
+RIT1	Proto-Oncogene Proteins p21(ras)	Chemical	0.0048
+RIT1	DNA Repair Protein Complementing XP-A Cells	Chemical	0.00495
+RIT1	serotonin 7 receptor	Chemical	0.00525
+RIT1	Phytochrome B	Chemical	0.00532
+RIT1	Elongation Factor 1	Chemical	0.00545
+RIT1	FMN Reductase	Chemical	0.00568
+RIT1	FK506 Binding Protein	Chemical	0.00577
+RIT1	Multienzyme Complexes	Chemical	0.00584
+RIT1	Serine/Threonine-Protein Kinase mTOR	Chemical	0.00595
+RIT1	Dual Specificity Mitogen-Activated Protein Kinase Kinase 1	Chemical	0.006
+RIT1	S-layer proteins	Chemical	0.00636
+RIT1	Ornithine-Oxo-Acid Transaminase	Chemical	0.00647
+RIT1	MCL1 protein, human	Chemical	0.00648
+RIT1	SOXB1 Transcription Factors	Chemical	0.00656
+RIT1	lipoarabinomannan	Chemical	0.00695
+RIT1	Transcription Factor Dp-1	Chemical	0.00726
+RIT1	Protein Kinase	Chemical	0.00731
+RIT1	ETS Domain-Containing Protein Elk-1	Chemical	0.00731
+RIT1	RAF Proto-Oncogene Serine/Threonine-Protein Kinase	Chemical	0.00734
+RIT1	Cyclophilin A	Chemical	0.00743
+RIT1	Retinoblastoma-Binding Protein 1	Chemical	0.00747
+RIT1	Macromolecular Substances	Chemical	0.00755
+RIT1	Proteasome	Chemical	0.00764
+RIT1	Phytochelatins	Chemical	0.00776
+RIT1	Plant Proteins	Chemical	0.00779
+RIT1	Cysteine Endopeptidases	Chemical	0.00785
+RIT1	Tumor Suppressor Protein	Chemical	0.00785
+RIT1	Origin Recognition Complex	Chemical	0.00792
+RIT1	Survival of Motor Neuron 1 Protein	Chemical	0.00792
+RIT1	Membrane Transport Modulators	Chemical	0.00807
+RIT1	Fibroblast Growth Factor 8	Chemical	0.00843
+RIT1	Histone H2B	Chemical	0.00847
+RIT1	Mitogen-Activated Protein Kinase	Chemical	0.00851
+RIT1	Aurora Kinase A	Chemical	0.00855
+RIT1	Nucleocytoplasmic Transport Proteins	Chemical	0.00871
+RIT1	Bufanolides	Chemical	0.00908
+RIT1	phytoalexins	Chemical	0.00911
+RIT1	Small Interfering RNA	Chemical	0.00934
+RIT1	Amino Acid Isomerases	Chemical	0.00964
+RIT1	p38 Mitogen-Activated Protein Kinases	Chemical	0.00973
+RIT1	G1/S-Specific Cyclin-D3	Chemical	0.00978
+RIT1	Protein Kinase B	Chemical	0.00983
+RIT1	Nuclear Matrix-Associated Proteins	Chemical	0.01
+RIT1	ran GTP-Binding Protein	Chemical	0.01
+RIT1	DNA Helicases	Chemical	0.0101
+RIT1	Tumor Suppressor Proteins	Chemical	0.0103
+RIT1	Chloroplast Proteins	Chemical	0.0103
+RIT1	Isomerases	Chemical	0.0104
+RIT1	Nucleotide	Chemical	0.0106
+RIT1	Antigens, Nuclear	Chemical	0.0106
+RIT1	Insulin Receptor Substrate Proteins	Chemical	0.0106
+RIT1	Ribosomal Protein S6 Kinases, 90-kDa	Chemical	0.011
+RIT1	Periostin	Chemical	0.0111
+RIT1	Mitogen-Activated Protein Kinases	Chemical	0.0112
+RIT1	Oncogene Proteins	Chemical	0.0112
+RIT1	DNA Repair Enzymes	Chemical	0.0115
+RIT1	Cyclin-Dependent Kinase	Chemical	0.0117
+RIT1	mTORC2	Chemical	0.0117
+RIT1	Conserved Helix-Loop-Helix Ubiquitous Kinase	Chemical	0.0118
+RIT1	RNA Polymerase II	Chemical	0.0119
+RIT1	Isomerase	Chemical	0.012
+RIT1	Cellular Tumor Antigen p53	Chemical	0.0122
+RIT1	Brassinosteroids	Chemical	0.0123
+RIT1	Proto-Oncogene Proteins c-jun	Chemical	0.0125
+RIT1	Recombinant Fusion Proteins	Chemical	0.0126
+RIT1	Receptors, Vasoactive Intestinal Peptide	Chemical	0.0126
+RIT1	26S ATP-Dependent Proteasome	Chemical	0.0127
+RIT1	Recombinant Proteins	Chemical	0.0128
+RIT1	Mitogen-Activated Protein Kinase Kinase	Chemical	0.013
+RIT1	4-Nitroquinoline-1-Oxide	Chemical	0.0131
+RIT1	GTP-Binding Protein alpha Subunits	Chemical	0.0131
+RIT1	Mitogen-Activated Protein Kinase 8	Chemical	0.0137
+RIT1	G Protein	Chemical	0.0138
+RIT1	Interferon Regulatory Factor 1	Chemical	0.0138
+RIT1	rho GTP-Binding Proteins	Chemical	0.0144
+RIT1	Kinesin	Chemical	0.0145
+RIT1	Small Molecule	Chemical	0.0146
+RIT1	Endothelial PAS Domain-Containing Protein 1	Chemical	0.0148
+RIT1	Lamin Type A	Chemical	0.0153
+RIT1	Proto-Oncogene Proteins B-raf	Chemical	0.0161
+RIT1	T-Antigen	Chemical	0.0166
+RIT1	Helicase	Chemical	0.0167
+RIT1	Von Hippel-Lindau Tumor Suppressor Protein	Chemical	0.0167
+RIT1	Fenoterol	Chemical	0.0168
+RIT1	Azoxymethane	Chemical	0.0168
+RIT1	Cyclin-Dependent Kinase-Like 2	Chemical	0.0168
+RIT1	Amino Acids, Acidic	Chemical	0.0169
+RIT1	Cryptochromes	Chemical	0.017
+RIT1	benzyloxycarbonylleucyl-leucyl-leucine aldehyde	Chemical	0.0172
+RIT1	T-DNA	Chemical	0.0174
+RIT1	Nuclear Protein	Chemical	0.0175
+RIT1	Vitamin D-Binding Protein	Chemical	0.0175
+RIT1	Cyclin D1	Chemical	0.0176
+RIT1	Pentosephosphates	Chemical	0.0179
+RIT1	RNA Polymerase I	Chemical	0.0179
+RIT1	18S Ribosomal RNA	Chemical	0.0181
+RIT1	Serine/Threonine-Protein Kinase PAK 1	Chemical	0.0184
+RIT1	Homeodomain Proteins	Chemical	0.0185
+RIT1	Quinuclidines	Chemical	0.0185
+RIT1	RNA Binding Protein	Chemical	0.0186
+RIT1	Endothelin B Receptor	Chemical	0.0186
+RIT1	Ribosomal Protein S6	Chemical	0.0188
+RIT1	Beta Catenin	Chemical	0.0189
+RIT1	Large-Conductance Calcium-Activated Potassium Channels	Chemical	0.0191
+RIT1	Transcription Factor E2F1	Chemical	0.0195
+RIT1	Kinase	Chemical	0.0198
+RIT1	Co-Repressor Proteins	Chemical	0.02
+RIT1	Induced Myeloid Leukemia Cell Differentiation Protein Mcl-1	Chemical	0.0201
+RIT1	gibberellic acid	Chemical	0.0204
+RIT1	DNA Primers	Chemical	0.0207
+RIT1	Glyceryl Trioleate	Chemical	0.0207
+RIT1	Enzyme	Chemical	0.0208
+RIT1	Messenger RNA	Chemical	0.0209
+RIT1	Terpene	Chemical	0.0209
+RIT1	Peanut Agglutinin	Chemical	0.0212
+RIT1	mTOR Inhibitor	Chemical	0.0212
+RIT1	Trinitrobenzenesulfonic Acid	Chemical	0.0214
+RIT1	Iron-Binding Proteins	Chemical	0.0217
+RIT1	Cysteine Proteinase	Chemical	0.022
+RIT1	Anesthetics, General	Chemical	0.0223
+RIT1	Cysteine	Chemical	0.0226
+RIT1	Ribonucleic Acid	Chemical	0.0229
+RIT1	DNA	Chemical	0.023
+RIT1	Exons	Chemical	0.0232
+RIT1	Heat Shock 27 kD Protein 1	Chemical	0.0234
+RIT1	Dietary Sodium	Chemical	0.0235
+RIT1	Peptidase	Chemical	0.024
+RIT1	Cyclin-Dependent Kinases	Chemical	0.024
+RIT1	GDP	Chemical	0.0244
+RIT1	Cytidine Monophosphate	Chemical	0.0244
+RIT1	Cyclin-Dependent Kinase Inhibitor 1	Chemical	0.0245
+RIT1	Bacterial Artificial Chromosome	Chemical	0.0247
+RIT1	Anesthetics, Intravenous	Chemical	0.0248
+RIT1	Eukaryotic Translation Initiation Factor 2 Subunit 1	Chemical	0.0257
+RIT1	Green Fluorescent Proteins	Chemical	0.0262
+RIT1	DNA, Ribosomal	Chemical	0.0263
+RIT1	Cell Division Control Protein 42 Homolog	Chemical	0.0263
+RIT1	Genomic DNA	Chemical	0.0277
+RIT1	Hypoxia-Inducible Factor 1-Alpha	Chemical	0.0283
+RIT1	Actinin	Chemical	0.0284
+RIT1	Muscle Relaxant	Chemical	0.0287
+RIT1	Leupeptins	Chemical	0.0295
+RIT1	Indoleacetic Acids	Chemical	0.0298
+RIT1	Bacterial Protein	Chemical	0.0299
+RIT1	Sirtuins	Chemical	0.0299
+RIT1	cDNA	Chemical	0.03
+RIT1	Adaptor Proteins, Signal Transducing	Chemical	0.03
+RIT1	Pyrimidine Dimers	Chemical	0.03
+RIT1	Basic-Leucine Zipper Transcription Factors	Chemical	0.0303
+RIT1	Signal Transducer and Activator of Transcription 3	Chemical	0.0304
+RIT1	Codon, Nonsense	Chemical	0.0306
+RIT1	Phytochrome	Chemical	0.0306
+RIT1	Cyclin B1	Chemical	0.0314
+RIT1	Ribosomal Protein S6 Kinases	Chemical	0.032
+RIT1	Muscle Protein	Chemical	0.033
+RIT1	Cyclin-Dependent Kinase Inhibitor	Chemical	0.0338
+RIT1	Dual Specificity Mitogen-Activated Protein Kinase Kinase 4	Chemical	0.0339
+RIT1	Amino Acids, Basic	Chemical	0.0339
+RIT1	Gibberellins	Chemical	0.0341
+RIT1	Ribosomal Protein S6 Kinases, 70-kDa	Chemical	0.0346
+RIT1	Caldesmon	Chemical	0.0351
+RIT1	Cyclin-Dependent Kinase 2	Chemical	0.0352
+RIT1	Piperidines	Chemical	0.0353
+RIT1	NAD(P)H Dehydrogenase (Quinone)	Chemical	0.0354
+RIT1	Nucleocapsid	Chemical	0.0355
+RIT1	Ammonium Acetate	Chemical	0.0364
+RIT1	Deacetylase	Chemical	0.0372
+RIT1	Element	Chemical	0.0382
+RIT1	Ras-Related C3 Botulinum Toxin Substrate 1	Chemical	0.0384
+RIT1	MEK Inhibitor PD-98059	Chemical	0.0388
+RIT1	Introns	Chemical	0.0389
+RIT1	Amino Acid	Chemical	0.039
+RIT1	Peroxiredoxin-4	Chemical	0.039
+RIT1	Mevalonic Acid	Chemical	0.0395
+RIT1	alpha-Macroglobulins	Chemical	0.0395
+RIT1	Peptones	Chemical	0.04
+RIT1	Chromatin	Chemical	0.0412
+RIT1	Soybean Oil	Chemical	0.042
+RIT1	T-Cell Specific Surface Glycoprotein CD28	Chemical	0.042
+RIT1	Mercuric Chloride	Chemical	0.0425
+RIT1	Beta-Adrenergic Agonist	Chemical	0.0433
+RIT1	Cyclin-Dependent Kinase 1	Chemical	0.0434
+RIT1	Insulin Receptor	Chemical	0.0436
+RIT1	Cromolyn Sodium	Chemical	0.0437
+RIT1	Signal Transducer and Activator of Transcription 1-alpha/beta	Chemical	0.0438
+RIT1	Aldehyde Reductase	Chemical	0.0455
+RIT1	Hepatocyte Growth Factor Receptor	Chemical	0.0455
+RIT1	Sulfhydryl Reagents	Chemical	0.046
+RIT1	Escherichia coli Proteins	Chemical	0.0467
+RIT1	Terpene Compound	Chemical	0.0468
+RIT1	Pyruvate	Chemical	0.0473
+RIT1	E3 Ubiquitin-Protein Ligase MDM2	Chemical	0.0477
+RIT1	Tumor Necrosis Factor Ligand Superfamily Member 10	Chemical	0.0478
+RIT1	Repressor Proteins	Chemical	0.0495
+RIT1	Mutant Proteins	Chemical	0.0497
+RIT1	RNA-Directed RNA Polymerase	Chemical	0.0499
+RIT1	Histone	Chemical	0.0506
+RIT1	Drugs, Investigational	Chemical	0.051
+RIT1	Caspase Inhibitors	Chemical	0.0524
+RIT1	T-Cell Receptor Gamma-Delta	Chemical	0.0527
+RIT1	Pentose	Chemical	0.0529
+RIT1	Transcript	Chemical	0.053
+RIT1	Heat Shock Protein	Chemical	0.053
+RIT1	Arginase-1	Chemical	0.0537
+RIT1	Peptide Elongation Factors	Chemical	0.0541
+RIT1	Trans-Activators	Chemical	0.0558
+RIT1	Nerve Tissue Proteins	Chemical	0.0568
+RIT1	Receptors, Transforming Growth Factor beta	Chemical	0.0576
+RIT1	Ethylenes	Chemical	0.0577
+RIT1	Recombinant Nerve Growth Factor	Chemical	0.0581
+RIT1	Guanosine 5'-O-(3-Thiotriphosphate)	Chemical	0.0584
+RIT1	Wortmannin	Chemical	0.0584
+RIT1	Antisense RNA	Chemical	0.0584
+RIT1	Viral Protein	Chemical	0.0585
+RIT1	Luciferase	Chemical	0.0588
+RIT1	GTPase-Activating Protein	Chemical	0.0621
+RIT1	DNA Insertion Elements	Chemical	0.0626
+RIT1	DNA Probes	Chemical	0.063
+RIT1	Nitric Oxide Synthase, Inducible	Chemical	0.0639
+RIT1	Proto-Oncogene Proteins	Chemical	0.065
+RIT1	Insulin-Like Growth Factor 1 Receptor	Chemical	0.0651
+RIT1	Cysteine Proteinase Inhibitors	Chemical	0.0652
+RIT1	Guanine Nucleotides	Chemical	0.0665
+RIT1	Aptamers, Nucleotide	Chemical	0.0669
+RIT1	Recombinases	Chemical	0.067
+RIT1	Proteasome Inhibitor	Chemical	0.0694
+RIT1	Interleukin-10	Chemical	0.0705
+RIT1	Nitrogen Isotopes	Chemical	0.0708
+RIT1	Teratogens	Chemical	0.0716
+RIT1	H-2 Antigens	Chemical	0.072
+RIT1	Potassium Channel Blockers	Chemical	0.0723
+RIT1	Protein Subunit	Chemical	0.0735
+RIT1	Sialoglycoproteins	Chemical	0.0751
+RIT1	Nuclear Factor Erythroid 2-Related Factor 2	Chemical	0.0767
+RIT1	Guanine Nucleotide Exchange Factor	Chemical	0.0769
+RIT1	Ceruloplasmin	Chemical	0.077
+RIT1	Methyl Ethers	Chemical	0.0772
+RIT1	Oncoprotein	Chemical	0.0773
+RIT1	Receptors, Metabotropic Glutamate	Chemical	0.0783
+RIT1	Retinoblastoma-Associated Protein	Chemical	0.0794
+RIT1	Elements	Chemical	0.0799
+RIT1	Small Molecule Libraries	Chemical	0.0813
+RIT1	DNA, Intergenic	Chemical	0.0816
+RIT1	Naphthalene	Chemical	0.0826
+RIT1	Cation Transport Proteins	Chemical	0.0829
+RIT1	Neoplasm Proteins	Chemical	0.0834
+RIT1	Glutathione S-Transferase	Chemical	0.0838
+RIT1	Ligand	Chemical	0.0841
+RIT1	Viral Proteins	Chemical	0.0864
+RIT1	Vitamin D3 Receptor	Chemical	0.0869
+RIT1	Transfer RNA	Chemical	0.0877
+RIT1	Polymerase	Chemical	0.0897
+RIT1	Cyclosporins	Chemical	0.0913
+RIT1	Citric Acid Monohydrate	Chemical	0.0917
+RIT1	cAMP Responsive Element Binding Protein	Chemical	0.0919
+RIT1	Sodium, Dietary	Chemical	0.0922
+RIT1	Cellulase	Chemical	0.0923
+RIT1	Antimetabolite	Chemical	0.0924
+RIT1	Phosphatidylinositol 3-Kinases	Chemical	0.0948
+RIT1	Acetyl Coenzyme A	Chemical	0.0948
+RIT1	NF-kB	Chemical	0.0959
+RIT1	Chromatin Structure	Chemical	0.0962
+RIT1	Histone H3	Chemical	0.097
+RIT1	Growth Medium	Chemical	0.0979
+RIT1	Heme Oxygenase-1	Chemical	0.1
+RIT1	Protein Tyrosine Kinase	Chemical	0.101
+RIT1	5-Hydroxyindoleacetic Acid	Chemical	0.102
+RIT1	Metallothionein	Chemical	0.102
+RIT1	Chromosomal Proteins, Non-Histone	Chemical	0.102
+RIT1	Anti-Asthmatic Agents	Chemical	0.102
+RIT1	Isozyme	Chemical	0.103
+RIT1	Caenorhabditis elegans Proteins	Chemical	0.105
+RIT1	Heterochromatin	Chemical	0.108
+RIT1	DNA, Neoplasm	Chemical	0.116
+RIT1	Glutathione Reductase	Chemical	0.116
+RIT1	Interleukin-13	Chemical	0.116
+RIT1	Transferase	Chemical	0.117
+RIT1	Calcineurin	Chemical	0.122
+RIT1	Growth Factor	Chemical	0.123
+RIT1	Oxygen Radical	Chemical	0.125
+RIT1	Basic Helix-Loop-Helix Transcription Factors	Chemical	0.126
+RIT1	Fungal Proteins	Chemical	0.128
+RIT1	Phosphatidylinositol 3 Kinase	Chemical	0.129
+RIT1	Mitogen-Activated Protein Kinase 3	Chemical	0.13
+RIT1	Methacrylates	Chemical	0.131
+RIT1	Vasoactive Intestinal Peptide	Chemical	0.131
+RIT1	Mitogen-Activated Protein Kinase 1	Chemical	0.133
+RIT1	Prognostic Marker	Chemical	0.141
+RIT1	Nucleosome	Chemical	0.142
+RIT1	Plasmid	Chemical	0.143
+RIT1	Interleukin-5	Chemical	0.144
+RIT1	Diterpenes	Chemical	0.149
+RIT1	Cell Extracts	Chemical	0.151
+RIT1	Protein Isoforms	Chemical	0.153
+RIT1	Transforming Growth Factor-Beta Superfamily	Chemical	0.158
+RIT1	RNA, Neoplasm	Chemical	0.163
+RIT1	Sesquiterpenes	Chemical	0.165
+RIT1	Quinolones	Chemical	0.165
+RIT1	Hemagglutinins	Chemical	0.166
+RIT1	Transcription Factor AP-1	Chemical	0.167
+RIT1	Recombinant Protein	Chemical	0.177
+RIT1	Codon	Chemical	0.18
+RIT1	DNA, Bacterial	Chemical	0.181
+RIT1	Ribosomal Protein	Chemical	0.183
+RIT1	IgE	Chemical	0.184
+RIT1	Protein-Serine-Threonine Kinases	Chemical	0.184
+RIT1	Receptors, Serotonin	Chemical	0.186
+RIT1	Proliferating Cell Nuclear Antigen	Chemical	0.186
+RIT1	Actin-Binding Protein	Chemical	0.19
+RIT1	Mitogens	Chemical	0.198
+RIT1	Deuterium	Chemical	0.2
+RIT1	Naphthalenes	Chemical	0.205
+RIT1	Luminescent Proteins	Chemical	0.205
+RIT1	Pyrimidine	Chemical	0.206
+RIT1	Biofuels	Chemical	0.206
+RIT1	Phosphates	Chemical	0.209
+RIT1	Serotonin	Chemical	0.219
+RIT1	Ethylene	Chemical	0.228
+RIT1	Free Radical Scavengers	Chemical	0.231
+RIT1	Prostaglandin E2	Chemical	0.231
+RIT1	Interferon	Chemical	0.244
+RIT1	Plant Oils	Chemical	0.245
+RIT1	Oxidants	Chemical	0.246
+RIT1	Brain-Derived Neurotrophic Factor	Chemical	0.247
+RIT1	Genetic Markers	Chemical	0.249
+RIT1	Laminin	Chemical	0.25
+RIT1	Serotonin Uptake Inhibitors	Chemical	0.254
+RIT1	Receptor Tyrosine-Protein Kinase erbB-2	Chemical	0.257
+RIT1	Adjuvant	Chemical	0.257
+RIT1	Retinoic Acid	Chemical	0.26
+RIT1	Ligands	Chemical	0.261
+RIT1	ATPase	Chemical	0.263
+RIT1	Enzyme Inhibitors	Chemical	0.265
+RIT1	Ovalbumin	Chemical	0.266
+RIT1	Microtubule Associated Protein	Chemical	0.274
+RIT1	Interferons	Chemical	0.276
+RIT1	Adenosine Cyclic 3',5'-Phosphate	Chemical	0.289
+RIT1	Lipopolysaccharides	Chemical	0.293
+RIT1	Water	Chemical	0.295
+RIT1	Cytoskeletal Proteins	Chemical	0.304
+RIT1	RNA, Bacterial	Chemical	0.309
+RIT1	Vimentin	Chemical	0.31
+RIT1	Trace Elements	Chemical	0.313
+RIT1	Citrate	Chemical	0.316
+RIT1	Chlorophyll	Chemical	0.321
+RIT1	RNA, Viral	Chemical	0.325
+RIT1	Catecholamine	Chemical	0.329
+RIT1	Receptor Tyrosine Kinase	Chemical	0.335
+RIT1	Sulfates	Chemical	0.343
+RIT1	Hydrogen Peroxide	Chemical	0.344
+RIT1	Protein Sorting Signals	Chemical	0.344
+RIT1	Binding Sites	Chemical	0.35
+RIT1	Neurotransmitter	Chemical	0.352
+RIT1	Indicators and Reagents	Chemical	0.358
+RIT1	Protein Precursors	Chemical	0.358
+RIT1	Fibroblast Growth Factor	Chemical	0.36
+RIT1	Myosins	Chemical	0.363
+RIT1	Membrane Transport Proteins	Chemical	0.364
+RIT1	Chelating Agent	Chemical	0.375
+RIT1	Immunomodulating Agent	Chemical	0.387
+RIT1	Insulin-Like Growth Factor	Chemical	0.388
+RIT1	Lectin	Chemical	0.388
+RIT1	Molecule	Chemical	0.394
+RIT1	Inflammation Mediators	Chemical	0.4
+RIT1	Proto-Oncogene Proteins c-bcl-2	Chemical	0.419
+RIT1	Collagen Type I	Chemical	0.421
+RIT1	Capsules	Chemical	0.427
+RIT1	Chaperone	Chemical	0.428
+RIT1	Corticosterone	Chemical	0.44
+RIT1	MicroRNA	Chemical	0.441
+RIT1	Cytochromes c	Chemical	0.443
+RIT1	Oils	Chemical	0.465
+RIT1	Cytokine	Chemical	0.468
+RIT1	Adenylate Cyclase	Chemical	0.476
+RIT1	Metal	Chemical	0.486
+RIT1	Dextran 70	Chemical	0.487
+RIT1	Hypnotics and Sedatives	Chemical	0.495
+RIT1	Antigen-Antibody Complex	Chemical	0.496
+RIT1	Cell Adhesion Molecules	Chemical	0.496
+RIT1	Drosophila Proteins	Chemical	0.5
+RIT1	Ion	Chemical	0.512
+RIT1	Hydrolase	Chemical	0.519
+RIT1	Oxidoreductases	Chemical	0.534
+RIT1	Dust	Chemical	0.541
+RIT1	Metals, Heavy	Chemical	0.556
+RIT1	Thyroid-Stimulating Hormone	Chemical	0.558
+RIT1	Xenograft	Chemical	0.562
+RIT1	Glucose	Chemical	0.581
+RIT1	Peptide Fragments	Chemical	0.606
+RIT1	Interleukin-1 Beta	Chemical	0.637
+RIT1	Drugs, Chinese Herbal	Chemical	0.656
+RIT1	Phosphatidylinositol	Chemical	0.682
+RIT1	Phosphoproteins	Chemical	0.74
+RIT1	Protein Kinase Inhibitors	Chemical	0.759
+RIT1	Insulin-Like Growth Factor I	Chemical	0.771
+RIT1	Cadmium	Chemical	0.777
+RIT1	Antigens, Neoplasm	Chemical	0.782
+RIT1	Culture Media	Chemical	0.792
+RIT1	Silicon	Chemical	0.797
+RIT1	Pyrimidines	Chemical	0.806
+RIT1	Drinking Water	Chemical	0.862
+RIT1	Neuropeptide	Chemical	0.877
+RIT1	Interleukin-4	Chemical	0.887
+RIT1	Ammonia	Chemical	0.924
+RIT1	Iodine Radioisotopes	Chemical	0.933
+RIT1	Bacterial 16S RNA	Chemical	0.936
+RIT1	Receptor	Chemical	1.0
+RIT1	Pharmaceutical Preparations	Chemical	1.0
+RIT1	Acid	Chemical	1.0
+RIT1	Hormone	Chemical	1.0
+RIT1	Antibiotic	Chemical	1.0
+RIT1	Antibody	Chemical	1.0
+RIT1	Peptides	Chemical	1.0
+RIT1	Biological Markers	Chemical	1.0
+RIT1	Oxygen	Chemical	1.0
+RIT1	Antigen	Chemical	1.0
+RIT1	Cytokines	Chemical	1.0
+RIT1	Nitrogen	Chemical	1.0
+RIT1	Sodium	Chemical	1.0
+RIT1	Soil	Chemical	1.0
+RIT1	Carbon	Chemical	1.0
+RIT1	Tumor Necrosis Factor	Chemical	1.0
+RIT1	Insulin	Chemical	1.0
+RIT1	Antineoplastic Agent	Chemical	1.0
+RIT1	Membrane Protein	Chemical	1.0
+RIT1	Tumor Marker	Chemical	1.0
+RIT1	Monoclonal Antibody	Chemical	1.0
+RIT1	Agent	Chemical	1.0
+RIT1	Food	Chemical	1.0
+RIT1	Copper	Chemical	1.0
+RIT1	l-Norepinephrine	Chemical	1.0
+RIT1	Vitamin	Chemical	1.0
+RIT1	Mineral	Chemical	1.0
+RIT1	Cytochrome	Chemical	1.0
+RIT1	Collagen	Chemical	1.0
+RIT1	Flavonoids	Chemical	1.0
+RIT1	Acids	Chemical	1.0
+RIT1	Agar	Chemical	1.0
+RIT1	Actin	Chemical	1.0
+RIT1	Somatotropin	Chemical	1.0
+RIT1	Polymer	Chemical	1.0
+RIT1	Glycoprotein	Chemical	1.0
+RIT1	Antioxidants	Chemical	1.0
+RIT1	Carbon Isotopes	Chemical	1.0
+RIT1	Anti-Inflammatory Agents	Chemical	1.0
+RIT1	Protons	Chemical	1.0
+RIT1	Allergens	Chemical	1.0
+RIT1	IgG	Chemical	1.0
+RIT1	Immunosuppressant	Chemical	1.0
+RIT1	Superoxide Dismutase	Chemical	1.0
+RIT1	Membrane Glycoproteins	Chemical	1.0
+RIT1	Interleukin-1	Chemical	1.0
+RIT1	Nitric Oxide Synthetase	Chemical	1.0
+RIT1	Caspase	Chemical	1.0
+RIT1	Caspase-3	Chemical	1.0
+RIT1	Salt	Chemical	1.0
+RIT1	Acetate	Chemical	1.0
+RIT1	SCF ubiquitin ligase complex	Anatomy	2.63E-5
+RIT1	VBC complex	Anatomy	4.47E-5
+RIT1	Fourth finger	Anatomy	5.51E-5
+RIT1	Ring Finger Domain	Anatomy	6.04E-5
+RIT1	cullin-RING ubiquitin ligase complex	Anatomy	1.08E-4
+RIT1	VCB complex	Anatomy	1.49E-4
+RIT1	ubiquitin ligase complex	Anatomy	2.46E-4
+RIT1	anaphase-promoting complex location	Anatomy	7.33E-4
+RIT1	Fingers	Anatomy	0.00125
+RIT1	HeLa Cells	Anatomy	0.00139
+RIT1	Precursor T-Lymphoblast	Anatomy	0.00153
+RIT1	protein location	Anatomy	0.00165
+RIT1	26S proteasome location	Anatomy	0.00217
+RIT1	Anterior chest wall structure	Anatomy	0.0022
+RIT1	Chromosomes, Human, Pair 12	Anatomy	0.00282
+RIT1	thylakoid lumen	Anatomy	0.00317
+RIT1	Cell Line	Anatomy	0.00335
+RIT1	Eye - Retina (MMHCC)	Anatomy	0.00432
+RIT1	Pulmonary valve structure	Anatomy	0.00497
+RIT1	Cells	Anatomy	0.00514
+RIT1	Both kidneys	Anatomy	0.00548
+RIT1	NIH 3T3 Cells	Anatomy	0.0056
+RIT1	HEK293 Cells	Anatomy	0.00583
+RIT1	Philtrum	Anatomy	0.00768
+RIT1	Palmar	Anatomy	0.00771
+RIT1	signalosome	Anatomy	0.00839
+RIT1	Cell Line, Tumor	Anatomy	0.00871
+RIT1	Neurites	Anatomy	0.00906
+RIT1	Chromosomes, Human, Pair 1	Anatomy	0.0107
+RIT1	Embryo	Anatomy	0.0112
+RIT1	Mouse Cell Line	Anatomy	0.0115
+RIT1	eukaryotic translation initiation factor 2 complex location	Anatomy	0.0123
+RIT1	Embryonic Structures	Anatomy	0.0127
+RIT1	Leukocyte - Monocyte - Macrophage (MMHCC)	Anatomy	0.0144
+RIT1	Setae	Anatomy	0.0145
+RIT1	Neural Stem Cells	Anatomy	0.0148
+RIT1	Frontalis	Anatomy	0.0151
+RIT1	Null cell	Anatomy	0.0152
+RIT1	Chromosomes, Human, Pair 6	Anatomy	0.0153
+RIT1	Chromosomes, Human, Pair 3	Anatomy	0.0162
+RIT1	Neuron of retina	Anatomy	0.0162
+RIT1	Keratinized squamous cell of esophagus	Anatomy	0.0163
+RIT1	Neoplastic Cell	Anatomy	0.0165
+RIT1	Gut associated lymphoid tissue	Anatomy	0.017
+RIT1	Nuchal Translucency	Anatomy	0.0175
+RIT1	Killer Cells	Anatomy	0.0176
+RIT1	Superior temporal gyrus	Anatomy	0.0178
+RIT1	Ascus (fungus)	Anatomy	0.0183
+RIT1	Bone callus	Anatomy	0.0187
+RIT1	Structure of pituitary fossa	Anatomy	0.0195
+RIT1	Nucleoplasm	Anatomy	0.0217
+RIT1	Epidermal cell	Anatomy	0.0255
+RIT1	viral nucleocapsid location	Anatomy	0.027
+RIT1	protein complex location	Anatomy	0.0286
+RIT1	neural progenitor cells	Anatomy	0.0286
+RIT1	Neural circuitry	Anatomy	0.0301
+RIT1	Sensilla	Anatomy	0.0316
+RIT1	Spliceosomes	Anatomy	0.0318
+RIT1	COS Cells	Anatomy	0.0332
+RIT1	Thylakoid Membrane	Anatomy	0.0334
+RIT1	Upper lip structure	Anatomy	0.0361
+RIT1	Chromosomes, Fungal	Anatomy	0.037
+RIT1	Chromosomes	Anatomy	0.0374
+RIT1	Muscle Spindles	Anatomy	0.0394
+RIT1	Right kidney	Anatomy	0.0394
+RIT1	Wall of aorta	Anatomy	0.0428
+RIT1	Bud - CHV concept	Anatomy	0.0445
+RIT1	Plant Cells	Anatomy	0.0459
+RIT1	Ribosome Subunits	Anatomy	0.0478
+RIT1	Chromosomes, Human, Pair 14	Anatomy	0.0478
+RIT1	Tail	Anatomy	0.0505
+RIT1	Stress Fibers	Anatomy	0.053
+RIT1	Structure of right hand	Anatomy	0.055
+RIT1	Lymphoma cells	Anatomy	0.0551
+RIT1	chromatin location	Anatomy	0.0573
+RIT1	Antigen-Presenting Cells	Anatomy	0.0605
+RIT1	Sole of Foot	Anatomy	0.0609
+RIT1	Heart	Anatomy	0.0613
+RIT1	lymphoblast	Anatomy	0.0656
+RIT1	Yolk Sac	Anatomy	0.0671
+RIT1	Muscle, Striated	Anatomy	0.0675
+RIT1	Embryo, Nonmammalian	Anatomy	0.068
+RIT1	Hep G2 Cells	Anatomy	0.0721
+RIT1	Embryonic Stem Cells	Anatomy	0.0728
+RIT1	Spermatocytes	Anatomy	0.0788
+RIT1	Chloroplasts	Anatomy	0.0796
+RIT1	Cell surface	Anatomy	0.08
+RIT1	Bacterial Fimbria	Anatomy	0.083
+RIT1	MCF7	Anatomy	0.086
+RIT1	Clone	Anatomy	0.0864
+RIT1	Clone Cells	Anatomy	0.0875
+RIT1	Tumor Cells, Cultured	Anatomy	0.0882
+RIT1	Palate	Anatomy	0.0903
+RIT1	Plastids	Anatomy	0.0916
+RIT1	Fissure	Anatomy	0.0939
+RIT1	Endoplasmic Reticulum	Anatomy	0.0941
+RIT1	Chromatin Structure	Anatomy	0.0947
+RIT1	Nipples	Anatomy	0.0966
+RIT1	eosinophil	Anatomy	0.0981
+RIT1	Thoracic aorta	Anatomy	0.0981
+RIT1	Enterocytes	Anatomy	0.104
+RIT1	Heterochromatin	Anatomy	0.108
+RIT1	Epithelial cell of renal tubule	Anatomy	0.109
+RIT1	Tumor cells, uncertain whether benign or malignant	Anatomy	0.113
+RIT1	Forearm	Anatomy	0.114
+RIT1	Cell Nucleolus	Anatomy	0.128
+RIT1	trophoblast	Anatomy	0.135
+RIT1	Sex Chromosomes	Anatomy	0.135
+RIT1	Face	Anatomy	0.136
+RIT1	Cancer Stem Cells	Anatomy	0.137
+RIT1	Embryo, Mammalian	Anatomy	0.139
+RIT1	T-Lymphocyte	Anatomy	0.145
+RIT1	Focal Adhesions	Anatomy	0.147
+RIT1	Cell Extracts	Anatomy	0.151
+RIT1	Structure of dentate gyrus	Anatomy	0.157
+RIT1	Jurkat Cells	Anatomy	0.159
+RIT1	Hand	Anatomy	0.162
+RIT1	Cell Nucleus	Anatomy	0.166
+RIT1	Caco-2 Cells	Anatomy	0.167
+RIT1	Transverse tubule of muscle cell	Anatomy	0.17
+RIT1	Helper-Inducer T-Lymphocyte	Anatomy	0.172
+RIT1	CNS - Brain (MMHCC)	Anatomy	0.172
+RIT1	Large Intestine	Anatomy	0.175
+RIT1	PC12 Cells	Anatomy	0.175
+RIT1	Pleural effusion fluid	Anatomy	0.175
+RIT1	Neck	Anatomy	0.18
+RIT1	16s	Anatomy	0.182
+RIT1	Retinal Ganglion Cells	Anatomy	0.19
+RIT1	Corpus Callosum	Anatomy	0.197
+RIT1	Blood	Anatomy	0.199
+RIT1	thymocyte	Anatomy	0.199
+RIT1	Bone structure of rib	Anatomy	0.202
+RIT1	Hybridomas	Anatomy	0.206
+RIT1	Chinese Hamster Ovary Cell	Anatomy	0.21
+RIT1	Nerve Tissue	Anatomy	0.213
+RIT1	Notch	Anatomy	0.228
+RIT1	Cervical Atlas	Anatomy	0.23
+RIT1	Thymus Gland	Anatomy	0.238
+RIT1	Animal Coat	Anatomy	0.24
+RIT1	Body tissue	Anatomy	0.248
+RIT1	vimentin location	Anatomy	0.259
+RIT1	Pyramidal Cells	Anatomy	0.265
+RIT1	Dermis	Anatomy	0.278
+RIT1	Hair	Anatomy	0.28
+RIT1	Hematopoietic stem cells	Anatomy	0.281
+RIT1	Root body part	Anatomy	0.288
+RIT1	Photoreceptors	Anatomy	0.289
+RIT1	Pupil	Anatomy	0.29
+RIT1	Phagocytes	Anatomy	0.302
+RIT1	Neoplastic Stem Cells	Anatomy	0.305
+RIT1	Intrauterine	Anatomy	0.309
+RIT1	Cytotoxic T-Lymphocytes	Anatomy	0.315
+RIT1	Specimen Type - Eosinophils	Anatomy	0.323
+RIT1	Fibroblasts	Anatomy	0.325
+RIT1	Neurosecretory Systems	Anatomy	0.328
+RIT1	Cytoplasm	Anatomy	0.365
+RIT1	Cultured Cells	Anatomy	0.367
+RIT1	Specimen Type - Skeletal muscle	Anatomy	0.418
+RIT1	Subcellular Fractions	Anatomy	0.429
+RIT1	Inferior Colliculus	Anatomy	0.457
+RIT1	Lower Extremity	Anatomy	0.467
+RIT1	Stroma	Anatomy	0.49
+RIT1	Plasma Cells	Anatomy	0.497
+RIT1	B-Lymphocytes	Anatomy	0.516
+RIT1	Genitalia	Anatomy	0.534
+RIT1	Serum	Anatomy	0.535
+RIT1	Stromal Cells	Anatomy	0.539
+RIT1	Testis	Anatomy	0.544
+RIT1	Skeletal muscle structure	Anatomy	0.545
+RIT1	Neurons	Anatomy	0.566
+RIT1	mast cell	Anatomy	0.575
+RIT1	Organ	Anatomy	0.581
+RIT1	Retina	Anatomy	0.635
+RIT1	Blood Cells	Anatomy	0.713
+RIT1	Lung	Anatomy	0.746
+RIT1	Transplanted tissue	Anatomy	0.821
+RIT1	Bronchi	Anatomy	0.854
+RIT1	Adipocytes	Anatomy	0.861
+RIT1	Epidermis	Anatomy	0.88
+RIT1	lymph nodes	Anatomy	0.889
+RIT1	Neural Pathways	Anatomy	0.986
+RIT1	Brain	Anatomy	1.0
+RIT1	Liver	Anatomy	1.0
+RIT1	Skin	Anatomy	1.0
+RIT1	Muscle	Anatomy	1.0
+RIT1	Membrane	Anatomy	1.0
+RIT1	Plasma	Anatomy	1.0
+RIT1	Bone and Bones	Anatomy	1.0
+RIT1	Breast	Anatomy	1.0
+RIT1	Eye	Anatomy	1.0
+RIT1	Kidney	Anatomy	1.0
+RIT1	Bone Tissue	Anatomy	1.0
+RIT1	Skeletal bone	Anatomy	1.0
+RIT1	anatomical layer	Anatomy	1.0
+RIT1	Specimen Type - Bone	Anatomy	1.0
+RIT1	Aorta	Anatomy	1.0
+RIT1	Plasma membrane	Anatomy	1.0
+RIT1	Intestines	Anatomy	1.0
+RIT1	Lymphocyte	Anatomy	1.0
+RIT1	macrophage	Anatomy	1.0
+RIT1	Tissue membrane	Anatomy	1.0
+RIT1	Stem cells	Anatomy	1.0
+RIT1	Thyroid Gland	Anatomy	1.0
+RIT1	Specimen Type - Lymphocytes	Anatomy	1.0
+RIT1	Neuraxis	Anatomy	1.0
+RIT1	Arteries	Anatomy	1.0
+RIT1	Axon	Anatomy	1.0
+RIT1	Urinary Bladder	Anatomy	1.0
+RIT1	Bone Marrow	Anatomy	1.0
+RIT1	Bone Marrow Cells	Anatomy	1.0
+RIT1	Cell Wall	Anatomy	1.0
+RIT1	Chick Embryo	Anatomy	1.0
+RIT1	Colon structure (body structure)	Anatomy	1.0
+RIT1	Coronary Vessels	Anatomy	1.0
+RIT1	Avian crop	Anatomy	1.0
+RIT1	Cytoskeleton	Anatomy	1.0
+RIT1	Epithelial Cells	Anatomy	1.0
+RIT1	Epithelium	Anatomy	1.0
+RIT1	Esophagus	Anatomy	1.0
+RIT1	Extracellular Matrix	Anatomy	1.0
+RIT1	Femur	Anatomy	1.0
+RIT1	Head	Anatomy	1.0
+RIT1	Hippocampus (Brain)	Anatomy	1.0
+RIT1	Intestines, Small	Anatomy	1.0
+RIT1	Motor Neurons	Anatomy	1.0
+RIT1	Neuroglia	Anatomy	1.0
+RIT1	Ovary	Anatomy	1.0
+RIT1	Ovum	Anatomy	1.0
+RIT1	Pulmonary artery structure	Anatomy	1.0
+RIT1	Bodily secretions	Anatomy	1.0
+RIT1	Spinal Cord	Anatomy	1.0
+RIT1	Vertebral column	Anatomy	1.0
+RIT1	Stomach	Anatomy	1.0
+RIT1	Synapses	Anatomy	1.0
+RIT1	Temporal Lobe	Anatomy	1.0
+RIT1	Chest	Anatomy	1.0
+RIT1	Urinary tract	Anatomy	1.0
+RIT1	Veins	Anatomy	1.0
+RIT1	Prefrontal Cortex	Anatomy	1.0
+RIT1	Myocytes, Cardiac	Anatomy	1.0
+RIT1	Endothelial Cells	Anatomy	1.0
+RIT1	Limb structure	Anatomy	1.0
+RIT1	Myocardium	Anatomy	1.0
+RIT1	Spleen	Anatomy	1.0
+RIT1	Milk (body substance)	Anatomy	1.0
+RIT1	Coronary artery	Anatomy	1.0
+RIT1	Nerve	Anatomy	1.0
+RIT1	Blood specimen	Anatomy	1.0
+RIT1	peripheral blood	Anatomy	1.0
+RIT1	Head and neck structure	Anatomy	1.0
+RIT1	Gut	Anatomy	1.0
+RIT1	Anatomic structures	Anatomy	1.0
+RIT1	Anatomic Node	Anatomy	1.0
+RIT1	Chamber	Anatomy	1.0
+RIT1	collagen location	Anatomy	1.0
+RIT1	Column (anatomic)	Anatomy	1.0
+RIT1	Stem of Organ	Anatomy	1.0
+RIT1	Chromosome band	Anatomy	1.0
+RIT1	Specimen Type - Macrophages	Anatomy	1.0
+RIT1	Set of muscles	Anatomy	1.0
+RIT1	Gastrointestinal tract structure	Anatomy	1.0
+RIT1	Immune system	Anatomy	1.0
+RIT1	Fragments	Anatomy	1.0
+RIT1	Andres DA	Biomedical expert	0.7558
+RIT1	Xiong Y	Biomedical expert	0.7558
+RIT1	Sun Y	Biomedical expert	0.8025
+RIT1	Pan ZQ	Biomedical expert	0.8187
+RIT1	Ohta T	Biomedical expert	0.8521
+RIT1	Tan M	Biomedical expert	0.8694
+RIT1	Shi GX	Biomedical expert	0.8694
+RIT1	Tanaka K	Biomedical expert	0.8869
+RIT1	Li H	Biomedical expert	0.8869
+RIT1	Cai W	Biomedical expert	0.9048
+RIT1	Wu K	Biomedical expert	0.9048
+RIT1	Furukawa M	Biomedical expert	0.9048
+RIT1	Chiba T	Biomedical expert	0.9048
+RIT1	Xu X	Biomedical expert	0.9231
+RIT1	Li X	Biomedical expert	0.9231
+RIT1	Schaaf-Lafontaine N	Biomedical expert	0.9231
+RIT1	Jia L	Biomedical expert	0.9231
+RIT1	Jin F	Biomedical expert	0.9231
+RIT1	Matsubara Y	Biomedical expert	0.9231
+RIT1	Niihori T	Biomedical expert	0.9231
+RIT1	Wang H	Biomedical expert	0.9231
+RIT1	Aoki Y	Biomedical expert	0.9231
+RIT1	Li J	Biomedical expert	0.9231
+RIT1	Wang J	Biomedical expert	0.9418
+RIT1	Boniver J	Biomedical expert	0.9418
+RIT1	Saijo M	Biomedical expert	0.9418
+RIT1	Liu J	Biomedical expert	0.9418
+RIT1	Kominami R	Biomedical expert	0.9418
+RIT1	Pagano M	Biomedical expert	0.9418
+RIT1	Zhang Y	Biomedical expert	0.9418
+RIT1	Zhang Z	Biomedical expert	0.9418
+RIT1	Chen J	Biomedical expert	0.9418
+RIT1	Inoue S	Biomedical expert	0.9418
+RIT1	Hu X	Biomedical expert	0.9418
+RIT1	He YJ	Biomedical expert	0.9418
+RIT1	Gu Q	Biomedical expert	0.9418
+RIT1	Rong J	Biomedical expert	0.9418
+RIT1	Digilio MC	Biomedical expert	0.9418
+RIT1	Wang T	Biomedical expert	0.9418
+RIT1	Roemer T	Biomedical expert	0.9418
+RIT1	Fuchs SY	Biomedical expert	0.9418
+RIT1	Michel JJ	Biomedical expert	0.9418
+RIT1	Villafania A	Biomedical expert	0.9418
+RIT1	Barbieri CM	Biomedical expert	0.9418
+RIT1	Sarikas A	Biomedical expert	0.9418
+RIT1	Gómez C	Biomedical expert	0.9418
+RIT1	Mishima Y	Biomedical expert	0.9418
+RIT1	Chen A	Biomedical expert	0.9418
+RIT1	Wu J	Biomedical expert	0.9418
+RIT1	Chen H	Biomedical expert	0.9418
+RIT1	Li L	Biomedical expert	0.9418
+RIT1	Wang X	Biomedical expert	0.9418
+RIT1	Howe JA	Biomedical expert	0.9418
+RIT1	Wang R	Biomedical expert	0.9418
+RIT1	Mir S	Biomedical expert	0.9418
+RIT1	Tan P	Biomedical expert	0.9418
+RIT1	Shao H	Biomedical expert	0.9608
+RIT1	Cavé H	Biomedical expert	0.9608
+RIT1	Seo YS	Biomedical expert	0.9608
+RIT1	Inoue J	Biomedical expert	0.9608
+RIT1	Kawame H	Biomedical expert	0.9608
+RIT1	Murgolo N	Biomedical expert	0.9608
+RIT1	Aström SU	Biomedical expert	0.9608
+RIT1	Chou IT	Biomedical expert	0.9608
+RIT1	Li JT	Biomedical expert	0.9608
+RIT1	Li W	Biomedical expert	0.9608
+RIT1	Nishimura A	Biomedical expert	0.9608
+RIT1	Feng QS	Biomedical expert	0.9608
+RIT1	Kosugi-Okano H	Biomedical expert	0.9608
+RIT1	Kurosawa K	Biomedical expert	0.9608
+RIT1	Manap MY	Biomedical expert	0.9608
+RIT1	Dolios G	Biomedical expert	0.9608
+RIT1	Yamoah K	Biomedical expert	0.9608
+RIT1	Gazdoiu S	Biomedical expert	0.9608
+RIT1	Coaker G	Biomedical expert	0.9608
+RIT1	Martin MT	Biomedical expert	0.9608
+RIT1	Kim DH	Biomedical expert	0.9608
+RIT1	Pierpont ME	Biomedical expert	0.9608
+RIT1	Suzuki T	Biomedical expert	0.9608
+RIT1	Xu Y	Biomedical expert	0.9608
+RIT1	Hu C	Biomedical expert	0.9608
+RIT1	Sun H	Biomedical expert	0.9608
+RIT1	Bae SH	Biomedical expert	0.9608
+RIT1	Li F	Biomedical expert	0.9608
+RIT1	Fu L	Biomedical expert	0.9608
+RIT1	Yang J	Biomedical expert	0.9608
+RIT1	Tang H	Biomedical expert	0.9608
+RIT1	Field LJ	Biomedical expert	0.9608
+RIT1	Zenker M	Biomedical expert	0.9608
+RIT1	Byström AS	Biomedical expert	0.9608
+RIT1	Gomes MD	Biomedical expert	0.9608
+RIT1	Luo J	Biomedical expert	0.9608
+RIT1	Chen HK	Biomedical expert	0.9608
+RIT1	Yang Y	Biomedical expert	0.9608
+RIT1	Liu F	Biomedical expert	0.9608
+RIT1	Chen P	Biomedical expert	0.9608
+RIT1	Nishida T	Biomedical expert	0.9608
+RIT1	Mohamed AK	Biomedical expert	0.9608
+RIT1	Matsuura K	Biomedical expert	0.9608
+RIT1	Xiao L	Biomedical expert	0.9608
+RIT1	Protein	Food	0.00163
+RIT1	Riboflavin	Food	0.00272
+RIT1	Beluga whale	Food	0.00319
+RIT1	Peas	Food	0.0122
+RIT1	Shake	Food	0.0245
+RIT1	Yogurt	Food	0.0324
+RIT1	Lycopene	Food	0.0368
+RIT1	Soybean oil	Food	0.042
+RIT1	Tomato	Food	0.0508
+RIT1	Methionine	Food	0.0545
+RIT1	Olive oil	Food	0.0797
+RIT1	Lysine	Food	0.0827
+RIT1	Vitamin D3 	Food	0.0893
+RIT1	Proline	Food	0.0987
+RIT1	Cheese	Food	0.103
+RIT1	Soybeans	Food	0.11
+RIT1	Zinc	Food	0.197
+RIT1	Lactose	Food	0.246
+RIT1	Potatoes	Food	0.267
+RIT1	Threonine	Food	0.272
+RIT1	Fish	Food	0.284
+RIT1	Water	Food	0.285
+RIT1	Galactose	Food	0.421
+RIT1	Seeds	Food	0.488
+RIT1	Iron	Food	0.545
+RIT1	Calcium	Food	0.576
+RIT1	Glucose	Food	0.58
+RIT1	Oil	Food	0.638
+RIT1	Histidine	Food	0.699
+RIT1	Sodium	Food	1.0
+RIT1	Fungi	Food	1.0
+RIT1	Tyrosine	Food	1.0
+RIT1	Tryptophan	Food	1.0
+RIT1	Vitamin D	Food	1.0
+RIT1	Chicken	Food	1.0
+RIT1	Sucrose	Food	1.0
+RIT1	Milk	Food	1.0
+RIT1	Magnesium	Food	1.0
+RIT1	Sugar	Food	1.0
+RIT1	Leucine	Food	1.0
+RIT1	Glutamic acid	Food	1.0
+RIT1	Copper	Food	1.0
+RIT1	Vegetables	Food	1.0
+RIT1	SCF ubiquitin ligase complex	Cellular component	2.6E-5
+RIT1	VCB complex	Cellular component	1.49E-4
+RIT1	ubiquitin ligase complex	Cellular component	2.48E-4
+RIT1	anaphase-promoting complex	Cellular component	7.41E-4
+RIT1	thylakoid lumen	Cellular component	0.00317
+RIT1	COP9 signalosome	Cellular component	0.00397
+RIT1	proteasome complex	Cellular component	0.00762
+RIT1	origin recognition complex	Cellular component	0.00792
+RIT1	eukaryotic translation initiation factor 2 complex	Cellular component	0.0116
+RIT1	nucleoplasm	Cellular component	0.0216
+RIT1	cell	Cellular component	0.0269
+RIT1	protein complex	Cellular component	0.0285
+RIT1	sex chromosome	Cellular component	0.0326
+RIT1	chromosome	Cellular component	0.0356
+RIT1	efflux pump complex	Cellular component	0.0411
+RIT1	chromatin	Cellular component	0.0412
+RIT1	chloroplast	Cellular component	0.0421
+RIT1	viral nucleocapsid	Cellular component	0.0529
+RIT1	nucleolus	Cellular component	0.0551
+RIT1	cell surface	Cellular component	0.0781
+RIT1	pilus	Cellular component	0.0857
+RIT1	endoplasmic reticulum	Cellular component	0.0951
+RIT1	heterochromatin	Cellular component	0.108
+RIT1	yolk	Cellular component	0.179
+RIT1	cytoplasm	Cellular component	0.361
+RIT1	collagen type I trimer	Cellular component	0.421
+RIT1	membrane	Cellular component	1.0
+RIT1	nucleus	Cellular component	1.0
+RIT1	plasma membrane	Cellular component	1.0
+RIT1	extracellular matrix	Cellular component	1.0
+RIT1	cytosol	Cellular component	1.0
+RIT1	collagen trimer	Cellular component	1.0
+RIT1	cytoskeleton	Cellular component	1.0
+RIT1	cell wall	Cellular component	1.0
+RIT1	Ribulose-5-Phosphate	Drug	2.66E-4
+RIT1	PRIMA-1 Analog APR-246	Drug	6.04E-4
+RIT1	1-Deoxy-D-xylulose 5-phosphate	Drug	0.00189
+RIT1	RIBOFLAVIN	Drug	0.003
+RIT1	NAVITOCLAX	Drug	0.00306
+RIT1	Glyceraldehyde-3-Phosphate	Drug	0.00344
+RIT1	Remifentanil	Drug	0.00379
+RIT1	OLAPARIB	Drug	0.00776
+RIT1	PROPOFOL	Drug	0.0198
+RIT1	Cyclin-Dependent Kinase 6	Drug	0.0201
+RIT1	Guanine	Drug	0.0205
+RIT1	SIROLIMUS	Drug	0.021
+RIT1	THALIDOMIDE	Drug	0.0223
+RIT1	LENALIDOMIDE	Drug	0.0294
+RIT1	Guanosine	Drug	0.0367
+RIT1	Lycopene	Drug	0.037
+RIT1	Alendronic Acid	Drug	0.0399
+RIT1	Pyruvic acid	Drug	0.0457
+RIT1	L-Methionine	Drug	0.0533
+RIT1	Mecasermin	Drug	0.0608
+RIT1	SORAFENIB	Drug	0.0609
+RIT1	Citalopram	Drug	0.0617
+RIT1	SEVOFLURANE	Drug	0.0775
+RIT1	Lysine	Drug	0.083
+RIT1	Succinylcholine	Drug	0.0935
+RIT1	L-Proline	Drug	0.0987
+RIT1	Isoproterenol	Drug	0.0999
+RIT1	LIPASE	Drug	0.104
+RIT1	XYLOSE	Drug	0.111
+RIT1	CHOLECALCIFEROL	Drug	0.119
+RIT1	Midazolam	Drug	0.132
+RIT1	Recombinant Thyrotropin Alfa	Drug	0.153
+RIT1	CYCLOSPORINE	Drug	0.16
+RIT1	RIBAVIRIN	Drug	0.163
+RIT1	CALCITRIOL	Drug	0.181
+RIT1	Forskolin	Drug	0.207
+RIT1	Glutathione	Drug	0.229
+RIT1	Lactose	Drug	0.246
+RIT1	TACROLIMUS	Drug	0.259
+RIT1	L-Threonine	Drug	0.272
+RIT1	DACTINOMYCIN	Drug	0.279
+RIT1	ETOPOSIDE	Drug	0.297
+RIT1	Recombinant Interferon Gamma	Drug	0.315
+RIT1	Phenol	Drug	0.32
+RIT1	Galactose	Drug	0.42
+RIT1	TRETINOIN	Drug	0.445
+RIT1	CITRIC ACID	Drug	0.483
+RIT1	Tetradecanoylphorbol Acetate	Drug	0.487
+RIT1	Iron	Drug	0.554
+RIT1	CALCIUM	Drug	0.582
+RIT1	Recombinant Tumor Necrosis Factor Family Protein	Drug	0.636
+RIT1	Binetrakin	Drug	0.673
+RIT1	DINOPROSTONE	Drug	0.692
+RIT1	Histidine	Drug	0.699
+RIT1	Zinc	Drug	0.714
+RIT1	Therapeutic Insulin	Drug	1.0
+RIT1	NITRIC OXIDE	Drug	1.0
+RIT1	TYROSINE	Drug	1.0
+RIT1	Histamine	Drug	1.0
+RIT1	Vitamin D Compound	Drug	1.0
+RIT1	MYELOPEROXIDASE	Drug	1.0
+RIT1	Lipopolysaccharide	Drug	1.0
+RIT1	Sucrose	Drug	1.0
+RIT1	Magnesium	Drug	1.0
+RIT1	CORTICOTROPIN	Drug	1.0
+RIT1	Dopamine	Drug	1.0
+RIT1	ADENOSINE	Drug	1.0
+RIT1	FLUOROURACIL	Drug	1.0
+RIT1	CISPLATIN	Drug	1.0
+RIT1	Norepinephrine	Drug	1.0
+RIT1	Adenosine Triphosphate	Drug	1.0
+RIT1	L-Tryptophan	Drug	1.0
+RIT1	L-Leucine	Drug	1.0
+RIT1	Glutamic Acid	Drug	1.0
+RIT1	ubiquitin protein ligase activity	Molecular function	4.87E-5
+RIT1	ligase activity	Molecular function	7.15E-4
+RIT1	FMN binding	Molecular function	0.0014
+RIT1	recombinase activity	Molecular function	0.00279
+RIT1	peptidyl-prolyl cis-trans isomerase activity	Molecular function	0.00307
+RIT1	protein binding	Molecular function	0.00436
+RIT1	vitamin D binding	Molecular function	0.00597
+RIT1	GTPase activity	Molecular function	0.00628
+RIT1	p53 binding	Molecular function	0.00714
+RIT1	helicase activity	Molecular function	0.00981
+RIT1	peptidase activity	Molecular function	0.0194
+RIT1	lipase activity	Molecular function	0.0293
+RIT1	transcription factor binding	Molecular function	0.0507
+RIT1	nucleotide binding	Molecular function	0.0552
+RIT1	adenylate cyclase activity	Molecular function	0.0633
+RIT1	catalytic activity	Molecular function	0.167
+RIT1	Morning sickness	Symptom	0.00282
+RIT1	Hepatosplenomegaly	Symptom	0.014
+RIT1	Chills	Symptom	0.056
+RIT1	Agitation	Symptom	0.177
+RIT1	Signs and symptoms	Symptom	0.281
+RIT1	Tremor	Symptom	0.348
+RIT1	Spots on skin	Symptom	0.626
+RIT1	Absence of sensation	Symptom	1.0
+RIT1	Seizures	Symptom	1.0
+RIT1	Stiffness	Symptom	1.0
+RIT1	RBX1	Gene/Protein	2.48E-7
+RIT1	BCL11B	Gene/Protein	6.78E-7
+RIT1	CUL1	Gene/Protein	3.31E-6
+RIT1	RNF7	Gene/Protein	4.21E-6
+RIT1	A2ML1	Gene/Protein	4.26E-6
+RIT1	SKP1	Gene/Protein	4.95E-6
+RIT1	CACUL1	Gene/Protein	7.96E-6
+RIT1	CUL4A	Gene/Protein	8.18E-6
+RIT1	LZTR1	Gene/Protein	1.1E-5
+RIT1	DDB1	Gene/Protein	1.57E-5
+RIT1	RASA2	Gene/Protein	2.05E-5
+RIT1	CUL7	Gene/Protein	2.11E-5
+RIT1	SHOC2	Gene/Protein	2.69E-5
+RIT1	CUL4B	Gene/Protein	3.27E-5
+RIT1	NEDD8	Gene/Protein	3.68E-5
+RIT1	RIT2	Gene/Protein	3.7E-5
+RIT1	FBXW8	Gene/Protein	4.06E-5
+RIT1	CDC34	Gene/Protein	4.6E-5
+RIT1	CAND1	Gene/Protein	5.26E-5
+RIT1	CUL3	Gene/Protein	5.4E-5
+RIT1	RANP1	Gene/Protein	5.71E-5
+RIT1	ZNF645	Gene/Protein	5.79E-5
+RIT1	MUL1	Gene/Protein	5.86E-5
+RIT1	DCUN1D3	Gene/Protein	5.96E-5
+RIT1	PARK2	Gene/Protein	7.58E-5
+RIT1	UBE2M	Gene/Protein	7.7E-5
+RIT1	LAMTOR2	Gene/Protein	7.83E-5
+RIT1	ANAPC11	Gene/Protein	8.01E-5
+RIT1	FBXO18	Gene/Protein	8.2E-5
+RIT1	MED13L	Gene/Protein	8.57E-5
+RIT1	BTRC	Gene/Protein	1.07E-4
+RIT1	POLR3C	Gene/Protein	1.19E-4
+RIT1	PTPN11	Gene/Protein	1.32E-4
+RIT1	AHDC1	Gene/Protein	1.42E-4
+RIT1	H1FOO	Gene/Protein	1.44E-4
+RIT1	TRAPPC11	Gene/Protein	1.64E-4
+RIT1	RHOBTB3	Gene/Protein	1.71E-4
+RIT1	FBXO25	Gene/Protein	1.71E-4
+RIT1	DDB2	Gene/Protein	1.78E-4
+RIT1	RFX4	Gene/Protein	1.79E-4
+RIT1	KCNV1	Gene/Protein	1.79E-4
+RIT1	DPM3	Gene/Protein	1.86E-4
+RIT1	RGL3	Gene/Protein	1.86E-4
+RIT1	SKP2	Gene/Protein	1.88E-4
+RIT1	RAF1	Gene/Protein	1.99E-4
+RIT1	RLF	Gene/Protein	2.01E-4
+RIT1	PHF5A	Gene/Protein	2.01E-4
+RIT1	APOA1BP	Gene/Protein	2.01E-4
+RIT1	CUL2	Gene/Protein	2.11E-4
+RIT1	SOS1	Gene/Protein	2.16E-4
+RIT1	CRBN	Gene/Protein	2.21E-4
+RIT1	UBE2D3	Gene/Protein	2.42E-4
+RIT1	ERCC8	Gene/Protein	2.48E-4
+RIT1	TAF1C	Gene/Protein	2.53E-4
+RIT1	ZNF292	Gene/Protein	2.53E-4
+RIT1	SETD5	Gene/Protein	2.53E-4
+RIT1	CSMD3	Gene/Protein	2.61E-4
+RIT1	TCEB3	Gene/Protein	2.76E-4
+RIT1	UBE2L1	Gene/Protein	2.95E-4
+RIT1	TRIM31	Gene/Protein	2.97E-4
+RIT1	ANAPC2	Gene/Protein	2.97E-4
+RIT1	ALG9	Gene/Protein	2.98E-4
+RIT1	PHF13	Gene/Protein	2.98E-4
+RIT1	DEPTOR	Gene/Protein	3.06E-4
+RIT1	SEMA6B	Gene/Protein	3.21E-4
+RIT1	CKS1BP7	Gene/Protein	3.34E-4
+RIT1	SLC25A23	Gene/Protein	3.36E-4
+RIT1	MYPN	Gene/Protein	3.58E-4
+RIT1	RASAL2	Gene/Protein	3.65E-4
+RIT1	LRRC7	Gene/Protein	3.8E-4
+RIT1	APC2	Gene/Protein	3.88E-4
+RIT1	CDT1	Gene/Protein	3.94E-4
+RIT1	CUL5	Gene/Protein	4.27E-4
+RIT1	CCNF	Gene/Protein	4.47E-4
+RIT1	IKZF3	Gene/Protein	4.74E-4
+RIT1	RPS6KA4	Gene/Protein	4.77E-4
+RIT1	ZBTB18	Gene/Protein	4.92E-4
+RIT1	KRAS	Gene/Protein	4.98E-4
+RIT1	CKS1B	Gene/Protein	5.0E-4
+RIT1	NFE2L3	Gene/Protein	5.07E-4
+RIT1	UBE2D2	Gene/Protein	5.21E-4
+RIT1	DCUN1D1	Gene/Protein	5.3E-4
+RIT1	PUF60	Gene/Protein	5.37E-4
+RIT1	MAP2K1	Gene/Protein	5.45E-4
+RIT1	ZMYND11	Gene/Protein	5.59E-4
+RIT1	NRAS	Gene/Protein	5.66E-4
+RIT1	ATP6V1B2	Gene/Protein	5.82E-4
+RIT1	FBXO2	Gene/Protein	5.82E-4
+RIT1	GPR132	Gene/Protein	6.27E-4
+RIT1	HSPA6	Gene/Protein	6.42E-4
+RIT1	KIF14	Gene/Protein	6.42E-4
+RIT1	FBXW11	Gene/Protein	6.49E-4
+RIT1	RIN1	Gene/Protein	6.57E-4
+RIT1	ANKRD11	Gene/Protein	6.57E-4
+RIT1	BCRP3	Gene/Protein	6.79E-4
+RIT1	NFKBIA	Gene/Protein	7.75E-4
+RIT1	DET1	Gene/Protein	8.06E-4
+RIT1	RBM10	Gene/Protein	8.21E-4
+RIT1	PUM2	Gene/Protein	8.28E-4
+RIT1	FBXO32	Gene/Protein	8.3E-4
+RIT1	DMBT1	Gene/Protein	8.39E-4
+RIT1	RBBP7	Gene/Protein	8.43E-4
+RIT1	KCNH8	Gene/Protein	8.45E-4
+RIT1	WEE1	Gene/Protein	8.85E-4
+RIT1	PTRH2	Gene/Protein	8.96E-4
+RIT1	PHC1	Gene/Protein	9.11E-4
+RIT1	BCL11A	Gene/Protein	9.31E-4
+RIT1	SEMA4A	Gene/Protein	9.33E-4
+RIT1	ROS1	Gene/Protein	9.45E-4
+RIT1	CDKN1B	Gene/Protein	9.46E-4
+RIT1	VPRBP	Gene/Protein	9.56E-4
+RIT1	UCHL3	Gene/Protein	9.63E-4
+RIT1	TUBA1A	Gene/Protein	9.93E-4
+RIT1	FBXW7	Gene/Protein	0.00103
+RIT1	CHD8	Gene/Protein	0.00103
+RIT1	CIB1	Gene/Protein	0.00105
+RIT1	ACTN2	Gene/Protein	0.00105
+RIT1	TLX3	Gene/Protein	0.00108
+RIT1	RNF20	Gene/Protein	0.00109
+RIT1	DTL	Gene/Protein	0.00112
+RIT1	TOB1	Gene/Protein	0.00113
+RIT1	MCM10	Gene/Protein	0.00121
+RIT1	BRAF	Gene/Protein	0.00124
+RIT1	ELK1	Gene/Protein	0.00126
+RIT1	SPOP	Gene/Protein	0.00128
+RIT1	GINS2	Gene/Protein	0.00131
+RIT1	GSX1	Gene/Protein	0.00142
+RIT1	HUWE1	Gene/Protein	0.00143
+RIT1	SPRY1	Gene/Protein	0.00152
+RIT1	RALGDS	Gene/Protein	0.00161
+RIT1	ARHGEF2	Gene/Protein	0.00163
+RIT1	SPRED1	Gene/Protein	0.00164
+RIT1	NS2	Gene/Protein	0.00165
+RIT1	JMJD6	Gene/Protein	0.00166
+RIT1	SIRT7	Gene/Protein	0.00167
+RIT1	HRAS	Gene/Protein	0.00173
+RIT1	ARID1B	Gene/Protein	0.00176
+RIT1	ORC1	Gene/Protein	0.00183
+RIT1	UBE2C	Gene/Protein	0.00191
+RIT1	GRM8	Gene/Protein	0.00192
+RIT1	NFATC4	Gene/Protein	0.00197
+RIT1	NTRK1	Gene/Protein	0.002
+RIT1	KAT6B	Gene/Protein	0.002
+RIT1	IKBKE	Gene/Protein	0.00201
+RIT1	TLX1	Gene/Protein	0.00203
+RIT1	SIN3A	Gene/Protein	0.00203
+RIT1	SOS2	Gene/Protein	0.00206
+RIT1	PARP3	Gene/Protein	0.00212
+RIT1	SLC25A15	Gene/Protein	0.00212
+RIT1	HOXA1	Gene/Protein	0.00226
+RIT1	VHL	Gene/Protein	0.00234
+RIT1	PSAT1	Gene/Protein	0.00237
+RIT1	NF1	Gene/Protein	0.00238
+RIT1	IFI16	Gene/Protein	0.00243
+RIT1	INCENP	Gene/Protein	0.00244
+RIT1	IFITM3	Gene/Protein	0.00245
+RIT1	MLLT4	Gene/Protein	0.00246
+RIT1	ERCC5	Gene/Protein	0.00249
+RIT1	PRCC	Gene/Protein	0.0025
+RIT1	SYNGAP1	Gene/Protein	0.00258
+RIT1	IL17RB	Gene/Protein	0.0026
+RIT1	HOXB4	Gene/Protein	0.00264
+RIT1	SAG	Gene/Protein	0.00266
+RIT1	CELA1	Gene/Protein	0.00272
+RIT1	HSPB8	Gene/Protein	0.00276
+RIT1	ANK3	Gene/Protein	0.00282
+RIT1	CDKL5	Gene/Protein	0.00282
+RIT1	IKBKB	Gene/Protein	0.00283
+RIT1	MAPKAP1	Gene/Protein	0.00284
+RIT1	PMAIP1	Gene/Protein	0.00286
+RIT1	PKLR	Gene/Protein	0.00295
+RIT1	SNRPE	Gene/Protein	0.00298
+RIT1	MAP3K8	Gene/Protein	0.00298
+RIT1	YY1AP1	Gene/Protein	0.00303
+RIT1	PPIL1	Gene/Protein	0.00321
+RIT1	PRDX3	Gene/Protein	0.00325
+RIT1	RNMT	Gene/Protein	0.00328
+RIT1	COL4A1	Gene/Protein	0.00338
+RIT1	ERCC6	Gene/Protein	0.0035
+RIT1	GNAS	Gene/Protein	0.00351
+RIT1	RFWD2	Gene/Protein	0.00357
+RIT1	FKBP2	Gene/Protein	0.00369
+RIT1	IKZF1	Gene/Protein	0.00383
+RIT1	MAP2K3	Gene/Protein	0.00393
+RIT1	COPS8	Gene/Protein	0.00425
+RIT1	RHEBP1	Gene/Protein	0.00426
+RIT1	CHUK	Gene/Protein	0.00432
+RIT1	RHEB	Gene/Protein	0.00443
+RIT1	RAD9A	Gene/Protein	0.0045
+RIT1	POLR2A	Gene/Protein	0.00455
+RIT1	HSPA9	Gene/Protein	0.00466
+RIT1	SLC7A11	Gene/Protein	0.00499
+RIT1	RPS6KA3	Gene/Protein	0.005
+RIT1	UBE2S	Gene/Protein	0.00523
+RIT1	KCNQ2	Gene/Protein	0.00538
+RIT1	SCN2A	Gene/Protein	0.0055
+RIT1	UBR5	Gene/Protein	0.00553
+RIT1	UBE2I	Gene/Protein	0.0061
+RIT1	UBE2K	Gene/Protein	0.00611
+RIT1	RBPJ	Gene/Protein	0.0062
+RIT1	ARID1A	Gene/Protein	0.00658
+RIT1	EDNRB	Gene/Protein	0.00665
+RIT1	CXXC1	Gene/Protein	0.00667
+RIT1	MDM2	Gene/Protein	0.00679
+RIT1	MAP2K2	Gene/Protein	0.00707
+RIT1	GALT	Gene/Protein	0.0071
+RIT1	LATS1	Gene/Protein	0.0071
+RIT1	GALK1	Gene/Protein	0.00742
+RIT1	HTR7	Gene/Protein	0.00744
+RIT1	MAOA	Gene/Protein	0.00746
+RIT1	STAT2	Gene/Protein	0.00751
+RIT1	TCHP	Gene/Protein	0.0076
+RIT1	CYR61	Gene/Protein	0.00762
+RIT1	GADD45B	Gene/Protein	0.00765
+RIT1	TNFSF10	Gene/Protein	0.00782
+RIT1	MTOR	Gene/Protein	0.00787
+RIT1	XPC	Gene/Protein	0.00797
+RIT1	CRY1	Gene/Protein	0.00883
+RIT1	CDKN1A	Gene/Protein	0.00902
+RIT1	FHIT	Gene/Protein	0.00904
+RIT1	PPIA	Gene/Protein	0.00911
+RIT1	CCND3	Gene/Protein	0.00918
+RIT1	IRS1	Gene/Protein	0.0092
+RIT1	NR1I3	Gene/Protein	0.00939
+RIT1	KRT31	Gene/Protein	0.00941
+RIT1	WNK2	Gene/Protein	0.00961
+RIT1	AGO2	Gene/Protein	0.00968
+RIT1	MCL1	Gene/Protein	0.00973
+RIT1	NOTCH2	Gene/Protein	0.00974
+RIT1	SERPINH1	Gene/Protein	0.0102
+RIT1	PKN1	Gene/Protein	0.0102
+RIT1	IFIH1	Gene/Protein	0.0102
+RIT1	MED12	Gene/Protein	0.0103
+RIT1	IRF4	Gene/Protein	0.0104
+RIT1	TCEAL1	Gene/Protein	0.0106
+RIT1	H3F3AP6	Gene/Protein	0.0106
+RIT1	PAK1	Gene/Protein	0.0106
+RIT1	ATRX	Gene/Protein	0.0107
+RIT1	CHI3L1	Gene/Protein	0.0107
+RIT1	CISH	Gene/Protein	0.011
+RIT1	MT-TA	Gene/Protein	0.011
+RIT1	SUMO1	Gene/Protein	0.0114
+RIT1	SMN1	Gene/Protein	0.0115
+RIT1	SMAD3	Gene/Protein	0.0117
+RIT1	FGF8	Gene/Protein	0.0119
+RIT1	MYH6	Gene/Protein	0.0119
+RIT1	POSTN	Gene/Protein	0.0124
+RIT1	ATF6B	Gene/Protein	0.0125
+RIT1	FKBP4	Gene/Protein	0.0127
+RIT1	KCNMA1	Gene/Protein	0.0127
+RIT1	S100A4	Gene/Protein	0.0128
+RIT1	SOX2	Gene/Protein	0.0132
+RIT1	CUL9	Gene/Protein	0.0132
+RIT1	AIF1	Gene/Protein	0.0133
+RIT1	UBE3A	Gene/Protein	0.0137
+RIT1	STMN1	Gene/Protein	0.0139
+RIT1	CASR	Gene/Protein	0.0141
+RIT1	EIF2S1	Gene/Protein	0.0144
+RIT1	CLDN1	Gene/Protein	0.0148
+RIT1	ERBB2	Gene/Protein	0.0152
+RIT1	KEAP1	Gene/Protein	0.0152
+RIT1	CDK1	Gene/Protein	0.0153
+RIT1	ARHGAP24	Gene/Protein	0.0155
+RIT1	CUX1	Gene/Protein	0.0158
+RIT1	NRG1	Gene/Protein	0.0161
+RIT1	IRF1	Gene/Protein	0.0166
+RIT1	CCL18	Gene/Protein	0.0174
+RIT1	CDK6	Gene/Protein	0.0181
+RIT1	BBS9	Gene/Protein	0.0181
+RIT1	CSH1	Gene/Protein	0.0185
+RIT1	LMOD1	Gene/Protein	0.0185
+RIT1	RPS6KB1	Gene/Protein	0.0187
+RIT1	TCF7L2	Gene/Protein	0.0187
+RIT1	PDGFRA	Gene/Protein	0.0189
+RIT1	HIF1A	Gene/Protein	0.0195
+RIT1	GTPBP4	Gene/Protein	0.0195
+RIT1	IDH1	Gene/Protein	0.0196
+RIT1	HCAR3	Gene/Protein	0.0196
+RIT1	TCF4	Gene/Protein	0.0198
+RIT1	RASA1	Gene/Protein	0.0202
+RIT1	KMT2A	Gene/Protein	0.0205
+RIT1	SART3	Gene/Protein	0.0207
+RIT1	CREBBP	Gene/Protein	0.0208
+RIT1	CTSB	Gene/Protein	0.0209
+RIT1	COL1A2	Gene/Protein	0.0223
+RIT1	CHEK1	Gene/Protein	0.0226
+RIT1	HFM1	Gene/Protein	0.0231
+RIT1	TP53	Gene/Protein	0.0232
+RIT1	BCL6	Gene/Protein	0.0235
+RIT1	UBASH3B	Gene/Protein	0.0239
+RIT1	GABPA	Gene/Protein	0.0245
+RIT1	JUN	Gene/Protein	0.0251
+RIT1	CDKN3	Gene/Protein	0.0252
+RIT1	ANXA6	Gene/Protein	0.0258
+RIT1	NFE2L2	Gene/Protein	0.026
+RIT1	CTNNB1	Gene/Protein	0.0266
+RIT1	CCNB1	Gene/Protein	0.0287
+RIT1	E2F1	Gene/Protein	0.0303
+RIT1	LMNA	Gene/Protein	0.0314
+RIT1	EP300	Gene/Protein	0.0316
+RIT1	POLD1	Gene/Protein	0.0316
+RIT1	MYOD1	Gene/Protein	0.0327
+RIT1	MAPK14	Gene/Protein	0.0329
+RIT1	RB1	Gene/Protein	0.0329
+RIT1	EGFR	Gene/Protein	0.0334
+RIT1	SETD2	Gene/Protein	0.0339
+RIT1	NQO1	Gene/Protein	0.035
+RIT1	MECP2	Gene/Protein	0.035
+RIT1	CCNA2	Gene/Protein	0.0351
+RIT1	CCND1	Gene/Protein	0.0382
+RIT1	PIK3CA	Gene/Protein	0.0385
+RIT1	STAT3	Gene/Protein	0.0389
+RIT1	FGFR2	Gene/Protein	0.0396
+RIT1	SMAD2	Gene/Protein	0.0399
+RIT1	CDC42	Gene/Protein	0.0446
+RIT1	MET	Gene/Protein	0.0481
+RIT1	MUC1	Gene/Protein	0.0491
+RIT1	GH1	Gene/Protein	0.0513
+RIT1	CD28	Gene/Protein	0.0515
+RIT1	BDNF	Gene/Protein	0.0547
+RIT1	STAT1	Gene/Protein	0.058
+RIT1	RAC1	Gene/Protein	0.0624
+RIT1	IL10	Gene/Protein	0.066
+RIT1	BIRC5	Gene/Protein	0.0679
+RIT1	CREB1	Gene/Protein	0.0685
+RIT1	HMOX1	Gene/Protein	0.0732
+RIT1	SOAT1	Gene/Protein	0.0741
+RIT1	RNASE1	Gene/Protein	0.0788
+RIT1	TGFB1	Gene/Protein	0.0791
+RIT1	PCNA	Gene/Protein	0.0792
+RIT1	SPP1	Gene/Protein	0.082
+RIT1	NFKB1	Gene/Protein	0.0822
+RIT1	PSG1	Gene/Protein	0.0854
+RIT1	DAND5	Gene/Protein	0.086
+RIT1	SP1	Gene/Protein	0.0867
+RIT1	RET	Gene/Protein	0.104
+RIT1	BCL2L1	Gene/Protein	0.112
+RIT1	COL11A2	Gene/Protein	0.114
+RIT1	PROC	Gene/Protein	0.114
+RIT1	DNAH8	Gene/Protein	0.118
+RIT1	BRCA1	Gene/Protein	0.119
+RIT1	CTLA4	Gene/Protein	0.12
+RIT1	PTEN	Gene/Protein	0.139
+RIT1	PARP1	Gene/Protein	0.153
+RIT1	CALM2	Gene/Protein	0.162
+RIT1	CALM3	Gene/Protein	0.162
+RIT1	CALM1	Gene/Protein	0.163
+RIT1	BCL2	Gene/Protein	0.17
+RIT1	VIM	Gene/Protein	0.262
+RIT1	POMC	Gene/Protein	0.302
+RIT1	IL13	Gene/Protein	0.309
+RIT1	MYC	Gene/Protein	0.317
+RIT1	CYCS	Gene/Protein	0.333
+RIT1	NAA50	Gene/Protein	0.341
+RIT1	TSC1	Gene/Protein	0.364
+RIT1	NOS2	Gene/Protein	0.385
+RIT1	IL4	Gene/Protein	0.692
+RIT1	CASP3	Gene/Protein	1.0
+RIT1	IFNG	Gene/Protein	1.0
+RIT1	BMND7	Gene/Protein	1.0
+RIT1	BMND8	Gene/Protein	1.0
+RIT1	radial pattern formation	Biological process	7.45E-6
+RIT1	riboflavin biosynthetic process	Biological process	9.52E-5
+RIT1	protein polyubiquitination	Biological process	2.91E-4
+RIT1	establishment of RNA localization	Biological process	3.28E-4
+RIT1	global genome nucleotide-excision repair	Biological process	3.3E-4
+RIT1	regulation of DNA-dependent DNA replication initiation	Biological process	3.71E-4
+RIT1	ubiquitin-dependent protein catabolic process	Biological process	4.67E-4
+RIT1	phytoalexin biosynthetic process	Biological process	9.18E-4
+RIT1	brassinosteroid biosynthetic process	Biological process	0.00101
+RIT1	histone ubiquitination	Biological process	0.00108
+RIT1	proteolysis	Biological process	0.00131
+RIT1	vacuolar sequestering	Biological process	0.00131
+RIT1	terpene biosynthetic process	Biological process	0.00149
+RIT1	de-etiolation	Biological process	0.0017
+RIT1	naphthalene catabolic process	Biological process	0.0017
+RIT1	proteasome-mediated ubiquitin-dependent protein catabolic process	Biological process	0.00202
+RIT1	gibberellin biosynthetic process	Biological process	0.00241
+RIT1	protein ubiquitination	Biological process	0.00245
+RIT1	DNA metabolic process	Biological process	0.00301
+RIT1	post-embryonic development	Biological process	0.00305
+RIT1	cell fate determination	Biological process	0.0032
+RIT1	pilus assembly	Biological process	0.00348
+RIT1	protein catabolic process	Biological process	0.0035
+RIT1	RNA interference	Biological process	0.00351
+RIT1	stem cell proliferation	Biological process	0.0036
+RIT1	transcription-coupled nucleotide-excision repair	Biological process	0.00437
+RIT1	signal transduction	Biological process	0.00467
+RIT1	gene silencing	Biological process	0.00475
+RIT1	plasma cell differentiation	Biological process	0.00477
+RIT1	proteasome complex disassembly	Biological process	0.00487
+RIT1	muscle atrophy	Biological process	0.0056
+RIT1	cell aging	Biological process	0.00693
+RIT1	photomorphogenesis	Biological process	0.00733
+RIT1	apoptotic process	Biological process	0.00738
+RIT1	protein kinase B signaling	Biological process	0.0079
+RIT1	cell cycle	Biological process	0.00804
+RIT1	growth	Biological process	0.00885
+RIT1	DNA duplex unwinding	Biological process	0.00954
+RIT1	ethylene biosynthetic process	Biological process	0.0111
+RIT1	cell growth	Biological process	0.0112
+RIT1	cellular senescence	Biological process	0.0117
+RIT1	cell proliferation	Biological process	0.0121
+RIT1	meiotic prophase I	Biological process	0.0121
+RIT1	mRNA processing	Biological process	0.0124
+RIT1	embryo development	Biological process	0.0132
+RIT1	limb development	Biological process	0.0134
+RIT1	cell cycle checkpoint	Biological process	0.0137
+RIT1	phosphorylation	Biological process	0.0149
+RIT1	eye development	Biological process	0.0149
+RIT1	G2 phase	Biological process	0.0162
+RIT1	phosphatidylinositol 3-kinase signaling	Biological process	0.0163
+RIT1	DNA repair	Biological process	0.0177
+RIT1	MAPK cascade	Biological process	0.0182
+RIT1	conjugation	Biological process	0.0187
+RIT1	protein import	Biological process	0.0211
+RIT1	cell differentiation	Biological process	0.0215
+RIT1	cell cycle arrest	Biological process	0.0236
+RIT1	regulation of cell cycle	Biological process	0.0242
+RIT1	pachytene	Biological process	0.0253
+RIT1	neurogenesis	Biological process	0.0256
+RIT1	axon guidance	Biological process	0.03
+RIT1	gene expression	Biological process	0.0308
+RIT1	nuclear import	Biological process	0.0312
+RIT1	epithelial to mesenchymal transition	Biological process	0.0319
+RIT1	signaling	Biological process	0.035
+RIT1	transduction	Biological process	0.0364
+RIT1	prophase	Biological process	0.0394
+RIT1	chromosome breakage	Biological process	0.0424
+RIT1	biosynthetic process	Biological process	0.0471
+RIT1	anaphase	Biological process	0.0516
+RIT1	cellular process	Biological process	0.0534
+RIT1	aging	Biological process	0.0538
+RIT1	temperature homeostasis	Biological process	0.0549
+RIT1	calcium-mediated signaling	Biological process	0.0575
+RIT1	cell killing	Biological process	0.0713
+RIT1	mating	Biological process	0.0724
+RIT1	cellular metabolic process	Biological process	0.0732
+RIT1	symbiosis, encompassing mutualism through parasitism	Biological process	0.0749
+RIT1	DNA replication	Biological process	0.0751
+RIT1	cellular response to DNA damage stimulus	Biological process	0.0757
+RIT1	sporulation	Biological process	0.0758
+RIT1	pathogenesis	Biological process	0.0768
+RIT1	innate immune response	Biological process	0.0786
+RIT1	nitrogen fixation	Biological process	0.0787
+RIT1	sensory perception of pain	Biological process	0.0809
+RIT1	chromosome segregation	Biological process	0.0823
+RIT1	S phase	Biological process	0.0834
+RIT1	cytokinesis	Biological process	0.0862
+RIT1	aggressive behavior	Biological process	0.0872
+RIT1	cell motility	Biological process	0.115
+RIT1	RNA biosynthetic process	Biological process	0.118
+RIT1	cell division	Biological process	0.121
+RIT1	biofilm formation	Biological process	0.168
+RIT1	RNA splicing	Biological process	0.184
+RIT1	regeneration	Biological process	0.243
+RIT1	meiotic nuclear division	Biological process	0.311
+RIT1	detoxification	Biological process	0.348
+RIT1	spermatogenesis	Biological process	0.359
+RIT1	reverse transcription	Biological process	0.384
+RIT1	anatomical structure morphogenesis	Biological process	0.397
+RIT1	cell death	Biological process	0.428
+RIT1	methylation	Biological process	0.466
+RIT1	translation	Biological process	0.478
+RIT1	cell migration	Biological process	0.669
+RIT1	cell communication	Biological process	0.671
+RIT1	autophagy	Biological process	0.684
+RIT1	DNA biosynthetic process	Biological process	0.758
+RIT1	immune response	Biological process	0.818
+RIT1	sensitization	Biological process	0.956
+RIT1	death	Biological process	1.0
+RIT1	behavior	Biological process	1.0
+RIT1	parturition	Biological process	1.0
+RIT1	metabolic process	Biological process	1.0
+RIT1	fermentation	Biological process	1.0
+RIT1	cell adhesion	Biological process	1.0
+RIT1	synaptic transmission	Biological process	1.0
+RIT1	circadian rhythm	Biological process	1.0
+RIT1	fertilization	Biological process	1.0
+RIT1	secretion	Biological process	1.0
+RIT1	coagulation	Biological process	1.0
+RIT1	cognition	Biological process	1.0
+RIT1	excretion	Biological process	1.0
+RIT1	learning	Biological process	1.0
+RIT1	memory	Biological process	1.0
+RIT1	import into cell	Biological process	1.0
+RIT1	NEDD8 Protein	MeSH	4.28E-5
+RIT1	Radiation Leukemia Virus	MeSH	5.96E-5
+RIT1	Anaphase-Promoting Complex-Cyclosome	MeSH	6.5E-5
+RIT1	Koumiss	MeSH	6.96E-5
+RIT1	Ubiquitination	MeSH	8.11E-5
+RIT1	Elongin	MeSH	1.14E-4
+RIT1	Apc11 Subunit, Anaphase-Promoting Complex-Cyclosome	MeSH	1.86E-4
+RIT1	F-Box Motifs	MeSH	1.98E-4
+RIT1	Lactobacillus helveticus	MeSH	2.2E-4
+RIT1	Apc2 Subunit, Anaphase-Promoting Complex-Cyclosome	MeSH	2.39E-4
+RIT1	NF-KappaB Inhibitor alpha	MeSH	6.6E-4
+RIT1	BTB-POZ Domain	MeSH	7.21E-4
+RIT1	Facies	MeSH	7.92E-4
+RIT1	Germ-Line Mutation	MeSH	8.36E-4
+RIT1	Mutation	MeSH	0.00105
+RIT1	Mesomycetozoea	MeSH	0.00118
+RIT1	Rubulavirus	MeSH	0.00149
+RIT1	Mutation, Missense	MeSH	0.0015
+RIT1	Genes	MeSH	0.00173
+RIT1	Gammacoronavirus	MeSH	0.00176
+RIT1	Rhinosporidium	MeSH	0.00209
+RIT1	Kelch Repeat	MeSH	0.00225
+RIT1	MAP Kinase Signaling System	MeSH	0.00228
+RIT1	Parainfluenza Virus 5	MeSH	0.00273
+RIT1	Yeasts	MeSH	0.00292
+RIT1	Molecular Sequence Data	MeSH	0.00293
+RIT1	Parainfluenza Virus 2, Human	MeSH	0.00312
+RIT1	Minichromosome Maintenance Complex Component 2	MeSH	0.00317
+RIT1	Geminin	MeSH	0.00319
+RIT1	Pectus Carinatum	MeSH	0.00322
+RIT1	Poly ADP Ribosylation	MeSH	0.00331
+RIT1	Betulaceae	MeSH	0.00339
+RIT1	Ectopic Gene Expression	MeSH	0.00362
+RIT1	Etiolation	MeSH	0.00362
+RIT1	Sequence Homology, Amino Acid	MeSH	0.00391
+RIT1	Remifentanil	MeSH	0.00417
+RIT1	G2 Phase Cell Cycle Checkpoints	MeSH	0.00426
+RIT1	Minichromosome Maintenance Proteins	MeSH	0.00428
+RIT1	Amino Acid Motifs	MeSH	0.00431
+RIT1	Tombusvirus	MeSH	0.00433
+RIT1	F-Box-WD Repeat-Containing Protein 7	MeSH	0.00445
+RIT1	Amino Acid Sequence	MeSH	0.00447
+RIT1	Ectromelia virus	MeSH	0.00454
+RIT1	Whole Exome Sequencing	MeSH	0.00512
+RIT1	Neuronal Outgrowth	MeSH	0.00525
+RIT1	COP9 Signalosome Complex	MeSH	0.00535
+RIT1	Cowpox virus	MeSH	0.00536
+RIT1	Family	MeSH	0.00568
+RIT1	Phenotype	MeSH	0.0058
+RIT1	Role	MeSH	0.00585
+RIT1	Mice	MeSH	0.00602
+RIT1	Protein Stability	MeSH	0.00651
+RIT1	Genetic Heterogeneity	MeSH	0.0068
+RIT1	Cloning, Molecular	MeSH	0.00688
+RIT1	Transcriptional Activation	MeSH	0.00697
+RIT1	Stenosis, Pulmonary Artery	MeSH	0.00716
+RIT1	Arabidopsis	MeSH	0.00723
+RIT1	Saccharomyces cerevisiae	MeSH	0.00733
+RIT1	Genes, Plant	MeSH	0.00745
+RIT1	Provitamins	MeSH	0.00747
+RIT1	RING Finger Domains	MeSH	0.00749
+RIT1	Acidithiobacillus	MeSH	0.00767
+RIT1	WD40 Repeats	MeSH	0.00772
+RIT1	Pseudomonas syringae	MeSH	0.0079
+RIT1	Adenocarcinoma of Lung	MeSH	0.008
+RIT1	Down-Regulation	MeSH	0.00801
+RIT1	Mutation Rate	MeSH	0.00832
+RIT1	Social Control, Formal	MeSH	0.00839
+RIT1	DNA Damage	MeSH	0.00851
+RIT1	Base Sequence	MeSH	0.00879
+RIT1	Exome	MeSH	0.00894
+RIT1	Caenorhabditis elegans	MeSH	0.00915
+RIT1	Protein Structure, Tertiary	MeSH	0.00947
+RIT1	CRISPR-Associated Protein 9	MeSH	0.00971
+RIT1	Gene Expression Regulation, Leukemic	MeSH	0.0104
+RIT1	Genes, vpr	MeSH	0.0105
+RIT1	Gene Amplification	MeSH	0.0106
+RIT1	Gene Expression Regulation, Neoplastic	MeSH	0.0109
+RIT1	Genes, Neurofibromatosis 1	MeSH	0.0115
+RIT1	Substrate Specificity	MeSH	0.0116
+RIT1	Sporangia	MeSH	0.0118
+RIT1	Kelch-Like ECH-Associated Protein 1	MeSH	0.0118
+RIT1	Myxococcus	MeSH	0.0119
+RIT1	Aurora Kinase A	MeSH	0.0119
+RIT1	Exons	MeSH	0.012
+RIT1	Cultured Milk Products	MeSH	0.012
+RIT1	Zebrafish	MeSH	0.0121
+RIT1	Oryza	MeSH	0.0122
+RIT1	Leukemia Virus, Murine	MeSH	0.0123
+RIT1	Gene Expression Regulation, Plant	MeSH	0.0126
+RIT1	Paramyxoviridae	MeSH	0.0131
+RIT1	Bottle-Nosed Dolphin	MeSH	0.0131
+RIT1	Embryonic Development	MeSH	0.0133
+RIT1	Poly-ADP-Ribose Binding Proteins	MeSH	0.0133
+RIT1	5' Flanking Region	MeSH	0.0136
+RIT1	Photobacterium	MeSH	0.0139
+RIT1	Streptococcus thermophilus	MeSH	0.0142
+RIT1	Ku Autoantigen	MeSH	0.0142
+RIT1	Peptide Chain Elongation, Translational	MeSH	0.0147
+RIT1	Mastocytoma	MeSH	0.0147
+RIT1	Coronaviridae	MeSH	0.015
+RIT1	Metabolic Equivalent	MeSH	0.015
+RIT1	Cell Survival	MeSH	0.0153
+RIT1	Active Transport, Cell Nucleus	MeSH	0.0158
+RIT1	Esophageal Squamous Cell Carcinoma	MeSH	0.0159
+RIT1	Mechanistic Target of Rapamycin Complex 2	MeSH	0.0159
+RIT1	Stress, Physiological	MeSH	0.016
+RIT1	Infectious bronchitis virus	MeSH	0.016
+RIT1	Ankyrin Repeat	MeSH	0.0161
+RIT1	Abies	MeSH	0.0161
+RIT1	Mice, Congenic	MeSH	0.0162
+RIT1	Caulimovirus	MeSH	0.0164
+RIT1	Plants	MeSH	0.0165
+RIT1	Genetic Loci	MeSH	0.0168
+RIT1	Phylogeny	MeSH	0.017
+RIT1	Ultraviolet Rays	MeSH	0.017
+RIT1	Saccharomycetales	MeSH	0.0171
+RIT1	Armadillos	MeSH	0.0171
+RIT1	Lymphocytes, Null	MeSH	0.0171
+RIT1	Rhizosphere	MeSH	0.0173
+RIT1	Lactobacillus	MeSH	0.0174
+RIT1	T-Lymphocytes, Cytotoxic	MeSH	0.0175
+RIT1	Multigene Family	MeSH	0.0176
+RIT1	Genetic Testing	MeSH	0.0177
+RIT1	Plant Epidermis	MeSH	0.0178
+RIT1	Monitoring, Intraoperative	MeSH	0.0179
+RIT1	Oncogenes	MeSH	0.0183
+RIT1	Probiotics	MeSH	0.0197
+RIT1	Hot Springs	MeSH	0.0197
+RIT1	Multiple Birth Offspring	MeSH	0.0201
+RIT1	Mumps virus	MeSH	0.0203
+RIT1	Bony Callus	MeSH	0.0205
+RIT1	Lymphopoiesis	MeSH	0.0206
+RIT1	Introns	MeSH	0.0207
+RIT1	Enzyme Stability	MeSH	0.0209
+RIT1	Genes, Essential	MeSH	0.021
+RIT1	Myeloid Cell Leukemia Sequence 1 Protein	MeSH	0.021
+RIT1	Aptitude	MeSH	0.0213
+RIT1	Genome	MeSH	0.0215
+RIT1	Databases, Nucleic Acid	MeSH	0.0215
+RIT1	Poly (ADP-Ribose) Polymerase-1	MeSH	0.0215
+RIT1	Spodoptera	MeSH	0.0216
+RIT1	Sinorhizobium meliloti	MeSH	0.0225
+RIT1	Cell Self Renewal	MeSH	0.0225
+RIT1	Sequence Analysis, DNA	MeSH	0.0226
+RIT1	Cloning, Organism	MeSH	0.0227
+RIT1	Histidine Kinase	MeSH	0.0227
+RIT1	Survival	MeSH	0.0233
+RIT1	Databases, Genetic	MeSH	0.0234
+RIT1	Enzyme Activation	MeSH	0.0236
+RIT1	Copper Sulfate	MeSH	0.0238
+RIT1	RNA Splicing Factors	MeSH	0.0241
+RIT1	Poxviridae	MeSH	0.0242
+RIT1	M Phase Cell Cycle Checkpoints	MeSH	0.0258
+RIT1	Gene Expression Regulation	MeSH	0.0262
+RIT1	Expressed Sequence Tags	MeSH	0.0263
+RIT1	Plant Immunity	MeSH	0.0263
+RIT1	Genes, cdc	MeSH	0.0266
+RIT1	Gamma Rays	MeSH	0.0272
+RIT1	Sf9 Cells	MeSH	0.0279
+RIT1	Plant Roots	MeSH	0.0281
+RIT1	Pseudomonas	MeSH	0.0282
+RIT1	Rana esculenta	MeSH	0.0282
+RIT1	Nova Scotia	MeSH	0.0282
+RIT1	Cell Transformation, Viral	MeSH	0.0296
+RIT1	Physiological Phenomena	MeSH	0.0297
+RIT1	Operon	MeSH	0.0304
+RIT1	Peptide Chain Initiation, Translational	MeSH	0.0309
+RIT1	Endocrinologists	MeSH	0.0309
+RIT1	Mice, Hairless	MeSH	0.0312
+RIT1	Type III Secretion Systems	MeSH	0.0314
+RIT1	Binding Sites	MeSH	0.0318
+RIT1	Lenalidomide	MeSH	0.0333
+RIT1	Mongolia	MeSH	0.0342
+RIT1	ADP-Ribosylation	MeSH	0.0349
+RIT1	Genes, Tumor Suppressor	MeSH	0.035
+RIT1	Identification (Psychology)	MeSH	0.0352
+RIT1	Alleles	MeSH	0.0357
+RIT1	Axon Guidance	MeSH	0.0358
+RIT1	Fragaria	MeSH	0.0359
+RIT1	Zinc Fingers	MeSH	0.0363
+RIT1	Cell Cycle Checkpoints	MeSH	0.0366
+RIT1	Conserved Sequence	MeSH	0.0371
+RIT1	Genes, Reporter	MeSH	0.0374
+RIT1	Animals	MeSH	0.0392
+RIT1	Lycopene	MeSH	0.0392
+RIT1	Pseudomonas fluorescens	MeSH	0.0395
+RIT1	Cercopithecus aethiops	MeSH	0.0396
+RIT1	Plasmids	MeSH	0.0399
+RIT1	Consciousness	MeSH	0.0407
+RIT1	Dolphins	MeSH	0.041
+RIT1	Anesthesia Recovery Period	MeSH	0.0411
+RIT1	Gene Dosage	MeSH	0.0418
+RIT1	Natural Language Processing	MeSH	0.042
+RIT1	Blotting, Western	MeSH	0.0424
+RIT1	Hypocotyl	MeSH	0.0426
+RIT1	Mice, Inbred DBA	MeSH	0.0429
+RIT1	Whales	MeSH	0.0431
+RIT1	Mutagenesis, Site-Directed	MeSH	0.0433
+RIT1	Wills	MeSH	0.0444
+RIT1	Mouse Embryonic Stem Cells	MeSH	0.0447
+RIT1	Mice, Knockout	MeSH	0.0449
+RIT1	In Situ Hybridization, Fluorescence	MeSH	0.0457
+RIT1	Hydrolysis	MeSH	0.046
+RIT1	Dimerization	MeSH	0.0463
+RIT1	Haploinsufficiency	MeSH	0.0464
+RIT1	Gene Expression Regulation, Developmental	MeSH	0.0469
+RIT1	Gene Expression Regulation, Bacterial	MeSH	0.047
+RIT1	Protein Domains	MeSH	0.047
+RIT1	Academic Performance	MeSH	0.047
+RIT1	RNA Viruses	MeSH	0.0471
+RIT1	Pemetrexed	MeSH	0.0473
+RIT1	Brassica napus	MeSH	0.0475
+RIT1	Biosynthetic Pathways	MeSH	0.0476
+RIT1	Consensus Sequence	MeSH	0.0479
+RIT1	Endosperm	MeSH	0.048
+RIT1	Chromosomes, Artificial, Bacterial	MeSH	0.0489
+RIT1	Epithelial-Mesenchymal Transition	MeSH	0.0491
+RIT1	Cold-Shock Response	MeSH	0.0491
+RIT1	Genome Size	MeSH	0.0494
+RIT1	Catalytic Domain	MeSH	0.0499
+RIT1	Mutagenesis, Insertional	MeSH	0.05
+RIT1	Inheritance Patterns	MeSH	0.0507
+RIT1	Mice, Transgenic	MeSH	0.0509
+RIT1	Live Birth	MeSH	0.0511
+RIT1	Fimbriae, Bacterial	MeSH	0.0514
+RIT1	Neuromuscular Blockade	MeSH	0.0517
+RIT1	Caspase Inhibitors	MeSH	0.0524
+RIT1	Inhibition (Psychology)	MeSH	0.0527
+RIT1	Laryngeal Masks	MeSH	0.0531
+RIT1	Transcription, Genetic	MeSH	0.0543
+RIT1	Dysbiosis	MeSH	0.0552
+RIT1	Lycopersicon esculentum	MeSH	0.0554
+RIT1	Clustered Regularly Interspaced Short Palindromic Repeats	MeSH	0.0557
+RIT1	Transcriptome	MeSH	0.0561
+RIT1	CRISPR-Cas Systems	MeSH	0.0578
+RIT1	Medicago	MeSH	0.0581
+RIT1	Diet, Sodium-Restricted	MeSH	0.0586
+RIT1	Pseudomonas putida	MeSH	0.0589
+RIT1	Database	MeSH	0.0594
+RIT1	Thylakoids	MeSH	0.0598
+RIT1	Licensure	MeSH	0.0615
+RIT1	Unfolded Protein Response	MeSH	0.063
+RIT1	Twins, Dizygotic	MeSH	0.0636
+RIT1	Functional Food	MeSH	0.0642
+RIT1	Ranidae	MeSH	0.0644
+RIT1	Sequence Homology	MeSH	0.0652
+RIT1	Nucleocapsid	MeSH	0.0658
+RIT1	Gene Editing	MeSH	0.0672
+RIT1	Sorafenib	MeSH	0.0672
+RIT1	Wortmannin	MeSH	0.0678
+RIT1	Protein Interaction Maps	MeSH	0.068
+RIT1	Computational Biology	MeSH	0.0685
+RIT1	Adult	MeSH	0.0694
+RIT1	Pseudogenes	MeSH	0.0695
+RIT1	Sick Leave	MeSH	0.0702
+RIT1	Conjugation, Genetic	MeSH	0.0704
+RIT1	Genes, Neoplasm	MeSH	0.0705
+RIT1	Nucleic Acid Conformation	MeSH	0.071
+RIT1	Electronic Supplementary Materials	MeSH	0.072
+RIT1	Whole Genome Sequencing	MeSH	0.0723
+RIT1	Survivin	MeSH	0.0733
+RIT1	Adenoviruses, Human	MeSH	0.074
+RIT1	Medicago sativa	MeSH	0.0744
+RIT1	Coronavirus	MeSH	0.0754
+RIT1	Promoter Regions, Genetic	MeSH	0.0757
+RIT1	Plant Shoots	MeSH	0.0768
+RIT1	Sevoflurane	MeSH	0.0773
+RIT1	Consensus	MeSH	0.0776
+RIT1	Point Mutation	MeSH	0.0777
+RIT1	Methods	MeSH	0.0782
+RIT1	RAW 264.7 Cells	MeSH	0.0788
+RIT1	Bacteria	MeSH	0.0789
+RIT1	Histone Code	MeSH	0.0792
+RIT1	Bronchoconstriction	MeSH	0.0797
+RIT1	DNA Breaks, Double-Stranded	MeSH	0.0804
+RIT1	RNA Processing, Post-Transcriptional	MeSH	0.0813
+RIT1	Cytotoxicity, Immunologic	MeSH	0.082
+RIT1	Karyotype	MeSH	0.0828
+RIT1	Genome, Viral	MeSH	0.0848
+RIT1	Loss of Heterozygosity	MeSH	0.0859
+RIT1	Aged	MeSH	0.0864
+RIT1	Sequence Deletion	MeSH	0.0864
+RIT1	Bacillus subtilis	MeSH	0.0871
+RIT1	Pulse Wave Analysis	MeSH	0.0872
+RIT1	Female	MeSH	0.0874
+RIT1	Protein Conformation	MeSH	0.0877
+RIT1	Gene Order	MeSH	0.0885
+RIT1	Middle Aged	MeSH	0.0888
+RIT1	Proteasome Inhibitors	MeSH	0.0891
+RIT1	Olive Oil	MeSH	0.0901
+RIT1	Education, Special	MeSH	0.0916
+RIT1	Virulence	MeSH	0.0936
+RIT1	Frameshift Mutation	MeSH	0.0946
+RIT1	Nociception	MeSH	0.0946
+RIT1	Gastrointestinal Microbiome	MeSH	0.096
+RIT1	Vertebrates	MeSH	0.0995
+RIT1	Penetrance	MeSH	0.102
+RIT1	Meristem	MeSH	0.103
+RIT1	Mice, Nude	MeSH	0.104
+RIT1	Comparative Genomic Hybridization	MeSH	0.104
+RIT1	ROC Curve	MeSH	0.105
+RIT1	Vascular Stiffness	MeSH	0.105
+RIT1	Child, Orphaned	MeSH	0.106
+RIT1	Protein Interaction Domains and Motifs	MeSH	0.108
+RIT1	Anesthesia, Intravenous	MeSH	0.108
+RIT1	Baculoviridae	MeSH	0.109
+RIT1	Cells, Cultured	MeSH	0.111
+RIT1	Cytoprotection	MeSH	0.111
+RIT1	Endoplasmic Reticulum Stress	MeSH	0.111
+RIT1	Research Report	MeSH	0.113
+RIT1	Restraint, Physical	MeSH	0.113
+RIT1	Arachis	MeSH	0.116
+RIT1	Biocatalysis	MeSH	0.118
+RIT1	Sequence Homology, Nucleic Acid	MeSH	0.12
+RIT1	Physical Conditioning, Animal	MeSH	0.12
+RIT1	Eosinophils	MeSH	0.122
+RIT1	Biodegradation, Environmental	MeSH	0.123
+RIT1	Gene Library	MeSH	0.123
+RIT1	Cytotoxicity Tests, Immunologic	MeSH	0.124
+RIT1	Mosaicism	MeSH	0.126
+RIT1	Male	MeSH	0.127
+RIT1	Protein Structure, Quaternary	MeSH	0.127
+RIT1	Drosophila	MeSH	0.128
+RIT1	Simian virus 40	MeSH	0.128
+RIT1	Adenoviridae	MeSH	0.129
+RIT1	Mice, Inbred C57BL	MeSH	0.131
+RIT1	Impulsive Behavior	MeSH	0.131
+RIT1	Mice, Inbred NOD	MeSH	0.131
+RIT1	Colorado	MeSH	0.133
+RIT1	Up-Regulation	MeSH	0.135
+RIT1	Intraoperative Period	MeSH	0.135
+RIT1	Metabolic Networks and Pathways	MeSH	0.136
+RIT1	Illinois	MeSH	0.136
+RIT1	Surgery, Oral	MeSH	0.139
+RIT1	Drosophila melanogaster	MeSH	0.14
+RIT1	T-Lymphocytes	MeSH	0.141
+RIT1	Bacteroides	MeSH	0.141
+RIT1	Wnt Signaling Pathway	MeSH	0.141
+RIT1	Asia, Southeastern	MeSH	0.142
+RIT1	Plant Development	MeSH	0.142
+RIT1	Karyotyping	MeSH	0.145
+RIT1	Gene Deletion	MeSH	0.145
+RIT1	Solar System	MeSH	0.149
+RIT1	Intestine, Large	MeSH	0.151
+RIT1	Muscle Relaxation	MeSH	0.152
+RIT1	Genes, Homeobox	MeSH	0.157
+RIT1	Risk Factors	MeSH	0.158
+RIT1	Epidermal Cells	MeSH	0.158
+RIT1	Eukaryota	MeSH	0.159
+RIT1	Fracture Healing	MeSH	0.16
+RIT1	Child, Preschool	MeSH	0.163
+RIT1	Photoperiod	MeSH	0.163
+RIT1	Magnoliopsida	MeSH	0.165
+RIT1	Women	MeSH	0.169
+RIT1	Transfer (Psychology)	MeSH	0.171
+RIT1	RNA Stability	MeSH	0.173
+RIT1	Treatment Outcome	MeSH	0.174
+RIT1	Transduction, Genetic	MeSH	0.176
+RIT1	Dentate Gyrus	MeSH	0.176
+RIT1	Brassica	MeSH	0.177
+RIT1	Heterozygote	MeSH	0.178
+RIT1	Gene Rearrangement	MeSH	0.179
+RIT1	Singapore	MeSH	0.179
+RIT1	Mammals	MeSH	0.18
+RIT1	Sleep, REM	MeSH	0.18
+RIT1	Proto-Oncogenes	MeSH	0.184
+RIT1	Polymerization	MeSH	0.186
+RIT1	Droughts	MeSH	0.188
+RIT1	Food Chain	MeSH	0.19
+RIT1	Databases, Protein	MeSH	0.193
+RIT1	Models, Biological	MeSH	0.2
+RIT1	Cell Hypoxia	MeSH	0.2
+RIT1	Anesthesia, General	MeSH	0.202
+RIT1	Heterografts	MeSH	0.202
+RIT1	Thymocytes	MeSH	0.202
+RIT1	Sensitivity and Specificity	MeSH	0.204
+RIT1	Nerve Growth Factor	MeSH	0.206
+RIT1	Trees	MeSH	0.209
+RIT1	Open Reading Frames	MeSH	0.209
+RIT1	Salinity	MeSH	0.209
+RIT1	Plant Leaves	MeSH	0.212
+RIT1	Protein Processing, Post-Translational	MeSH	0.213
+RIT1	Trophoblasts	MeSH	0.214
+RIT1	Bacterial Adhesion	MeSH	0.216
+RIT1	Response Elements	MeSH	0.216
+RIT1	Sequence Analysis, Protein	MeSH	0.216
+RIT1	Malaysia	MeSH	0.216
+RIT1	Carbohydrate Sequence	MeSH	0.217
+RIT1	Proteomics	MeSH	0.22
+RIT1	Atlas	MeSH	0.224
+RIT1	Homeostasis	MeSH	0.226
+RIT1	Neuroprotection	MeSH	0.229
+RIT1	Attention	MeSH	0.23
+RIT1	Survival Rate	MeSH	0.235
+RIT1	Diagnosis, Computer-Assisted	MeSH	0.239
+RIT1	Health	MeSH	0.242
+RIT1	Greece	MeSH	0.243
+RIT1	Mice, Inbred CBA	MeSH	0.243
+RIT1	Mice, Mutant Strains	MeSH	0.243
+RIT1	Therapeutics	MeSH	0.246
+RIT1	Workflow	MeSH	0.246
+RIT1	Oxidative Stress	MeSH	0.247
+RIT1	United States	MeSH	0.247
+RIT1	Periodical	MeSH	0.247
+RIT1	Darkness	MeSH	0.249
+RIT1	Genes, Fungal	MeSH	0.25
+RIT1	Wakefulness	MeSH	0.251
+RIT1	Culture	MeSH	0.255
+RIT1	T-Lymphocytes, Helper-Inducer	MeSH	0.255
+RIT1	Time Factors	MeSH	0.257
+RIT1	Organization and Administration	MeSH	0.257
+RIT1	Evolution, Molecular	MeSH	0.258
+RIT1	Pregnancy	MeSH	0.259
+RIT1	Receptor, ErbB-2	MeSH	0.259
+RIT1	Genome, Bacterial	MeSH	0.26
+RIT1	Symbiosis	MeSH	0.261
+RIT1	Isomerism	MeSH	0.262
+RIT1	Scoliosis	MeSH	0.262
+RIT1	Population Groups	MeSH	0.264
+RIT1	Kaplan-Meier Estimate	MeSH	0.267
+RIT1	Acclimatization	MeSH	0.27
+RIT1	Solanum tuberosum	MeSH	0.27
+RIT1	Immunity, Innate	MeSH	0.272
+RIT1	Cell Movement	MeSH	0.273
+RIT1	Regulatory Sequences, Nucleic Acid	MeSH	0.277
+RIT1	Genes, Regulator	MeSH	0.279
+RIT1	Weights and Measures	MeSH	0.28
+RIT1	Awareness	MeSH	0.289
+RIT1	Ribs	MeSH	0.29
+RIT1	Sequence Analysis, RNA	MeSH	0.294
+RIT1	Ventilators, Mechanical	MeSH	0.294
+RIT1	Mice, SCID	MeSH	0.296
+RIT1	Longevity	MeSH	0.297
+RIT1	Animals, Genetically Modified	MeSH	0.299
+RIT1	Protein Biosynthesis	MeSH	0.3
+RIT1	Artificial Intelligence	MeSH	0.3
+RIT1	Maps	MeSH	0.301
+RIT1	European Continental Ancestry Group	MeSH	0.305
+RIT1	Models, Genetic	MeSH	0.305
+RIT1	Siblings	MeSH	0.31
+RIT1	Microscopy, Confocal	MeSH	0.312
+RIT1	Body Temperature Regulation	MeSH	0.319
+RIT1	Pregnancy Trimester, First	MeSH	0.326
+RIT1	General Surgery	MeSH	0.33
+RIT1	Foundations	MeSH	0.332
+RIT1	MCF-7 Cells	MeSH	0.336
+RIT1	Review	MeSH	0.34
+RIT1	Libraries	MeSH	0.34
+RIT1	Growth and Development	MeSH	0.353
+RIT1	Pedigree	MeSH	0.361
+RIT1	Risk	MeSH	0.362
+RIT1	Stereoisomerism	MeSH	0.364
+RIT1	Entropy	MeSH	0.364
+RIT1	Programs	MeSH	0.365
+RIT1	Research Personnel	MeSH	0.367
+RIT1	Birds	MeSH	0.375
+RIT1	Paper	MeSH	0.375
+RIT1	Half-Life	MeSH	0.379
+RIT1	Hospitals	MeSH	0.381
+RIT1	Puberty	MeSH	0.382
+RIT1	Molecular Weight	MeSH	0.385
+RIT1	Kinetics	MeSH	0.388
+RIT1	Drive	MeSH	0.389
+RIT1	Classification	MeSH	0.397
+RIT1	Men	MeSH	0.4
+RIT1	Recombination, Genetic	MeSH	0.41
+RIT1	Invertebrates	MeSH	0.411
+RIT1	Host-Pathogen Interactions	MeSH	0.412
+RIT1	Mice, Inbred C3H	MeSH	0.425
+RIT1	Crystallography, X-Ray	MeSH	0.426
+RIT1	Fluorescent Antibody Technique, Indirect	MeSH	0.456
+RIT1	Salmonella typhimurium	MeSH	0.456
+RIT1	Seedlings	MeSH	0.466
+RIT1	Escherichia coli	MeSH	0.47
+RIT1	Architecture	MeSH	0.472
+RIT1	Anxiety	MeSH	0.48
+RIT1	Microscopy, Fluorescence	MeSH	0.48
+RIT1	Acetylation	MeSH	0.48
+RIT1	Flowers	MeSH	0.502
+RIT1	Laboratories	MeSH	0.511
+RIT1	Tissues	MeSH	0.516
+RIT1	Genetics	MeSH	0.517
+RIT1	Adolescent	MeSH	0.518
+RIT1	Plant Diseases	MeSH	0.529
+RIT1	Plants, Genetically Modified	MeSH	0.53
+RIT1	Immunity	MeSH	0.535
+RIT1	Leukocytes, Mononuclear	MeSH	0.548
+RIT1	Play and Playthings	MeSH	0.566
+RIT1	Efficiency	MeSH	0.572
+RIT1	Time	MeSH	0.573
+RIT1	Intubation, Intratracheal	MeSH	0.589
+RIT1	Association	MeSH	0.59
+RIT1	Lip	MeSH	0.608
+RIT1	Homozygote	MeSH	0.611
+RIT1	Genome, Human	MeSH	0.618
+RIT1	Lymphocytes	MeSH	0.628
+RIT1	Selection, Genetic	MeSH	0.629
+RIT1	Species Specificity	MeSH	0.63
+RIT1	Biotransformation	MeSH	0.634
+RIT1	CHO Cells	MeSH	0.655
+RIT1	Bioreactors	MeSH	0.681
+RIT1	Blood Pressure	MeSH	0.687
+RIT1	Nature	MeSH	0.69
+RIT1	Environment	MeSH	0.692
+RIT1	Cricetulus	MeSH	0.693
+RIT1	Transgenes	MeSH	0.693
+RIT1	Mast Cells	MeSH	0.707
+RIT1	Gram-Negative Bacteria	MeSH	0.708
+RIT1	Skin Tests	MeSH	0.711
+RIT1	Form	MeSH	0.726
+RIT1	Gene Expression Regulation, Enzymologic	MeSH	0.726
+RIT1	Biodiversity	MeSH	0.757
+RIT1	Education	MeSH	0.761
+RIT1	Twins	MeSH	0.763
+RIT1	Collection	MeSH	0.787
+RIT1	Salmonella	MeSH	0.811
+RIT1	Repression, Psychology	MeSH	0.811
+RIT1	Biotechnology	MeSH	0.815
+RIT1	Economics	MeSH	0.819
+RIT1	Drug Resistance, Neoplasm	MeSH	0.835
+RIT1	Catalysis	MeSH	0.842
+RIT1	Biofilms	MeSH	0.847
+RIT1	Intelligence	MeSH	0.857
+RIT1	Prognosis	MeSH	0.863
+RIT1	Fasting	MeSH	0.87
+RIT1	Injections	MeSH	0.896
+RIT1	Aorta, Thoracic	MeSH	0.937
+RIT1	Elasticity	MeSH	0.948
+RIT1	Drinking Water	MeSH	0.956
+RIT1	Transplants	MeSH	0.965
+RIT1	Aged, 80 and over	MeSH	0.983
+RIT1	Humans	MeSH	1.0
+RIT1	Patients	MeSH	1.0
+RIT1	Child	MeSH	1.0
+RIT1	Diagnosis	MeSH	1.0
+RIT1	Rats	MeSH	1.0
+RIT1	Population	MeSH	1.0
+RIT1	Infant	MeSH	1.0
+RIT1	Temperature	MeSH	1.0
+RIT1	Work	MeSH	1.0
+RIT1	Membranes	MeSH	1.0
+RIT1	Metabolism	MeSH	1.0
+RIT1	Regression (Psychology)	MeSH	1.0
+RIT1	Index	MeSH	1.0
+RIT1	Young Adult	MeSH	1.0
+RIT1	Literature	MeSH	1.0
+RIT1	Incidence	MeSH	1.0
+RIT1	Prevalence	MeSH	1.0
+RIT1	Muscles	MeSH	1.0
+RIT1	Mortality	MeSH	1.0
+RIT1	Knowledge	MeSH	1.0
+RIT1	Life	MeSH	1.0
+RIT1	Set (Psychology)	MeSH	1.0
+RIT1	Viruses	MeSH	1.0
+RIT1	Comprehension	MeSH	1.0
+RIT1	Fluorescence	MeSH	1.0
+RIT1	Genotype	MeSH	1.0
+RIT1	Infant, Newborn	MeSH	1.0
+RIT1	Morbidity	MeSH	1.0
+RIT1	Regression Analysis	MeSH	1.0
+RIT1	Reproducibility of Results	MeSH	1.0
+RIT1	Rats, Sprague-Dawley	MeSH	1.0
+RIT1	Light	MeSH	1.0
+RIT1	Radiation	MeSH	1.0
+RIT1	Retention (Psychology)	MeSH	1.0
+RIT1	Genetic Predisposition to Disease	MeSH	1.0
+RIT1	Algorithms	MeSH	1.0
+RIT1	Biology	MeSH	1.0
+RIT1	Costs and Cost Analysis	MeSH	1.0
+RIT1	Food	MeSH	1.0
+RIT1	Hot Temperature	MeSH	1.0
+RIT1	Models, Molecular	MeSH	1.0
+RIT1	Neoplasm Staging	MeSH	1.0
+RIT1	Predictive Value of Tests	MeSH	1.0
+RIT1	Science	MeSH	1.0
+RIT1	Software	MeSH	1.0
+RIT1	Structure-Activity Relationship	MeSH	1.0
+RIT1	Technology	MeSH	1.0
+RIT1	Tissue Donors	MeSH	1.0
+RIT1	Universities	MeSH	1.0
+RIT1	Cohort Studies	MeSH	1.0
+RIT1	Molecular Structure	MeSH	1.0
+RIT1	Observation	MeSH	1.0
+RIT1	Models, Animal	MeSH	1.0
+RIT1	Control Groups	MeSH	1.0
+RIT1	Central Nervous System	MeSH	1.0
+RIT1	Cell Membrane	MeSH	1.0
+RIT1	Depression	MeSH	1.0
+RIT1	Hippocampus	MeSH	1.0
+RIT1	Macrophages	MeSH	1.0
+RIT1	Muscle, Skeletal	MeSH	1.0
+RIT1	In Vitro Techniques	MeSH	1.0
+RIT1	Respect	MeSH	1.0
+RIT1	Anatomy	MeSH	1.0
+RIT1	Antibody Formation	MeSH	1.0
+RIT1	Behavior, Animal	MeSH	1.0
+RIT1	Biological Phenomena	MeSH	1.0
+RIT1	Cell Biology	MeSH	1.0
+RIT1	Diptera	MeSH	1.0
+RIT1	Drinking	MeSH	1.0
+RIT1	Drug Resistance	MeSH	1.0
+RIT1	Drug Resistance, Microbial	MeSH	1.0
+RIT1	Energy Metabolism	MeSH	1.0
+RIT1	Fertility	MeSH	1.0
+RIT1	Goals	MeSH	1.0
+RIT1	Hydrogen-Ion Concentration	MeSH	1.0
+RIT1	Morphogenesis	MeSH	1.0
+RIT1	Motivation	MeSH	1.0
+RIT1	Mycobacterium tuberculosis	MeSH	1.0
+RIT1	Oxidation-Reduction	MeSH	1.0
+RIT1	Perception	MeSH	1.0
+RIT1	Power (Psychology)	MeSH	1.0
+RIT1	Pseudomonas aeruginosa	MeSH	1.0
+RIT1	Surface Properties	MeSH	1.0
+RIT1	Tobacco	MeSH	1.0
+RIT1	Virus Replication	MeSH	1.0
+RIT1	Meta-Analysis	MeSH	1.0
+RIT1	Inhibitory Concentration 50	MeSH	1.0
+RIT1	Genomics	MeSH	1.0
+RIT1	Microscopy, Electron, Transmission	MeSH	1.0
+RIT1	Adaptation, Physiological	MeSH	1.0
+RIT1	Administration, Oral	MeSH	1.0
+RIT1	Africa	MeSH	1.0
+RIT1	Analysis of Variance	MeSH	1.0
+RIT1	Anesthesia	MeSH	1.0
+RIT1	Attitude	MeSH	1.0
+RIT1	Binding, Competitive	MeSH	1.0
+RIT1	Biomechanical Phenomena	MeSH	1.0
+RIT1	Brazil	MeSH	1.0
+RIT1	Calibration	MeSH	1.0
+RIT1	Canada	MeSH	1.0
+RIT1	Chickens	MeSH	1.0
+RIT1	China	MeSH	1.0
+RIT1	Clinical Trials as Topic	MeSH	1.0
+RIT1	Cold Temperature	MeSH	1.0
+RIT1	Communication	MeSH	1.0
+RIT1	Computer Simulation	MeSH	1.0
+RIT1	Discrimination (Psychology)	MeSH	1.0
+RIT1	Divorce	MeSH	1.0
+RIT1	Drug Evaluation, Preclinical	MeSH	1.0
+RIT1	Eating	MeSH	1.0
+RIT1	Engineering	MeSH	1.0
+RIT1	Europe	MeSH	1.0
+RIT1	Feedback	MeSH	1.0
+RIT1	Forecasting	MeSH	1.0
+RIT1	France	MeSH	1.0
+RIT1	Genes, Bacterial	MeSH	1.0
+RIT1	Germany	MeSH	1.0
+RIT1	Cricetinae	MeSH	1.0
+RIT1	Homicide	MeSH	1.0
+RIT1	Industry	MeSH	1.0
+RIT1	Injections, Intraperitoneal	MeSH	1.0
+RIT1	Insecta	MeSH	1.0
+RIT1	Leukocyte Count	MeSH	1.0
+RIT1	Maintenance	MeSH	1.0
+RIT1	Mice, Inbred BALB C	MeSH	1.0
+RIT1	Models, Theoretical	MeSH	1.0
+RIT1	Molecular Biology	MeSH	1.0
+RIT1	Needles	MeSH	1.0
+RIT1	Netherlands	MeSH	1.0
+RIT1	Norway	MeSH	1.0
+RIT1	Organ Specificity	MeSH	1.0
+RIT1	Organ Size	MeSH	1.0
+RIT1	Organizations	MeSH	1.0
+RIT1	Orientation	MeSH	1.0
+RIT1	Pathology	MeSH	1.0
+RIT1	Pediatrics	MeSH	1.0
+RIT1	Physical Examination	MeSH	1.0
+RIT1	Physiology	MeSH	1.0
+RIT1	Probability	MeSH	1.0
+RIT1	Quality of Life	MeSH	1.0
+RIT1	Radiography	MeSH	1.0
+RIT1	Registries	MeSH	1.0
+RIT1	Schools	MeSH	1.0
+RIT1	Sex Factors	MeSH	1.0
+RIT1	Social Adjustment	MeSH	1.0
+RIT1	South Africa	MeSH	1.0
+RIT1	Speech	MeSH	1.0
+RIT1	Streptococcus	MeSH	1.0
+RIT1	Swine	MeSH	1.0
+RIT1	Thermodynamics	MeSH	1.0
+RIT1	Tissue Distribution	MeSH	1.0
+RIT1	Genetic Variation	MeSH	1.0
+RIT1	Blotting, Northern	MeSH	1.0
+RIT1	Exercise	MeSH	1.0
+RIT1	Body Mass Index	MeSH	1.0
+RIT1	Multivariate Analysis	MeSH	1.0
+RIT1	Cluster Analysis	MeSH	1.0
+RIT1	Chi-Square Distribution	MeSH	1.0
+RIT1	Linear Models	MeSH	1.0
+RIT1	Rats, Wistar	MeSH	1.0
+RIT1	Disease-Free Survival	MeSH	1.0
+RIT1	Pliability	MeSH	1.0
+RIT1	PubMed	MeSH	1.0
+RIT1	Bacillus	MeSH	1.0
+RIT1	Birth Weight	MeSH	1.0
+RIT1	Body Weight	MeSH	1.0
+RIT1	Gastrointestinal Tract	MeSH	1.0
+RIT1	Hydrophobic and Hydrophilic Interactions	MeSH	1.0
+RIT1	Extremities	MeSH	1.0
+RIT1	Intestine, Small	MeSH	1.0
+RIT1	Life Style	MeSH	1.0
+RIT1	Muscle, Smooth	MeSH	1.0
+RIT1	Stress, Psychological	MeSH	1.0
+RIT1	Thorax	MeSH	1.0
+RIT1	Microbiota	MeSH	1.0
+RIT1	Ammonium Compounds	MeSH	1.0
+RIT1	Dataset	MeSH	1.0
+RIT1	Pilots	MeSH	1.0
+RIT1	Sugars	MeSH	1.0
+RIT1	Data Analysis	MeSH	1.0

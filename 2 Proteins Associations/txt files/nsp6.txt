@@ -1,0 +1,147 @@
+Selection	Association Name	Association Type	Significance
+NSP6 protein, rotavirus group A	Reverse genetics	Procedure	7.17E-4
+NSP6 protein, rotavirus group A	Glutathione S-transferase measurement	Procedure	0.00351
+NSP6 protein, rotavirus group A	Total protein measurement	Procedure	0.0132
+NSP6 protein, rotavirus group A	Sequence analysis	Procedure	0.014
+NSP6 protein, rotavirus group A	Sequence alignment	Procedure	0.0213
+NSP6 protein, rotavirus group A	Cell culture techniques	Procedure	0.0297
+NSP6 protein, rotavirus group A	Observation in research	Procedure	0.0638
+NSP6 protein, rotavirus group A	Observation diagnostic procedure	Procedure	0.0648
+NSP6 protein, rotavirus group A	Determination aspects	Procedure	0.102
+NSP6 protein, rotavirus group A	Length of trial	Procedure	0.124
+NSP6 protein, rotavirus group A	Scientific study	Procedure	1.0
+NSP6 protein, rotavirus group A	Analysis	Procedure	1.0
+NSP6 protein, rotavirus group A	Clinical research	Procedure	1.0
+NSP6 protein, rotavirus group A	Clinical trials	Procedure	1.0
+NSP6 protein, rotavirus group A	Study	Procedure	1.0
+NSP6 protein, rotavirus group A	DICOM study	Procedure	1.0
+NSP6 protein, rotavirus group A	nucleic acid binding	Molecular function	2.77E-4
+NSP6 protein, rotavirus group A	protein binding	Molecular function	0.068
+NSP6 protein, rotavirus group A	Severe diarrhea	Symptom	3.81E-4
+NSP6 protein, rotavirus group A	Diarrhea	Symptom	0.0229
+NSP6 protein, rotavirus group A	Rotavirus Infections	Disease	4.18E-4
+NSP6 protein, rotavirus group A	Gastroenteritis	Disease	0.0049
+NSP6 protein, rotavirus group A	Dental Plaque	Disease	0.017
+NSP6 protein, rotavirus group A	Senile Plaques	Disease	0.0242
+NSP6 protein, rotavirus group A	Virus Diseases	Disease	0.0328
+NSP6 protein, rotavirus group A	Sprains and Strains	Disease	0.0376
+NSP6 protein, rotavirus group A	Infection	Disease	0.351
+NSP6 protein, rotavirus group A	NSP5 protein, rotavirus group A	Chemical	1.14E-6
+NSP6 protein, rotavirus group A	nsP3 protein, virus	Chemical	1.01E-5
+NSP6 protein, rotavirus group A	NSP1 protein, Rotavirus	Chemical	1.69E-5
+NSP6 protein, rotavirus group A	nsP2 proteinase	Chemical	1.79E-5
+NSP6 protein, rotavirus group A	Viral Nonstructural Proteins	Chemical	6.24E-5
+NSP6 protein, rotavirus group A	Rotavirus Vaccines	Chemical	5.32E-4
+NSP6 protein, rotavirus group A	Phosphoprotein	Chemical	0.00212
+NSP6 protein, rotavirus group A	Double-Stranded RNA	Chemical	0.00243
+NSP6 protein, rotavirus group A	Cysteine Endopeptidases	Chemical	0.00318
+NSP6 protein, rotavirus group A	DNA, Viral	Chemical	0.00471
+NSP6 protein, rotavirus group A	DNA Primers	Chemical	0.00542
+NSP6 protein, rotavirus group A	DNA-Directed RNA Polymerases	Chemical	0.00614
+NSP6 protein, rotavirus group A	Fusion Protein	Chemical	0.00673
+NSP6 protein, rotavirus group A	RNA Binding Protein	Chemical	0.00703
+NSP6 protein, rotavirus group A	Nucleotide	Chemical	0.0145
+NSP6 protein, rotavirus group A	Viral Proteins	Chemical	0.0145
+NSP6 protein, rotavirus group A	Protein	Chemical	0.0146
+NSP6 protein, rotavirus group A	Immune Sera	Chemical	0.0152
+NSP6 protein, rotavirus group A	RNA, Viral	Chemical	0.0171
+NSP6 protein, rotavirus group A	Recombinant Fusion Proteins	Chemical	0.0187
+NSP6 protein, rotavirus group A	Ligand Binding Protein	Chemical	0.0369
+NSP6 protein, rotavirus group A	cDNA	Chemical	0.0381
+NSP6 protein, rotavirus group A	Recombinant Proteins	Chemical	0.0481
+NSP6 protein, rotavirus group A	Amino Acid	Chemical	0.113
+NSP6 protein, rotavirus group A	Messenger RNA	Chemical	0.151
+NSP6 protein, rotavirus group A	Acid	Chemical	0.174
+NSP6 protein, rotavirus group A	viral genome location	Anatomy	0.00205
+NSP6 protein, rotavirus group A	Inclusion Bodies	Anatomy	0.00471
+NSP6 protein, rotavirus group A	Cytoplasm	Anatomy	0.00818
+NSP6 protein, rotavirus group A	nucleic acid location	Anatomy	0.00818
+NSP6 protein, rotavirus group A	Cell Line	Anatomy	0.00943
+NSP6 protein, rotavirus group A	HEK293 Cells	Anatomy	0.0117
+NSP6 protein, rotavirus group A	protein location	Anatomy	0.0133
+NSP6 protein, rotavirus group A	Mitochondria	Anatomy	0.0397
+NSP6 protein, rotavirus group A	Cells	Anatomy	0.129
+NSP6 protein, rotavirus group A	Sugiyama M	Biomedical expert	0.9608
+NSP6 protein, rotavirus group A	Dang VT	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Rainsford EW	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Arias-Ortiz C	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Aparicio-Fabre R	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Samaniego-Hernández M	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	De León-Rodríguez A	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Stojanovski D	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Mohan KV	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Barba de la Rosa AP	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Atreya CD	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Kang Y	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Coulson BS	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Kugita M	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Minamoto N	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	McCrae MA	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Glass RI	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Kawagishi T	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Holloway G	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Matsuura Y	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Komoto S	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Taniguchi K	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Fukuda S	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Ito N	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Kanai Y	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Mori Y	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Kobayashi T	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Masubuchi K	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Ito H	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	Johnson RI	Biomedical expert	0.9802
+NSP6 protein, rotavirus group A	SPECC1	Gene/Protein	1.13E-5
+NSP6 protein, rotavirus group A	SH2D3A	Gene/Protein	2.84E-5
+NSP6 protein, rotavirus group A	viral genome replication	Biological process	8.49E-5
+NSP6 protein, rotavirus group A	protein transport	Biological process	0.0116
+NSP6 protein, rotavirus group A	phosphorylation	Biological process	0.0629
+NSP6 protein, rotavirus group A	growth	Biological process	0.448
+NSP6 protein, rotavirus group A	Lamb	Food	0.00184
+NSP6 protein, rotavirus group A	Protein	Food	0.0134
+NSP6 protein, rotavirus group A	Chicken	Food	0.0137
+NSP6 protein, rotavirus group A	Rotavirus	MeSH	8.1E-5
+NSP6 protein, rotavirus group A	Gene Expression Regulation, Viral	MeSH	7.43E-4
+NSP6 protein, rotavirus group A	Virus Replication	MeSH	0.00163
+NSP6 protein, rotavirus group A	Genome, Viral	MeSH	0.00173
+NSP6 protein, rotavirus group A	Conserved Sequence	MeSH	0.00185
+NSP6 protein, rotavirus group A	Product Packaging	MeSH	0.00416
+NSP6 protein, rotavirus group A	Sequence Homology, Amino Acid	MeSH	0.00538
+NSP6 protein, rotavirus group A	Genome	MeSH	0.00744
+NSP6 protein, rotavirus group A	Cercopithecus aethiops	MeSH	0.00787
+NSP6 protein, rotavirus group A	Viruses	MeSH	0.00826
+NSP6 protein, rotavirus group A	Chromatography, Affinity	MeSH	0.0105
+NSP6 protein, rotavirus group A	Phylogeny	MeSH	0.0106
+NSP6 protein, rotavirus group A	Open Reading Frames	MeSH	0.0132
+NSP6 protein, rotavirus group A	Genetic Vectors	MeSH	0.0157
+NSP6 protein, rotavirus group A	Horses	MeSH	0.0167
+NSP6 protein, rotavirus group A	Birds	MeSH	0.0184
+NSP6 protein, rotavirus group A	Genetics	MeSH	0.0215
+NSP6 protein, rotavirus group A	Haplorhini	MeSH	0.0231
+NSP6 protein, rotavirus group A	Virulence	MeSH	0.0251
+NSP6 protein, rotavirus group A	Cricetinae	MeSH	0.0261
+NSP6 protein, rotavirus group A	Amino Acid Sequence	MeSH	0.0265
+NSP6 protein, rotavirus group A	Base Sequence	MeSH	0.0268
+NSP6 protein, rotavirus group A	Sheep	MeSH	0.0285
+NSP6 protein, rotavirus group A	Chickens	MeSH	0.0319
+NSP6 protein, rotavirus group A	China	MeSH	0.035
+NSP6 protein, rotavirus group A	Molecular Sequence Data	MeSH	0.036
+NSP6 protein, rotavirus group A	Cloning, Molecular	MeSH	0.0369
+NSP6 protein, rotavirus group A	Animals	MeSH	0.0471
+NSP6 protein, rotavirus group A	Genes	MeSH	0.0474
+NSP6 protein, rotavirus group A	Swine	MeSH	0.0566
+NSP6 protein, rotavirus group A	Escherichia coli	MeSH	0.0578
+NSP6 protein, rotavirus group A	Database	MeSH	0.062
+NSP6 protein, rotavirus group A	Observation	MeSH	0.0657
+NSP6 protein, rotavirus group A	Blotting, Western	MeSH	0.0738
+NSP6 protein, rotavirus group A	Research Report	MeSH	0.0762
+NSP6 protein, rotavirus group A	Role	MeSH	0.0803
+NSP6 protein, rotavirus group A	Cattle	MeSH	0.0816
+NSP6 protein, rotavirus group A	Cells, Cultured	MeSH	0.132
+NSP6 protein, rotavirus group A	Child	MeSH	0.155
+NSP6 protein, rotavirus group A	Kinetics	MeSH	0.156
+NSP6 protein, rotavirus group A	Mice	MeSH	0.717
+NSP6 protein, rotavirus group A	Humans	MeSH	1.0
+NSP6 protein, rotavirus group A	cytoplasm	Cellular component	0.00815
+NSP6 protein, rotavirus group A	cytosol	Cellular component	0.0155
+NSP6 protein, rotavirus group A	cell	Cellular component	1.0

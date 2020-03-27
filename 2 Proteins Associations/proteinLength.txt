@@ -1,0 +1,24 @@
+3C-like proteinase, Coronavirus	306
+BCAR3	638
+BRAF	83
+ERVW-1	75
+HFM1	601
+KRAS	275
+Membrane Protein	222
+NRAS	61
+NSP6 protein, rotavirus group A	290
+nsp9 protein, SARS virus	113
+Nsp10 protein, SARS virus	139
+Nucleocapsid Protein	419
+ORF 10 protein, varicella-zoster virus	38
+ORF3A protein, SARS coronavirus	275
+protein 6, SARS virus	61
+sars7a protein, SARS virus	121
+ORF7b protein, SARS coronavirus	43
+PRSS57	500
+RIT1	121
+Reverse Transcriptase	932
+SH2D3C	1945
+Spike Glycoprotein, Coronavirus	1273
+Structural Protein	222
+Membrane Glycoproteins	1273

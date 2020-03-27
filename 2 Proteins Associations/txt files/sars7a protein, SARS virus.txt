@@ -1,0 +1,558 @@
+Selection	Association Name	Association Type	Significance
+sars7a protein, SARS virus	Equilibrium centrifugation	Procedure	4.18E-4
+sars7a protein, SARS virus	Interleukin 8 measurement	Procedure	0.00216
+sars7a protein, SARS virus	Two-hybrid system techniques	Procedure	0.00344
+sars7a protein, SARS virus	Peptide synthesis technique	Procedure	0.00378
+sars7a protein, SARS virus	Immunoprecipitation	Procedure	0.00391
+sars7a protein, SARS virus	Solid-phase synthesis techniques	Procedure	0.00532
+sars7a protein, SARS virus	Total protein measurement	Procedure	0.00566
+sars7a protein, SARS virus	Co-immunoprecipitation	Procedure	0.00847
+sars7a protein, SARS virus	Positive selection	Procedure	0.00902
+sars7a protein, SARS virus	Mutation analysis	Procedure	0.00916
+sars7a protein, SARS virus	Antiviral therapy	Procedure	0.00987
+sars7a protein, SARS virus	Transfection	Procedure	0.0112
+sars7a protein, SARS virus	Protein interaction mapping	Procedure	0.0133
+sars7a protein, SARS virus	Indirect immunofluorescence	Procedure	0.016
+sars7a protein, SARS virus	Induction procedure	Procedure	0.0199
+sars7a protein, SARS virus	Genetic analysis	Procedure	0.0272
+sars7a protein, SARS virus	Matching	Procedure	0.0337
+sars7a protein, SARS virus	Western blot	Procedure	0.0342
+sars7a protein, SARS virus	Cell culture techniques	Procedure	0.036
+sars7a protein, SARS virus	Nuclear magnetic resonance spectroscopy	Procedure	0.0403
+sars7a protein, SARS virus	Centrifugation	Procedure	0.0406
+sars7a protein, SARS virus	Sds-page	Procedure	0.0434
+sars7a protein, SARS virus	Fluorescent antibody technique	Procedure	0.0435
+sars7a protein, SARS virus	Genetic screening method	Procedure	0.0458
+sars7a protein, SARS virus	Radiotherapy fractionation	Procedure	0.0462
+sars7a protein, SARS virus	Chemical fractionation	Procedure	0.0544
+sars7a protein, SARS virus	Dose fractionation	Procedure	0.0546
+sars7a protein, SARS virus	General (procedure) toxicology screen	Procedure	0.0672
+sars7a protein, SARS virus	The science and art of healing	Procedure	0.0797
+sars7a protein, SARS virus	Western blotting	Procedure	0.0828
+sars7a protein, SARS virus	Absolute neutrophil count	Procedure	0.0851
+sars7a protein, SARS virus	Immunoglobulin measurement	Procedure	0.0925
+sars7a protein, SARS virus	Immunofluorescence assay	Procedure	0.0932
+sars7a protein, SARS virus	Mutagenesis	Procedure	0.096
+sars7a protein, SARS virus	Sequence alignment	Procedure	0.112
+sars7a protein, SARS virus	White blood cell count procedure	Procedure	0.119
+sars7a protein, SARS virus	Scientific study	Procedure	0.129
+sars7a protein, SARS virus	DICOM study	Procedure	0.129
+sars7a protein, SARS virus	Study	Procedure	0.129
+sars7a protein, SARS virus	Clinical research	Procedure	0.132
+sars7a protein, SARS virus	Red blood cell count measurement	Procedure	0.145
+sars7a protein, SARS virus	Clinical trials	Procedure	0.15
+sars7a protein, SARS virus	Modeling	Procedure	0.172
+sars7a protein, SARS virus	Survival analysis	Procedure	0.184
+sars7a protein, SARS virus	Yeast cell measurement	Procedure	0.198
+sars7a protein, SARS virus	Flow cytometry	Procedure	0.284
+sars7a protein, SARS virus	Iontophoresis	Procedure	0.332
+sars7a protein, SARS virus	Reverse transcriptase polymerase chain reaction	Procedure	0.351
+sars7a protein, SARS virus	Pre-clinical trial	Procedure	0.358
+sars7a protein, SARS virus	Enzyme-linked immunosorbent assay	Procedure	0.405
+sars7a protein, SARS virus	Staining method	Procedure	0.409
+sars7a protein, SARS virus	Magnetic resonance spectroscopy	Procedure	0.442
+sars7a protein, SARS virus	Staining and labeling	Procedure	0.559
+sars7a protein, SARS virus	Pathology procedure	Procedure	0.564
+sars7a protein, SARS virus	Analysis	Procedure	0.623
+sars7a protein, SARS virus	Albumin/globulin ratio	Procedure	0.678
+sars7a protein, SARS virus	Disease screening	Procedure	0.696
+sars7a protein, SARS virus	Screening for cancer	Procedure	0.697
+sars7a protein, SARS virus	Mass screening	Procedure	0.937
+sars7a protein, SARS virus	Immunohistochemistry	Procedure	0.95
+sars7a protein, SARS virus	Laboratory culture	Procedure	1.0
+sars7a protein, SARS virus	Biological assay	Procedure	1.0
+sars7a protein, SARS virus	Weighing patient	Procedure	1.0
+sars7a protein, SARS virus	Rapid antigen test	Procedure	1.0
+sars7a protein, SARS virus	Asparaginase/ifosfamide/methotrexate	Procedure	1.0
+sars7a protein, SARS virus	Assay	Procedure	1.0
+sars7a protein, SARS virus	Culture of specimen from unspecified site	Procedure	1.0
+sars7a protein, SARS virus	Culture of specimen from other site	Procedure	1.0
+sars7a protein, SARS virus	Severe Acute Respiratory Syndrome	Disease	9.1E-6
+sars7a protein, SARS virus	Coronavirus Infections	Disease	0.00466
+sars7a protein, SARS virus	Vaccinia	Disease	0.0124
+sars7a protein, SARS virus	Retinoblastoma	Disease	0.0154
+sars7a protein, SARS virus	Respiration Disorders	Disease	0.0374
+sars7a protein, SARS virus	Virus Diseases	Disease	0.0401
+sars7a protein, SARS virus	Respiratory Insufficiency	Disease	0.0588
+sars7a protein, SARS virus	Hyperplasia	Disease	0.103
+sars7a protein, SARS virus	Body Weight decreased	Disease	0.105
+sars7a protein, SARS virus	Infection	Disease	0.106
+sars7a protein, SARS virus	Chromosomal translocation	Disease	0.14
+sars7a protein, SARS virus	Pneumonia	Disease	0.15
+sars7a protein, SARS virus	Cardiac Arrest	Disease	0.15
+sars7a protein, SARS virus	Edema	Disease	0.162
+sars7a protein, SARS virus	Fever	Disease	0.234
+sars7a protein, SARS virus	Disease Progression	Disease	0.3
+sars7a protein, SARS virus	Sprains and Strains	Disease	0.301
+sars7a protein, SARS virus	Animal Disease Models	Disease	0.565
+sars7a protein, SARS virus	Disease	Disease	1.0
+sars7a protein, SARS virus	Syndrome	Disease	1.0
+sars7a protein, SARS virus	ORF3A protein, SARS coronavirus	Chemical	1.79E-6
+sars7a protein, SARS virus	ORF7b protein, SARS coronavirus	Chemical	1.79E-6
+sars7a protein, SARS virus	benzyloxycarbonyl-aspartyl(OMe)-isoleucyl-prolyl-aspartyl(OMe) fluoromethylketone	Chemical	3.58E-6
+sars7a protein, SARS virus	nsp9 protein, SARS virus	Chemical	7.15E-6
+sars7a protein, SARS virus	protein 6, SARS virus	Chemical	8.05E-6
+sars7a protein, SARS virus	Viral Matrix Proteins	Chemical	8.56E-6
+sars7a protein, SARS virus	nonstructural protein 3, SARS coronovirus	Chemical	1.52E-5
+sars7a protein, SARS virus	E protein, SARS coronavirus	Chemical	3.93E-5
+sars7a protein, SARS virus	bis(5'-nucleosyl)tetraphosphatase (asymmetrical)	Chemical	7.33E-5
+sars7a protein, SARS virus	Viral Proteins	Chemical	1.44E-4
+sars7a protein, SARS virus	Viral Structural Proteins	Chemical	1.6E-4
+sars7a protein, SARS virus	S protein, severe acute respiratory syndrome coronavirus	Chemical	4.03E-4
+sars7a protein, SARS virus	Angiotensin-Converting Enzyme 2	Chemical	4.36E-4
+sars7a protein, SARS virus	diadenosine tetraphosphate	Chemical	5.04E-4
+sars7a protein, SARS virus	glucose-regulated proteins	Chemical	6.07E-4
+sars7a protein, SARS virus	Structural Protein	Chemical	0.00101
+sars7a protein, SARS virus	Spike Glycoprotein, Coronavirus	Chemical	0.00113
+sars7a protein, SARS virus	G1/S-Specific Cyclin-D3	Chemical	0.00115
+sars7a protein, SARS virus	Integrin AlphaL/Beta2	Chemical	0.00133
+sars7a protein, SARS virus	RNA-Directed RNA Polymerase	Chemical	0.00137
+sars7a protein, SARS virus	JNK Mitogen-Activated Protein Kinases	Chemical	0.00174
+sars7a protein, SARS virus	Acid Anhydride Hydrolases	Chemical	0.00177
+sars7a protein, SARS virus	Viral Envelope Proteins	Chemical	0.00192
+sars7a protein, SARS virus	Viral Regulatory and Accessory Proteins	Chemical	0.00237
+sars7a protein, SARS virus	Membrane Protein	Chemical	0.00299
+sars7a protein, SARS virus	RNA, Viral	Chemical	0.00306
+sars7a protein, SARS virus	Phorbol 12,13-Dibutyrate	Chemical	0.00315
+sars7a protein, SARS virus	Isopropyl Thiogalactoside	Chemical	0.00342
+sars7a protein, SARS virus	Nucleocapsid Protein	Chemical	0.00368
+sars7a protein, SARS virus	Protein	Chemical	0.00384
+sars7a protein, SARS virus	Nucleocapsid	Chemical	0.00402
+sars7a protein, SARS virus	Replicon	Chemical	0.0048
+sars7a protein, SARS virus	Hemagglutinins, Viral	Chemical	0.00483
+sars7a protein, SARS virus	Bcl-2-Like Protein 1	Chemical	0.00565
+sars7a protein, SARS virus	Amino Acid	Chemical	0.00569
+sars7a protein, SARS virus	Intercellular Adhesion Molecule 1	Chemical	0.00603
+sars7a protein, SARS virus	Viral Protein	Chemical	0.00639
+sars7a protein, SARS virus	Protein Sorting Signals	Chemical	0.00656
+sars7a protein, SARS virus	p38 Mitogen-Activated Protein Kinases	Chemical	0.00684
+sars7a protein, SARS virus	Transmembrane Protein	Chemical	0.008
+sars7a protein, SARS virus	Retinoblastoma-Associated Protein	Chemical	0.0084
+sars7a protein, SARS virus	Mitogen-Activated Protein Kinase Kinase	Chemical	0.00898
+sars7a protein, SARS virus	Codon, Initiator	Chemical	0.00898
+sars7a protein, SARS virus	Phorbol Ester	Chemical	0.0102
+sars7a protein, SARS virus	Viral Nonstructural Proteins	Chemical	0.0103
+sars7a protein, SARS virus	Mitogen-Activated Protein Kinase	Chemical	0.0117
+sars7a protein, SARS virus	Particle	Chemical	0.0143
+sars7a protein, SARS virus	Caspase-3	Chemical	0.0145
+sars7a protein, SARS virus	Protein Kinase	Chemical	0.0152
+sars7a protein, SARS virus	Heat Shock Protein 70	Chemical	0.0159
+sars7a protein, SARS virus	Recombinant Protein	Chemical	0.0165
+sars7a protein, SARS virus	Interferon Type I	Chemical	0.0166
+sars7a protein, SARS virus	Small Interfering RNA	Chemical	0.0173
+sars7a protein, SARS virus	Nucleotide	Chemical	0.0176
+sars7a protein, SARS virus	Messenger RNA	Chemical	0.0177
+sars7a protein, SARS virus	Cyclin D1	Chemical	0.0178
+sars7a protein, SARS virus	Mitogen	Chemical	0.0191
+sars7a protein, SARS virus	Integrins	Chemical	0.0238
+sars7a protein, SARS virus	Recombinant Proteins	Chemical	0.0252
+sars7a protein, SARS virus	RNA, Small Interfering	Chemical	0.0256
+sars7a protein, SARS virus	Chaperone	Chemical	0.0311
+sars7a protein, SARS virus	Lipid Bilayers	Chemical	0.0331
+sars7a protein, SARS virus	RNA Binding Protein	Chemical	0.0332
+sars7a protein, SARS virus	Fibrin	Chemical	0.0342
+sars7a protein, SARS virus	Cell Adhesion Molecules	Chemical	0.0342
+sars7a protein, SARS virus	Hydrolase	Chemical	0.0351
+sars7a protein, SARS virus	Cyclin	Chemical	0.0403
+sars7a protein, SARS virus	Interleukin-8	Chemical	0.0412
+sars7a protein, SARS virus	Ribonucleic Acid	Chemical	0.0414
+sars7a protein, SARS virus	Oligopeptides	Chemical	0.0467
+sars7a protein, SARS virus	Caspase	Chemical	0.0523
+sars7a protein, SARS virus	Luciferase	Chemical	0.0527
+sars7a protein, SARS virus	Carcinogens	Chemical	0.0564
+sars7a protein, SARS virus	Interleukin-1	Chemical	0.0565
+sars7a protein, SARS virus	Codon	Chemical	0.0585
+sars7a protein, SARS virus	Chemokine	Chemical	0.0586
+sars7a protein, SARS virus	Ion Channels	Chemical	0.0625
+sars7a protein, SARS virus	Antigens, CD	Chemical	0.0635
+sars7a protein, SARS virus	Interferon	Chemical	0.0723
+sars7a protein, SARS virus	Receptors, Cell Surface	Chemical	0.0757
+sars7a protein, SARS virus	Membrane Glycoproteins	Chemical	0.0776
+sars7a protein, SARS virus	NF-kB	Chemical	0.0784
+sars7a protein, SARS virus	Coloring Agents	Chemical	0.0904
+sars7a protein, SARS virus	Antibody	Chemical	0.11
+sars7a protein, SARS virus	Immunosuppressant	Chemical	0.111
+sars7a protein, SARS virus	Interleukin	Chemical	0.115
+sars7a protein, SARS virus	Immunoglobulin	Chemical	0.188
+sars7a protein, SARS virus	Yeast	Chemical	0.2
+sars7a protein, SARS virus	Ligand Binding Protein	Chemical	0.217
+sars7a protein, SARS virus	cDNA	Chemical	0.226
+sars7a protein, SARS virus	Receptor	Chemical	0.387
+sars7a protein, SARS virus	Monoclonal Antibody	Chemical	0.404
+sars7a protein, SARS virus	Kinase	Chemical	0.519
+sars7a protein, SARS virus	Peptides	Chemical	0.615
+sars7a protein, SARS virus	Ion	Chemical	0.706
+sars7a protein, SARS virus	Agent	Chemical	0.755
+sars7a protein, SARS virus	Lipid	Chemical	1.0
+sars7a protein, SARS virus	Antigen	Chemical	1.0
+sars7a protein, SARS virus	Vero Cells	Anatomy	2.54E-4
+sars7a protein, SARS virus	Virus-like particle	Anatomy	0.00118
+sars7a protein, SARS virus	Structure of alveolar epithelium	Anatomy	0.00183
+sars7a protein, SARS virus	Palmar surface	Anatomy	0.00266
+sars7a protein, SARS virus	Palm of hand	Anatomy	0.00271
+sars7a protein, SARS virus	Endoplasmic Reticulum	Anatomy	0.00276
+sars7a protein, SARS virus	Pars postrema of ventral lateral nucleus	Anatomy	0.00282
+sars7a protein, SARS virus	envelope	Anatomy	0.0041
+sars7a protein, SARS virus	protein location	Anatomy	0.00569
+sars7a protein, SARS virus	Cell Line	Anatomy	0.00721
+sars7a protein, SARS virus	COS Cells	Anatomy	0.00775
+sars7a protein, SARS virus	Alveolus	Anatomy	0.00803
+sars7a protein, SARS virus	Molecular helix	Anatomy	0.00916
+sars7a protein, SARS virus	Helix of ear	Anatomy	0.00916
+sars7a protein, SARS virus	Golgi Apparatus	Anatomy	0.0093
+sars7a protein, SARS virus	Virion	Anatomy	0.0101
+sars7a protein, SARS virus	Hyalin	Anatomy	0.0114
+sars7a protein, SARS virus	HEK293 Cells	Anatomy	0.0135
+sars7a protein, SARS virus	Vascular Endothelial Cells	Anatomy	0.0143
+sars7a protein, SARS virus	Jurkat Cells	Anatomy	0.0151
+sars7a protein, SARS virus	Exudate	Anatomy	0.0164
+sars7a protein, SARS virus	Cytoplasm	Anatomy	0.0175
+sars7a protein, SARS virus	Nasal cavity	Anatomy	0.0191
+sars7a protein, SARS virus	Membrane	Anatomy	0.0202
+sars7a protein, SARS virus	Exudates and Transudates	Anatomy	0.0247
+sars7a protein, SARS virus	Cells	Anatomy	0.026
+sars7a protein, SARS virus	viral nucleocapsid location	Anatomy	0.028
+sars7a protein, SARS virus	Anatomical compartments	Anatomy	0.0299
+sars7a protein, SARS virus	Respiratory tract structure	Anatomy	0.0302
+sars7a protein, SARS virus	integral to membrane	Anatomy	0.0307
+sars7a protein, SARS virus	fully spanning the plasma membrane	Anatomy	0.0307
+sars7a protein, SARS virus	Lipid Bilayers	Anatomy	0.0331
+sars7a protein, SARS virus	Structure of parenchyma of lung	Anatomy	0.0337
+sars7a protein, SARS virus	Pore	Anatomy	0.0468
+sars7a protein, SARS virus	Ribosomes	Anatomy	0.0482
+sars7a protein, SARS virus	Structure of lumen of body system	Anatomy	0.0545
+sars7a protein, SARS virus	Respiratory System	Anatomy	0.0667
+sars7a protein, SARS virus	Clone	Anatomy	0.0722
+sars7a protein, SARS virus	Tail	Anatomy	0.0817
+sars7a protein, SARS virus	Kidney	Anatomy	0.0822
+sars7a protein, SARS virus	Tract	Anatomy	0.0903
+sars7a protein, SARS virus	HeLa Cells	Anatomy	0.109
+sars7a protein, SARS virus	Lung	Anatomy	0.113
+sars7a protein, SARS virus	Cell surface	Anatomy	0.12
+sars7a protein, SARS virus	neutrophil	Anatomy	0.165
+sars7a protein, SARS virus	Endothelial Cells	Anatomy	0.196
+sars7a protein, SARS virus	Clone Cells	Anatomy	0.205
+sars7a protein, SARS virus	Epithelium	Anatomy	0.23
+sars7a protein, SARS virus	Mitochondria	Anatomy	0.239
+sars7a protein, SARS virus	Myocardium	Anatomy	0.273
+sars7a protein, SARS virus	Leukocytes	Anatomy	0.303
+sars7a protein, SARS virus	Fibroblasts	Anatomy	0.323
+sars7a protein, SARS virus	Lymphocyte	Anatomy	0.324
+sars7a protein, SARS virus	Tissue membrane	Anatomy	0.329
+sars7a protein, SARS virus	Cell Nucleus	Anatomy	0.337
+sars7a protein, SARS virus	Erythrocytes	Anatomy	0.369
+sars7a protein, SARS virus	Body tissue	Anatomy	0.408
+sars7a protein, SARS virus	Organ	Anatomy	0.76
+sars7a protein, SARS virus	Liver	Anatomy	1.0
+sars7a protein, SARS virus	Heart	Anatomy	1.0
+sars7a protein, SARS virus	Tan YJ	Biomedical expert	0.8869
+sars7a protein, SARS virus	Tan TH	Biomedical expert	0.9231
+sars7a protein, SARS virus	Hong W	Biomedical expert	0.9231
+sars7a protein, SARS virus	Shen S	Biomedical expert	0.9418
+sars7a protein, SARS virus	Lim SG	Biomedical expert	0.9418
+sars7a protein, SARS virus	Fielding BC	Biomedical expert	0.9418
+sars7a protein, SARS virus	Goh PY	Biomedical expert	0.9608
+sars7a protein, SARS virus	Tan YX	Biomedical expert	0.9608
+sars7a protein, SARS virus	Pekosz A	Biomedical expert	0.9608
+sars7a protein, SARS virus	Willbold D	Biomedical expert	0.9608
+sars7a protein, SARS virus	Wang S	Biomedical expert	0.9608
+sars7a protein, SARS virus	Hänel K	Biomedical expert	0.9608
+sars7a protein, SARS virus	Zhang S	Biomedical expert	0.9608
+sars7a protein, SARS virus	Gunalan V	Biomedical expert	0.9608
+sars7a protein, SARS virus	Wu Z	Biomedical expert	0.9608
+sars7a protein, SARS virus	Schaecher SR	Biomedical expert	0.9608
+sars7a protein, SARS virus	Zhong Y	Biomedical expert	0.9802
+sars7a protein, SARS virus	Du GH	Biomedical expert	0.9802
+sars7a protein, SARS virus	Hao P	Biomedical expert	0.9802
+sars7a protein, SARS virus	Cai JP	Biomedical expert	0.9802
+sars7a protein, SARS virus	Li KS	Biomedical expert	0.9802
+sars7a protein, SARS virus	Song ZZ	Biomedical expert	0.9802
+sars7a protein, SARS virus	Minhas A	Biomedical expert	0.9802
+sars7a protein, SARS virus	Oberle C	Biomedical expert	0.9802
+sars7a protein, SARS virus	Lam CS	Biomedical expert	0.9802
+sars7a protein, SARS virus	Zhao Z	Biomedical expert	0.9802
+sars7a protein, SARS virus	Zhao G	Biomedical expert	0.9802
+sars7a protein, SARS virus	Luo W	Biomedical expert	0.9802
+sars7a protein, SARS virus	Gu YY	Biomedical expert	0.9802
+sars7a protein, SARS virus	Shi Z	Biomedical expert	0.9802
+sars7a protein, SARS virus	Jin Q	Biomedical expert	0.9802
+sars7a protein, SARS virus	Ameneiros RS	Biomedical expert	0.9802
+sars7a protein, SARS virus	Ponia SS	Biomedical expert	0.9802
+sars7a protein, SARS virus	Chow WN	Biomedical expert	0.9802
+sars7a protein, SARS virus	Karjee S	Biomedical expert	0.9802
+sars7a protein, SARS virus	Niiro A	Biomedical expert	0.9802
+sars7a protein, SARS virus	Gee Lim S	Biomedical expert	0.9802
+sars7a protein, SARS virus	Oostra M	Biomedical expert	0.9802
+sars7a protein, SARS virus	Chan DZ	Biomedical expert	0.9802
+sars7a protein, SARS virus	Tham PY	Biomedical expert	0.9802
+sars7a protein, SARS virus	Schriewer J	Biomedical expert	0.9802
+sars7a protein, SARS virus	Zakhartchouk A	Biomedical expert	0.9802
+sars7a protein, SARS virus	Fan RY	Biomedical expert	0.9802
+sars7a protein, SARS virus	Martínez-Sobrido L	Biomedical expert	0.9802
+sars7a protein, SARS virus	Battilani M	Biomedical expert	0.9802
+sars7a protein, SARS virus	de Haan CA	Biomedical expert	0.9802
+sars7a protein, SARS virus	Qiu XY	Biomedical expert	0.9802
+sars7a protein, SARS virus	Stoldt M	Biomedical expert	0.9802
+sars7a protein, SARS virus	Mirazimi A	Biomedical expert	0.9802
+sars7a protein, SARS virus	Rao Z	Biomedical expert	0.9802
+sars7a protein, SARS virus	Sagartz JE	Biomedical expert	0.9802
+sars7a protein, SARS virus	Fremont DH	Biomedical expert	0.9802
+sars7a protein, SARS virus	Yeung HC	Biomedical expert	0.9802
+sars7a protein, SARS virus	Li YM	Biomedical expert	0.9802
+sars7a protein, SARS virus	Wang W	Biomedical expert	0.9802
+sars7a protein, SARS virus	Wang LF	Biomedical expert	0.9802
+sars7a protein, SARS virus	Yang H	Biomedical expert	0.9802
+sars7a protein, SARS virus	Huang C	Biomedical expert	0.9802
+sars7a protein, SARS virus	Pfeifer A	Biomedical expert	0.9802
+sars7a protein, SARS virus	Chen T	Biomedical expert	0.9802
+sars7a protein, SARS virus	Yu M	Biomedical expert	0.9802
+sars7a protein, SARS virus	Huang Y	Biomedical expert	0.9802
+sars7a protein, SARS virus	Li P	Biomedical expert	0.9802
+sars7a protein, SARS virus	Chen YM	Biomedical expert	0.9802
+sars7a protein, SARS virus	Yang WH	Biomedical expert	0.9802
+sars7a protein, SARS virus	Ito N	Biomedical expert	0.9802
+sars7a protein, SARS virus	Furukawa S	Biomedical expert	0.9802
+sars7a protein, SARS virus	Ahmed SS	Biomedical expert	0.9802
+sars7a protein, SARS virus	Lal SK	Biomedical expert	0.9802
+sars7a protein, SARS virus	Krüger J	Biomedical expert	0.9802
+sars7a protein, SARS virus	Fischer WB	Biomedical expert	0.9802
+sars7a protein, SARS virus	Chen J	Biomedical expert	0.9802
+sars7a protein, SARS virus	Roth H	Biomedical expert	0.9802
+sars7a protein, SARS virus	Khan S	Biomedical expert	0.9802
+sars7a protein, SARS virus	Hayashi T	Biomedical expert	0.9802
+sars7a protein, SARS virus	Chen CC	Biomedical expert	0.9802
+sars7a protein, SARS virus	Zhou P	Biomedical expert	0.9802
+sars7a protein, SARS virus	Xie Y	Biomedical expert	0.9802
+sars7a protein, SARS virus	Baric RS	Biomedical expert	0.9802
+sars7a protein, SARS virus	Balboni A	Biomedical expert	0.9802
+sars7a protein, SARS virus	He M	Biomedical expert	0.9802
+sars7a protein, SARS virus	He XM	Biomedical expert	0.9802
+sars7a protein, SARS virus	Buller RM	Biomedical expert	0.9802
+sars7a protein, SARS virus	Sood V	Biomedical expert	0.9802
+sars7a protein, SARS virus	Zhang J	Biomedical expert	0.9802
+sars7a protein, SARS virus	Dijkman R	Biomedical expert	0.9802
+sars7a protein, SARS virus	Chan JK	Biomedical expert	0.9802
+sars7a protein, SARS virus	Yang F	Biomedical expert	0.9802
+sars7a protein, SARS virus	Müller MA	Biomedical expert	0.9802
+sars7a protein, SARS virus	Chen B	Biomedical expert	0.9802
+sars7a protein, SARS virus	Thiel V	Biomedical expert	0.9802
+sars7a protein, SARS virus	Akerström S	Biomedical expert	0.9802
+sars7a protein, SARS virus	Choi YW	Biomedical expert	0.9802
+sars7a protein, SARS virus	Sims AC	Biomedical expert	0.9802
+sars7a protein, SARS virus	Chou CF	Biomedical expert	0.9802
+sars7a protein, SARS virus	Stabenow J	Biomedical expert	0.9802
+sars7a protein, SARS virus	Muth D	Biomedical expert	0.9802
+sars7a protein, SARS virus	Yang L	Biomedical expert	0.9802
+sars7a protein, SARS virus	Zhang HL	Biomedical expert	0.9802
+sars7a protein, SARS virus	Matsushima K	Biomedical expert	0.9802
+sars7a protein, SARS virus	Protein	Food	0.00573
+sars7a protein, SARS virus	Sucrose	Food	0.0707
+sars7a protein, SARS virus	retrotransposon nucleocapsid	Cellular component	0.00118
+sars7a protein, SARS virus	viral nucleocapsid	Cellular component	0.00145
+sars7a protein, SARS virus	endoplasmic reticulum	Cellular component	0.00278
+sars7a protein, SARS virus	Golgi apparatus	Cellular component	0.00688
+sars7a protein, SARS virus	virion	Cellular component	0.0101
+sars7a protein, SARS virus	ribosome	Cellular component	0.0155
+sars7a protein, SARS virus	cytoplasm	Cellular component	0.0174
+sars7a protein, SARS virus	membrane	Cellular component	0.0214
+sars7a protein, SARS virus	cell surface	Cellular component	0.117
+sars7a protein, SARS virus	mitochondrion	Cellular component	0.134
+sars7a protein, SARS virus	cell	Cellular component	0.25
+sars7a protein, SARS virus	Cyclin-Dependent Kinase 6	Drug	0.00233
+sars7a protein, SARS virus	INALIMAREV	Drug	0.00851
+sars7a protein, SARS virus	Broxuridine	Drug	0.0233
+sars7a protein, SARS virus	CYCLOPHOSPHAMIDE	Drug	0.0685
+sars7a protein, SARS virus	Sucrose	Drug	0.0707
+sars7a protein, SARS virus	Therapeutic Immune Globulin	Drug	0.171
+sars7a protein, SARS virus	protein binding	Molecular function	0.0195
+sars7a protein, SARS virus	narrow pore, gated channel activity	Molecular function	0.0216
+sars7a protein, SARS virus	Hypokinesia	Symptom	0.0144
+sars7a protein, SARS virus	Respiratory distress	Symptom	0.036
+sars7a protein, SARS virus	SGTA	Gene/Protein	6.89E-5
+sars7a protein, SARS virus	CDSN	Gene/Protein	2.86E-4
+sars7a protein, SARS virus	SH2D3C	Gene/Protein	4.4E-4
+sars7a protein, SARS virus	ICAM2	Gene/Protein	5.38E-4
+sars7a protein, SARS virus	BCL2L2	Gene/Protein	5.39E-4
+sars7a protein, SARS virus	CCND3	Gene/Protein	0.00108
+sars7a protein, SARS virus	ITGAL	Gene/Protein	0.00123
+sars7a protein, SARS virus	ACE2	Gene/Protein	0.00148
+sars7a protein, SARS virus	HSP90B1	Gene/Protein	0.00149
+sars7a protein, SARS virus	ITGB2	Gene/Protein	0.00192
+sars7a protein, SARS virus	CDK6	Gene/Protein	0.00211
+sars7a protein, SARS virus	TIPARP	Gene/Protein	0.00289
+sars7a protein, SARS virus	MAPK14	Gene/Protein	0.00374
+sars7a protein, SARS virus	RB1	Gene/Protein	0.00374
+sars7a protein, SARS virus	WNK2	Gene/Protein	0.00436
+sars7a protein, SARS virus	MCL1	Gene/Protein	0.00454
+sars7a protein, SARS virus	CDK4	Gene/Protein	0.00544
+sars7a protein, SARS virus	JUN	Gene/Protein	0.00605
+sars7a protein, SARS virus	ERVW-1	Gene/Protein	0.0102
+sars7a protein, SARS virus	BCL2L1	Gene/Protein	0.0113
+sars7a protein, SARS virus	CASP3	Gene/Protein	0.0124
+sars7a protein, SARS virus	ICAM1	Gene/Protein	0.0164
+sars7a protein, SARS virus	CCND1	Gene/Protein	0.0165
+sars7a protein, SARS virus	NFKB1	Gene/Protein	0.0321
+sars7a protein, SARS virus	CXCL8	Gene/Protein	0.0379
+sars7a protein, SARS virus	BCL2	Gene/Protein	0.0563
+sars7a protein, SARS virus	nucleocytoplasmic transport	Biological process	0.00112
+sars7a protein, SARS virus	virus induced gene silencing	Biological process	0.00113
+sars7a protein, SARS virus	chemokine production	Biological process	0.00179
+sars7a protein, SARS virus	mRNA transcription	Biological process	0.0024
+sars7a protein, SARS virus	peptide biosynthetic process	Biological process	0.00398
+sars7a protein, SARS virus	RNA processing	Biological process	0.00433
+sars7a protein, SARS virus	positive regulation of NF-kappaB transcription factor activity	Biological process	0.0069
+sars7a protein, SARS virus	cellular localization	Biological process	0.00787
+sars7a protein, SARS virus	apoptotic process	Biological process	0.00804
+sars7a protein, SARS virus	cell activation	Biological process	0.00874
+sars7a protein, SARS virus	tropism	Biological process	0.00931
+sars7a protein, SARS virus	G1 phase	Biological process	0.0149
+sars7a protein, SARS virus	pathogenesis	Biological process	0.0159
+sars7a protein, SARS virus	translation	Biological process	0.0197
+sars7a protein, SARS virus	cell cycle arrest	Biological process	0.0234
+sars7a protein, SARS virus	cell growth	Biological process	0.025
+sars7a protein, SARS virus	transduction	Biological process	0.0347
+sars7a protein, SARS virus	gene silencing	Biological process	0.0364
+sars7a protein, SARS virus	gene expression	Biological process	0.0366
+sars7a protein, SARS virus	DNA replication	Biological process	0.0645
+sars7a protein, SARS virus	DNA repair	Biological process	0.0723
+sars7a protein, SARS virus	RNA interference	Biological process	0.0749
+sars7a protein, SARS virus	signaling	Biological process	0.0932
+sars7a protein, SARS virus	cell cycle	Biological process	0.182
+sars7a protein, SARS virus	phosphorylation	Biological process	0.454
+sars7a protein, SARS virus	cell proliferation	Biological process	0.633
+sars7a protein, SARS virus	growth	Biological process	1.0
+sars7a protein, SARS virus	Coronavirus	MeSH	1.98E-5
+sars7a protein, SARS virus	Viverridae	MeSH	6.18E-5
+sars7a protein, SARS virus	Betacoronavirus	MeSH	6.44E-5
+sars7a protein, SARS virus	Alphacoronavirus	MeSH	1.33E-4
+sars7a protein, SARS virus	Open Reading Frames	MeSH	2.97E-4
+sars7a protein, SARS virus	Cercopithecus aethiops	MeSH	3.51E-4
+sars7a protein, SARS virus	Chiroptera	MeSH	6.44E-4
+sars7a protein, SARS virus	Spike Glycoprotein, Coronavirus	MeSH	0.00115
+sars7a protein, SARS virus	Tetratricopeptide Repeat	MeSH	0.00125
+sars7a protein, SARS virus	Gene Expression Regulation, Viral	MeSH	0.0015
+sars7a protein, SARS virus	Artificial Cells	MeSH	0.0015
+sars7a protein, SARS virus	Webcasts	MeSH	0.00164
+sars7a protein, SARS virus	Nucleocapsid	MeSH	0.00176
+sars7a protein, SARS virus	Sigmodontinae	MeSH	0.00198
+sars7a protein, SARS virus	Resting Phase, Cell Cycle	MeSH	0.00243
+sars7a protein, SARS virus	Sequence Homology	MeSH	0.00284
+sars7a protein, SARS virus	Genome	MeSH	0.00306
+sars7a protein, SARS virus	Genome, Viral	MeSH	0.0035
+sars7a protein, SARS virus	Virus Replication	MeSH	0.00422
+sars7a protein, SARS virus	Viruses	MeSH	0.00423
+sars7a protein, SARS virus	Founder Effect	MeSH	0.00427
+sars7a protein, SARS virus	Multiple Chronic Conditions	MeSH	0.00548
+sars7a protein, SARS virus	Suppression, Genetic	MeSH	0.00624
+sars7a protein, SARS virus	Virus Assembly	MeSH	0.00657
+sars7a protein, SARS virus	Replicon	MeSH	0.00721
+sars7a protein, SARS virus	Host-Pathogen Interactions	MeSH	0.00737
+sars7a protein, SARS virus	Phylogeography	MeSH	0.0074
+sars7a protein, SARS virus	Amino Acid Sequence	MeSH	0.00755
+sars7a protein, SARS virus	Genes, Viral	MeSH	0.00793
+sars7a protein, SARS virus	Molecular Sequence Data	MeSH	0.008
+sars7a protein, SARS virus	Sequence Deletion	MeSH	0.00809
+sars7a protein, SARS virus	Plant Viruses	MeSH	0.0083
+sars7a protein, SARS virus	Blotting, Western	MeSH	0.00891
+sars7a protein, SARS virus	Gene Deletion	MeSH	0.012
+sars7a protein, SARS virus	Vaccinia virus	MeSH	0.0124
+sars7a protein, SARS virus	Enzyme Activation	MeSH	0.0126
+sars7a protein, SARS virus	Disease Reservoirs	MeSH	0.0139
+sars7a protein, SARS virus	Protein Structure, Secondary	MeSH	0.014
+sars7a protein, SARS virus	A549 Cells	MeSH	0.0157
+sars7a protein, SARS virus	Active Transport, Cell Nucleus	MeSH	0.0161
+sars7a protein, SARS virus	Evolution, Molecular	MeSH	0.0175
+sars7a protein, SARS virus	China	MeSH	0.0181
+sars7a protein, SARS virus	Genetic Vectors	MeSH	0.0183
+sars7a protein, SARS virus	Protein Biosynthesis	MeSH	0.0191
+sars7a protein, SARS virus	Microscopy, Confocal	MeSH	0.0196
+sars7a protein, SARS virus	Mesocricetus	MeSH	0.0219
+sars7a protein, SARS virus	Models, Structural	MeSH	0.0242
+sars7a protein, SARS virus	Amino Acid Motifs	MeSH	0.0251
+sars7a protein, SARS virus	Sequence Homology, Amino Acid	MeSH	0.0261
+sars7a protein, SARS virus	Protein Structure, Tertiary	MeSH	0.0265
+sars7a protein, SARS virus	Genes	MeSH	0.0272
+sars7a protein, SARS virus	Models, Molecular	MeSH	0.0276
+sars7a protein, SARS virus	Immunocompromised Host	MeSH	0.0314
+sars7a protein, SARS virus	Fluorescent Antibody Technique, Indirect	MeSH	0.0324
+sars7a protein, SARS virus	MAP Kinase Signaling System	MeSH	0.0336
+sars7a protein, SARS virus	Cell Cycle Checkpoints	MeSH	0.0349
+sars7a protein, SARS virus	Plants, Genetically Modified	MeSH	0.0356
+sars7a protein, SARS virus	Mutation	MeSH	0.0363
+sars7a protein, SARS virus	Goats	MeSH	0.0393
+sars7a protein, SARS virus	Inhibition (Psychology)	MeSH	0.0404
+sars7a protein, SARS virus	Transgenes	MeSH	0.0415
+sars7a protein, SARS virus	Clinical Coding	MeSH	0.0421
+sars7a protein, SARS virus	Transcription, Genetic	MeSH	0.0431
+sars7a protein, SARS virus	Protein Conformation	MeSH	0.0433
+sars7a protein, SARS virus	Sequence Homology, Nucleic Acid	MeSH	0.0434
+sars7a protein, SARS virus	Membranes	MeSH	0.0438
+sars7a protein, SARS virus	Cloning, Molecular	MeSH	0.0455
+sars7a protein, SARS virus	Animals	MeSH	0.046
+sars7a protein, SARS virus	Species Specificity	MeSH	0.0529
+sars7a protein, SARS virus	Molecular Dynamics Simulation	MeSH	0.0719
+sars7a protein, SARS virus	Immunosuppression	MeSH	0.0783
+sars7a protein, SARS virus	Recombination, Genetic	MeSH	0.0993
+sars7a protein, SARS virus	HIV-1	MeSH	0.103
+sars7a protein, SARS virus	Microscopy, Fluorescence	MeSH	0.109
+sars7a protein, SARS virus	Disease Outbreaks	MeSH	0.114
+sars7a protein, SARS virus	Substrate Specificity	MeSH	0.115
+sars7a protein, SARS virus	Biological Transport	MeSH	0.117
+sars7a protein, SARS virus	Male	MeSH	0.127
+sars7a protein, SARS virus	Cluster Analysis	MeSH	0.132
+sars7a protein, SARS virus	Cricetinae	MeSH	0.142
+sars7a protein, SARS virus	Sheep	MeSH	0.158
+sars7a protein, SARS virus	Aptitude	MeSH	0.159
+sars7a protein, SARS virus	Neutrophils	MeSH	0.178
+sars7a protein, SARS virus	Promoter Regions, Genetic	MeSH	0.182
+sars7a protein, SARS virus	Genetic Variation	MeSH	0.185
+sars7a protein, SARS virus	Ecosystem	MeSH	0.191
+sars7a protein, SARS virus	Methods	MeSH	0.192
+sars7a protein, SARS virus	Electrophoresis, Polyacrylamide Gel	MeSH	0.193
+sars7a protein, SARS virus	Patients	MeSH	0.205
+sars7a protein, SARS virus	Cells, Cultured	MeSH	0.206
+sars7a protein, SARS virus	Yeasts	MeSH	0.209
+sars7a protein, SARS virus	Down-Regulation	MeSH	0.218
+sars7a protein, SARS virus	Plasmids	MeSH	0.219
+sars7a protein, SARS virus	Sequence Analysis, DNA	MeSH	0.226
+sars7a protein, SARS virus	Computer Simulation	MeSH	0.261
+sars7a protein, SARS virus	Models, Animal	MeSH	0.269
+sars7a protein, SARS virus	Phylogeny	MeSH	0.275
+sars7a protein, SARS virus	Necrosis	MeSH	0.279
+sars7a protein, SARS virus	Up-Regulation	MeSH	0.289
+sars7a protein, SARS virus	Temperature	MeSH	0.29
+sars7a protein, SARS virus	Adult	MeSH	0.293
+sars7a protein, SARS virus	Humans	MeSH	0.296
+sars7a protein, SARS virus	Gene Expression Regulation	MeSH	0.344
+sars7a protein, SARS virus	Social Control, Formal	MeSH	0.367
+sars7a protein, SARS virus	Cell Survival	MeSH	0.38
+sars7a protein, SARS virus	Escherichia coli	MeSH	0.4
+sars7a protein, SARS virus	Organizations	MeSH	0.407
+sars7a protein, SARS virus	Middle Aged	MeSH	0.422
+sars7a protein, SARS virus	Set (Psychology)	MeSH	0.441
+sars7a protein, SARS virus	Lymphocytes	MeSH	0.466
+sars7a protein, SARS virus	Tissues	MeSH	0.489
+sars7a protein, SARS virus	Binding Sites	MeSH	0.555
+sars7a protein, SARS virus	Therapeutics	MeSH	0.562
+sars7a protein, SARS virus	Genotype	MeSH	0.573
+sars7a protein, SARS virus	Pathology	MeSH	0.628
+sars7a protein, SARS virus	Morbidity	MeSH	0.71
+sars7a protein, SARS virus	Aged	MeSH	0.865
+sars7a protein, SARS virus	Attention	MeSH	1.0
+sars7a protein, SARS virus	Economics	MeSH	1.0
+sars7a protein, SARS virus	Role	MeSH	1.0
+sars7a protein, SARS virus	Time	MeSH	1.0
+sars7a protein, SARS virus	Identification (Psychology)	MeSH	1.0
+sars7a protein, SARS virus	Comprehension	MeSH	1.0
+sars7a protein, SARS virus	Rats	MeSH	1.0
+sars7a protein, SARS virus	Base Sequence	MeSH	1.0
+sars7a protein, SARS virus	Culture	MeSH	1.0
+sars7a protein, SARS virus	Efficiency	MeSH	1.0
+sars7a protein, SARS virus	Family	MeSH	1.0
+sars7a protein, SARS virus	Kinetics	MeSH	1.0
+sars7a protein, SARS virus	Mortality	MeSH	1.0
+sars7a protein, SARS virus	Plants	MeSH	1.0
+sars7a protein, SARS virus	Population	MeSH	1.0
+sars7a protein, SARS virus	Sensitivity and Specificity	MeSH	1.0
+sars7a protein, SARS virus	Research Report	MeSH	1.0
+sars7a protein, SARS virus	ling mao xiang	Traditional chinese medicine	4.29E-5

@@ -1,0 +1,238 @@
+Selection	Association Name	Association Type	Significance
+ORF3A protein, SARS coronavirus	Interleukin 8 measurement	Procedure	6.37E-4
+ORF3A protein, SARS coronavirus	Genetic techniques	Procedure	0.00358
+ORF3A protein, SARS coronavirus	Protein interaction mapping	Procedure	0.00386
+ORF3A protein, SARS coronavirus	Two-hybrid system techniques	Procedure	0.00405
+ORF3A protein, SARS coronavirus	Angiotensin converting enzyme measurement	Procedure	0.00955
+ORF3A protein, SARS coronavirus	Transfection	Procedure	0.0128
+ORF3A protein, SARS coronavirus	Bone mineral density test	Procedure	0.0172
+ORF3A protein, SARS coronavirus	Monocyte count procedure	Procedure	0.0194
+ORF3A protein, SARS coronavirus	Mutagenesis	Procedure	0.0252
+ORF3A protein, SARS coronavirus	Cytarabine/thioguanine	Procedure	0.0261
+ORF3A protein, SARS coronavirus	Cell culture techniques	Procedure	0.0404
+ORF3A protein, SARS coronavirus	Electron microscopy	Procedure	0.0458
+ORF3A protein, SARS coronavirus	Total protein measurement	Procedure	0.0467
+ORF3A protein, SARS coronavirus	X-ray computed tomography	Procedure	0.144
+ORF3A protein, SARS coronavirus	Laser-induced fluorescence endoscopy	Procedure	0.306
+ORF3A protein, SARS coronavirus	Scientific study	Procedure	1.0
+ORF3A protein, SARS coronavirus	Clinical research	Procedure	1.0
+ORF3A protein, SARS coronavirus	Clinical trials	Procedure	1.0
+ORF3A protein, SARS coronavirus	Study	Procedure	1.0
+ORF3A protein, SARS coronavirus	DICOM study	Procedure	1.0
+ORF3A protein, SARS coronavirus	Severe Acute Respiratory Syndrome	Disease	3.07E-5
+ORF3A protein, SARS coronavirus	Coronavirus Infections	Disease	0.00137
+ORF3A protein, SARS coronavirus	Aseptic Necrosis of Bone	Disease	0.00371
+ORF3A protein, SARS coronavirus	Respiratory Insufficiency	Disease	0.0161
+ORF3A protein, SARS coronavirus	Lung diseases	Disease	0.0301
+ORF3A protein, SARS coronavirus	Infection	Disease	0.0975
+ORF3A protein, SARS coronavirus	Syndrome	Disease	0.201
+ORF3A protein, SARS coronavirus	Sprains and Strains	Disease	0.258
+ORF3A protein, SARS coronavirus	Disease	Disease	1.0
+ORF3A protein, SARS coronavirus	sars7a protein, SARS virus	Chemical	1.79E-6
+ORF3A protein, SARS coronavirus	Viral Structural Proteins	Chemical	2.67E-5
+ORF3A protein, SARS coronavirus	ADP-Ribosylation Factor 1	Chemical	2.19E-4
+ORF3A protein, SARS coronavirus	angiotensin converting enzyme 2	Chemical	3.26E-4
+ORF3A protein, SARS coronavirus	Viral Matrix Proteins	Chemical	4.63E-4
+ORF3A protein, SARS coronavirus	JNK Mitogen-Activated Protein Kinases	Chemical	0.00116
+ORF3A protein, SARS coronavirus	Viral Proteins	Chemical	0.00118
+ORF3A protein, SARS coronavirus	Caveolin 1	Chemical	0.00149
+ORF3A protein, SARS coronavirus	Tumor Necrosis Factor Ligand Superfamily Member 11	Chemical	0.00198
+ORF3A protein, SARS coronavirus	NF-kB	Chemical	0.00514
+ORF3A protein, SARS coronavirus	RNA, Viral	Chemical	0.00562
+ORF3A protein, SARS coronavirus	Angiotensin-Converting Enzyme	Chemical	0.00708
+ORF3A protein, SARS coronavirus	p38 Mitogen-Activated Protein Kinases	Chemical	0.00802
+ORF3A protein, SARS coronavirus	GTPase	Chemical	0.00857
+ORF3A protein, SARS coronavirus	Interleukin-8	Chemical	0.0115
+ORF3A protein, SARS coronavirus	Chemokine	Chemical	0.0161
+ORF3A protein, SARS coronavirus	Angiotensin	Chemical	0.0194
+ORF3A protein, SARS coronavirus	Protein	Chemical	0.0206
+ORF3A protein, SARS coronavirus	Interleukin	Chemical	0.0295
+ORF3A protein, SARS coronavirus	Steroid Compound	Chemical	0.0304
+ORF3A protein, SARS coronavirus	Glycoprotein	Chemical	0.0466
+ORF3A protein, SARS coronavirus	Tumor Necrosis Factor	Chemical	0.0516
+ORF3A protein, SARS coronavirus	Membrane Protein	Chemical	0.0606
+ORF3A protein, SARS coronavirus	Ligand	Chemical	0.0645
+ORF3A protein, SARS coronavirus	Kinase	Chemical	0.0958
+ORF3A protein, SARS coronavirus	Ribonucleic Acid	Chemical	0.108
+ORF3A protein, SARS coronavirus	Amino Acid	Chemical	0.162
+ORF3A protein, SARS coronavirus	Lipid	Chemical	0.163
+ORF3A protein, SARS coronavirus	Electron	Chemical	0.165
+ORF3A protein, SARS coronavirus	Water	Chemical	0.266
+ORF3A protein, SARS coronavirus	Receptor	Chemical	0.312
+ORF3A protein, SARS coronavirus	Enzyme	Chemical	0.383
+ORF3A protein, SARS coronavirus	Cytoplasmic Vesicles	Anatomy	8.14E-4
+ORF3A protein, SARS coronavirus	Rough endoplasmic reticulum	Anatomy	0.00229
+ORF3A protein, SARS coronavirus	Golgi Apparatus	Anatomy	0.00269
+ORF3A protein, SARS coronavirus	Cytoplasmic Domain	Anatomy	0.00339
+ORF3A protein, SARS coronavirus	Vero Cells	Anatomy	0.00485
+ORF3A protein, SARS coronavirus	Endosomes	Anatomy	0.00525
+ORF3A protein, SARS coronavirus	Osteoclasts	Anatomy	0.00705
+ORF3A protein, SARS coronavirus	vesicle	Anatomy	0.00832
+ORF3A protein, SARS coronavirus	COS Cells	Anatomy	0.00907
+ORF3A protein, SARS coronavirus	Stromal Cells	Anatomy	0.0101
+ORF3A protein, SARS coronavirus	Osteoblasts	Anatomy	0.0124
+ORF3A protein, SARS coronavirus	Pore	Anatomy	0.013
+ORF3A protein, SARS coronavirus	Ribosomes	Anatomy	0.0134
+ORF3A protein, SARS coronavirus	Structure of lumen of body system	Anatomy	0.015
+ORF3A protein, SARS coronavirus	Membrane	Anatomy	0.0151
+ORF3A protein, SARS coronavirus	HEK293 Cells	Anatomy	0.0157
+ORF3A protein, SARS coronavirus	Bone Marrow Cells	Anatomy	0.0198
+ORF3A protein, SARS coronavirus	Oocytes	Anatomy	0.0213
+ORF3A protein, SARS coronavirus	Cell Line	Anatomy	0.0237
+ORF3A protein, SARS coronavirus	Monocytes	Anatomy	0.0302
+ORF3A protein, SARS coronavirus	protein location	Anatomy	0.047
+ORF3A protein, SARS coronavirus	Cells	Anatomy	0.0543
+ORF3A protein, SARS coronavirus	Epithelial Cells	Anatomy	0.0627
+ORF3A protein, SARS coronavirus	macrophage	Anatomy	0.0638
+ORF3A protein, SARS coronavirus	Specimen Type - Bone	Anatomy	0.138
+ORF3A protein, SARS coronavirus	Bone Tissue	Anatomy	0.14
+ORF3A protein, SARS coronavirus	Skeletal bone	Anatomy	0.15
+ORF3A protein, SARS coronavirus	Bone and Bones	Anatomy	0.165
+ORF3A protein, SARS coronavirus	Lung	Anatomy	0.283
+ORF3A protein, SARS coronavirus	Nishigaki K	Biomedical expert	0.9608
+ORF3A protein, SARS coronavirus	Masuda T	Biomedical expert	0.9608
+ORF3A protein, SARS coronavirus	Hayashi T	Biomedical expert	0.9608
+ORF3A protein, SARS coronavirus	Frieman MB	Biomedical expert	0.9608
+ORF3A protein, SARS coronavirus	Baric RS	Biomedical expert	0.9608
+ORF3A protein, SARS coronavirus	Kannagi M	Biomedical expert	0.9608
+ORF3A protein, SARS coronavirus	Yount B	Biomedical expert	0.9608
+ORF3A protein, SARS coronavirus	Goldsmith CS	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Denison MR	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Lippincott-Schwartz J	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Jameel S	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Liu DX	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Lenardo MJ	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Wang XX	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Wu Z	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	He M	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Peiris JS	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Zaki SR	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Hui PY	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Xu XN	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Screaton GR	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Padhan K	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Kanzawa N	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Le MQ	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Yasui F	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Buchholz UJ	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Nishitsuji H	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Obitsu S	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Freundt EC	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Niiro A	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Tanwar C	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Davis N	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Deming D	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Ahmed N	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Roberts RS	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Sparks J	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Ishii Y	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Fischer WB	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Hussain A	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Furukawa S	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Liu W	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Subbarao K	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Morita I	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Morita K	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Hasegawa A	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Yu L	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Kohara M	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Matsushima K	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Cheng A	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Lee MY	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Sims AC	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Wong SM	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Liao Y	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Nakahama K	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Hsu HJ	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Cheung P	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Chan JK	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Cheung CY	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Welsh S	Biomedical expert	0.9802
+ORF3A protein, SARS coronavirus	Protein	Food	0.0474
+ORF3A protein, SARS coronavirus	Water	Food	0.274
+ORF3A protein, SARS coronavirus	rough endoplasmic reticulum	Cellular component	0.00199
+ORF3A protein, SARS coronavirus	Golgi apparatus	Cellular component	0.002
+ORF3A protein, SARS coronavirus	membrane	Cellular component	0.016
+ORF3A protein, SARS coronavirus	cell	Cellular component	0.322
+ORF3A protein, SARS coronavirus	Recombinant Tumor Necrosis Factor-Alpha	Drug	0.0148
+ORF3A protein, SARS coronavirus	protein binding	Molecular function	0.0948
+ORF3A protein, SARS coronavirus	Respiratory distress	Symptom	0.0102
+ORF3A protein, SARS coronavirus	ARF1P1	Gene/Protein	2.04E-4
+ORF3A protein, SARS coronavirus	ARF1	Gene/Protein	2.28E-4
+ORF3A protein, SARS coronavirus	ST2	Gene/Protein	5.77E-4
+ORF3A protein, SARS coronavirus	IL1RL1	Gene/Protein	6.67E-4
+ORF3A protein, SARS coronavirus	SULT2A1	Gene/Protein	0.00113
+ORF3A protein, SARS coronavirus	CAV1	Gene/Protein	0.00182
+ORF3A protein, SARS coronavirus	NFKB1	Gene/Protein	0.00225
+ORF3A protein, SARS coronavirus	JUN	Gene/Protein	0.0071
+ORF3A protein, SARS coronavirus	CXCL8	Gene/Protein	0.0107
+ORF3A protein, SARS coronavirus	TNF	Gene/Protein	0.0262
+ORF3A protein, SARS coronavirus	chemokine production	Biological process	5.3E-4
+ORF3A protein, SARS coronavirus	viral life cycle	Biological process	5.77E-4
+ORF3A protein, SARS coronavirus	membrane budding	Biological process	5.82E-4
+ORF3A protein, SARS coronavirus	positive regulation of NF-kappaB transcription factor activity	Biological process	0.00203
+ORF3A protein, SARS coronavirus	RNA biosynthetic process	Biological process	0.00344
+ORF3A protein, SARS coronavirus	bone resorption	Biological process	0.00999
+ORF3A protein, SARS coronavirus	protein folding	Biological process	0.0132
+ORF3A protein, SARS coronavirus	gene expression	Biological process	0.0165
+ORF3A protein, SARS coronavirus	signaling	Biological process	0.0245
+ORF3A protein, SARS coronavirus	cell death	Biological process	0.0496
+ORF3A protein, SARS coronavirus	growth	Biological process	0.764
+ORF3A protein, SARS coronavirus	Coronavirus	MeSH	9.36E-5
+ORF3A protein, SARS coronavirus	Viverridae	MeSH	1.65E-4
+ORF3A protein, SARS coronavirus	Frameshifting, Ribosomal	MeSH	2.75E-4
+ORF3A protein, SARS coronavirus	Open Reading Frames	MeSH	0.00108
+ORF3A protein, SARS coronavirus	A549 Cells	MeSH	0.00113
+ORF3A protein, SARS coronavirus	Endoplasmic Reticulum, Rough	MeSH	0.0022
+ORF3A protein, SARS coronavirus	Cercopithecus aethiops	MeSH	0.00261
+ORF3A protein, SARS coronavirus	Frameshift Mutation	MeSH	0.00286
+ORF3A protein, SARS coronavirus	Gene Deletion	MeSH	0.00343
+ORF3A protein, SARS coronavirus	Protein Multimerization	MeSH	0.00561
+ORF3A protein, SARS coronavirus	Models, Structural	MeSH	0.00693
+ORF3A protein, SARS coronavirus	Host-Pathogen Interactions	MeSH	0.00864
+ORF3A protein, SARS coronavirus	Xenopus	MeSH	0.00919
+ORF3A protein, SARS coronavirus	MAP Kinase Signaling System	MeSH	0.00951
+ORF3A protein, SARS coronavirus	Life Cycle Stages	MeSH	0.0109
+ORF3A protein, SARS coronavirus	Bone Density	MeSH	0.0191
+ORF3A protein, SARS coronavirus	Molecular Dynamics Simulation	MeSH	0.0194
+ORF3A protein, SARS coronavirus	Virus Replication	MeSH	0.0201
+ORF3A protein, SARS coronavirus	Genetic Vectors	MeSH	0.0211
+ORF3A protein, SARS coronavirus	Models, Genetic	MeSH	0.0222
+ORF3A protein, SARS coronavirus	Osteogenesis	MeSH	0.0224
+ORF3A protein, SARS coronavirus	Genome	MeSH	0.0233
+ORF3A protein, SARS coronavirus	Computational Biology	MeSH	0.0274
+ORF3A protein, SARS coronavirus	Microscopy, Fluorescence	MeSH	0.0281
+ORF3A protein, SARS coronavirus	Enzyme Activation	MeSH	0.0334
+ORF3A protein, SARS coronavirus	Cricetinae	MeSH	0.0354
+ORF3A protein, SARS coronavirus	Promoter Regions, Genetic	MeSH	0.0437
+ORF3A protein, SARS coronavirus	Cats	MeSH	0.0447
+ORF3A protein, SARS coronavirus	Membranes	MeSH	0.0459
+ORF3A protein, SARS coronavirus	Retention (Psychology)	MeSH	0.0496
+ORF3A protein, SARS coronavirus	Plasmids	MeSH	0.0507
+ORF3A protein, SARS coronavirus	Role	MeSH	0.0602
+ORF3A protein, SARS coronavirus	Up-Regulation	MeSH	0.063
+ORF3A protein, SARS coronavirus	Macrophages	MeSH	0.0726
+ORF3A protein, SARS coronavirus	Animals	MeSH	0.0766
+ORF3A protein, SARS coronavirus	Cell Survival	MeSH	0.0771
+ORF3A protein, SARS coronavirus	Maintenance	MeSH	0.0776
+ORF3A protein, SARS coronavirus	Cell Membrane	MeSH	0.0913
+ORF3A protein, SARS coronavirus	Microscopy, Electron	MeSH	0.103
+ORF3A protein, SARS coronavirus	Respect	MeSH	0.11
+ORF3A protein, SARS coronavirus	Dogs	MeSH	0.111
+ORF3A protein, SARS coronavirus	Viruses	MeSH	0.115
+ORF3A protein, SARS coronavirus	Efficiency	MeSH	0.156
+ORF3A protein, SARS coronavirus	Amino Acid Sequence	MeSH	0.169
+ORF3A protein, SARS coronavirus	Mice	MeSH	0.175
+ORF3A protein, SARS coronavirus	Environment	MeSH	0.224
+ORF3A protein, SARS coronavirus	Identification (Psychology)	MeSH	0.232
+ORF3A protein, SARS coronavirus	Molecular Sequence Data	MeSH	0.245
+ORF3A protein, SARS coronavirus	Mortality	MeSH	0.295
+ORF3A protein, SARS coronavirus	Mutation	MeSH	0.316
+ORF3A protein, SARS coronavirus	Work	MeSH	0.344
+ORF3A protein, SARS coronavirus	Form	MeSH	0.423
+ORF3A protein, SARS coronavirus	Economics	MeSH	0.635
+ORF3A protein, SARS coronavirus	Humans	MeSH	1.0
+ORF3A protein, SARS coronavirus	Patients	MeSH	1.0
+ORF3A protein, SARS coronavirus	Genes	MeSH	1.0
+ORF3A protein, SARS coronavirus	Methods	MeSH	1.0
+ORF3A protein, SARS coronavirus	ling mao xiang	Traditional chinese medicine	5.09E-5

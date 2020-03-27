@@ -1,0 +1,652 @@
+Selection	Association Name	Association Type	Significance
+3C-like proteinase, Coronavirus	Rebirthing	Procedure	0.00102
+3C-like proteinase, Coronavirus	Sequence alignment	Procedure	0.00246
+3C-like proteinase, Coronavirus	Mutagenesis	Procedure	0.0036
+3C-like proteinase, Coronavirus	Analytical ultracentrifugation	Procedure	0.00553
+3C-like proteinase, Coronavirus	Drug discovery	Procedure	0.00568
+3C-like proteinase, Coronavirus	High throughput screening	Procedure	0.00636
+3C-like proteinase, Coronavirus	Amino acid substitution	Procedure	0.00685
+3C-like proteinase, Coronavirus	Protein sequence determination	Procedure	0.00765
+3C-like proteinase, Coronavirus	5 minutes office visit	Procedure	0.00774
+3C-like proteinase, Coronavirus	Homology modeling	Procedure	0.00845
+3C-like proteinase, Coronavirus	Subcellular fractionation	Procedure	0.00954
+3C-like proteinase, Coronavirus	X-ray crystallography	Procedure	0.00983
+3C-like proteinase, Coronavirus	Crystallography	Procedure	0.0149
+3C-like proteinase, Coronavirus	Immunoprecipitation	Procedure	0.0153
+3C-like proteinase, Coronavirus	Total protein measurement	Procedure	0.0172
+3C-like proteinase, Coronavirus	Immunofluorescence microscopy	Procedure	0.0184
+3C-like proteinase, Coronavirus	Mutation analysis	Procedure	0.0194
+3C-like proteinase, Coronavirus	Vaccine development	Procedure	0.0198
+3C-like proteinase, Coronavirus	Antiviral therapy	Procedure	0.0209
+3C-like proteinase, Coronavirus	Genetic techniques	Procedure	0.0262
+3C-like proteinase, Coronavirus	Molecular modeling	Procedure	0.0294
+3C-like proteinase, Coronavirus	DNA mutational analysis	Procedure	0.0306
+3C-like proteinase, Coronavirus	Column chromatography	Procedure	0.0306
+3C-like proteinase, Coronavirus	Fluorescence resonance energy transfer	Procedure	0.0359
+3C-like proteinase, Coronavirus	Sequence analysis	Procedure	0.0362
+3C-like proteinase, Coronavirus	Basic research	Procedure	0.045
+3C-like proteinase, Coronavirus	Sedimentation procedure	Procedure	0.0458
+3C-like proteinase, Coronavirus	Immunofluorescence assay	Procedure	0.0487
+3C-like proteinase, Coronavirus	Therapeutic intervention	Procedure	0.0491
+3C-like proteinase, Coronavirus	Precipitin tests	Procedure	0.0497
+3C-like proteinase, Coronavirus	X-ray diffraction	Procedure	0.0545
+3C-like proteinase, Coronavirus	Ultracentrifugation	Procedure	0.0571
+3C-like proteinase, Coronavirus	Cisplatin/doxorubicin/mitomycin protocol	Procedure	0.0628
+3C-like proteinase, Coronavirus	Adjuvant therapy	Procedure	0.0638
+3C-like proteinase, Coronavirus	Assay	Procedure	0.0679
+3C-like proteinase, Coronavirus	Cisplatin/cytarabine/etoposide protocol	Procedure	0.0681
+3C-like proteinase, Coronavirus	Analysis	Procedure	0.0689
+3C-like proteinase, Coronavirus	Mass screening	Procedure	0.0734
+3C-like proteinase, Coronavirus	Determination aspects	Procedure	0.0781
+3C-like proteinase, Coronavirus	Biological assay	Procedure	0.0782
+3C-like proteinase, Coronavirus	High resolution	Procedure	0.0857
+3C-like proteinase, Coronavirus	Sds-page	Procedure	0.0986
+3C-like proteinase, Coronavirus	Radiotherapy fractionation	Procedure	0.106
+3C-like proteinase, Coronavirus	Fluorescent antibody technique	Procedure	0.108
+3C-like proteinase, Coronavirus	Screening for cancer	Procedure	0.122
+3C-like proteinase, Coronavirus	Disease screening	Procedure	0.122
+3C-like proteinase, Coronavirus	Chemical fractionation	Procedure	0.127
+3C-like proteinase, Coronavirus	Dose fractionation	Procedure	0.127
+3C-like proteinase, Coronavirus	Passage tissue culture technique	Procedure	0.128
+3C-like proteinase, Coronavirus	General (procedure) toxicology screen	Procedure	0.16
+3C-like proteinase, Coronavirus	Crystal present or absent (lab procedure)	Procedure	0.163
+3C-like proteinase, Coronavirus	Cloning	Procedure	0.211
+3C-like proteinase, Coronavirus	Release	Procedure	0.214
+3C-like proteinase, Coronavirus	Dacarbazine/doxorubicin/ifosfamide protocol	Procedure	0.22
+3C-like proteinase, Coronavirus	AID artificial insemination by donor	Procedure	0.221
+3C-like proteinase, Coronavirus	Cytarabine/thioguanine	Procedure	0.255
+3C-like proteinase, Coronavirus	Zinc measurement	Procedure	0.265
+3C-like proteinase, Coronavirus	Therapeutic procedure	Procedure	0.354
+3C-like proteinase, Coronavirus	High pressure liquid chromatography procedure	Procedure	0.354
+3C-like proteinase, Coronavirus	Administration procedure	Procedure	0.359
+3C-like proteinase, Coronavirus	Treatment study	Procedure	0.359
+3C-like proteinase, Coronavirus	Cell hybridization	Procedure	0.378
+3C-like proteinase, Coronavirus	Microbial sensitivity tests	Procedure	0.431
+3C-like proteinase, Coronavirus	Western blot	Procedure	0.447
+3C-like proteinase, Coronavirus	Lipids measurement	Procedure	0.448
+3C-like proteinase, Coronavirus	Modeling	Procedure	0.508
+3C-like proteinase, Coronavirus	Chromatography	Procedure	0.51
+3C-like proteinase, Coronavirus	Chemical procedure	Procedure	0.519
+3C-like proteinase, Coronavirus	Iron measurement	Procedure	0.566
+3C-like proteinase, Coronavirus	Simulation	Procedure	0.716
+3C-like proteinase, Coronavirus	Transfection	Procedure	0.787
+3C-like proteinase, Coronavirus	Incubation laboratory procedure	Procedure	0.831
+3C-like proteinase, Coronavirus	Microscopy	Procedure	0.898
+3C-like proteinase, Coronavirus	Clinical research	Procedure	1.0
+3C-like proteinase, Coronavirus	Clinical trials	Procedure	1.0
+3C-like proteinase, Coronavirus	Scientific study	Procedure	1.0
+3C-like proteinase, Coronavirus	DICOM study	Procedure	1.0
+3C-like proteinase, Coronavirus	Study	Procedure	1.0
+3C-like proteinase, Coronavirus	Research	Procedure	1.0
+3C-like proteinase, Coronavirus	Research activities	Procedure	1.0
+3C-like proteinase, Coronavirus	Asparaginase/ifosfamide/methotrexate	Procedure	1.0
+3C-like proteinase, Coronavirus	Laser-induced fluorescence endoscopy	Procedure	1.0
+3C-like proteinase, Coronavirus	Vaccination	Procedure	1.0
+3C-like proteinase, Coronavirus	Pharmacotherapy	Procedure	1.0
+3C-like proteinase, Coronavirus	Isolation procedure	Procedure	1.0
+3C-like proteinase, Coronavirus	Excision	Procedure	1.0
+3C-like proteinase, Coronavirus	Induction procedure	Procedure	1.0
+3C-like proteinase, Coronavirus	Iontophoresis	Procedure	1.0
+3C-like proteinase, Coronavirus	X-ray computed tomography	Procedure	1.0
+3C-like proteinase, Coronavirus	Staining and labeling	Procedure	1.0
+3C-like proteinase, Coronavirus	Polymerase chain reaction	Procedure	1.0
+3C-like proteinase, Coronavirus	Isolation aspects	Procedure	1.0
+3C-like proteinase, Coronavirus	Magnetic resonance spectroscopy	Procedure	1.0
+3C-like proteinase, Coronavirus	Pathology procedure	Procedure	1.0
+3C-like proteinase, Coronavirus	Clinical trial period	Procedure	1.0
+3C-like proteinase, Coronavirus	Profile (lab procedure)	Procedure	1.0
+3C-like proteinase, Coronavirus	Efficacy study	Procedure	1.0
+3C-like proteinase, Coronavirus	Bacterial count measurement	Procedure	1.0
+3C-like proteinase, Coronavirus	Staining method	Procedure	1.0
+3C-like proteinase, Coronavirus	Severe Acute Respiratory Syndrome	Disease	1.76E-5
+3C-like proteinase, Coronavirus	Feline infectious peritonitis	Disease	5.26E-5
+3C-like proteinase, Coronavirus	Coronavirus Infections	Disease	2.67E-4
+3C-like proteinase, Coronavirus	Bronchitis	Disease	3.01E-4
+3C-like proteinase, Coronavirus	Gastroenteritis, Transmissible, of Swine	Disease	0.00132
+3C-like proteinase, Coronavirus	Coronaviridae Infections	Disease	0.00167
+3C-like proteinase, Coronavirus	Gastroenteritis	Disease	0.00185
+3C-like proteinase, Coronavirus	Hepatitis	Disease	0.0107
+3C-like proteinase, Coronavirus	Communicable Diseases, Emerging	Disease	0.0124
+3C-like proteinase, Coronavirus	Infection	Disease	0.0413
+3C-like proteinase, Coronavirus	Poultry Diseases	Disease	0.0488
+3C-like proteinase, Coronavirus	Swine Diseases	Disease	0.0515
+3C-like proteinase, Coronavirus	Communicable Diseases	Disease	0.0542
+3C-like proteinase, Coronavirus	Dissociative disorder	Disease	0.0603
+3C-like proteinase, Coronavirus	Pneumonia	Disease	0.0784
+3C-like proteinase, Coronavirus	Peritonitis	Disease	0.0806
+3C-like proteinase, Coronavirus	Respiratory Tract Diseases	Disease	0.0824
+3C-like proteinase, Coronavirus	Cystic Fibrosis	Disease	0.109
+3C-like proteinase, Coronavirus	Sprains and Strains	Disease	0.161
+3C-like proteinase, Coronavirus	Disease	Disease	0.786
+3C-like proteinase, Coronavirus	HIV Infections	Disease	1.0
+3C-like proteinase, Coronavirus	gene 1 protein, Coronavirus	Chemical	8.9E-7
+3C-like proteinase, Coronavirus	carbobenzyloxy-valyl-asparaginyl-seryl-threonyl-leuyl-glutamine chloromethylketone	Chemical	1.85E-6
+3C-like proteinase, Coronavirus	UC2 compound	Chemical	1.85E-6
+3C-like proteinase, Coronavirus	Cysteine Endopeptidases	Chemical	9.4E-6
+3C-like proteinase, Coronavirus	cevine	Chemical	1.48E-5
+3C-like proteinase, Coronavirus	Polyproteins	Chemical	1.59E-5
+3C-like proteinase, Coronavirus	papain-like proteinase 2	Chemical	2.41E-5
+3C-like proteinase, Coronavirus	papain-like proteinase 1	Chemical	4.27E-5
+3C-like proteinase, Coronavirus	nonstructural protein, coronavirus	Chemical	6.12E-5
+3C-like proteinase, Coronavirus	Cysteine Proteinase Inhibitors	Chemical	2.26E-4
+3C-like proteinase, Coronavirus	Spike Glycoprotein, Coronavirus	Chemical	2.6E-4
+3C-like proteinase, Coronavirus	rhodamine 110	Chemical	2.75E-4
+3C-like proteinase, Coronavirus	Viral Proteins	Chemical	3.01E-4
+3C-like proteinase, Coronavirus	Cevanes	Chemical	3.1E-4
+3C-like proteinase, Coronavirus	3C-like protease, SARS coronavirus	Chemical	3.1E-4
+3C-like proteinase, Coronavirus	nucleocapsid protein, Coronavirus	Chemical	4.64E-4
+3C-like proteinase, Coronavirus	Peptidase	Chemical	5.32E-4
+3C-like proteinase, Coronavirus	S protein, severe acute respiratory syndrome coronavirus	Chemical	8.36E-4
+3C-like proteinase, Coronavirus	Antiviral Agent	Chemical	9.56E-4
+3C-like proteinase, Coronavirus	His-His-His-His-His-His	Chemical	9.64E-4
+3C-like proteinase, Coronavirus	Protease Inhibitor	Chemical	0.00108
+3C-like proteinase, Coronavirus	Peptidomimetics	Chemical	0.0011
+3C-like proteinase, Coronavirus	Viral Envelope Proteins	Chemical	0.00144
+3C-like proteinase, Coronavirus	benzotriazole	Chemical	0.00164
+3C-like proteinase, Coronavirus	polyhistidine	Chemical	0.00173
+3C-like proteinase, Coronavirus	Helicase	Chemical	0.00176
+3C-like proteinase, Coronavirus	Protein Precursors	Chemical	0.00222
+3C-like proteinase, Coronavirus	Cysteine Proteinase	Chemical	0.00227
+3C-like proteinase, Coronavirus	angiotensin converting enzyme 2	Chemical	0.00229
+3C-like proteinase, Coronavirus	Viral Nonstructural Proteins	Chemical	0.00236
+3C-like proteinase, Coronavirus	Apolipoprotein E3	Chemical	0.00236
+3C-like proteinase, Coronavirus	Pyrimidinones	Chemical	0.00241
+3C-like proteinase, Coronavirus	RNA Helicase	Chemical	0.0026
+3C-like proteinase, Coronavirus	Recombinant Fusion Proteins	Chemical	0.00275
+3C-like proteinase, Coronavirus	Pyrrolidinones	Chemical	0.00325
+3C-like proteinase, Coronavirus	Small Ubiquitin-Related Modifier Proteins	Chemical	0.00328
+3C-like proteinase, Coronavirus	Papain	Chemical	0.00445
+3C-like proteinase, Coronavirus	Enzyme	Chemical	0.00468
+3C-like proteinase, Coronavirus	Cysteine	Chemical	0.00473
+3C-like proteinase, Coronavirus	Maltose-Binding Proteins	Chemical	0.00507
+3C-like proteinase, Coronavirus	Cyclopropane	Chemical	0.00511
+3C-like proteinase, Coronavirus	Amino Acid Chloromethyl Ketones	Chemical	0.00533
+3C-like proteinase, Coronavirus	Chymases	Chemical	0.00546
+3C-like proteinase, Coronavirus	Oligopeptides	Chemical	0.0058
+3C-like proteinase, Coronavirus	Protein	Chemical	0.00591
+3C-like proteinase, Coronavirus	Amylose	Chemical	0.00628
+3C-like proteinase, Coronavirus	Protein Subunit	Chemical	0.00662
+3C-like proteinase, Coronavirus	Peptides	Chemical	0.00706
+3C-like proteinase, Coronavirus	Nucleotide	Chemical	0.00712
+3C-like proteinase, Coronavirus	Nucleocapsid Protein	Chemical	0.00769
+3C-like proteinase, Coronavirus	Antiparasitic Agent	Chemical	0.00812
+3C-like proteinase, Coronavirus	Vaccines	Chemical	0.00816
+3C-like proteinase, Coronavirus	Dipeptides	Chemical	0.00827
+3C-like proteinase, Coronavirus	Phenanthrolines	Chemical	0.00915
+3C-like proteinase, Coronavirus	Exonuclease	Chemical	0.0113
+3C-like proteinase, Coronavirus	Conserved Helix-Loop-Helix Ubiquitous Kinase	Chemical	0.0114
+3C-like proteinase, Coronavirus	Cyclopropanes	Chemical	0.0117
+3C-like proteinase, Coronavirus	Benzothiazoles	Chemical	0.0118
+3C-like proteinase, Coronavirus	Anilides	Chemical	0.0121
+3C-like proteinase, Coronavirus	Viral Structural Proteins	Chemical	0.0122
+3C-like proteinase, Coronavirus	Viral Protein	Chemical	0.0134
+3C-like proteinase, Coronavirus	Factor Xa	Chemical	0.0139
+3C-like proteinase, Coronavirus	Boronic Acids	Chemical	0.0147
+3C-like proteinase, Coronavirus	Ubiquitin	Chemical	0.0153
+3C-like proteinase, Coronavirus	Isoxazoles	Chemical	0.0158
+3C-like proteinase, Coronavirus	Fusion Protein	Chemical	0.0165
+3C-like proteinase, Coronavirus	Immune Sera	Chemical	0.0168
+3C-like proteinase, Coronavirus	Oxazoles	Chemical	0.0169
+3C-like proteinase, Coronavirus	5' Untranslated Regions	Chemical	0.0169
+3C-like proteinase, Coronavirus	Membrane Glycoproteins	Chemical	0.0171
+3C-like proteinase, Coronavirus	Pharmaceutical Preparations	Chemical	0.0176
+3C-like proteinase, Coronavirus	DNA, Intergenic	Chemical	0.0182
+3C-like proteinase, Coronavirus	Antiserum	Chemical	0.0187
+3C-like proteinase, Coronavirus	Recombinant Proteins	Chemical	0.0195
+3C-like proteinase, Coronavirus	Cystic Fibrosis Transmembrane Conductance Regulator	Chemical	0.0198
+3C-like proteinase, Coronavirus	Epoxy Compounds	Chemical	0.0227
+3C-like proteinase, Coronavirus	Edetic Acid	Chemical	0.0233
+3C-like proteinase, Coronavirus	Agent	Chemical	0.0245
+3C-like proteinase, Coronavirus	Peptide Fragments	Chemical	0.0264
+3C-like proteinase, Coronavirus	Furans	Chemical	0.0291
+3C-like proteinase, Coronavirus	DNA-directed DNA Polymerase	Chemical	0.0295
+3C-like proteinase, Coronavirus	Aldehyde	Chemical	0.0319
+3C-like proteinase, Coronavirus	Rhodamine	Chemical	0.0332
+3C-like proteinase, Coronavirus	Fluorescent Dyes	Chemical	0.0433
+3C-like proteinase, Coronavirus	Amino Acid	Chemical	0.0512
+3C-like proteinase, Coronavirus	Angiotensin-Converting Enzyme	Chemical	0.0541
+3C-like proteinase, Coronavirus	Ribonucleic Acid	Chemical	0.055
+3C-like proteinase, Coronavirus	Plasmid	Chemical	0.0552
+3C-like proteinase, Coronavirus	Small Molecule	Chemical	0.0582
+3C-like proteinase, Coronavirus	Therapeutic Uses	Chemical	0.0622
+3C-like proteinase, Coronavirus	Polymerase	Chemical	0.0624
+3C-like proteinase, Coronavirus	DNA-Directed RNA Polymerases	Chemical	0.0636
+3C-like proteinase, Coronavirus	Endopeptidase	Chemical	0.0712
+3C-like proteinase, Coronavirus	Enzyme Inhibitors	Chemical	0.084
+3C-like proteinase, Coronavirus	Anti-HIV Agents	Chemical	0.0944
+3C-like proteinase, Coronavirus	Pyrimidines	Chemical	0.103
+3C-like proteinase, Coronavirus	Ion	Chemical	0.123
+3C-like proteinase, Coronavirus	Pyridines	Chemical	0.125
+3C-like proteinase, Coronavirus	Catalyst	Chemical	0.134
+3C-like proteinase, Coronavirus	Esters	Chemical	0.143
+3C-like proteinase, Coronavirus	Antipsychotic Agents	Chemical	0.159
+3C-like proteinase, Coronavirus	RNA, Viral	Chemical	0.215
+3C-like proteinase, Coronavirus	Metal	Chemical	0.216
+3C-like proteinase, Coronavirus	Binding Sites	Chemical	0.227
+3C-like proteinase, Coronavirus	Messenger RNA	Chemical	0.309
+3C-like proteinase, Coronavirus	DNA Primers	Chemical	0.309
+3C-like proteinase, Coronavirus	Copper	Chemical	0.328
+3C-like proteinase, Coronavirus	Acids	Chemical	0.33
+3C-like proteinase, Coronavirus	Lead Metal	Chemical	0.358
+3C-like proteinase, Coronavirus	Antibody	Chemical	0.447
+3C-like proteinase, Coronavirus	Antagonist	Chemical	0.958
+3C-like proteinase, Coronavirus	Antigen	Chemical	1.0
+3C-like proteinase, Coronavirus	Indicators and Reagents	Chemical	1.0
+3C-like proteinase, Coronavirus	Lipid	Chemical	1.0
+3C-like proteinase, Coronavirus	Elements	Chemical	1.0
+3C-like proteinase, Coronavirus	Ligands	Chemical	1.0
+3C-like proteinase, Coronavirus	Transcription Factor	Chemical	1.0
+3C-like proteinase, Coronavirus	Acid	Chemical	1.0
+3C-like proteinase, Coronavirus	Molecule	Chemical	1.0
+3C-like proteinase, Coronavirus	Vero Cells	Anatomy	5.3E-4
+3C-like proteinase, Coronavirus	microsomal membrane	Anatomy	0.00229
+3C-like proteinase, Coronavirus	interleukin-35 complex	Anatomy	0.00338
+3C-like proteinase, Coronavirus	Crystal - human material	Anatomy	0.00849
+3C-like proteinase, Coronavirus	interleukin-12 complex	Anatomy	0.0108
+3C-like proteinase, Coronavirus	COS Cells	Anatomy	0.0166
+3C-like proteinase, Coronavirus	protein location	Anatomy	0.0173
+3C-like proteinase, Coronavirus	Flank (surface region)	Anatomy	0.0173
+3C-like proteinase, Coronavirus	viral genome location	Anatomy	0.0198
+3C-like proteinase, Coronavirus	Structure of achilles tendon	Anatomy	0.0218
+3C-like proteinase, Coronavirus	Heel	Anatomy	0.0239
+3C-like proteinase, Coronavirus	Reticulocytes	Anatomy	0.039
+3C-like proteinase, Coronavirus	Smooth Endoplasmic Reticulum	Anatomy	0.0405
+3C-like proteinase, Coronavirus	Intracellular Membranes	Anatomy	0.0488
+3C-like proteinase, Coronavirus	Cultured Cells	Anatomy	0.0619
+3C-like proteinase, Coronavirus	Tissue membrane	Anatomy	0.0649
+3C-like proteinase, Coronavirus	Eukaryotic Cells	Anatomy	0.0658
+3C-like proteinase, Coronavirus	Respiratory tract structure	Anatomy	0.0669
+3C-like proteinase, Coronavirus	Body cavities	Anatomy	0.0674
+3C-like proteinase, Coronavirus	Subcellular Fractions	Anatomy	0.069
+3C-like proteinase, Coronavirus	Lambda (Sutural junction)	Anatomy	0.0695
+3C-like proteinase, Coronavirus	envelope	Anatomy	0.0874
+3C-like proteinase, Coronavirus	Virion	Anatomy	0.0949
+3C-like proteinase, Coronavirus	Microsomes	Anatomy	0.11
+3C-like proteinase, Coronavirus	Oral region	Anatomy	0.12
+3C-like proteinase, Coronavirus	Chick Embryo	Anatomy	0.145
+3C-like proteinase, Coronavirus	Respiratory System	Anatomy	0.159
+3C-like proteinase, Coronavirus	Cells	Anatomy	0.167
+3C-like proteinase, Coronavirus	Endoplasmic Reticulum	Anatomy	0.188
+3C-like proteinase, Coronavirus	Tail	Anatomy	0.201
+3C-like proteinase, Coronavirus	Oral cavity	Anatomy	0.214
+3C-like proteinase, Coronavirus	Column (anatomic)	Anatomy	0.371
+3C-like proteinase, Coronavirus	Fragments	Anatomy	0.576
+3C-like proteinase, Coronavirus	Cytoplasm	Anatomy	0.6
+3C-like proteinase, Coronavirus	Clone Cells	Anatomy	0.645
+3C-like proteinase, Coronavirus	Tumor Cells, Cultured	Anatomy	0.65
+3C-like proteinase, Coronavirus	Specimen Type - Macrophages	Anatomy	0.708
+3C-like proteinase, Coronavirus	Cell Line	Anatomy	1.0
+3C-like proteinase, Coronavirus	Hand	Anatomy	1.0
+3C-like proteinase, Coronavirus	macrophage	Anatomy	1.0
+3C-like proteinase, Coronavirus	Liu DX	Biomedical expert	0.8187
+3C-like proteinase, Coronavirus	Ziebuhr J	Biomedical expert	0.8694
+3C-like proteinase, Coronavirus	Hilgenfeld R	Biomedical expert	0.8869
+3C-like proteinase, Coronavirus	Xu HY	Biomedical expert	0.9048
+3C-like proteinase, Coronavirus	Yang H	Biomedical expert	0.9231
+3C-like proteinase, Coronavirus	Rao Z	Biomedical expert	0.9231
+3C-like proteinase, Coronavirus	Anand K	Biomedical expert	0.9231
+3C-like proteinase, Coronavirus	Ng LF	Biomedical expert	0.9231
+3C-like proteinase, Coronavirus	Mesters JR	Biomedical expert	0.9231
+3C-like proteinase, Coronavirus	Brown TD	Biomedical expert	0.9231
+3C-like proteinase, Coronavirus	Weiss SR	Biomedical expert	0.9418
+3C-like proteinase, Coronavirus	Shen X	Biomedical expert	0.9418
+3C-like proteinase, Coronavirus	Denison MR	Biomedical expert	0.9418
+3C-like proteinase, Coronavirus	Mesecar AD	Biomedical expert	0.9418
+3C-like proteinase, Coronavirus	Bartlam M	Biomedical expert	0.9418
+3C-like proteinase, Coronavirus	Shen S	Biomedical expert	0.9418
+3C-like proteinase, Coronavirus	Tan J	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Verschueren KH	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Hegyi A	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Tibbles KW	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Sims AC	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Chen Z	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Yuen KY	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Siddell SG	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Yang K	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Mangel WF	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Gorbalenya AE	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	McGrath WJ	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Zhao Q	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Jiang H	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Wang Y	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Chen J	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Navas-Martin S	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Ratia K	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Cavanagh D	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Baker SC	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Lu XT	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Graziano V	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Zhu X	Biomedical expert	0.9608
+3C-like proteinase, Coronavirus	Su YC	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Pei J	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Yap YL	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Brierley I	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Guo H	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Zhang XW	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Tang DJ	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Therkelsen MD	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Phakthanakanok K	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Begaye A	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Pumpor K	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Kazi L	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Wadhwani P	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Kyu KL	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Schmittel M	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Needle D	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Alliston KR	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Seybert A	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Friebe A	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Palm GJ	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Luo HB	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Pinitglang S	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Eltis LD	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Rabenau H	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Wang M	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Ho Y	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Wang SF	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	James KE	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Bayer S	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Yu CY	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Watts A	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	De S	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Lai L	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Wong L	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Chen K	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Liu S	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Chen C	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Pramanik S	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Ghosh AK	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Lund O	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Gibson CA	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Wilkinson KD	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Liu HL	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Li GW	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Pei D	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Vakharia VN	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Chen KX	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Ye X	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Wang SQ	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Zhu Y	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Blom N	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Schelle B	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Inglis SC	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Mattern MR	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Thiel V	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Chang GG	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Tan R	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Martínez MA	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Lee TW	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Lin JC	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Hsieh WC	Biomedical expert	0.9802
+3C-like proteinase, Coronavirus	Histidine	Food	0.00228
+3C-like proteinase, Coronavirus	Wheatgerm	Food	0.0173
+3C-like proteinase, Coronavirus	Protein	Food	0.0175
+3C-like proteinase, Coronavirus	Serine	Food	0.0182
+3C-like proteinase, Coronavirus	Maltose	Food	0.0188
+3C-like proteinase, Coronavirus	Leucine	Food	0.0267
+3C-like proteinase, Coronavirus	Poultry	Food	0.0712
+3C-like proteinase, Coronavirus	Alanine	Food	0.207
+3C-like proteinase, Coronavirus	Copper	Food	0.328
+3C-like proteinase, Coronavirus	Zinc	Food	0.361
+3C-like proteinase, Coronavirus	Iron	Food	0.817
+3C-like proteinase, Coronavirus	Alcohol	Food	1.0
+3C-like proteinase, Coronavirus	virion	Cellular component	0.0949
+3C-like proteinase, Coronavirus	endoplasmic reticulum	Cellular component	0.19
+3C-like proteinase, Coronavirus	cell	Cellular component	0.337
+3C-like proteinase, Coronavirus	cytoplasm	Cellular component	0.595
+3C-like proteinase, Coronavirus	membrane	Cellular component	1.0
+3C-like proteinase, Coronavirus	rupintrivir	Drug	1.26E-4
+3C-like proteinase, Coronavirus	LOPINAVIR	Drug	0.00105
+3C-like proteinase, Coronavirus	NICLOSAMIDE	Drug	0.00195
+3C-like proteinase, Coronavirus	Histidine	Drug	0.00228
+3C-like proteinase, Coronavirus	Promazine	Drug	0.00249
+3C-like proteinase, Coronavirus	N-(Allyloxycarbonyl)-4-[N-(Carboxy-Formyl)-2-(Benzoic Acid)-Amino]-L-Phenylalaninyl-Amino-Butyloxy-(6-Hydroxy-Benzoic Acid Methyl Ester)	Drug	0.0025
+3C-like proteinase, Coronavirus	Isatin	Drug	0.00258
+3C-like proteinase, Coronavirus	GLUTAMINE	Drug	0.00291
+3C-like proteinase, Coronavirus	RITONAVIR	Drug	0.0106
+3C-like proteinase, Coronavirus	Maltose	Drug	0.0188
+3C-like proteinase, Coronavirus	Recombinant Interferon Beta	Drug	0.023
+3C-like proteinase, Coronavirus	EDETATE CALCIUM DISODIUM	Drug	0.0235
+3C-like proteinase, Coronavirus	L-Leucine	Drug	0.0267
+3C-like proteinase, Coronavirus	L-Serine	Drug	0.0358
+3C-like proteinase, Coronavirus	CHYMOTRYPSIN	Drug	0.0386
+3C-like proteinase, Coronavirus	DIMETHYL SULFOXIDE	Drug	0.0662
+3C-like proteinase, Coronavirus	Histamine	Drug	0.15
+3C-like proteinase, Coronavirus	L-Alanine	Drug	0.207
+3C-like proteinase, Coronavirus	Zinc	Drug	0.362
+3C-like proteinase, Coronavirus	Iron	Drug	0.827
+3C-like proteinase, Coronavirus	maltose binding	Molecular function	0.00168
+3C-like proteinase, Coronavirus	peptidase activity	Molecular function	0.00458
+3C-like proteinase, Coronavirus	catalytic activity	Molecular function	0.0255
+3C-like proteinase, Coronavirus	protein binding	Molecular function	0.0475
+3C-like proteinase, Coronavirus	Fluctuation	Symptom	0.23
+3C-like proteinase, Coronavirus	Diarrhea	Symptom	0.324
+3C-like proteinase, Coronavirus	SPECC1	Gene/Protein	4.68E-5
+3C-like proteinase, Coronavirus	PPP1CA	Gene/Protein	1.05E-4
+3C-like proteinase, Coronavirus	PLP2	Gene/Protein	3.82E-4
+3C-like proteinase, Coronavirus	CTRL	Gene/Protein	3.93E-4
+3C-like proteinase, Coronavirus	FABP9	Gene/Protein	4.62E-4
+3C-like proteinase, Coronavirus	SH2D3C	Gene/Protein	9.14E-4
+3C-like proteinase, Coronavirus	SH2D3A	Gene/Protein	0.00106
+3C-like proteinase, Coronavirus	PRSS57	Gene/Protein	0.0012
+3C-like proteinase, Coronavirus	RTN2	Gene/Protein	0.00131
+3C-like proteinase, Coronavirus	BCAR3	Gene/Protein	0.00137
+3C-like proteinase, Coronavirus	PLP1	Gene/Protein	0.00233
+3C-like proteinase, Coronavirus	HFM1	Gene/Protein	0.00237
+3C-like proteinase, Coronavirus	ATF6B	Gene/Protein	0.00306
+3C-like proteinase, Coronavirus	IKBKG	Gene/Protein	0.0038
+3C-like proteinase, Coronavirus	ORF1	Gene/Protein	0.00384
+3C-like proteinase, Coronavirus	NCKIPSD	Gene/Protein	0.004
+3C-like proteinase, Coronavirus	POU2F1	Gene/Protein	0.00403
+3C-like proteinase, Coronavirus	AHI1	Gene/Protein	0.00411
+3C-like proteinase, Coronavirus	CTSB	Gene/Protein	0.0049
+3C-like proteinase, Coronavirus	F10	Gene/Protein	0.0122
+3C-like proteinase, Coronavirus	ERVW-1	Gene/Protein	0.0216
+3C-like proteinase, Coronavirus	viral gene expression	Biological process	3.36E-4
+3C-like proteinase, Coronavirus	viral transcription	Biological process	0.00286
+3C-like proteinase, Coronavirus	viral life cycle	Biological process	0.00407
+3C-like proteinase, Coronavirus	RNA replication	Biological process	0.00565
+3C-like proteinase, Coronavirus	proteolysis	Biological process	0.0074
+3C-like proteinase, Coronavirus	evasion or tolerance of immune response of other organism involved in symbiotic interaction	Biological process	0.0109
+3C-like proteinase, Coronavirus	gene expression	Biological process	0.0147
+3C-like proteinase, Coronavirus	protein catabolic process	Biological process	0.032
+3C-like proteinase, Coronavirus	translation	Biological process	0.0464
+3C-like proteinase, Coronavirus	autophagy	Biological process	0.0933
+3C-like proteinase, Coronavirus	protein folding	Biological process	0.109
+3C-like proteinase, Coronavirus	growth	Biological process	1.0
+3C-like proteinase, Coronavirus	Coronavirus	MeSH	8.86E-6
+3C-like proteinase, Coronavirus	Infectious bronchitis virus	MeSH	1.72E-5
+3C-like proteinase, Coronavirus	Coronavirus 229E, Human	MeSH	4.39E-5
+3C-like proteinase, Coronavirus	Coronavirus, Feline	MeSH	4.99E-5
+3C-like proteinase, Coronavirus	Murine hepatitis virus	MeSH	7.49E-5
+3C-like proteinase, Coronavirus	Transmissible gastroenteritis virus	MeSH	8.0E-5
+3C-like proteinase, Coronavirus	Gammacoronavirus	MeSH	1.09E-4
+3C-like proteinase, Coronavirus	Spike Glycoprotein, Coronavirus	MeSH	2.65E-4
+3C-like proteinase, Coronavirus	Alphacoronavirus	MeSH	2.76E-4
+3C-like proteinase, Coronavirus	Coronavirus NL63, Human	MeSH	3.99E-4
+3C-like proteinase, Coronavirus	Frameshifting, Ribosomal	MeSH	4.83E-4
+3C-like proteinase, Coronavirus	Protein Processing, Post-Translational	MeSH	5.48E-4
+3C-like proteinase, Coronavirus	Drug Design	MeSH	6.75E-4
+3C-like proteinase, Coronavirus	Middle East Respiratory Syndrome Coronavirus	MeSH	7.73E-4
+3C-like proteinase, Coronavirus	Databases, Chemical	MeSH	8.22E-4
+3C-like proteinase, Coronavirus	Coronaviridae	MeSH	9.09E-4
+3C-like proteinase, Coronavirus	Cercopithecus aethiops	MeSH	0.00115
+3C-like proteinase, Coronavirus	Crystallography, X-Ray	MeSH	0.00126
+3C-like proteinase, Coronavirus	Substrate Specificity	MeSH	0.0014
+3C-like proteinase, Coronavirus	Binding Sites	MeSH	0.00141
+3C-like proteinase, Coronavirus	Models, Molecular	MeSH	0.00144
+3C-like proteinase, Coronavirus	Open Reading Frames	MeSH	0.00152
+3C-like proteinase, Coronavirus	Catalytic Domain	MeSH	0.00153
+3C-like proteinase, Coronavirus	Picornaviridae	MeSH	0.00158
+3C-like proteinase, Coronavirus	Porcine epidemic diarrhea virus	MeSH	0.00159
+3C-like proteinase, Coronavirus	RNA Viruses	MeSH	0.00161
+3C-like proteinase, Coronavirus	Norwalk virus	MeSH	0.00163
+3C-like proteinase, Coronavirus	Protein Conformation	MeSH	0.00164
+3C-like proteinase, Coronavirus	Dimerization	MeSH	0.00172
+3C-like proteinase, Coronavirus	Amino Acid Sequence	MeSH	0.00222
+3C-like proteinase, Coronavirus	Mutagenesis, Site-Directed	MeSH	0.00276
+3C-like proteinase, Coronavirus	Rhinovirus	MeSH	0.00276
+3C-like proteinase, Coronavirus	Protein Structure, Quaternary	MeSH	0.00288
+3C-like proteinase, Coronavirus	Protein Structure, Tertiary	MeSH	0.00328
+3C-like proteinase, Coronavirus	Virus Replication	MeSH	0.00394
+3C-like proteinase, Coronavirus	Molecular Sequence Data	MeSH	0.00417
+3C-like proteinase, Coronavirus	Viruses	MeSH	0.00515
+3C-like proteinase, Coronavirus	Potyvirus	MeSH	0.00536
+3C-like proteinase, Coronavirus	Sendai virus	MeSH	0.00718
+3C-like proteinase, Coronavirus	Genes, Viral	MeSH	0.0074
+3C-like proteinase, Coronavirus	Sequence Deletion	MeSH	0.00755
+3C-like proteinase, Coronavirus	Sequence Homology, Amino Acid	MeSH	0.00852
+3C-like proteinase, Coronavirus	Molecular Structure	MeSH	0.00861
+3C-like proteinase, Coronavirus	Structural Homology, Protein	MeSH	0.00865
+3C-like proteinase, Coronavirus	Molecular Dynamics Simulation	MeSH	0.00874
+3C-like proteinase, Coronavirus	Arkansas	MeSH	0.0094
+3C-like proteinase, Coronavirus	Genome	MeSH	0.0109
+3C-like proteinase, Coronavirus	Norovirus	MeSH	0.0112
+3C-like proteinase, Coronavirus	Hydrogen Bonding	MeSH	0.0114
+3C-like proteinase, Coronavirus	Kinetics	MeSH	0.0115
+3C-like proteinase, Coronavirus	Genome Size	MeSH	0.0115
+3C-like proteinase, Coronavirus	Drug Evaluation, Preclinical	MeSH	0.012
+3C-like proteinase, Coronavirus	Computational Biology	MeSH	0.0125
+3C-like proteinase, Coronavirus	Cats	MeSH	0.013
+3C-like proteinase, Coronavirus	Suppression, Genetic	MeSH	0.0131
+3C-like proteinase, Coronavirus	Sequence Homology	MeSH	0.0137
+3C-like proteinase, Coronavirus	Drug Development	MeSH	0.0148
+3C-like proteinase, Coronavirus	Immune Evasion	MeSH	0.0148
+3C-like proteinase, Coronavirus	Mutation	MeSH	0.0153
+3C-like proteinase, Coronavirus	Crystallization	MeSH	0.0155
+3C-like proteinase, Coronavirus	Biomimetic Materials	MeSH	0.016
+3C-like proteinase, Coronavirus	Catalysis	MeSH	0.0165
+3C-like proteinase, Coronavirus	Evolution, Molecular	MeSH	0.0165
+3C-like proteinase, Coronavirus	Genome, Viral	MeSH	0.0171
+3C-like proteinase, Coronavirus	Bacteriophage lambda	MeSH	0.0196
+3C-like proteinase, Coronavirus	Gene Order	MeSH	0.0196
+3C-like proteinase, Coronavirus	Patents as Topic	MeSH	0.02
+3C-like proteinase, Coronavirus	Life Cycle Stages	MeSH	0.0201
+3C-like proteinase, Coronavirus	Plasmids	MeSH	0.0239
+3C-like proteinase, Coronavirus	Identification (Psychology)	MeSH	0.0241
+3C-like proteinase, Coronavirus	Structure-Activity Relationship	MeSH	0.0249
+3C-like proteinase, Coronavirus	Inhibition (Psychology)	MeSH	0.0273
+3C-like proteinase, Coronavirus	Gene Expression Regulation, Viral	MeSH	0.0293
+3C-like proteinase, Coronavirus	Protein Structure, Secondary	MeSH	0.0309
+3C-like proteinase, Coronavirus	Computer-Aided Design	MeSH	0.032
+3C-like proteinase, Coronavirus	Zinc Fingers	MeSH	0.0338
+3C-like proteinase, Coronavirus	Point Mutation	MeSH	0.0346
+3C-like proteinase, Coronavirus	Molecular Conformation	MeSH	0.0377
+3C-like proteinase, Coronavirus	Pliability	MeSH	0.0385
+3C-like proteinase, Coronavirus	Electrophoresis, Polyacrylamide Gel	MeSH	0.0402
+3C-like proteinase, Coronavirus	Sequence Analysis, Protein	MeSH	0.0415
+3C-like proteinase, Coronavirus	Consensus Sequence	MeSH	0.0437
+3C-like proteinase, Coronavirus	Cloning, Molecular	MeSH	0.0448
+3C-like proteinase, Coronavirus	Ubiquitination	MeSH	0.0462
+3C-like proteinase, Coronavirus	Databases, Nucleic Acid	MeSH	0.0467
+3C-like proteinase, Coronavirus	Static Electricity	MeSH	0.0488
+3C-like proteinase, Coronavirus	Female	MeSH	0.0513
+3C-like proteinase, Coronavirus	Recombination, Genetic	MeSH	0.0519
+3C-like proteinase, Coronavirus	Quantum Theory	MeSH	0.0522
+3C-like proteinase, Coronavirus	Genes	MeSH	0.0523
+3C-like proteinase, Coronavirus	Male	MeSH	0.0525
+3C-like proteinase, Coronavirus	Sequence Analysis, RNA	MeSH	0.0527
+3C-like proteinase, Coronavirus	Computer Simulation	MeSH	0.053
+3C-like proteinase, Coronavirus	Artificial Intelligence	MeSH	0.0534
+3C-like proteinase, Coronavirus	Neural Networks (Computer)	MeSH	0.055
+3C-like proteinase, Coronavirus	Sensitivity and Specificity	MeSH	0.0602
+3C-like proteinase, Coronavirus	Form	MeSH	0.0604
+3C-like proteinase, Coronavirus	Humans	MeSH	0.0606
+3C-like proteinase, Coronavirus	Host-Pathogen Interactions	MeSH	0.0672
+3C-like proteinase, Coronavirus	Animals	MeSH	0.0709
+3C-like proteinase, Coronavirus	Fluorescent Antibody Technique, Indirect	MeSH	0.0719
+3C-like proteinase, Coronavirus	Escherichia coli	MeSH	0.0768
+3C-like proteinase, Coronavirus	Forecasting	MeSH	0.0781
+3C-like proteinase, Coronavirus	Conserved Sequence	MeSH	0.0791
+3C-like proteinase, Coronavirus	Hydrogen-Ion Concentration	MeSH	0.0861
+3C-like proteinase, Coronavirus	Maps	MeSH	0.0911
+3C-like proteinase, Coronavirus	Hydrolysis	MeSH	0.0923
+3C-like proteinase, Coronavirus	Epidemics	MeSH	0.0945
+3C-like proteinase, Coronavirus	Chickens	MeSH	0.0949
+3C-like proteinase, Coronavirus	Mechanics	MeSH	0.0964
+3C-like proteinase, Coronavirus	Gene Expression Regulation, Enzymologic	MeSH	0.0967
+3C-like proteinase, Coronavirus	Patients	MeSH	0.0973
+3C-like proteinase, Coronavirus	Adult	MeSH	0.108
+3C-like proteinase, Coronavirus	Sequence Analysis, DNA	MeSH	0.119
+3C-like proteinase, Coronavirus	Biological Products	MeSH	0.119
+3C-like proteinase, Coronavirus	Bacteriophages	MeSH	0.128
+3C-like proteinase, Coronavirus	Molecular Biology	MeSH	0.13
+3C-like proteinase, Coronavirus	Triticum	MeSH	0.13
+3C-like proteinase, Coronavirus	Rabbits	MeSH	0.134
+3C-like proteinase, Coronavirus	Phylogeny	MeSH	0.145
+3C-like proteinase, Coronavirus	Nucleic Acid Conformation	MeSH	0.145
+3C-like proteinase, Coronavirus	Research Report	MeSH	0.159
+3C-like proteinase, Coronavirus	Artifacts	MeSH	0.16
+3C-like proteinase, Coronavirus	Role	MeSH	0.182
+3C-like proteinase, Coronavirus	Methods	MeSH	0.183
+3C-like proteinase, Coronavirus	Molecular Weight	MeSH	0.189
+3C-like proteinase, Coronavirus	Spectrometry, Fluorescence	MeSH	0.19
+3C-like proteinase, Coronavirus	Databases, Factual	MeSH	0.191
+3C-like proteinase, Coronavirus	Genetic Vectors	MeSH	0.192
+3C-like proteinase, Coronavirus	Nanostructures	MeSH	0.193
+3C-like proteinase, Coronavirus	Mice	MeSH	0.197
+3C-like proteinase, Coronavirus	Protein Biosynthesis	MeSH	0.203
+3C-like proteinase, Coronavirus	Swine	MeSH	0.206
+3C-like proteinase, Coronavirus	Osmolar Concentration	MeSH	0.21
+3C-like proteinase, Coronavirus	Foundations	MeSH	0.219
+3C-like proteinase, Coronavirus	Area Under Curve	MeSH	0.227
+3C-like proteinase, Coronavirus	Cloning, Organism	MeSH	0.23
+3C-like proteinase, Coronavirus	Set (Psychology)	MeSH	0.234
+3C-like proteinase, Coronavirus	Database	MeSH	0.236
+3C-like proteinase, Coronavirus	Birds	MeSH	0.238
+3C-like proteinase, Coronavirus	Mouth	MeSH	0.242
+3C-like proteinase, Coronavirus	Cells, Cultured	MeSH	0.246
+3C-like proteinase, Coronavirus	Comparative Study	MeSH	0.275
+3C-like proteinase, Coronavirus	Architecture	MeSH	0.279
+3C-like proteinase, Coronavirus	Microscopy, Fluorescence	MeSH	0.282
+3C-like proteinase, Coronavirus	Disease Outbreaks	MeSH	0.299
+3C-like proteinase, Coronavirus	Membranes	MeSH	0.306
+3C-like proteinase, Coronavirus	Enzyme Activation	MeSH	0.361
+3C-like proteinase, Coronavirus	Virulence	MeSH	0.372
+3C-like proteinase, Coronavirus	Cricetinae	MeSH	0.394
+3C-like proteinase, Coronavirus	Child	MeSH	0.433
+3C-like proteinase, Coronavirus	Industry	MeSH	0.512
+3C-like proteinase, Coronavirus	Consensus	MeSH	0.563
+3C-like proteinase, Coronavirus	Libraries	MeSH	0.567
+3C-like proteinase, Coronavirus	Chimera	MeSH	0.593
+3C-like proteinase, Coronavirus	Orientation	MeSH	0.598
+3C-like proteinase, Coronavirus	Family Characteristics	MeSH	0.627
+3C-like proteinase, Coronavirus	Time	MeSH	0.629
+3C-like proteinase, Coronavirus	Fees and Charges	MeSH	0.66
+3C-like proteinase, Coronavirus	Biology	MeSH	0.743
+3C-like proteinase, Coronavirus	Chemistry	MeSH	0.792
+3C-like proteinase, Coronavirus	Family	MeSH	0.978
+3C-like proteinase, Coronavirus	Therapeutics	MeSH	1.0
+3C-like proteinase, Coronavirus	Attention	MeSH	1.0
+3C-like proteinase, Coronavirus	Review	MeSH	1.0
+3C-like proteinase, Coronavirus	Aptitude	MeSH	1.0
+3C-like proteinase, Coronavirus	Economics	MeSH	1.0
+3C-like proteinase, Coronavirus	Literature	MeSH	1.0
+3C-like proteinase, Coronavirus	Mortality	MeSH	1.0
+3C-like proteinase, Coronavirus	Temperature	MeSH	1.0
+3C-like proteinase, Coronavirus	Movement	MeSH	1.0
+3C-like proteinase, Coronavirus	Programs	MeSH	1.0
+3C-like proteinase, Coronavirus	Comprehension	MeSH	1.0
+3C-like proteinase, Coronavirus	Alleles	MeSH	1.0
+3C-like proteinase, Coronavirus	Association	MeSH	1.0
+3C-like proteinase, Coronavirus	Bacteria	MeSH	1.0
+3C-like proteinase, Coronavirus	Base Sequence	MeSH	1.0
+3C-like proteinase, Coronavirus	Chromatography, High Pressure Liquid	MeSH	1.0
+3C-like proteinase, Coronavirus	Communication	MeSH	1.0
+3C-like proteinase, Coronavirus	Culture	MeSH	1.0
+3C-like proteinase, Coronavirus	Drug Therapy	MeSH	1.0
+3C-like proteinase, Coronavirus	Environment	MeSH	1.0
+3C-like proteinase, Coronavirus	Fluorescence	MeSH	1.0
+3C-like proteinase, Coronavirus	Pathology	MeSH	1.0
+3C-like proteinase, Coronavirus	Phenotype	MeSH	1.0
+3C-like proteinase, Coronavirus	Public Health	MeSH	1.0
+3C-like proteinase, Coronavirus	Social Control, Formal	MeSH	1.0
+3C-like proteinase, Coronavirus	Software	MeSH	1.0
+3C-like proteinase, Coronavirus	Technology	MeSH	1.0
+3C-like proteinase, Coronavirus	Weights and Measures	MeSH	1.0
+3C-like proteinase, Coronavirus	Work	MeSH	1.0
+3C-like proteinase, Coronavirus	Blotting, Western	MeSH	1.0
+3C-like proteinase, Coronavirus	Knowledge	MeSH	1.0
+3C-like proteinase, Coronavirus	Nature	MeSH	1.0
+3C-like proteinase, Coronavirus	Macrophages	MeSH	1.0
+3C-like proteinase, Coronavirus	Respect	MeSH	1.0

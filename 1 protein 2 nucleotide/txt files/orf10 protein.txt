@@ -1,0 +1,100 @@
+Select seq MT093631.1	Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/WH-09/human/2020/CHN, complete genome	78.6	78.6	100%	1e-15	100.00%	MT093631.1
+Select seq MT049951.1	Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/Yunnan-01/human/2020/CHN, complete genome	78.6	78.6	100%	1e-15	100.00%	MT049951.1
+Select seq MT039890.1	Severe acute respiratory syndrome coronavirus 2 isolate SNU01, complete genome	78.6	78.6	100%	1e-15	100.00%	MT039890.1
+Select seq NC_045512.2	Wuhan seafood market pneumonia virus isolate Wuhan-Hu-1, complete genome	78.6	78.6	100%	1e-15	100.00%	NC_045512.2
+Select seq MT019531.1	Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-03/2019, complete genome	78.6	78.6	100%	1e-15	100.00%	MT019531.1
+Select seq MT019529.1	Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-01/2019, complete genome	78.6	78.6	100%	1e-15	100.00%	MT019529.1
+Select seq MT007544.1	Severe acute respiratory syndrome coronavirus 2 isolate Australia/VIC01/2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MT007544.1
+Select seq MT019532.1	Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-04/2019, complete genome	78.6	78.6	100%	1e-15	100.00%	MT019532.1
+Select seq MT019530.1	Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-02/2019, complete genome	78.6	78.6	100%	1e-15	100.00%	MT019530.1
+Select seq MN996528.1	Severe acute respiratory syndrome coronavirus 2 isolate WIV04, complete genome	78.6	78.6	100%	1e-15	100.00%	MN996528.1
+Select seq MN975262.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV_HKU-SZ-005b_2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MN975262.1
+Select seq MT093571.1	Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/01/human/2020/SWE, complete genome	78.6	78.6	100%	1e-15	100.00%	MT093571.1
+Select seq MT019533.1	Severe acute respiratory syndrome coronavirus 2 isolate BetaCoV/Wuhan/IPBCAMS-WH-05/2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MT019533.1
+Select seq MN994468.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA2/2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MN994468.1
+Select seq MT106054.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-TX1/2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MT106054.1
+Select seq MT106053.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA8/2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MT106053.1
+Select seq MT106052.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA7/2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MT106052.1
+Select seq MT044257.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-IL2/2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MT044257.1
+Select seq MT039888.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-MA1/2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MT039888.1
+Select seq MT027064.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA5/2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MT027064.1
+Select seq MT027062.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA3/2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MT027062.1
+Select seq MN997409.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-AZ1/2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MN997409.1
+Select seq MN994467.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA1/2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MN994467.1
+Select seq MN988668.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV WHU01, complete genome	78.6	78.6	100%	1e-15	100.00%	MN988668.1
+Select seq MN988713.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-IL1/2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MN988713.1
+Select seq MN985325.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-WA1/2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MN985325.1
+Select seq MT039887.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-WI1/2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MT039887.1
+Select seq LC522975.1	Severe acute respiratory syndrome coronavirus 2 2019-nCoV/Japan/TY/WK-521/2020 RNA, complete genome	78.6	78.6	100%	1e-15	100.00%	LC522975.1
+Select seq LC522974.1	Severe acute respiratory syndrome coronavirus 2 2019-nCoV/Japan/TY/WK-501/2020 RNA, complete genome	78.6	78.6	100%	1e-15	100.00%	LC522974.1
+Select seq LC522973.1	Severe acute respiratory syndrome coronavirus 2 2019-nCoV/Japan/TY/WK-012/2020 RNA, complete genome	78.6	78.6	100%	1e-15	100.00%	LC522973.1
+Select seq LC522972.1	Severe acute respiratory syndrome coronavirus 2 2019-nCoV/Japan/KY/V-029/2020 RNA, complete genome	78.6	78.6	100%	1e-15	100.00%	LC522972.1
+Select seq LR757995.1	Wuhan seafood market pneumonia virus genome assembly, chromosome: whole_genome	78.6	78.6	100%	1e-15	100.00%	LR757995.1
+Select seq MT066176.1	Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/NTU02/2020/TWN, complete genome	78.6	78.6	100%	1e-15	100.00%	MT066176.1
+Select seq MT066175.1	Severe acute respiratory syndrome coronavirus 2 isolate SARS-CoV-2/NTU01/2020/TWN, complete genome	78.6	78.6	100%	1e-15	100.00%	MT066175.1
+Select seq LR757996.1	Wuhan seafood market pneumonia virus genome assembly, chromosome: whole_genome	78.6	78.6	100%	1e-15	100.00%	LR757996.1
+Select seq LR757998.1	Wuhan seafood market pneumonia virus genome assembly, chromosome: whole_genome	78.6	78.6	100%	1e-15	100.00%	LR757998.1
+Select seq MT044258.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV/USA-CA6/2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MT044258.1
+Select seq MN996531.1	Severe acute respiratory syndrome coronavirus 2 isolate WIV07, complete genome	78.6	78.6	100%	1e-15	100.00%	MN996531.1
+Select seq MN996530.1	Severe acute respiratory syndrome coronavirus 2 isolate WIV06, complete genome	78.6	78.6	100%	1e-15	100.00%	MN996530.1
+Select seq MN996529.1	Severe acute respiratory syndrome coronavirus 2 isolate WIV05, complete genome	78.6	78.6	100%	1e-15	100.00%	MN996529.1
+Select seq MT020781.1	Severe acute respiratory syndrome coronavirus 2 isolate nCoV-FIN-29-Jan-2020, partial genome	78.6	78.6	100%	1e-15	100.00%	MT020781.1
+Select seq MN938384.1	Severe acute respiratory syndrome coronavirus 2 isolate 2019-nCoV_HKU-SZ-002a_2020, complete genome	78.6	78.6	100%	1e-15	100.00%	MN938384.1
+Select seq MT039873.1	Severe acute respiratory syndrome coronavirus 2 isolate HZ-1, complete genome	78.6	78.6	100%	1e-15	100.00%	MT039873.1
+Select seq MN996527.1	Severe acute respiratory syndrome coronavirus 2 isolate WIV02, complete genome	78.6	78.6	100%	1e-15	100.00%	MN996527.1
+Select seq MT072688.1	Severe acute respiratory syndrome coronavirus 2 isolate SARS0CoV-2/61-TW/human/2020/ NPL, complete genome	78.6	78.6	100%	1e-15	100.00%	MT072688.1
+Select seq MT084071.1	Pangolin coronavirus isolate MP789 genomic sequence	77.0	77.0	100%	3e-15	97.37%	MT084071.1
+Select seq MG772933.1	Bat SARS-like coronavirus isolate bat-SL-CoVZC45, complete genome	76.6	76.6	100%	4e-15	97.37%	MG772933.1
+Select seq MN996532.1	Bat coronavirus RaTG13, complete genome	76.6	76.6	100%	4e-15	97.37%	MN996532.1
+Select seq KY352407.1	Severe acute respiratory syndrome-related coronavirus strain BtKY72, complete genome	67.8	67.8	100%	6e-12	84.21%	KY352407.1
+Select seq FJ882928.1	SARS coronavirus ExoN1 isolate P1pp1, complete genome	66.6	66.6	100%	2e-11	84.21%	FJ882928.1
+Select seq DQ412043.1	Bat SARS coronavirus Rm1, complete genome	66.2	66.2	100%	2e-11	81.58%	DQ412043.1
+Select seq DQ648857.1	Bat coronavirus (BtCoV/279/2005), complete genome	66.2	66.2	100%	2e-11	81.58%	DQ648857.1
+Select seq MK062184.1	SARS coronavirus Urbani isolate icSARS-C7-MA, complete genome	65.5	65.5	100%	4e-11	81.58%	MK062184.1
+Select seq MK062183.1	SARS coronavirus Urbani isolate icSARS-C7, complete genome	65.5	65.5	100%	4e-11	81.58%	MK062183.1
+Select seq KF569996.1	Rhinolophus affinis coronavirus isolate LYRa11, complete genome	65.5	65.5	100%	4e-11	81.58%	KF569996.1
+Select seq AY559083.1	SARS coronavirus Sin3408, complete genome	65.5	65.5	100%	4e-11	81.58%	AY559083.1
+Select seq AY394995.1	SARS coronavirus HSZ-Cc, complete genome	65.5	65.5	100%	4e-11	81.58%	AY394995.1
+Select seq AY394994.1	SARS coronavirus HSZ-Bc, complete genome	65.5	65.5	100%	4e-11	81.58%	AY394994.1
+Select seq AY390556.1	SARS coronavirus GZ02, complete genome	65.5	65.5	100%	4e-11	81.58%	AY390556.1
+Select seq AY278489.2	SARS coronavirus GD01, complete genome	65.5	65.5	100%	4e-11	81.58%	AY278489.2
+Select seq AY313906.1	SARS coronavirus GD69, complete genome	65.5	65.5	100%	4e-11	81.58%	AY313906.1
+Select seq DQ898174.1	SARS coronavirus strain CV7, complete genome	65.5	65.5	100%	4e-11	81.58%	DQ898174.1
+Select seq AY864806.1	SARS coronavirus BJ202, complete genome	65.5	65.5	100%	4e-11	81.58%	AY864806.1
+Select seq AY864805.1	SARS coronavirus BJ162, complete genome	65.5	65.5	100%	4e-11	81.58%	AY864805.1
+Select seq AY274119.3	Severe acute respiratory syndrome-related coronavirus isolate Tor2, complete genome	65.5	65.5	100%	4e-11	81.58%	AY274119.3
+Select seq AY323977.2	SARS coronavirus HSR 1, complete genome	65.5	65.5	100%	4e-11	81.58%	AY323977.2
+Select seq AY351680.1	SARS coronavirus ZMY 1, complete genome	65.5	65.5	100%	4e-11	81.58%	AY351680.1
+Select seq FJ429166.1	Recombinant SARS coronavirus, complete sequence	65.5	65.5	100%	4e-11	81.58%	FJ429166.1
+Select seq DQ640652.1	SARS coronavirus GDH-BJH01, complete genome	65.5	65.5	100%	4e-11	81.58%	DQ640652.1
+Select seq AY357076.1	SARS coronavirus PUMC03, complete genome	65.5	65.5	100%	4e-11	81.58%	AY357076.1
+Select seq AY278487.3	SARS coronavirus BJ02, complete genome	65.5	65.5	100%	4e-11	81.58%	AY278487.3
+Select seq AY654624.1	SARS coronavirus TJF, complete genome	65.5	65.5	100%	4e-11	81.58%	AY654624.1
+Select seq AY278491.2	SARS coronavirus HKU-39849, complete genome	65.5	65.5	100%	4e-11	81.58%	AY278491.2
+Select seq AY310120.1	SARS coronavirus FRA, complete genome	65.5	65.5	100%	4e-11	81.58%	AY310120.1
+Select seq AY304486.1	SARS coronavirus SZ3, complete genome	65.5	65.5	100%	4e-11	81.58%	AY304486.1
+Select seq AY278490.3	SARS coronavirus BJ03, complete genome	65.5	65.5	100%	4e-11	81.58%	AY278490.3
+Select seq AY545919.1	SARS coronavirus isolate CFB/SZ/94/03, complete genome	65.5	65.5	100%	4e-11	81.58%	AY545919.1
+Select seq AY545917.1	SARS coronavirus isolate HC/GZ/81/03, complete genome	65.5	65.5	100%	4e-11	81.58%	AY545917.1
+Select seq AY485278.1	SARS coronavirus Sino3-11, complete genome	65.5	65.5	100%	4e-11	81.58%	AY485278.1
+Select seq AY485277.1	SARS coronavirus Sino1-11, complete genome	65.5	65.5	100%	4e-11	81.58%	AY485277.1
+Select seq AY394998.1	SARS coronavirus LC1, complete genome	65.5	65.5	100%	4e-11	81.58%	AY394998.1
+Select seq AY394993.1	SARS coronavirus HGZ8L2, complete genome	65.5	65.5	100%	4e-11	81.58%	AY394993.1
+Select seq AY394992.1	SARS coronavirus HZS2-C, complete genome	65.5	65.5	100%	4e-11	81.58%	AY394992.1
+Select seq AY394991.1	SARS coronavirus HZS2-Fc, complete genome	65.5	65.5	100%	4e-11	81.58%	AY394991.1
+Select seq AY394990.1	SARS coronavirus HZS2-E, complete genome	65.5	65.5	100%	4e-11	81.58%	AY394990.1
+Select seq AY394989.1	SARS coronavirus HZS2-D, complete genome	65.5	65.5	100%	4e-11	81.58%	AY394989.1
+Select seq AY345988.1	SARS coronavirus CUHK-AG03, complete genome	65.5	65.5	100%	4e-11	81.58%	AY345988.1
+Select seq AY345986.1	SARS coronavirus CUHK-AG01, complete genome	65.5	65.5	100%	4e-11	81.58%	AY345986.1
+Select seq AY357075.1	SARS coronavirus PUMC02, complete genome	65.5	65.5	100%	4e-11	81.58%	AY357075.1
+Select seq AY350750.1	SARS coronavirus PUMC01, complete genome	65.5	65.5	100%	4e-11	81.58%	AY350750.1
+Select seq AY282752.2	SARS coronavirus CUHK-Su10, complete genome	65.5	65.5	100%	4e-11	81.58%	AY282752.2
+Select seq AY278554.2	SARS coronavirus CUHK-W1, complete genome	65.5	65.5	100%	4e-11	81.58%	AY278554.2
+Select seq AY545918.1	SARS coronavirus isolate HC/GZ/32/03, complete genome	65.5	65.5	100%	4e-11	81.58%	AY545918.1
+Select seq AY394984.1	SARS coronavirus HSZ-A, partial genome	65.5	65.5	100%	4e-11	81.58%	AY394984.1
+Select seq EU371560.1	SARS coronavirus BJ182a, complete genome	65.5	65.5	100%	4e-11	81.58%	EU371560.1
+Select seq EU371559.1	SARS coronavirus ZJ02, complete genome	65.5	65.5	100%	4e-11	81.58%	EU371559.1
+Select seq AY515512.1	SARS coronavirus HC/SZ/61/03, complete genome	65.5	65.5	100%	4e-11	81.58%	AY515512.1
+Select seq AY304488.1	SARS coronavirus SZ16, complete genome	65.5	65.5	100%	4e-11	81.58%	AY304488.1
+Select seq AY279354.2	SARS coronavirus BJ04, complete genome	65.5	65.5	100%	4e-11	81.58%	AY279354.2
+Select seq AY613949.1	SARS coronavirus PC4-136, complete genome	65.5	65.5	100%	4e-11	81.58%	AY613949.1

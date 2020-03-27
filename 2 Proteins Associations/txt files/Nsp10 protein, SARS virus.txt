@@ -1,0 +1,273 @@
+Selection	Association Name	Association Type	Significance
+Nsp10 protein, SARS virus	Cyclophosphamide/doxorubicin/prednisone protocol	Procedure	4.37E-4
+Nsp10 protein, SARS virus	Cisplatin/cyclophosphamide/doxorubicin protocol	Procedure	5.22E-4
+Nsp10 protein, SARS virus	Reverse genetics	Procedure	0.0012
+Nsp10 protein, SARS virus	Doxorubicin/semustine/streptozocin protocol	Procedure	0.00358
+Nsp10 protein, SARS virus	Protein interaction mapping	Procedure	0.00483
+Nsp10 protein, SARS virus	Two-hybrid system techniques	Procedure	0.00507
+Nsp10 protein, SARS virus	Mutagenesis	Procedure	0.00774
+Nsp10 protein, SARS virus	Zinc measurement	Procedure	0.00823
+Nsp10 protein, SARS virus	Removal technique	Procedure	0.0142
+Nsp10 protein, SARS virus	Total protein measurement	Procedure	0.0173
+Nsp10 protein, SARS virus	Excision	Procedure	0.0184
+Nsp10 protein, SARS virus	Crystal present or absent (lab procedure)	Procedure	0.0233
+Nsp10 protein, SARS virus	Statistical cluster	Procedure	0.0247
+Nsp10 protein, SARS virus	Cell culture techniques	Procedure	0.0515
+Nsp10 protein, SARS virus	Iontophoresis	Procedure	0.0904
+Nsp10 protein, SARS virus	Isolation aspects	Procedure	0.0907
+Nsp10 protein, SARS virus	Isolation procedure	Procedure	0.0912
+Nsp10 protein, SARS virus	Analysis	Procedure	0.115
+Nsp10 protein, SARS virus	Determination aspects	Procedure	0.194
+Nsp10 protein, SARS virus	Prevention study	Procedure	0.205
+Nsp10 protein, SARS virus	Efficacy study	Procedure	0.419
+Nsp10 protein, SARS virus	Laser-induced fluorescence endoscopy	Procedure	0.436
+Nsp10 protein, SARS virus	Albumin/globulin ratio	Procedure	0.694
+Nsp10 protein, SARS virus	DICOM study	Procedure	1.0
+Nsp10 protein, SARS virus	Study	Procedure	1.0
+Nsp10 protein, SARS virus	Clinical trials	Procedure	1.0
+Nsp10 protein, SARS virus	Clinical research	Procedure	1.0
+Nsp10 protein, SARS virus	Scientific study	Procedure	1.0
+Nsp10 protein, SARS virus	exoribonuclease activity	Molecular function	2.91E-5
+Nsp10 protein, SARS virus	RNA binding	Molecular function	0.00254
+Nsp10 protein, SARS virus	protein binding	Molecular function	0.0119
+Nsp10 protein, SARS virus	Severe Acute Respiratory Syndrome	Disease	2.46E-5
+Nsp10 protein, SARS virus	Coronavirus Infections	Disease	0.00172
+Nsp10 protein, SARS virus	Hepatitis	Disease	0.00726
+Nsp10 protein, SARS virus	Infection	Disease	0.888
+Nsp10 protein, SARS virus	Disease	Disease	1.0
+Nsp10 protein, SARS virus	Nsp16 protein, SARS virus	Chemical	8.28E-8
+Nsp10 protein, SARS virus	nsp14 protein, SARS coronavirus	Chemical	2.48E-7
+Nsp10 protein, SARS virus	S-adenosyl-L-methionine-dependent N-methyltransferase	Chemical	4.31E-6
+Nsp10 protein, SARS virus	methylcobalamin-coenzyme M methyltransferase	Chemical	8.28E-6
+Nsp10 protein, SARS virus	m7GpppA	Chemical	8.94E-6
+Nsp10 protein, SARS virus	RNA 2'-O-methyltransferase	Chemical	1.03E-5
+Nsp10 protein, SARS virus	Viral Nonstructural Proteins	Chemical	3.74E-5
+Nsp10 protein, SARS virus	Exoribonucleases	Chemical	4.17E-5
+Nsp10 protein, SARS virus	Methyltransferases	Chemical	8.29E-5
+Nsp10 protein, SARS virus	RNA Cap Analogs	Chemical	9.51E-5
+Nsp10 protein, SARS virus	Sinefungin	Chemical	9.57E-5
+Nsp10 protein, SARS virus	RNA Caps	Chemical	1.98E-4
+Nsp10 protein, SARS virus	Polyproteins	Chemical	4.8E-4
+Nsp10 protein, SARS virus	Exonucleases	Chemical	9.15E-4
+Nsp10 protein, SARS virus	Double-Stranded RNA	Chemical	0.00101
+Nsp10 protein, SARS virus	RNA, Viral	Chemical	0.00111
+Nsp10 protein, SARS virus	Replicon	Chemical	0.00177
+Nsp10 protein, SARS virus	Archaeal Proteins	Chemical	0.00191
+Nsp10 protein, SARS virus	RNA-Directed RNA Polymerase	Chemical	0.00203
+Nsp10 protein, SARS virus	Ribonucleic Acid	Chemical	0.00235
+Nsp10 protein, SARS virus	Methyltransferase	Chemical	0.00491
+Nsp10 protein, SARS virus	Interferon Type I	Chemical	0.00603
+Nsp10 protein, SARS virus	RNA Polymerase	Chemical	0.00789
+Nsp10 protein, SARS virus	DNA-Directed RNA Polymerases	Chemical	0.0103
+Nsp10 protein, SARS virus	Nucleotide	Chemical	0.0108
+Nsp10 protein, SARS virus	RNA Binding Protein	Chemical	0.0118
+Nsp10 protein, SARS virus	Messenger RNA	Chemical	0.0135
+Nsp10 protein, SARS virus	Protein	Chemical	0.0143
+Nsp10 protein, SARS virus	Transferase	Chemical	0.0149
+Nsp10 protein, SARS virus	Alanine Aminotransferase 1	Chemical	0.0176
+Nsp10 protein, SARS virus	Luciferase	Chemical	0.0183
+Nsp10 protein, SARS virus	Enzyme	Chemical	0.0205
+Nsp10 protein, SARS virus	Interferon	Chemical	0.0246
+Nsp10 protein, SARS virus	Antiviral Agent	Chemical	0.0298
+Nsp10 protein, SARS virus	Peptides	Chemical	0.0311
+Nsp10 protein, SARS virus	Chromatin	Chemical	0.0355
+Nsp10 protein, SARS virus	Enzyme Inhibitors	Chemical	0.0501
+Nsp10 protein, SARS virus	Acid	Chemical	0.069
+Nsp10 protein, SARS virus	Ligands	Chemical	0.0796
+Nsp10 protein, SARS virus	Molecule	Chemical	0.0965
+Nsp10 protein, SARS virus	Ion	Chemical	0.154
+Nsp10 protein, SARS virus	Amino Acid	Chemical	0.218
+Nsp10 protein, SARS virus	Pharmaceutical Preparations	Chemical	0.407
+Nsp10 protein, SARS virus	viral replication complex	Anatomy	5.37E-5
+Nsp10 protein, SARS virus	protein complex location	Anatomy	0.00115
+Nsp10 protein, SARS virus	Crystal - human material	Anatomy	0.00273
+Nsp10 protein, SARS virus	Fingers	Anatomy	0.00316
+Nsp10 protein, SARS virus	Groove	Anatomy	0.00968
+Nsp10 protein, SARS virus	nucleic acid location	Anatomy	0.0138
+Nsp10 protein, SARS virus	protein location	Anatomy	0.0174
+Nsp10 protein, SARS virus	Tail	Anatomy	0.0275
+Nsp10 protein, SARS virus	chromatin location	Anatomy	0.0304
+Nsp10 protein, SARS virus	Cytoplasm	Anatomy	0.0589
+Nsp10 protein, SARS virus	viral nucleocapsid location	Anatomy	0.095
+Nsp10 protein, SARS virus	Cell Line	Anatomy	0.404
+Nsp10 protein, SARS virus	Cells	Anatomy	1.0
+Nsp10 protein, SARS virus	Canard B	Biomedical expert	0.9048
+Nsp10 protein, SARS virus	Imbert I	Biomedical expert	0.9048
+Nsp10 protein, SARS virus	Decroly E	Biomedical expert	0.9048
+Nsp10 protein, SARS virus	Bouvet M	Biomedical expert	0.9231
+Nsp10 protein, SARS virus	Gluais L	Biomedical expert	0.9231
+Nsp10 protein, SARS virus	Sun Y	Biomedical expert	0.9231
+Nsp10 protein, SARS virus	Jin X	Biomedical expert	0.9418
+Nsp10 protein, SARS virus	Chen Y	Biomedical expert	0.9418
+Nsp10 protein, SARS virus	Guo D	Biomedical expert	0.9418
+Nsp10 protein, SARS virus	Wu A	Biomedical expert	0.9418
+Nsp10 protein, SARS virus	Ferron F	Biomedical expert	0.9418
+Nsp10 protein, SARS virus	Bricogne G	Biomedical expert	0.9608
+Nsp10 protein, SARS virus	Papageorgiou N	Biomedical expert	0.9608
+Nsp10 protein, SARS virus	Ke M	Biomedical expert	0.9608
+Nsp10 protein, SARS virus	Debarnot C	Biomedical expert	0.9608
+Nsp10 protein, SARS virus	Ahola T	Biomedical expert	0.9608
+Nsp10 protein, SARS virus	Lescar J	Biomedical expert	0.9608
+Nsp10 protein, SARS virus	Su C	Biomedical expert	0.9608
+Nsp10 protein, SARS virus	Subissi L	Biomedical expert	0.9608
+Nsp10 protein, SARS virus	Wang Y	Biomedical expert	0.9608
+Nsp10 protein, SARS virus	Lecine P	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Brooun A	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Vonrhein C	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Morelli X	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Rao Z	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Ortiz-Lombardía M	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Joseph JS	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Zeng C	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Lou Z	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Drosten C	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Sharff A	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Posthuma CC	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Coutard B	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Neuman BW	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Yadav MK	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Saikatendu KS	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Betzi S	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Pfefferle S	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Lugari A	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Pan JA	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Sévajol M	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Zevenhoven JC	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Le NTT	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Silveira De Morais AT	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Wu H	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Stevens RC	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Kuhn P	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Bernard S	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Shaw N	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Velasquez J	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Wu L	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Liang Y	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Tien P	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Griffith M	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Subramanian V	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Wang J	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Xu S	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Buchmeier MJ	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Ma Y	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Zhang R	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Liu X	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Xu L	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Ma X	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Zhang Z	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Gao Y	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Moy K	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Tao J	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Yang Z	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Ge X	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Guillemot JC	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Shi Z	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Yan L	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Pan R	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Snijder EJ	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	Varlet I	Biomedical expert	0.9802
+Nsp10 protein, SARS virus	SH2D3A	Gene/Protein	1.89E-4
+Nsp10 protein, SARS virus	TRAF3	Gene/Protein	3.09E-4
+Nsp10 protein, SARS virus	RBMS3	Gene/Protein	0.00124
+Nsp10 protein, SARS virus	PTBP1	Gene/Protein	0.00135
+Nsp10 protein, SARS virus	7-methylguanosine mRNA capping	Biological process	2.33E-5
+Nsp10 protein, SARS virus	RNA capping	Biological process	4.37E-5
+Nsp10 protein, SARS virus	type I interferon production	Biological process	2.51E-4
+Nsp10 protein, SARS virus	RNA processing	Biological process	3.98E-4
+Nsp10 protein, SARS virus	RNA catabolic process	Biological process	6.37E-4
+Nsp10 protein, SARS virus	RNA biosynthetic process	Biological process	0.00107
+Nsp10 protein, SARS virus	chromatin remodeling	Biological process	0.00214
+Nsp10 protein, SARS virus	bioluminescence	Biological process	0.00294
+Nsp10 protein, SARS virus	mismatch repair	Biological process	0.00302
+Nsp10 protein, SARS virus	detoxification	Biological process	0.00971
+Nsp10 protein, SARS virus	innate immune response	Biological process	0.011
+Nsp10 protein, SARS virus	translation	Biological process	0.0156
+Nsp10 protein, SARS virus	protein folding	Biological process	0.0166
+Nsp10 protein, SARS virus	methylation	Biological process	0.0351
+Nsp10 protein, SARS virus	pathogenesis	Biological process	0.167
+Nsp10 protein, SARS virus	metabolic process	Biological process	0.178
+Nsp10 protein, SARS virus	signal transduction	Biological process	0.204
+Nsp10 protein, SARS virus	Zinc	Food	0.0102
+Nsp10 protein, SARS virus	Methionine	Food	0.0172
+Nsp10 protein, SARS virus	Protein	Food	0.0176
+Nsp10 protein, SARS virus	Magnesium	Food	0.0341
+Nsp10 protein, SARS virus	Coronavirus	MeSH	3.61E-5
+Nsp10 protein, SARS virus	Nidovirales	MeSH	8.61E-5
+Nsp10 protein, SARS virus	Murine hepatitis virus	MeSH	2.14E-4
+Nsp10 protein, SARS virus	Coronavirus, Feline	MeSH	2.23E-4
+Nsp10 protein, SARS virus	Zinc Fingers	MeSH	6.31E-4
+Nsp10 protein, SARS virus	RNA Stability	MeSH	6.47E-4
+Nsp10 protein, SARS virus	RNA Viruses	MeSH	7.91E-4
+Nsp10 protein, SARS virus	Crystallography, X-Ray	MeSH	0.00128
+Nsp10 protein, SARS virus	Base Pair Mismatch	MeSH	0.00147
+Nsp10 protein, SARS virus	Virus Replication	MeSH	0.00153
+Nsp10 protein, SARS virus	Protein Domains	MeSH	0.00178
+Nsp10 protein, SARS virus	Replicon	MeSH	0.00265
+Nsp10 protein, SARS virus	Protein Interaction Maps	MeSH	0.00268
+Nsp10 protein, SARS virus	RNA Processing, Post-Transcriptional	MeSH	0.00314
+Nsp10 protein, SARS virus	DNA Mismatch Repair	MeSH	0.00318
+Nsp10 protein, SARS virus	Chromatin Assembly and Disassembly	MeSH	0.00378
+Nsp10 protein, SARS virus	Protein Interaction Domains and Motifs	MeSH	0.00402
+Nsp10 protein, SARS virus	Catalytic Domain	MeSH	0.00434
+Nsp10 protein, SARS virus	Protein Structure, Secondary	MeSH	0.00502
+Nsp10 protein, SARS virus	Models, Molecular	MeSH	0.00515
+Nsp10 protein, SARS virus	Protein Conformation, beta-Strand	MeSH	0.00533
+Nsp10 protein, SARS virus	Open Reading Frames	MeSH	0.00547
+Nsp10 protein, SARS virus	Mutation Rate	MeSH	0.00562
+Nsp10 protein, SARS virus	Crystallization	MeSH	0.00583
+Nsp10 protein, SARS virus	Protein Biosynthesis	MeSH	0.00676
+Nsp10 protein, SARS virus	Livestock	MeSH	0.00723
+Nsp10 protein, SARS virus	Viruses	MeSH	0.00784
+Nsp10 protein, SARS virus	Protein Structure, Tertiary	MeSH	0.00923
+Nsp10 protein, SARS virus	Genome	MeSH	0.0128
+Nsp10 protein, SARS virus	Life Cycle Stages	MeSH	0.0137
+Nsp10 protein, SARS virus	Protein Conformation	MeSH	0.0145
+Nsp10 protein, SARS virus	Molecular Sequence Data	MeSH	0.0147
+Nsp10 protein, SARS virus	Eukaryota	MeSH	0.0187
+Nsp10 protein, SARS virus	Immunity, Innate	MeSH	0.0263
+Nsp10 protein, SARS virus	Mutation	MeSH	0.0331
+Nsp10 protein, SARS virus	Architecture	MeSH	0.0353
+Nsp10 protein, SARS virus	Genetics	MeSH	0.0369
+Nsp10 protein, SARS virus	Sequence Homology, Amino Acid	MeSH	0.0377
+Nsp10 protein, SARS virus	Cluster Analysis	MeSH	0.0422
+Nsp10 protein, SARS virus	Virulence	MeSH	0.0433
+Nsp10 protein, SARS virus	Catalysis	MeSH	0.0455
+Nsp10 protein, SARS virus	Amino Acid Sequence	MeSH	0.0473
+Nsp10 protein, SARS virus	Association	MeSH	0.058
+Nsp10 protein, SARS virus	Cloning, Molecular	MeSH	0.0646
+Nsp10 protein, SARS virus	Plasmids	MeSH	0.0649
+Nsp10 protein, SARS virus	Immunity	MeSH	0.0699
+Nsp10 protein, SARS virus	Role	MeSH	0.0841
+Nsp10 protein, SARS virus	Work	MeSH	0.0882
+Nsp10 protein, SARS virus	Escherichia coli	MeSH	0.104
+Nsp10 protein, SARS virus	Set (Psychology)	MeSH	0.111
+Nsp10 protein, SARS virus	Tissue Donors	MeSH	0.113
+Nsp10 protein, SARS virus	Transfer (Psychology)	MeSH	0.128
+Nsp10 protein, SARS virus	Phenotype	MeSH	0.258
+Nsp10 protein, SARS virus	Metabolism	MeSH	0.274
+Nsp10 protein, SARS virus	Knowledge	MeSH	0.339
+Nsp10 protein, SARS virus	Social Control, Formal	MeSH	0.426
+Nsp10 protein, SARS virus	Paper	MeSH	0.472
+Nsp10 protein, SARS virus	Family	MeSH	0.608
+Nsp10 protein, SARS virus	Sensitivity and Specificity	MeSH	0.968
+Nsp10 protein, SARS virus	Humans	MeSH	1.0
+Nsp10 protein, SARS virus	Genes	MeSH	1.0
+Nsp10 protein, SARS virus	Economics	MeSH	1.0
+Nsp10 protein, SARS virus	Rats	MeSH	1.0
+Nsp10 protein, SARS virus	Mice	MeSH	1.0
+Nsp10 protein, SARS virus	Animals	MeSH	1.0
+Nsp10 protein, SARS virus	viral replication complex	Cellular component	5.13E-5
+Nsp10 protein, SARS virus	protein complex	Cellular component	0.00114
+Nsp10 protein, SARS virus	chromatin	Cellular component	0.0355
+Nsp10 protein, SARS virus	cytoplasm	Cellular component	0.0586
+Nsp10 protein, SARS virus	cell	Cellular component	1.0
+Nsp10 protein, SARS virus	Hexatantalum Dodecabromide	Drug	3.31E-7
+Nsp10 protein, SARS virus	Carcinoembryonic Antigen Peptide 1	Drug	2.95E-5
+Nsp10 protein, SARS virus	S-Adenosylmethionine	Drug	8.65E-4
+Nsp10 protein, SARS virus	Ribose	Drug	0.00334
+Nsp10 protein, SARS virus	RIBAVIRIN	Drug	0.00562
+Nsp10 protein, SARS virus	Zinc	Drug	0.0102
+Nsp10 protein, SARS virus	Guanine	Drug	0.0129
+Nsp10 protein, SARS virus	L-Methionine	Drug	0.0169
+Nsp10 protein, SARS virus	Magnesium	Drug	0.0331
+Nsp10 protein, SARS virus	ADENOSINE	Drug	0.0333
